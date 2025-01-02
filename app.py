@@ -1,0 +1,79 @@
+from flask import Flask, render_template, request, redirect, url_for
+import os
+import random
+
+app = Flask(__name__)
+
+# Directories containing images and text files
+IMAGE_FOLDER = 'static/images'
+TEXT_FOLDER = 'static/text'
+USER_INPUT_FOLDER = 'user_input'
+os.makedirs(IMAGE_FOLDER, exist_ok=True)
+os.makedirs(TEXT_FOLDER, exist_ok=True)
+os.makedirs(USER_INPUT_FOLDER, exist_ok=True)
+
+app.config['IMAGE_FOLDER'] = IMAGE_FOLDER
+app.config['TEXT_FOLDER'] = TEXT_FOLDER
+app.config['USER_INPUT_FOLDER'] = USER_INPUT_FOLDER
+
+@app.route('/')
+def home():
+    # Get a list of all image files in the IMAGE_FOLDER
+    image_files = [f for f in os.listdir(app.config['IMAGE_FOLDER']) if f.endswith(('jpg', 'png', 'jpeg', 'gif'))]
+
+    if not image_files:
+        return "No images available. Please upload an image."
+
+    # Select a random image
+    selected_image = random.choice(image_files)
+
+    image_id = selected_image.rsplit('.', 1)[0]
+    # Find the corresponding text file
+    text_file = image_id + '.txt'  # Replace the image extension with .txt
+    text_path = os.path.join(app.config['TEXT_FOLDER'], text_file)
+
+    # Read the text content (if the file exists)
+    if os.path.exists(text_path):
+        with open(text_path, 'r') as f:
+            text_content = f.read()
+    else:
+        text_content = "No description available."
+
+    # Pass the selected image, text content, and image_id to the template
+    return render_template('index.html', 
+                           image_path=url_for('static', filename=f'images/{selected_image}'), 
+                           text_content=text_content,
+                           image_id=image_id)
+
+@app.route('/submit', methods=['POST'])
+def handle_user_input():
+    # Get user input from the form
+    user_input = request.form.get('user_input', '')
+    # Get the image_id from the hidden form field
+    image_id = request.form.get('image_id', '')
+
+    # Save user input to a text file
+    user_input_path = os.path.join(app.config['USER_INPUT_FOLDER'], f'{image_id}.txt')
+    with open(user_input_path, 'a') as f:
+        f.write(f"{user_input}\n")
+
+    # Redirect to the home route to display a new random image and text
+    return redirect(url_for('home'))
+
+@app.route('/upload', methods=['GET', 'POST'])
+def upload_image():
+    if request.method == 'POST':
+        if 'image' not in request.files:
+            return "No file part"
+        file = request.files['image']
+        if file.filename == '':
+            return "No selected file"
+        if file and file.filename.lower().endswith(('jpg', 'png', 'jpeg', 'gif')):
+            filename = file.filename
+            file.save(os.path.join(app.config['IMAGE_FOLDER'], filename))
+            return redirect(url_for('home'))
+    return render_template('upload.html')
+
+if __name__ == '__main__':
+    app.run(debug=True)
+
