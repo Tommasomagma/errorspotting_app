@@ -1,8 +1,27 @@
 from flask import Flask, render_template, request, redirect, url_for
 import os
 import random
+import psycopg2
 
 app = Flask(__name__)
+
+DATABASE_URL = os.getenv("DATABASE_URL")
+
+def get_db_connection():
+    conn = psycopg2.connect(DATABASE_URL, sslmode='require')
+    return conn
+
+conn = get_db_connection()
+with conn.cursor() as cur:
+    cur.execute("""
+        CREATE TABLE IF NOT EXISTS user_inputs (
+            id SERIAL PRIMARY KEY,
+            input TEXT NOT NULL
+        )
+    """)
+    conn.commit()
+conn.close()
+
 
 # Directories containing images and text files
 IMAGE_FOLDER = 'static/images'
@@ -53,9 +72,15 @@ def handle_user_input():
     image_id = request.form.get('image_id', '')
 
     # Save user input to a text file
-    user_input_path = os.path.join(app.config['USER_INPUT_FOLDER'], f'{image_id}.txt')
-    with open(user_input_path, 'a') as f:
-        f.write(f"{user_input}\n")
+    # user_input_path = os.path.join(app.config['USER_INPUT_FOLDER'], f'{image_id}.txt')
+    # with open(user_input_path, 'a') as f:
+    #     f.write(f"{user_input}\n")
+
+    conn = get_db_connection()
+    with conn.cursor() as cur:
+        cur.execute("INSERT INTO user_inputs (input) VALUES (%s)", (user_input,))
+        conn.commit()
+    conn.close()
 
     # Redirect to the home route to display a new random image and text
     return redirect(url_for('home'))
