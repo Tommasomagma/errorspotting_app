@@ -5,7 +5,7 @@ import psycopg2
 
 app = Flask(__name__)
 
-DATABASE_URL = os.getenv("DATABASE_URL")
+DATABASE_URL = "postgresql://errorspotting_data_user:XRTOlLOmzvAZJi1PEvlH6kYZi1icZEly@dpg-ctr8sol2ng1s73esvf40-a.frankfurt-postgres.render.com/errorspotting_data"
 
 def get_db_connection():
     conn = psycopg2.connect(DATABASE_URL, sslmode='require')
@@ -21,7 +21,6 @@ with conn.cursor() as cur:
     """)
     conn.commit()
 conn.close()
-
 
 # Directories containing images and text files
 IMAGE_FOLDER = 'static/images'
