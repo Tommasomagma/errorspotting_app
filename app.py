@@ -14,7 +14,7 @@ def get_db_connection():
 conn = get_db_connection()
 with conn.cursor() as cur:
     cur.execute("""
-        CREATE TABLE IF NOT EXISTS user_inputs (
+        CREATE TABLE IF NOT EXISTS user_inputs_test (
             id SERIAL PRIMARY KEY,
             input TEXT NOT NULL
         )
@@ -69,10 +69,12 @@ def home():
 def handle_user_input():
     user_input = request.form.get('user_input', '')
     image_id = request.form.get('image_id', '')
+
+    final_input = f'{image_id}:{user_input}'
     
     conn = get_db_connection()
     with conn.cursor() as cur:
-        cur.execute("INSERT INTO user_inputs (input) VALUES (%s)", (user_input,))
+        cur.execute("INSERT INTO user_inputs (input) VALUES (%s)", (final_input,))
         conn.commit()
         
         # Verify the insertion
