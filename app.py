@@ -5,7 +5,7 @@ import psycopg2
 
 app = Flask(__name__)
 
-DATABASE_URL = "postgresql://errorspotting_data_user:XRTOlLOmzvAZJi1PEvlH6kYZi1icZEly@dpg-ctr8sol2ng1s73esvf40-a.frankfurt-postgres.render.com/errorspotting_data"
+DATABASE_URL = "postgresql://errorspotting_data_user:XRTOlLOmzvAZJi1PEvlH6kYZi1icZEly@dpg-ctr8sol2ng1s73esvf40-a/errorspotting_data "
 
 def get_db_connection():
     conn = psycopg2.connect(DATABASE_URL, sslmode='require')
@@ -20,6 +20,7 @@ with conn.cursor() as cur:
         )
     """)
     conn.commit()
+print('TABLE CREATED')
 conn.close()
 
 # Directories containing images and text files
@@ -63,26 +64,25 @@ def home():
                            text_content=text_content,
                            image_id=image_id)
 
+
 @app.route('/submit', methods=['POST'])
 def handle_user_input():
-    # Get user input from the form
     user_input = request.form.get('user_input', '')
-    # Get the image_id from the hidden form field
     image_id = request.form.get('image_id', '')
-
-    # Save user input to a text file
-    # user_input_path = os.path.join(app.config['USER_INPUT_FOLDER'], f'{image_id}.txt')
-    # with open(user_input_path, 'a') as f:
-    #     f.write(f"{user_input}\n")
-
+    
     conn = get_db_connection()
     with conn.cursor() as cur:
         cur.execute("INSERT INTO user_inputs (input) VALUES (%s)", (user_input,))
         conn.commit()
+        
+        # Verify the insertion
+        cur.execute("SELECT * FROM user_inputs ORDER BY id DESC LIMIT 1")
+        result = cur.fetchone()
+        print(f"Last inserted row: {result}")
+    
     conn.close()
-
-    # Redirect to the home route to display a new random image and text
     return redirect(url_for('home'))
+
 
 @app.route('/upload', methods=['GET', 'POST'])
 def upload_image():
@@ -97,6 +97,15 @@ def upload_image():
             file.save(os.path.join(app.config['IMAGE_FOLDER'], filename))
             return redirect(url_for('home'))
     return render_template('upload.html')
+
+@app.route('/view_inputs')
+def view_inputs():
+    conn = get_db_connection()
+    with conn.cursor() as cur:
+        cur.execute("SELECT * FROM user_inputs")
+        inputs = cur.fetchall()
+    conn.close()
+    return render_template('view_inputs.html', inputs=inputs)
 
 if __name__ == '__main__':
     app.run(debug=True)
