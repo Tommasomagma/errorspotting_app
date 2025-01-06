@@ -24,15 +24,19 @@ print('TABLE CREATED')
 conn.close()
 
 # Directories containing images and text files
-IMAGE_FOLDER = 'static/images'
-TEXT_FOLDER = 'static/text'
+IMAGE_FOLDER = 'static/image'
+PROBLEM_FOLDER = 'static/text/problem'
+CORRECT_FOLDER = 'static/text/correct'
+ANSWER_FOLDER = 'static/text/answer'
 USER_INPUT_FOLDER = 'user_input'
 os.makedirs(IMAGE_FOLDER, exist_ok=True)
-os.makedirs(TEXT_FOLDER, exist_ok=True)
+os.makedirs(PROBLEM_FOLDER, exist_ok=True)
 os.makedirs(USER_INPUT_FOLDER, exist_ok=True)
 
 app.config['IMAGE_FOLDER'] = IMAGE_FOLDER
-app.config['TEXT_FOLDER'] = TEXT_FOLDER
+app.config['PROBLEM_FOLDER'] = PROBLEM_FOLDER
+app.config['CORRECT_FOLDER'] = CORRECT_FOLDER
+app.config['ANSWER_FOLDER'] = ANSWER_FOLDER
 app.config['USER_INPUT_FOLDER'] = USER_INPUT_FOLDER
 
 @app.route('/')
@@ -47,20 +51,45 @@ def home():
     selected_image = random.choice(image_files)
 
     image_id = selected_image.rsplit('.', 1)[0]
+    # Remove 'image_' prefix from the image ID if it exists
+    if image_id.startswith('image_'):
+        image_id = image_id[6:]  # Remove first 6 characters ('image_')
     # Find the corresponding text file
-    text_file = image_id + '.txt'  # Replace the image extension with .txt
-    text_path = os.path.join(app.config['TEXT_FOLDER'], text_file)
+    problem_file = f'problem_{image_id}.txt'  # Replace the image extension with .txt
+    problem_path = os.path.join(app.config['PROBLEM_FOLDER'], problem_file)
+
+    correct_file = f'correct_{image_id}.txt'  # Replace the image extension with .txt
+    correct_path = os.path.join(app.config['CORRECT_FOLDER'], correct_file)
+
+    answer_file = f'answer_{image_id}.txt'  # Replace the image extension with .txt
+    answer_path = os.path.join(app.config['ANSWER_FOLDER'], answer_file)
 
     # Read the text content (if the file exists)
-    if os.path.exists(text_path):
-        with open(text_path, 'r') as f:
-            text_content = f.read()
+    if os.path.exists(problem_path):
+        with open(problem_path, 'r') as f:
+            problem_content = f.read()
     else:
-        text_content = "No description available."
+        problem_content = "NONE"
+
+    # Read the text content (if the file exists)
+    if os.path.exists(correct_path):
+        with open(correct_path, 'r') as f:
+            correct_content = f.read()
+    else:
+        correct_content = "NONE"
+
+    # Read the text content (if the file exists)
+    if os.path.exists(answer_path):
+        with open(answer_path, 'r') as f:
+            answer_content = f.read()
+    else:
+        answer_content = "NONE"
+
+    text_content = f'Description: {problem_content}\nCorrect answer: {correct_content}\nSubmitted answer: {answer_content}'
 
     # Pass the selected image, text content, and image_id to the template
     return render_template('index.html', 
-                           image_path=url_for('static', filename=f'images/{selected_image}'), 
+                           image_path=url_for('static', filename=f'image/{selected_image}'), 
                            text_content=text_content,
                            image_id=image_id)
 
