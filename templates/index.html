@@ -15,39 +15,45 @@
         }
 
         .image {
-            width: 600px; /* Increase or decrease as desired */
+            width: 550px; /* Increase or decrease as desired */
             height: auto;
             display: block;
+            padding: 10px;
             margin: 0 auto;
         }
 
         .text {
+            width: 550px;
+            height: auto;
+            display: block;
             margin-top: 10px;
+            padding: 10px;
             font-size: 18px;
             color: #333;
         }
 
         form {
-            margin-top: 20px;
+            width: 550px;
+            height: auto;
+            display: block;
+            padding: 10px;
         }
     </style>
 </head>
 <body>
     <!-- Display the text content -->
-    <div class="text">
+    <div class="text" style="border: 3px solid black; margin: 0 auto;">
         {{ problem_content }}
     </div>
-    <div class="text">
-        {{ correct_content }}
-    </div>
-    <div class="text">
+    <div class="text" style="border: 3px solid black; margin: 0 auto;">
         {{ answer_content }}
     </div>
 
     <!-- Display the random image -->
-    <img src="{{ image_path }}" alt="Random Image" class="image"><br><br>
+    <img src="{{ image_path }}" alt="Random Image" class="image" style="border: 3px solid black;">
 
     <!-- Form to accept user input -->
+    <div class="text" style="border: 3px solid black; margin: 0 auto;">
     <form action="/submit" method="POST">
         <input type="hidden" name="image_id" value="{{ image_id }}">
 
@@ -60,7 +66,14 @@
             <input type="text" name="end_input" id="end_input" required style="width: 150px;">
         </div><br><br>
 
-        <button type="submit">Submit</button>
+        <div style="display: inline-block;">
+            <button type="submit">Submit</button>
+        </div>
     </form>
+    <form action="/skip" method="POST" style="display: inline-block;">
+        <input type="hidden" name="image_id" value="{{ image_id }}">
+        <button type="submit">Skip</button>
+    </form>
+    </div>
 </body>
 </html>

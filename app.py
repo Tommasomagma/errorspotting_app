@@ -87,14 +87,12 @@ def home():
         answer_content = "NONE"
 
     problem_content = f'Description: {problem_content}'
-    correct_content = f'Correct answer: {correct_content}'
-    answer_content = f'Student answer: {answer_content}'
+    answer_content = f'Correct answer: {correct_content.replace("[", "").replace("]", "")} / Student answer: {answer_content.replace("[", "").replace("]", "")}'
 
     # Pass the selected image, text content, and image_id to the template
     return render_template('index.html', 
                            image_path=url_for('static', filename=f'image/{selected_image}'), 
                            problem_content=problem_content,
-                           correct_content=correct_content,
                            answer_content=answer_content,
                            image_id=image_id)
 
@@ -107,7 +105,29 @@ def handle_user_input():
     image_id = request.form.get('image_id', '')
 
     # Combine them into one string for storage in the single 'input' column
-    final_input = f'{image_id} -> Start: {start_input}, End: {end_input}'
+    final_input = f'{image_id}:{start_input}/{end_input}'
+
+    conn = get_db_connection()
+    with conn.cursor() as cur:
+        # Insert into whichever table you are actually using (user_inputs or user_inputs_test)
+        cur.execute("INSERT INTO user_inputs (input) VALUES (%s)", (final_input,))
+        conn.commit()
+
+        # Verification query
+        cur.execute("SELECT * FROM user_inputs ORDER BY id DESC LIMIT 1")
+        result = cur.fetchone()
+        print(f"Last inserted row: {result}")
+
+    conn.close()
+    return redirect(url_for('home'))
+
+@app.route('/skip', methods=['POST'])
+def skip_user_input():
+    """Handle the form submission for skipped solutions."""
+    image_id = request.form.get('image_id', '')
+
+    # Combine them into one string for storage in the single 'input' column
+    final_input = f'{image_id}:X'
 
     conn = get_db_connection()
     with conn.cursor() as cur:
