@@ -11,6 +11,7 @@ def get_db_connection():
     conn = psycopg2.connect(DATABASE_URL, sslmode='require')
     return conn
 
+# Create table if it doesn't exist (you may want to rename it to `user_inputs`)
 conn = get_db_connection()
 with conn.cursor() as cur:
     cur.execute("""
@@ -23,7 +24,7 @@ with conn.cursor() as cur:
 print('TABLE CREATED')
 conn.close()
 
-# Directories containing images and text files
+# Directory setup
 IMAGE_FOLDER = 'static/image'
 PROBLEM_FOLDER = 'static/text/problem'
 CORRECT_FOLDER = 'static/text/correct'
@@ -85,32 +86,40 @@ def home():
     else:
         answer_content = "NONE"
 
-    text_content = f'Description: {problem_content}\nCorrect answer: {correct_content}\nSubmitted answer: {answer_content}'
+    problem_content = f'Description: {problem_content}'
+    correct_content = f'Correct answer: {correct_content}'
+    answer_content = f'Student answer: {answer_content}'
 
     # Pass the selected image, text content, and image_id to the template
     return render_template('index.html', 
                            image_path=url_for('static', filename=f'image/{selected_image}'), 
-                           text_content=text_content,
+                           problem_content=problem_content,
+                           correct_content=correct_content,
+                           answer_content=answer_content,
                            image_id=image_id)
 
 
 @app.route('/submit', methods=['POST'])
 def handle_user_input():
-    user_input = request.form.get('user_input', '')
+    """Handle the form submission for start and end inputs."""
+    start_input = request.form.get('start_input', '')
+    end_input = request.form.get('end_input', '')
     image_id = request.form.get('image_id', '')
 
-    final_input = f'{image_id}:{user_input}'
-    
+    # Combine them into one string for storage in the single 'input' column
+    final_input = f'{image_id} -> Start: {start_input}, End: {end_input}'
+
     conn = get_db_connection()
     with conn.cursor() as cur:
+        # Insert into whichever table you are actually using (user_inputs or user_inputs_test)
         cur.execute("INSERT INTO user_inputs (input) VALUES (%s)", (final_input,))
         conn.commit()
-        
-        # Verify the insertion
+
+        # Verification query
         cur.execute("SELECT * FROM user_inputs ORDER BY id DESC LIMIT 1")
         result = cur.fetchone()
         print(f"Last inserted row: {result}")
-    
+
     conn.close()
     return redirect(url_for('home'))
 
