@@ -86,13 +86,17 @@ def home():
     else:
         answer_content = "NONE"
 
-    problem_content = f'Description: {problem_content}'
-    answer_content = f'Correct answer: {correct_content.replace("[", "").replace("]", "")} / Student answer: {answer_content.replace("[", "").replace("]", "")}'
+    problem_content = f'{problem_content.replace('"', "")}'
+    if len(problem_content) == 0:
+        problem_content = 'Missing'
+    correct_content = f'{correct_content.replace("[", "").replace("]", "").replace("$", "").replace('"', "")}'
+    answer_content = f'{answer_content.replace("[", "").replace("]", "").replace("$", "").replace('"', "")}'
 
     # Pass the selected image, text content, and image_id to the template
     return render_template('index.html', 
                            image_path=url_for('static', filename=f'image/{selected_image}'), 
                            problem_content=problem_content,
+                           correct_content=correct_content,
                            answer_content=answer_content,
                            image_id=image_id)
 
