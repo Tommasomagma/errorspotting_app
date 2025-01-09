@@ -170,6 +170,13 @@
 <body>
     <div class="container">
         <div class="left-column">
+            <!-- Image Display -->
+            <div class="image-container">
+                <img src="{{ image_path }}" alt="Task Image">
+            </div>
+        </div>
+
+        <div class="right-column">
             <!-- Problem Content -->
             <div class="card">
                 <label for="Description">Problem description</label>
@@ -213,13 +220,6 @@
                         <button type="submit">Skip</button>
                     </form>
                 </div>
-            </div>
-        </div>
-
-        <div class="right-column">
-            <!-- Image Display -->
-            <div class="image-container">
-                <img src="{{ image_path }}" alt="Task Image">
             </div>
         </div>
     </div>
