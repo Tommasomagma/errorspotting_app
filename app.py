@@ -86,7 +86,7 @@ def home():
     else:
         answer_content = "NONE"
 
-    problem_content = f'{problem_content}'
+    problem_content = problem_content.replace("\\n", "").replace("\\quad", "").replace("$", "")
     if len(problem_content) == 0:
         problem_content = 'Missing'
     correct_content = f'{correct_content.replace("[", "").replace("]", "").replace("$", "")}'
