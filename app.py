@@ -94,7 +94,7 @@ def home():
 
     # Pass the selected image, text content, and image_id to the template
     return render_template('index.html', 
-                           image_path=url_for('static', filename=f'image/{selected_image}'), 
+                           image_path=url_for('static', filename=f'images/{selected_image}'), 
                            problem_content=problem_content,
                            correct_content=correct_content,
                            answer_content=answer_content,
