@@ -1,0 +1,1 @@
+"Beräkna kvadratens area. Sidlängden är $2$ cm."

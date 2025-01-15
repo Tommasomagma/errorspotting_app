@@ -1,0 +1,1 @@
+"Figurerna visar trianglar av tändstickor. Med vilket av uttrycken kan antalet tändstickor i figur $n$ beräknas?\n\n$\\quad$**A.**$\\;$ $2n+1$\n\n$\\quad$**B.**$\\;$ $3n$\n\n$\\quad$**C.**$\\;$ $4n-1$"

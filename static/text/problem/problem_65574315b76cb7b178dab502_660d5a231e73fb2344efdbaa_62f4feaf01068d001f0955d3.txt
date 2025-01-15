@@ -1,0 +1,1 @@
+"Du kastar en vanlig tärning med sex sidor. Hur stor är sannolikheten att du får ett jämnt tal?\n\nSvara i decimalform."

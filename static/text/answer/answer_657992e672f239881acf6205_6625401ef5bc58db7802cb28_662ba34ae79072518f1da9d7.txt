@@ -1,0 +1,1 @@
+["${\\Large\\frac{x}{2}} + x \\cdot 2$","$2\\cdot {\\Large\\frac{x}{2}} \\cdot x$","$ {\\Large\\frac{x}{2}} + x + 2$","$x \\cdot x$"]

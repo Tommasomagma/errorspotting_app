@@ -1,0 +1,1 @@
+"Jasmine har feber. Hennes temperatur tas varannan timma.\n\nVar Jasmines temperatur högre eller lägre klockan 14.00 än klockan 13.00?"

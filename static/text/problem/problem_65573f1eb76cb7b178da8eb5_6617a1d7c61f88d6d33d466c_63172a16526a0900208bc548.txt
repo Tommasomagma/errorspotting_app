@@ -1,0 +1,1 @@
+"Diagrammet visar hur många poäng 4 vänner får under ett spel Yatzy.\n\nHur många poäng fick vännerna totalt?"

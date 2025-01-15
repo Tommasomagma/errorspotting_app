@@ -1,0 +1,1 @@
+"Vilken bokstav saknas? Förklara hur du tänker på ritytan. \n\nA$\\hspace{0.5cm}$ G$\\hspace{0.5cm}$ L$\\hspace{0.5cm}$ P$\\hspace{0.5cm}$?$\\hspace{0.5cm}$U"

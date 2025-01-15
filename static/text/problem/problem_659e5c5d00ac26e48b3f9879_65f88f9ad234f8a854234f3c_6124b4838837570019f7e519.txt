@@ -1,0 +1,1 @@
+"På en utställning finns en termometer. I rummet är det 34 grader varmare än vad termometern visar. Hur varmt är det i rummet? \n\n*Visa hur du löser uppgiften.*"

@@ -1,0 +1,1 @@
+"I ett lotteri finns 50 lotter. Det är vinst på 5 av de 50 lotterna. Mira köper en lott. Hur stor sannolikhet är det att hon vinner?\n\nSvara i procentform."

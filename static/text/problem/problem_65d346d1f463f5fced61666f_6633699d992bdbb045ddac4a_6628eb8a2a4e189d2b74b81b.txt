@@ -1,0 +1,1 @@
+"Tre lika stora böcker har lagts på en hög. Varje bok har volymen $1\\ 087$ cm$^3$.\n\nHur stor volym har högen med böcker, mätt i kubikdecimeter?"

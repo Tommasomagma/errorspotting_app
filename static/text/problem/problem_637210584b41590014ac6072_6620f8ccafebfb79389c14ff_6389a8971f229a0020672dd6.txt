@@ -1,0 +1,1 @@
+"En bonde ska köpa diesel. Han förvarar dieseln i en cylinderformad tank med diametern $1{,}2$ m och höjden $2$ m.\n\nEn liter diesel kostar $11{,}13$ kr. Vad kostar det att fylla en hel tank? Avrunda till tusentals kronor."

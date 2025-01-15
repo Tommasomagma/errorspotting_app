@@ -1,0 +1,1 @@
+"Du har en vanlig kortlek med $52$ kort. Du drar ett kort ur leken utan att titta. Hur stor är sannolikheten att du får ett ess? Svara med ett bråk i enklaste form."

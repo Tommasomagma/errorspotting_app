@@ -1,0 +1,1 @@
+"Felicie står vid punkt A och går i pilens riktning runt kvadraten.\n\nHur stor andel av hela varvet har Felicie gått när hon kommit till punkt B? Svara i procentform."

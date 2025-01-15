@@ -1,0 +1,1 @@
+"Tre böcker kostade sammanlagt $579$ kr.\nHur mycket kostade varje bok i genomsnitt?"

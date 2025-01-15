@@ -1,0 +1,1 @@
+"Avrunda till hela procent. Hur många procent av figuren är...\n\nOrange?"

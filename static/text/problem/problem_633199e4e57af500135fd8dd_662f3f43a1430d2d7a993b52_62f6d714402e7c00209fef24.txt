@@ -1,0 +1,1 @@
+"Hur många liter mineralvatten finns det sammanlagt i $20$ flaskor om varje flaska rymmer $400$ ml? Svara i liter"

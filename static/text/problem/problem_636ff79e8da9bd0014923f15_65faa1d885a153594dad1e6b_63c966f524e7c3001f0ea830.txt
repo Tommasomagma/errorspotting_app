@@ -1,0 +1,1 @@
+"Sträckan $CD$ är dubbelt så lång som sträckan $AD$. Beräkna arean av det färgade området.  Avrunda till hela kvadratcentimeter."

@@ -1,0 +1,1 @@
+"Hur många gram är skillnaden mellan den lättaste och tyngsta kattens vikter? Svara i kilogram."

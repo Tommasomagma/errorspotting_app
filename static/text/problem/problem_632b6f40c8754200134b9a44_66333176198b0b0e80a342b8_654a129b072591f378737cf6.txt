@@ -1,0 +1,1 @@
+"Hur många grader vrider sig minutvisaren på en klocka på $10$ minuter?"

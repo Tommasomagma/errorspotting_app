@@ -1,0 +1,1 @@
+"Grafen visar antal medaljer som olika länder tog i OS.\n\nVad är medelvärdet av antal silvermedaljer som länderna tog?"

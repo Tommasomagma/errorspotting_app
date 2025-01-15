@@ -1,0 +1,1 @@
+"Enligt en väderapp är det 25 % sannolikhet att det ska regna på midsommar.\n\nHur stor är sannolikheten för regn uttryckt i bråkform?\nSvara i enklaste form."

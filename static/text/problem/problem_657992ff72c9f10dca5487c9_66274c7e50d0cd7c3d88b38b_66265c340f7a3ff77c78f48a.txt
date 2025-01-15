@@ -1,0 +1,1 @@
+"Bilden visar hur antalet prickar ökar per figur.\n\nVälj formeln för antalet prickar $P$ i figur $n$."

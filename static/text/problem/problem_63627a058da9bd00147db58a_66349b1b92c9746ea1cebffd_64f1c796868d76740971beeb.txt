@@ -1,0 +1,1 @@
+"Beräkna värdet av uttrycket $5a - b$ för $a = 4$ och $b = 15$."

@@ -1,0 +1,1 @@
+"Aleksi kastar en tärning ett antal gånger. Diagrammet visar frekvensen för olika antal prickar. \n\n\nOm Aleksi räknar ihop alla prickar från alla kast, vad blir det totala antalet prickar?"

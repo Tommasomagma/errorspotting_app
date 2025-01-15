@@ -1,0 +1,1 @@
+"Arean av det gula området är 184 cm$^2$.  Hur lång är sidan $x$? \n\n*Visa hur du löser uppgiften.*"

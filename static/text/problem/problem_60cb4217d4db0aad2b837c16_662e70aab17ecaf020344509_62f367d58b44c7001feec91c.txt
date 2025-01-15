@@ -1,0 +1,1 @@
+"En tom hiss väger 355 kg. I hissen står det att hissen som mest kan lyfta 9 personer som väger 85 kg var.\n\nHur många kilogram kan hissen lyfta, räknat med hissens egna vikt?"

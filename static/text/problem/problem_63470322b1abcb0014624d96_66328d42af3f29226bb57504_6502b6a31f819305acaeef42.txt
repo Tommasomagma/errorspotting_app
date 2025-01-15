@@ -1,0 +1,1 @@
+"Elias gjorde en undersökning om hur många personer som åkte i de bilar som passerade på gatan utanför skolan. Stolpdiagrammet visar resultatet. Beräkna medelvärdet och avrunda till tiondelar."

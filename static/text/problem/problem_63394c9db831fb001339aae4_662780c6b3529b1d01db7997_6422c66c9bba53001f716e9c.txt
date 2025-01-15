@@ -1,0 +1,1 @@
+"En stor läsk innehåller $150$ cl. Gustav dricker upp $20$ % av innehållet.\nHur mycket läsk finns kvar i flaskan efteråt?"

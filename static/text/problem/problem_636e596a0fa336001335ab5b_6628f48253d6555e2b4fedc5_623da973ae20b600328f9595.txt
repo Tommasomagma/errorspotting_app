@@ -1,0 +1,1 @@
+"Fyll i det som saknas för att likheten ska gälla.\n\n$1\\ 500$ ml $=\\ \\underline{\\hspace{1cm}}$ l"

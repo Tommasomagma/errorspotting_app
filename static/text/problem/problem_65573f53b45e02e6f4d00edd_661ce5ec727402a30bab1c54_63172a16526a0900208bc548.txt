@@ -1,0 +1,1 @@
+"Tabellen visar regnmängden för 5 veckor.\n\nHur mycket skulle det minst behövt regna vecka 46, alltså en vecka till, för att medelvärdet för hela perioden skulle öka? \n\nSvara i hela millimeter."

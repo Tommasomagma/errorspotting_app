@@ -1,0 +1,1 @@
+"Hur många små rutor har figur nr $10$?"

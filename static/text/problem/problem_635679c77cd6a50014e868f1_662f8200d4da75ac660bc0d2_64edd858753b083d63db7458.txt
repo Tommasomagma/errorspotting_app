@@ -1,0 +1,1 @@
+"Förenkla uttrycket.\n\n$12x-(10x-10)-8=$"

@@ -1,0 +1,1 @@
+"Beräkna och svara i grundpotensform.\n\n${\\Large\\frac{7{,}5\\ \\cdot \\ 10^{-1}}{3\\ \\cdot \\ 10^3}}=$"

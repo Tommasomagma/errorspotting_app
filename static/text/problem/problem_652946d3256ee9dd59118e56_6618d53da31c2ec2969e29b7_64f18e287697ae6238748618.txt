@@ -1,0 +1,1 @@
+"Anna funderar på sannolikheten att få 3 eller mer vid ett kast med en 6-sidig tärning.\n\nHur många sidor finns det som visar 3 eller mer?"

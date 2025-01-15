@@ -1,0 +1,1 @@
+"Skriv hur många procent som priset ökat eller minskat.\n\nVad ska stå vid bokstaven $C$?"

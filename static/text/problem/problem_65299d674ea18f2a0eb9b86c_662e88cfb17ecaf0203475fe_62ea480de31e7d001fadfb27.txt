@@ -1,0 +1,1 @@
+"Beräkna arean. Använd $\\pi \\approx 3{,}14$."

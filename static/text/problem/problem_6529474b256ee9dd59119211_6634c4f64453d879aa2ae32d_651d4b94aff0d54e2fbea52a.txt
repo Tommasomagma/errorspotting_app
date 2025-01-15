@@ -1,0 +1,1 @@
+"20 elever gjorde en liten mattediagnos på vilken de kunde få 0, 1, 2 eller 3 poäng. \n\n5 elever fick 2 poäng och 3 elever fick 3 poäng. \n\nMedelvärdet för antal poäng var 1,5.\n\nVad ska stå istället för A?"

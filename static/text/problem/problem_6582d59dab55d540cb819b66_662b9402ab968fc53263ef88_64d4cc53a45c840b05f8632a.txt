@@ -1,0 +1,1 @@
+"En bilförsäljare har radat upp 10 bilar efter varandra med 1 meters mellanrum. Varje bil är 5 meter lång. \n\nHur lång är raden av bilar?"

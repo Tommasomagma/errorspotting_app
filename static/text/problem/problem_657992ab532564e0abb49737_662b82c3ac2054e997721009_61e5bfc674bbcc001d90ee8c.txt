@@ -1,0 +1,1 @@
+"Omvandla till bråkform. \n\n$20\\ \\%=$"

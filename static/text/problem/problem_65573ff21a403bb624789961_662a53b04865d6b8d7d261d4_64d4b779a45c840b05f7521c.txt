@@ -1,0 +1,1 @@
+"Johanna ska måla om ett rum med rektangulära tak, väggar och golv. Rummet har en takhöjd på 2,5 m, och sidorna i rummet är 4 m och 3,6 m. Rummet har inga fönster, men en dörrkarm med måtten $2\\times1$ meter.\n\n Hur stor är den sammanlagda väggytan som Johanna ska måla om?"

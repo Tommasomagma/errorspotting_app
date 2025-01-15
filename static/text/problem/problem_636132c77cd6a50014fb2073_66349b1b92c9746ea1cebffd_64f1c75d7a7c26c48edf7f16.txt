@@ -1,0 +1,1 @@
+"Skriv talen med siffror i decimalform.\n\n${\\Large\\frac{4}{5}}=$"

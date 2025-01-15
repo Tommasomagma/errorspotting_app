@@ -1,0 +1,1 @@
+"Kim spelar på ett lyckohjul som ser ut som på bilden. \n\nHur stor är sannolikheten att hjulet stannar på färgen blå?"

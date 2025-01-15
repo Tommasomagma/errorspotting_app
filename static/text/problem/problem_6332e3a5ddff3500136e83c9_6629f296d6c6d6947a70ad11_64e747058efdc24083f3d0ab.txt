@@ -1,0 +1,1 @@
+"Skriv bråket i enklaste form.\n\n${\\Large\\frac{6}{15}}=$"

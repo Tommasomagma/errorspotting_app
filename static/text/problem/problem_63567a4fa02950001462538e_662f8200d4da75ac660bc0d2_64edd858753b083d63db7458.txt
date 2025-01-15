@@ -1,0 +1,1 @@
+"Förenkla uttrycket.\n\n$6x+(x-3)-4x=$"

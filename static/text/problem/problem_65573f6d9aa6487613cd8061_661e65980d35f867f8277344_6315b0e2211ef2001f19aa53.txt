@@ -1,0 +1,1 @@
+"I diagrammet visas hur många mål som gjordes i matcherna under ett juniormästerskap i fotboll åren 2010, 2014 och 2018.\n\nBestäm medianen för antalet gjorda mål per match under mästerskapet 2010."

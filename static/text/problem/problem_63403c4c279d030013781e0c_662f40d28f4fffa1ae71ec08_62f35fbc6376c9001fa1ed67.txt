@@ -1,0 +1,1 @@
+"Om man faller från $5$ m höjd så har man hastigheten $10$ m/s när man träffar marken. \n\nHur många kilometer i timmen (km/h) motsvarar det?"

@@ -1,0 +1,1 @@
+"Visa hur du löser uppgiften.\n\n${\\Large \\frac{1}{5}} + {\\Large \\frac{2}{5}} = $"

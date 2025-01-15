@@ -1,0 +1,1 @@
+"Pia har tre kuponger som ger 10 % rabatt var och kan kombineras. Gymmet erbjuder också 30 % rabatt, men den rabatten kan inte kombineras med kupongerna.\n\nVilket alternativ ger billigast pris?"

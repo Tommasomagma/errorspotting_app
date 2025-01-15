@@ -1,0 +1,1 @@
+"En skola har i dagsläget endast elever på lågstadiet. Från och med nästa läsår kommer treorna ha möjlighet att gå kvar i skolan ända fram till klass nio. \n\nDet totala antalet elever under de kommande sex läsåren kan beskrivas med uttrycket $90+30x$, där $x$ är tid i år. Nästa läsår är $x=1$.\n\nHur många elever tillkommer det nästa år?"

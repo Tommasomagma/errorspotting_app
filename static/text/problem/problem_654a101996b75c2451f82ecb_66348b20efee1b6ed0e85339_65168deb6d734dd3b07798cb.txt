@@ -1,0 +1,1 @@
+"I en fruktskål finns 9 päron. Allan tar $\\Large\\frac{1}{3}$ av alla päron. Sedan tar Bertil hälften av päronen som finns kvar. \n\nHur många päron finns kvar efter det?"

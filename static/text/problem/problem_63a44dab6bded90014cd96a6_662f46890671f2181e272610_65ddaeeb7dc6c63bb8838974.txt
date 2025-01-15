@@ -1,0 +1,1 @@
+"Det här lyckohjulet är ett exempel på olikformig sannolikhetsfördelning.\n\nBeräkna.\n\n$P(5)=$"

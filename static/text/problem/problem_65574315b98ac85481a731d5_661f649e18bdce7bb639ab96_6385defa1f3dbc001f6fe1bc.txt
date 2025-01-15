@@ -1,0 +1,1 @@
+"Marcus har en påse med 20 äpplen. 4 av äpplena är ruttna. Han tar upp ett äpple ur påsen utan att titta. Vad är sannolikheten att han tar upp ett ruttet äpple?\n\nSvara i bråkform.\nFörkorta bråket så långt som möjligt."

@@ -1,0 +1,1 @@
+"Beräkna arean av figurens basyta. Använd $\\pi \\approx 3{,}14$ och svara i kvadratcentimeter avrundat till två decimaler."

@@ -1,0 +1,1 @@
+"Det här diagrammet visar temperaturen under en vecka i maj.\n\nTvå dagar hade samma temperatur. Vilka?"

@@ -1,0 +1,1 @@
+"Varje dag köper en lärare energidryck för $10$ kr per burk.\n\nRiten en graf över sambandet och bestäm hur många dagar läraren kan köpa energidryck om hen har $60$ kr."

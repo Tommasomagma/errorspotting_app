@@ -1,0 +1,1 @@
+"En godispåse som innehåller 2 klubbor, 4 chokladbitar och 4 kolor.\n\nEn kompis äter upp alla klubbor i godispåsen. Vad är sannolikheten att du får en chokladbit om du slumpmässigt tar en godis?"

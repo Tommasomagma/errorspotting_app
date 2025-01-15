@@ -1,0 +1,1 @@
+"Titta på tallinjen.\n\nAddera talen A,B,C och D. Vad blir summan?"

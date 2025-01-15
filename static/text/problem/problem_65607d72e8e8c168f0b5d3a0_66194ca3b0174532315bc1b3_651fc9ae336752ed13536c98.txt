@@ -1,0 +1,1 @@
+"Skriv i milligram. \n\n$0{,}5$ g"

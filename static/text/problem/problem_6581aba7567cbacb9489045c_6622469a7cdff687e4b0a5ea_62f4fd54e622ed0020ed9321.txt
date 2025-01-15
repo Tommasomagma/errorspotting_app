@@ -1,0 +1,1 @@
+"Hur stor andel av bollarna är röda? Svara i enklaste form."

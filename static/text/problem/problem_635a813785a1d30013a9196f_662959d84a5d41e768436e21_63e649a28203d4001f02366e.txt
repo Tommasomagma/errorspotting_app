@@ -1,0 +1,1 @@
+"Teckna ett uttryck för hur mycket man får tillbaka på $500$ kr om man köper $y$ kg vindruvor."

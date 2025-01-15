@@ -1,0 +1,1 @@
+"Lös ekvationen. Välj de rätta alternativen.\n\n$(x+1)^2=49$"

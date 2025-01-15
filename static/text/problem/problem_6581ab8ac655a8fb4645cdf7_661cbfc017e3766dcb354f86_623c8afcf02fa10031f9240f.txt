@@ -1,0 +1,1 @@
+"Diagrammet visar hur långt olika elever har till skolan.\n\nTvå personer har lika långt till skolan. Hur långt har de till skolan?"

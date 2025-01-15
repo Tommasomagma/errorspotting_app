@@ -1,0 +1,1 @@
+"Förenkla uttrycket.\n\n$ 2x(x - 3) + x(7 - x)=$"

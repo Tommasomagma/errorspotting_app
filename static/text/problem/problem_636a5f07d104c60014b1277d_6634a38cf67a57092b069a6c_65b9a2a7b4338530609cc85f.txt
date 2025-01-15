@@ -1,0 +1,1 @@
+"Beräkna och svara i enklaste form.\n\n$4\\cdot{\\Large\\frac{1}{8}}=$"

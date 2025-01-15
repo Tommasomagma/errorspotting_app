@@ -1,0 +1,1 @@
+"Beräkna och avrunda till tiondelar.\n\n${\\Large\\frac{87{,}78}{6}}=$"

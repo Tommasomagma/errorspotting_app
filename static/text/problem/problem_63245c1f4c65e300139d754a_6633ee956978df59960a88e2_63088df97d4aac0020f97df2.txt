@@ -1,0 +1,1 @@
+"Diagrammet visar vilka aktiviteter som var populärast på fritids i årskurs 5.\n\nHur många elever deltog i undersökningen?"

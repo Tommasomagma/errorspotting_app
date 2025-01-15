@@ -1,0 +1,1 @@
+["10%","En femtedel","En fjärdedel","30%","En halv","75%"]

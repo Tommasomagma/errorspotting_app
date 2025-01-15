@@ -1,0 +1,1 @@
+"Oliver och Willy sålde lotter. Oliver sålde $25$ % fler lotter än Willy.\n\nHur många lotter sålde Willy om de tillsammans sålde $72$ lotter?"

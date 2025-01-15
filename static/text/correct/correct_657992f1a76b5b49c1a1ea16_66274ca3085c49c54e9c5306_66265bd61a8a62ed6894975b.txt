@@ -1,0 +1,1 @@
+["$7 \\cdot 8 \\cdot a + 9 \\cdot 8 \\cdot b$","$56a + 72b$"]

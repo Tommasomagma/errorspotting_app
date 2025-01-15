@@ -1,0 +1,1 @@
+"En vinkel är $y$°. Teckna uttryck för en vinkel som är $15$° större."

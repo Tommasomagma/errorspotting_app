@@ -1,0 +1,1 @@
+"Avrunda talet till tiondelar.\n\n$28{,}45$"

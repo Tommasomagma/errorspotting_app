@@ -1,0 +1,1 @@
+"Du tar upp en kula ur säcken utan att titta.\n\nVad ska stå istället för A?"

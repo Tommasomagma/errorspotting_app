@@ -1,0 +1,1 @@
+"Fyra vänner bowlar. Diagrammet visar frekvensen av antalet poäng per runda.\n\nVad är typvärdet?"

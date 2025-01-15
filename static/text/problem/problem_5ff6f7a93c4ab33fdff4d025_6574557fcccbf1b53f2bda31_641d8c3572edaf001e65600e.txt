@@ -1,0 +1,1 @@
+"I en flock finns det fler än 1, men färre än 50 fåglar. Under tiden flocken flyger kan fåglarna arrangera sig i en triangelformation med 1 fågel i första raden, 2 i andra, 3 i tredje och så vidare.  Vid landning kan flocken arrangera sig så att de jämnt täcker formen av en kvadrat. Hur många fåglar finns det i flocken?"

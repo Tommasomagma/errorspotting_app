@@ -1,0 +1,1 @@
+"I en höjdhoppstävling med fem deltagare hoppade de följande höjder:\n\n$170$ cm, $155$ cm, $160$ cm, $176$ cm och $180$ cm\n\nVad är medianen?"

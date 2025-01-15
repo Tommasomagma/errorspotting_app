@@ -1,0 +1,1 @@
+"Frans,  Sharon och Aras samlar på kulor. Aras har lika många kulor som Frans och Sharon har tillsammans. Frans ger Sharon en av sina kulor. Då har Sharon 5 kulor fler än Frans och Aras har 3 gånger fler kulor än Frans.\n\nHur många kulor hade Sharon från början?"

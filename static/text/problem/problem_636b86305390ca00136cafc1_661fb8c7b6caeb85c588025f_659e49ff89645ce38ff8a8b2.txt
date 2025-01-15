@@ -1,0 +1,1 @@
+"Balansvågen väger jämnt. Vad väger vikten $x$?"

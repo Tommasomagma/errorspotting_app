@@ -1,0 +1,1 @@
+"Aladin har $6\\ 000$ kr. Han köper en flygande matta för $3\\ 795$ kr och sandaler för $1\\ 238$ kr. \n\nHur mycket pengar har Aladin kvar efter köpen?"

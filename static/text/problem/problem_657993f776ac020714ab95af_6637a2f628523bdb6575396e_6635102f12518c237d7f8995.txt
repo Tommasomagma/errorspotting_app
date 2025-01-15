@@ -1,0 +1,1 @@
+"Beräkna värdet av uttrycket $2x-3$, när $x=6$."

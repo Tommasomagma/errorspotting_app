@@ -1,0 +1,1 @@
+"Välj det tal som är större än $2{,}5 \\cdot 10^{-3}$ men mindre än $2{,}5⋅10^{-2}$."

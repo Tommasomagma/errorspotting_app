@@ -1,0 +1,1 @@
+"Hur många procent är $1$ kex av $4$ kex?"

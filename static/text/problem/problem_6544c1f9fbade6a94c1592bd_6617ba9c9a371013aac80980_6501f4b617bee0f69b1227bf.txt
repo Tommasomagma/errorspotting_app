@@ -1,0 +1,1 @@
+"\n\nVad har figuren för area? Svara med en decimal."

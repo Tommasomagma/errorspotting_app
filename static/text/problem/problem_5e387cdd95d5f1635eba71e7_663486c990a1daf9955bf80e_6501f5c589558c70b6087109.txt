@@ -1,0 +1,1 @@
+"Här ser du de fyra första figurerna i ett mönster. Skriv ett uttryck för arean till figur $n$. \n\n*Figurerna är ej skalenligt ritade.*"

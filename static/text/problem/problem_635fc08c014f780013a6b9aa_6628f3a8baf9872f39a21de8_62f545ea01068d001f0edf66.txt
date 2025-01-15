@@ -1,0 +1,1 @@
+"Tre av hörnen i en kvadrat finns i punkterna $(3, 1)$, $(-2, 4)$ och $(-5, -1)$. Rita in kvadraten i koordinatsystemet. Vilka koordinater har den punkt där det fjärde hörnet ligger?"

@@ -1,0 +1,1 @@
+"Alla block är lika stora. \n\nHur stor andel av figuren är färgad? Svara i procentform."

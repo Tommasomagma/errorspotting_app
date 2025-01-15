@@ -1,0 +1,1 @@
+"Anja ordnar ett lotteri för att tjäna pengar till en klassresa. Lotterna säljs för 20 kr per styck, och vinsten är 1000kr. Det är vinst på var åttionde lott, och vinsten tas ifrån lottförsäljningen.\n\nHur stor skulle vinsten behöva vara för att gå plus minus noll på att köpa lotten?"

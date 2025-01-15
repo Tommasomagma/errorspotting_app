@@ -1,0 +1,1 @@
+"Hur många grader är vinkel $a$? \n\n *(Figuren är ej skalenligt ritad)*"

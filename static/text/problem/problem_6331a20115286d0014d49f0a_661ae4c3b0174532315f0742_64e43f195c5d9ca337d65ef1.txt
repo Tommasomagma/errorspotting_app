@@ -1,0 +1,1 @@
+"Några äpplen väger sammanlagt $1{,}1$ kg. Otto och Ellen äter var sitt äpple som väger $1{,}5$ hg. Hur mycket väger de äpplen som sedan finns kvar? Svara i gram"

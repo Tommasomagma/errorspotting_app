@@ -1,0 +1,1 @@
+"Använd diagrammet för att besvara följande fråga.\n\nVilka artister har i genomsnitt sålt ungefär samma antal skivor per verksamt år? Motivera ditt svar."

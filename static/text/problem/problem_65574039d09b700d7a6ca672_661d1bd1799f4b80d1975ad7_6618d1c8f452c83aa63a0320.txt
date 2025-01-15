@@ -1,0 +1,1 @@
+"Fyra simmare tävlade om vem som simmade en längd i en bassäng snabbast. Aida simmade på 15,5 s, Simon simmade på 15,9 s, Siri simmade på 15,59 s, och Bert simmade på 15,75 s. \n\nVem simmade långsammast?"

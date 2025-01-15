@@ -1,0 +1,1 @@
+"Vilket tal saknas? \n\n$75$ g $+\\ \\underline{\\hspace{0.5cm}}$ g $= $ $2$ hg $5$ g"

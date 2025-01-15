@@ -1,0 +1,1 @@
+"Formulera ett uttryck som visar att $x$ multipliceras med 8 och därefter subtraheras med 9."

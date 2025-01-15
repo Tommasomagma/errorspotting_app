@@ -1,0 +1,1 @@
+"En kvadrat har omkretsen 24 cm. Bestäm...\n\nFigurens area."

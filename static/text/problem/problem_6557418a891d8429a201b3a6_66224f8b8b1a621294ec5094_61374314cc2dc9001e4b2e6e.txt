@@ -1,0 +1,1 @@
+"Teckna ett uttryck för hur många fler invånare Indien har än Sverige.\n\n- Indien har fyra gånger så många invånare som ett land med $x$ antal invånare.\n- Sverige har tio miljoner invånare."

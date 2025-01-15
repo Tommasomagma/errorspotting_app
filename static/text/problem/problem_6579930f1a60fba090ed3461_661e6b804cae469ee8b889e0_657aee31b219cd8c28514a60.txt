@@ -1,0 +1,1 @@
+"Lös ekvationen. \n\n$15+3x=3+6x$"

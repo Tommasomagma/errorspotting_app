@@ -1,0 +1,1 @@
+"Bilden visar en frekvenstabell och ett diagram.\n\nHur många av eleverna valde konståkning?"

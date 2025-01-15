@@ -1,0 +1,1 @@
+"Lös ekvationen.\n\n$x + 2x + 3x = 90$"

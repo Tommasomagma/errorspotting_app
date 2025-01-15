@@ -1,0 +1,1 @@
+"En triangel har basen 6 cm och höjden 7 cm.\n\nHur stor area har triangeln?"

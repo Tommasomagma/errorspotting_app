@@ -1,0 +1,1 @@
+"På ett katthem fanns $37$ katter. Under en månad fick $14$ av dem ett nytt hem.\n\nHur stor andel av katterna fick ett nytt hem? Svara med med hela procent."

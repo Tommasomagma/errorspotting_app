@@ -1,0 +1,1 @@
+"Vilket tal ska vi lägga till i talserien så att medianen blir 7?\n\n$2  \\hspace{0.3cm} 3  \\hspace{0.3cm}  5  \\hspace{0.3cm} 10 \\hspace{0.3cm} 10 \\hspace{0.3cm} ?$"

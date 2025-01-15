@@ -1,0 +1,1 @@
+"Bilden visar ett mönster av figurer. Rita figur 4.\n\nFormeln R=__n+1 ger antalet rutor i den n:te figuren. Vilket tal ska stå i luckan?"

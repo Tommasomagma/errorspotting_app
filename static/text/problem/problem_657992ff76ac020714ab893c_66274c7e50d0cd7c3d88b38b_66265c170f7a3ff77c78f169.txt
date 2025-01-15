@@ -1,0 +1,1 @@
+"Teckna ett uttryck för hur många prickar det finns i figur $n$."

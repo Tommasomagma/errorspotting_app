@@ -1,0 +1,1 @@
+"Vad ska stå istället för frågetecknet? Välj bland alternativen A-F. \n\n${\\Large\\frac{3}{8}}$ av -?- kr $= 60$ kr"

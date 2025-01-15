@@ -1,0 +1,1 @@
+"Du har $1\\ 200$ kr. Hur mycket är $25$ %?"

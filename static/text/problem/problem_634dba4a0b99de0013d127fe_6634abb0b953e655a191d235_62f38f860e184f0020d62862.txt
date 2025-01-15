@@ -1,0 +1,1 @@
+"I ett fotbollslag med $18$ spelare är medelåldern $22{,}5$ år. Två spelare som är $22$ år och $24$ år slutar och ersätts med två spelare i åldern $18$ år och $23$ år. Vilken blir den nya medelåldern? Avrunda till tiondels år."

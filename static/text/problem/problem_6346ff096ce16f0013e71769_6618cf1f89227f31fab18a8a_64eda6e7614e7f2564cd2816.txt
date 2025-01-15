@@ -1,0 +1,1 @@
+"I en skola med $180$ elever gjordes en undersökning om vilket övningsämne som var populärast bland eleverna. Diagrammet visar resultatet. Dubbelt så många svarade ”slöjd” som ”musik”. Hur många elever svarade ”musik”?"

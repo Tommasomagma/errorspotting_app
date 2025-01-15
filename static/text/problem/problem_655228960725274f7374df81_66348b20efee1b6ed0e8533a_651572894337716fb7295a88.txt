@@ -1,0 +1,1 @@
+"I byn Sandared bor $3\\ 394$ personer, i Borgholm bor $4\\ 374$ personer och i Anderstorp bor $5\\ 202$ personer. \n\nHur många personer bor det sammanlagt i de tre byarna?"

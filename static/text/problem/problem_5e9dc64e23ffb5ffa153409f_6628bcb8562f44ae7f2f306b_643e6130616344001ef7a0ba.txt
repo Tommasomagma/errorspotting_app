@@ -1,0 +1,1 @@
+"Bea tränar inför ett maratonlopp. Hon springer en bana i skogen som är 5,3 km lång. Ett maratonlopp är ungefär 4,2 mil långt. \n\nHur många *hela* varv måste hon springa på banan för att hon ska springa minst lika långt som ett maratonlopp?"

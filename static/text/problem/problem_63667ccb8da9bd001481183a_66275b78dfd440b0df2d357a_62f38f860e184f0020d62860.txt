@@ -1,0 +1,1 @@
+"Hanna kör moped runt en cirkelformad sjö. Hennes trippmätare visar att det är $2{,}5$ km runt sjön. Hur stor är sjöns area? Svara i kvadrat kilometer och avrunda till tiondelar."

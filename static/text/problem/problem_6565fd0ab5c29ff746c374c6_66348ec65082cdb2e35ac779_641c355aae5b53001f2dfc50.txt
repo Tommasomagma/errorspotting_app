@@ -1,0 +1,1 @@
+"I en undersökning om favoritfärg fick blå $\\Large\\frac{1}{4}$ av rösterna, röd fick $\\Large\\frac{5}{16}$ av rösterna och resten röstade på grön. \n\nVilken färg fick flest röster?"

@@ -1,0 +1,1 @@
+"Markera talet $0{,}8$ på tallinjen, och svara sedan med det tal som är en tiondel större än $0{,}8$."

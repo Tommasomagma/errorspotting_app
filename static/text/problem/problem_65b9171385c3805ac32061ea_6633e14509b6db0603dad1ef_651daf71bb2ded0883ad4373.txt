@@ -1,0 +1,1 @@
+"Victors kanin hoppar 25 cm högt. Det är 8 cm högre än vad Saras kanin hoppar.\n\nHur högt hoppar Saras kanin? *Gör en beräkning och skriv svar.*"

@@ -1,0 +1,1 @@
+"Diagrammet visar hur många filmer ett antal ungdomar såg under en månad. Hur många såg tio filmer eller fler?"

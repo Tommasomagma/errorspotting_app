@@ -1,0 +1,1 @@
+"I kylskåp förvaras maten i ca $+5\\degree\\ {\\text{C}}$ och i frys i ca $-18\\degree\\ {\\text{C}}$.\n\nHur stor är temperaturskillnaden?"

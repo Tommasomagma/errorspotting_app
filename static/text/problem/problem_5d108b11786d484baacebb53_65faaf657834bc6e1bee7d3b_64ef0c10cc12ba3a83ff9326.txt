@@ -1,0 +1,1 @@
+"Bensinpriset är $13{,}71$ kr/liter. Ungefär hur mycket får man tillbaka på 500 kr när man betalar för 20 liter bensin? Välj ditt svar."

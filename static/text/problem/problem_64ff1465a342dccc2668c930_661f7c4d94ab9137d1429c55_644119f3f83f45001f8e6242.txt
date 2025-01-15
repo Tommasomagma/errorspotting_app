@@ -1,0 +1,1 @@
+"Vad är decimalformen för talet $2^{-2}$?"

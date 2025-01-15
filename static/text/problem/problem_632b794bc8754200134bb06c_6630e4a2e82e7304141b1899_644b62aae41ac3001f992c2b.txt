@@ -1,0 +1,1 @@
+"Vilket tal ska stå i stället för frågetecknet?\n\n$3\\ 400$ m $=$ ? km"

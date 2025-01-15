@@ -1,0 +1,1 @@
+"Lös ekvationerna. Svara på formen x= följt av ditt svar.\n\n6(x-4)=18"

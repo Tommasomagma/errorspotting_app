@@ -1,0 +1,1 @@
+"Beräkna differensen och svara i enklaste bråkform. Visa dina beräkningar.\n\n${\\Large\\frac{2}{3}}-{\\Large\\frac{1}{2}}=$"

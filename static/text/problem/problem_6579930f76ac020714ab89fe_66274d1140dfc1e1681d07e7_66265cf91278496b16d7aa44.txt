@@ -1,0 +1,1 @@
+"Adam, Wilhelm och Josefine är syskon. Adam är $x$ år. Wilhelm är 5 år äldre än Adam. Josefine är 4 år yngre än Adam. \n\nSammanlagt är de tre syskonen 11 år äldre än Adam. Hur gammal är Josefine?"

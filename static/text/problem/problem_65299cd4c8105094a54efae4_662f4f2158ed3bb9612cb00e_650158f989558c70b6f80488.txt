@@ -1,0 +1,1 @@
+"En rektangel med basen 6 och höjden 4 är uppdelad i två identiska trianglar.\n\nBeräkna en av trianglarnas area."

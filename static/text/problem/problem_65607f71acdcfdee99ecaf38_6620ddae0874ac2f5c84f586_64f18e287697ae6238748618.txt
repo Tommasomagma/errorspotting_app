@@ -1,0 +1,1 @@
+"Axel spelar ett datorspel och ser en kista. Han vet att det finns en skatt i 6 av 40 kistor. \n\nHur stor är sannolikheten att det finns en skatt i kistan? Svara i procent."

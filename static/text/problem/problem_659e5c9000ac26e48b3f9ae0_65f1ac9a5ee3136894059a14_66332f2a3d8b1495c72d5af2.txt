@@ -1,0 +1,1 @@
+"Leila är ledare för en gitarrkurs där eleverna betalar 75 kronor per tillfälle. Hon hyr en lokal som kostar 400 kronor per tillfälle. Diagrammet visar sambandet mellan Leilas inkomster och antalet elever.\n\nHur många elever behöver delta i kursen vid ett tillfälle för att Leila ska gå med vinst?"

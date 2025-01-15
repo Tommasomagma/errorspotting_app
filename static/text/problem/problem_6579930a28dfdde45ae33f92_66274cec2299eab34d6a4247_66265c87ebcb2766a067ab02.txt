@@ -1,0 +1,1 @@
+"Sten har en blå och en gul låda som sammanlagt innehåller 54 kulor. Det ligger dubbelt så många kulor i den blå lådan som i den gula. \n\nHur många kulor ligger i den gula lådan?"

@@ -1,0 +1,1 @@
+"Max köper $7$ liter mjölk och $2$ liter grädde varje vecka. \n\nHur många liter mjölk och grädde köper Max på $6$ veckor?"

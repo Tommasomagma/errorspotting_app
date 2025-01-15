@@ -1,0 +1,1 @@
+"Tabellen visar ett samband mellan $x$ och $y$. Rita in dessa punkter i koordinatsystemet och koppla ihop dem så att de bildar en linje. \n\nVad är proportionalitetskonstanten?"

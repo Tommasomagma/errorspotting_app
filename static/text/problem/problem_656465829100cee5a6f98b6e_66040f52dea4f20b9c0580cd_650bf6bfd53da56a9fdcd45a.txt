@@ -1,0 +1,1 @@
+"Bilden visar ett träddiagram för att singla slant.\n\nVad är sannolikheten för att få Krona två gånger i rad? Svara i hela procent."

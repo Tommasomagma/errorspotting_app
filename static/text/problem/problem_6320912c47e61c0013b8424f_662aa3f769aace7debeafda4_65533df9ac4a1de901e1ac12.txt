@@ -1,0 +1,1 @@
+"Vad är summan av de två talen som fattas?\n\n$128, 64, 32, 16, \\underline{\\hspace{0.5cm}}, \\underline{\\hspace{0.5cm}}$"

@@ -1,0 +1,1 @@
+"Använd de fyra största udda siffrorna mellan 1 och 9 för att bilda två fyrsiffriga tal: det näst största talet och det näst minsta talet. Varje siffra ska användas en gång i varje tal.\n\nVad är differensen mellan det större och det mindre talet?"

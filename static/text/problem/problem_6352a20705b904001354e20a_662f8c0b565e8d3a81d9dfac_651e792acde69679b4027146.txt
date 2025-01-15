@@ -1,0 +1,1 @@
+"Daniel cyklar till sin kompis Harald. Diagrammet visar hur långt Daniel har kommit vid olika klockslag. \n\nVilken är medelhastigheten i km/h den första halvtimmen? Svara utan enhet."

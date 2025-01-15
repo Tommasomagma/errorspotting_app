@@ -1,0 +1,1 @@
+"Milou har två röda, två blåa, och fem gula godisbitar i en skål. Hon ska blunda och ta upp en godis. \n\nMilou säger \"Sannolikheten att jag tar upp en blå eller röd godisbit är större än sannolikheten att jag tar en gul.\"\n\nHar Milou rätt?"

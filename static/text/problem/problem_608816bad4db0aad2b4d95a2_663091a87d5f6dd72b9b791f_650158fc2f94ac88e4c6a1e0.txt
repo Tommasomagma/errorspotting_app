@@ -1,0 +1,1 @@
+"Skriv i kilogram.\n\n738 g"

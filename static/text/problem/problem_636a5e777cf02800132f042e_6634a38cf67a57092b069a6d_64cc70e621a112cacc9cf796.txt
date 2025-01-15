@@ -1,0 +1,1 @@
+"Beräkna och svara i enklaste form.\n\n${\\Large\\frac{3}{8}}+{\\Large\\frac{1}{6}}=$"

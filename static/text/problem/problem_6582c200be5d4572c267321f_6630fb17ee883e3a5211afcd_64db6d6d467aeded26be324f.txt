@@ -1,0 +1,1 @@
+"En godispåse innehåller 450 g. Zoe äter upp hälften av innehållet.\n\nHur mycket finns det sedan kvar i påsen? Svara i hektogram."

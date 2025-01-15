@@ -1,0 +1,1 @@
+"Titta på figurerna nedan. Antalet punkter bildar ett mönster.\n\nAnvänd uttrycket och räkna ut antalet punkter i figur nummer $50$."

@@ -1,0 +1,1 @@
+"Diagrammet visar hur mycket olika barn får i veckopeng.\n\nVad fick varje barn i veckopeng i snitt? Avrunda till hela kronor."

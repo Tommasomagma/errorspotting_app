@@ -1,0 +1,1 @@
+"Bestäm värdet av följande uttryck om $a=8$, $b=3$, $x=2$ och $y=0{,}6$. \n\n$ a-2b+{\\Large\\frac{y}{x}}$"

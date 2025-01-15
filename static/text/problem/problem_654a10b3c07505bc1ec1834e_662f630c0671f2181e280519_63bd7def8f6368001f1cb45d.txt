@@ -1,0 +1,1 @@
+"Vilket tal skrivs i utvecklad form enligt nedan? \n\n$200+5+0{,}02$"

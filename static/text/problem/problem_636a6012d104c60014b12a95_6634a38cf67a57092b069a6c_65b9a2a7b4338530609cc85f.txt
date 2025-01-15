@@ -1,0 +1,1 @@
+"Av de $183$ lag som deltog i fotbollscupen övernattade ​${\\Large\\frac{2}{3}}$​ av lagen.\n\nHur många lag övernattade?"

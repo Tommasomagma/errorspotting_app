@@ -1,0 +1,1 @@
+"Johan cyklar 13 km på en 30 minuter.\n\nHur snabbt cyklar Johan i km/h? Svara utan enhet."

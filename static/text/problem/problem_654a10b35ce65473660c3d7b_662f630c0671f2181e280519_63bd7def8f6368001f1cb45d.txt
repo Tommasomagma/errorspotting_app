@@ -1,0 +1,1 @@
+"Vilket tal skrivs i utvecklad form enligt nedan?\n\n$0{,}3+0{,}004$"

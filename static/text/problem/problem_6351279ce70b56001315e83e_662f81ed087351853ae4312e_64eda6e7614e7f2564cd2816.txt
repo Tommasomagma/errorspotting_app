@@ -1,0 +1,1 @@
+"Jessica köper flera trisslotter varje vecka. Det senaste året har hon vunnit följande summor:\n\n$100$ kr, $25$ kr, $25$ kr, $50$ kr, $1\\ 000$ kr, $25$ kr, $100$ kr, $100$ kr, $200$ kr, $25$ kr\n\nVilket lägesmått ger bäst bild av hur mycket hon har vunnit?"

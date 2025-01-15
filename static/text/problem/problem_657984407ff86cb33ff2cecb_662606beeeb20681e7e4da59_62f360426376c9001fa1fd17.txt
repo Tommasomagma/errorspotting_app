@@ -1,0 +1,1 @@
+"Björn är $7$ år äldre än sin lillasyster Linda. Teckna ett uttryck för Björns ålder om Linda är $x$ år."

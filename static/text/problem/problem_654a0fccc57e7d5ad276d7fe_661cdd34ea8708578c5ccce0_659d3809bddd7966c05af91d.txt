@@ -1,0 +1,1 @@
+"Bestäm värdet av följande uttryck om $a=3$.\n\n$\\ 2a+3\\cdot5$"

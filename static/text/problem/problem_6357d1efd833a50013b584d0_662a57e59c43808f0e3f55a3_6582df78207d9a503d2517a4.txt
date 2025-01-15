@@ -1,0 +1,1 @@
+"Om $a = 7$ och $b = 2$, vilka två uttryck har värdet $-1$?  \n\nA: $2a - 7b$\t\n\nB: $a - 4b$ \n\nC: $4b - a$\n\nD: $10b - 3a$"

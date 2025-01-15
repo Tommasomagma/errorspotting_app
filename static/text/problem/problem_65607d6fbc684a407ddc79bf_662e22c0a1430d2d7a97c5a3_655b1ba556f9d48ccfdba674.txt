@@ -1,0 +1,1 @@
+"Bilden visar två figurer som följer samma mönster.\n\nSkriv ett uttryck för hur många kvadrater det behövs om figuren är $n$ kvadrater hög."

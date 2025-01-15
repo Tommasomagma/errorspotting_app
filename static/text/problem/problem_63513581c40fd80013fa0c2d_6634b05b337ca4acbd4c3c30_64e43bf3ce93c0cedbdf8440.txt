@@ -1,0 +1,1 @@
+"Hur många mil kördes varje bil i genomsnitt det här året? \n\nAvrunda till tiotal mil."

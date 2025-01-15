@@ -1,0 +1,1 @@
+"Skriv i decimalform. Använd räknare och avrunda till två decimaler.\n\n${\\Large\\frac{1}{9}}\\approx$"

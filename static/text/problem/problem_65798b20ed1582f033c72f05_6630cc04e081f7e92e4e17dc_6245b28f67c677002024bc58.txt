@@ -1,0 +1,1 @@
+"I klass 4A går det 30 elever. En dag fick de prinskorv till lunch. Eleverna i klassen åt sammanlagt 150 prinskorvar.\n\nHur många korvar åt varje elev om alla åt lika många?"

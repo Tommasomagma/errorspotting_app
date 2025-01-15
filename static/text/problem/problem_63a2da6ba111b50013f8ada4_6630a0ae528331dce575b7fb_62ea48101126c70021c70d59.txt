@@ -1,0 +1,1 @@
+"I en idrottstävling gick ${\\Large\\frac{1}{6}}$ av de tävlande vidare till andra omgången. Av de som gick vidare till andra omgången fick ${\\Large\\frac{2}{7}}$ så bra resultat att de fick delta i finalen.\n\nHur stor andel av de tävlande fick delta i finalen?"

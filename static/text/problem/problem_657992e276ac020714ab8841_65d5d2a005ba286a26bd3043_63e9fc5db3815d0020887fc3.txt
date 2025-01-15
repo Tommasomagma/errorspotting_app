@@ -1,0 +1,1 @@
+"Lisa väger $x$ kg och August väger $y$ kg. Teckna ett uttryck för hur mycket de två väger tillsammans."

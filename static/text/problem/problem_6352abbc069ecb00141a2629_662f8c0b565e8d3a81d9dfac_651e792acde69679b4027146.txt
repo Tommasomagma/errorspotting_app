@@ -1,0 +1,1 @@
+"Vid en undersökning frågade man $500$ kvinnor och $500$ män om hur de gör när de köper skor. $30$ % av kvinnorna och $20$ % av männen berättade då att de på rea någon gång köpt skor trots att de inte passade.\n\nHur många män hade köpt skor som inte passade?"

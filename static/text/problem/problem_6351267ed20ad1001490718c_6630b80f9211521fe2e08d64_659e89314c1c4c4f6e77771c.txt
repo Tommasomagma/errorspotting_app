@@ -1,0 +1,1 @@
+"Linus blundar och tar upp en av kulorna. Sedan lägger han tillbaka kulan.\n\nHur många gånger bör Linus få upp en svart kula om han gör försöket $300$ gånger?"

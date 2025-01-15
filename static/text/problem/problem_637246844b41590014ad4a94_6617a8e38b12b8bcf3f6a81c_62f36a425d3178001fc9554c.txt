@@ -1,0 +1,1 @@
+"Två chipspåsar och en läsk kostar $63$ kr. En läsk kostar $6$ kr mindre än en chipspåse. Vad kostar en chipspåse?\n\nLös uppgiften genom att: \n\n- Skriva ett uttryck för vad en läsk kostar.\n- Skriva en ekvation för den sammanlagda kostnaden.\n- Lös ekvationen och svara på frågan."

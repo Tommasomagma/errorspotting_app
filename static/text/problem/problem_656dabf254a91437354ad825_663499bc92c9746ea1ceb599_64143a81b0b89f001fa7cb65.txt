@@ -1,0 +1,1 @@
+"Bilden visar en cirkel inuti en kvadrat.\n\nHur mycket större är arean för kvadraten jämfört med cirkeln? Använd $\\pi \\approx 3{,}14$ och avrunda till tiondels kvadratcentimeter."

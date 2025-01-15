@@ -1,0 +1,1 @@
+"Förenkla uttrycket.\n\n$5a(b-2)-4a(b+1)=$"

@@ -1,0 +1,1 @@
+"Diagrammet visar antalet besök till England medlemmar i Englandsklubben gjort.\n\nVad är typvärdet för antalet besök till England?"

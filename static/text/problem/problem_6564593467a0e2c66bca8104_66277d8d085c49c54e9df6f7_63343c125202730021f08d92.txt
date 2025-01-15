@@ -1,0 +1,1 @@
+"Vad ska stå istället för x för att likheten ska stämma?\n\nx-8=32-6"

@@ -1,0 +1,1 @@
+"This cube has a volume of 1000 cm³.\n\nThe edge of another cube is twice as long. What is the volume of the other cube?\n✍️ Show how to solve the task."

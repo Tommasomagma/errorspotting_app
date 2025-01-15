@@ -1,0 +1,1 @@
+"Beräkna och välj rätt svarsalternativ. \n\n$9^4 \\cdot 9^3 =$"

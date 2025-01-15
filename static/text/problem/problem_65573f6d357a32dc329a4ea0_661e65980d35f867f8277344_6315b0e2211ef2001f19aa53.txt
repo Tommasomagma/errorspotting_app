@@ -1,0 +1,1 @@
+"Isolde kastade 10 pilar mot en piltavla. Diagrammet visar hur många poäng Isolde fick på de första nio kasten. Medelvärdet för alla tio kast är 3.\n\nHur många poäng fick Isolde på sitt sista kast?"

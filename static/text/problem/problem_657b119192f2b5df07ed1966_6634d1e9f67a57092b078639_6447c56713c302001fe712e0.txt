@@ -1,0 +1,1 @@
+"Det svenska alfabetet består av 29 bokstäver. Leas lösenord består av 4 bokstäver. Hur många gånger fler kombinationer är möjliga om även stora bokstäver är tillåtna, jämfört med om det endast är små bokstäver får användas?"

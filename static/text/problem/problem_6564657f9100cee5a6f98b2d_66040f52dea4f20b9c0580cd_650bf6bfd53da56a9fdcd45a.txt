@@ -1,0 +1,1 @@
+"Amal skjuter basketstraffar. Träddiagrammet visar sannolikheten för de möjliga utfallen.\n\nHur stor är sannolikheten för kompletthändelsen till att Amal missar bägge straffarna? Svara i hela procent."

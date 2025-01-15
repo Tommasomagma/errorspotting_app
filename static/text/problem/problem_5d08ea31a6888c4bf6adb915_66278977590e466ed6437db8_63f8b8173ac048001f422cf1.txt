@@ -1,0 +1,1 @@
+"Vilken av modellerna visar en kostnad som är proportionell mot antal besök i simhallen?\n\nFörklara för var och en av betalningsmodellerna varför de är proportionella eller inte."

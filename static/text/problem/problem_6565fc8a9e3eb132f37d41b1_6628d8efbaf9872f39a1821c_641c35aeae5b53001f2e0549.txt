@@ -1,0 +1,1 @@
+"I en fruktkorg är  $\\Large\\frac{1}{6}$ av frukterna äpplen, $\\Large\\frac{1}{8}$ bananer och $\\Large\\frac{1}{12}$ apelsiner. Resten är päron.\n\nVad är det minsta möjliga antalet frukter i korgen?"

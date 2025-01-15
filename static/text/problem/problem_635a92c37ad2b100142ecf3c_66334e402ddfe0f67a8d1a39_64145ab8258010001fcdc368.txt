@@ -1,0 +1,1 @@
+"På en provräkning skulle eleverna beräkna värdet av uttrycket $5 - 2y$ för $y = 3$. \n\nVilket är det rätta svaret?"

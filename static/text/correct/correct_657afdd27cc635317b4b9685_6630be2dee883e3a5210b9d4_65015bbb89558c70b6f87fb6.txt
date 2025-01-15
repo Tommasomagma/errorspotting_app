@@ -1,0 +1,1 @@
+["$\\Large\\frac{1}{2}$","$\\Large\\frac{1}{3}$","$\\Large\\frac{1}{4}$","$\\Large\\frac{1}{5}$","$\\Large\\frac{1}{10}$"]

@@ -1,0 +1,1 @@
+"En flaska saft har volymen ${\\Large\\frac{3}{4}}$ liter. Flaskan är fylld till ${\\Large\\frac{2}{3}}$.\n\nSaften späds med $2$ liter vatten. Hur stor del av blandningen är saft? Svara i procentform."

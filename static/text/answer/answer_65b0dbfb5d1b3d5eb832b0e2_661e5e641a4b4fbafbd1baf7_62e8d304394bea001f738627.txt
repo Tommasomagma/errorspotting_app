@@ -1,0 +1,1 @@
+["värden mindre än 12"]

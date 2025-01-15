@@ -1,0 +1,1 @@
+"Vad har hänt med priset om förändringsfaktorn är $0{,}85$?\n\n$\\quad$**A.**$\\;$ Priset har minskat med $85$ %.\n\n$\\quad$**B.**$\\;$ Priset har minskat med $15$ %.\n\n$\\quad$**C.**$\\;$ Priset har ökat med $15$ %.\n\n$\\quad$**D.**$\\;$ Priset har ökat med $85$ %."

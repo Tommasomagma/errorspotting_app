@@ -1,0 +1,1 @@
+"I en skål ligger 6 hallonbåtar och 4 lakritsbåtar. \n\nDu tar *två* godisbåtar utan att titta. Hur stor är sannolikheten att du får två hallonbåtar?"

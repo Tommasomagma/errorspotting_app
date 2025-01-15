@@ -1,0 +1,1 @@
+"En kvadrat har omkretsen $3$ cm $6$ mm. Vad är dess sidlängd? \n\nSvara i millimeter."

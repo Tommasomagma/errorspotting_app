@@ -1,0 +1,1 @@
+"Vilket tal ligger mitt emellan $0{,}8$ och $1{,}64$?"

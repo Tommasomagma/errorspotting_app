@@ -1,0 +1,1 @@
+"I Roberts klassrum sitter eleverna i rader. Det är lika många elever i varje rad. Framför Robert är det två rader. Bakom honom är det en rad. I Roberts rad sitter det $3$ elever till vänster om honom och $5$ till höger om honom.\n\nHur många elever är de i klassen?"

@@ -1,0 +1,1 @@
+"Teckna ett uttryck för hur många runda objekt det finns i figur $n$."

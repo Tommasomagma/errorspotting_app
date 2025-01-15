@@ -1,0 +1,1 @@
+"Tabellen visar tiderna för buss från Stockholm till Västerås.\n\nLinus tar bussen som går $11.45$, hur lång tid tar resan?"

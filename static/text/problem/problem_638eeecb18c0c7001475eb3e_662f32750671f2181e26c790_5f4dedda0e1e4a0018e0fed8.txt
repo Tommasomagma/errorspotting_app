@@ -1,0 +1,1 @@
+"Skugga $25$ % av figuren.\n\nHur stor andel är inte skuggad?"

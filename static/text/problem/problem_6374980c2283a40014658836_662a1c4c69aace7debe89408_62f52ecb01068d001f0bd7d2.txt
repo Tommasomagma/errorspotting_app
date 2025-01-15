@@ -1,0 +1,1 @@
+"Annie och Bianca jobbar som hundvakter. Grafen visar vad det kostar att anlita dem.\n\nHur mycket kostar det att anlita Annie i $3$ timmar?"

@@ -1,0 +1,1 @@
+"Priset man får betala för att besöka simhallen per år är $y$, och antalet besök är $x$. \n\nAnge för betalningsmodell A en formel som du kan använda för att beräkna vad det skulle kosta oavsett hur många gånger du tänker besöka simhallen under ett år. Svara utan enhet."

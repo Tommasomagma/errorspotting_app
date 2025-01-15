@@ -1,0 +1,1 @@
+"En flock med djur ökar från 300 st till 432 st på två år. Det kan uttryckas med ekvationen:\n\n$300 \\cdot x \\cdot x= 432$\n\nVad är förändringsfaktorn per år?"

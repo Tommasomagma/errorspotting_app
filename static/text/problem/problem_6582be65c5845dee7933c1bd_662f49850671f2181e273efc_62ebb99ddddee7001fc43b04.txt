@@ -1,0 +1,1 @@
+"Ett bord är 5 m långt och $0{,}8$ m brett. Beräkna bordets omkrets."

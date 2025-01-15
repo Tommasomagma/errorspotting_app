@@ -1,0 +1,1 @@
+"Lös följande uppgifter:\n\n$\\begin{gathered}\n\\color{#505050}{\\large\\textsf{Vilket tal ska du förlänga}}\n\\\\\n\\color{#505050}{\\large\\textsf{bråket med för att få }\\frac{9}{15}?}\n\\\\\n\\color{#505050}{\\large\\frac{3 ⋅\\_\\_\\_}{5⋅\\_\\_\\_}=\\frac{9}{15}}\n\\end{gathered}$"

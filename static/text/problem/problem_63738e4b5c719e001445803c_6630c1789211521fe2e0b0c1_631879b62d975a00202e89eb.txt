@@ -1,0 +1,1 @@
+"Kostnaden $K$ kr för att ta ett antal sånglektioner $x$ kan beskrivas med formeln $K = 610x$. Vad kan $610$ betyda?"

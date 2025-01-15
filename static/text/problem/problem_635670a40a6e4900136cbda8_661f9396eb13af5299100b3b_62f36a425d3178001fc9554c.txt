@@ -1,0 +1,1 @@
+"Teckna ett uttryck för hur mycket man får betala för $x$ bananer och $y$ citroner."

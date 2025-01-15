@@ -1,0 +1,1 @@
+"Påsen innehåller kulor av 3 olika färger.\n\nVad är sannolikheten att kulan du drar inte är gul?"

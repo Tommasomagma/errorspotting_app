@@ -1,0 +1,1 @@
+"Vid en fabrik måste man avskeda personal. Om man vill fortsätta med $5$ arbetsdagar per vecka, måste $480$ av de anställda avskedas. Om man istället minskar arbetstiden till $4$ dagar per vecka, räcker det med att avskeda $250$ personer. Hur många anställda hade fabriken från början? (Lös uppgiften med en ekvation.)"

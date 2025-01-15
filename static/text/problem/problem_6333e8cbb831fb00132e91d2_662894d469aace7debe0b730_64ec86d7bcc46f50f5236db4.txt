@@ -1,0 +1,1 @@
+"Rita en kvadrat med sidan $3$ cm. Hur stor area har kvadraten?"

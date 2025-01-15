@@ -1,0 +1,1 @@
+"Längs en väg finns nio lyktstolpar, uppsatta med jämna mellanrum. \n\nFrån den andra till den femte stolpen är det $120$ m. \n\nHur långt är det från den första lyktstolpen till den sista?"

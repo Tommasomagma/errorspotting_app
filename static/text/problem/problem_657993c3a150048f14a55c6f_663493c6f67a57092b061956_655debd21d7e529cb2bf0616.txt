@@ -1,0 +1,1 @@
+"20 elever i en klass har röstat om sin favoriträtt. Resultatet blev följande:\n\n- Hamburgare: 5 röster\n- Pizza: 4 röster\n- Sushi: 2 röster\n- Resten röstade på spagetti och köttfärssås. \n\nVisa resultatet genom att rita ett cirkeldiagram. \n\nVilken andel av klassen föredrar spagetti och köttfärssås? Svara i procent."

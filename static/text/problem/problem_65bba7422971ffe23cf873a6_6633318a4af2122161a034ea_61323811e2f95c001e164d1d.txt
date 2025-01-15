@@ -1,0 +1,1 @@
+"Skriv ett uttryck för arean av den skuggade triangeln.\n\nSvara utan enhet."

@@ -1,0 +1,1 @@
+"I figuren visas tre linjer som skär varandra så att det bildas en triangel.\n\nHur stor är den färglagda vinkeln?"

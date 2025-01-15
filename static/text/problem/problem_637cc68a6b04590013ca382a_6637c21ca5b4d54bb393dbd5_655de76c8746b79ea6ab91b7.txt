@@ -1,0 +1,1 @@
+"Det ska ligga $2$ mynt i varje rad och $2$ mynt i varje kolumn.\n\nVilket mynt måste flyttas till en tom ruta?"

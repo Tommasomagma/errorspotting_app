@@ -1,0 +1,1 @@
+"Idas solros är 14,5 decimeter hög. Beas solros är 7 centimeter kortare än Idas.\n\nHur hög är Beas solros i decimeter?"

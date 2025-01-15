@@ -1,0 +1,1 @@
+"Vad ska stå istället för frågetecknet? Välj bland alternativen A-F. \n\n-?- av $100$ kr $= 75$ kr"

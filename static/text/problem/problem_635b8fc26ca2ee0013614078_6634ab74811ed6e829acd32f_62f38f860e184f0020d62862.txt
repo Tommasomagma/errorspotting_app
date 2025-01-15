@@ -1,0 +1,1 @@
+"Du tar slumpmässigt upp en tärning och sedan en till. Hur stor är sannolikheten att det blir en tärning av varje färg om du gör det utan återläggning? Svara i procentform."

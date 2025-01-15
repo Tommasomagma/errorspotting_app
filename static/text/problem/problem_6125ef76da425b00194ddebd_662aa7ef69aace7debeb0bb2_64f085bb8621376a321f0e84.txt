@@ -1,0 +1,1 @@
+"$8$ scoutföreningar anordnar tillsammans en loppis för att samla in pengar. De lyckas dra in $864kr$ totalt. De delar lika på pengarna. Hur mycket pengar får varje scoutförening$?$ Använd kort division. Visa hur du tänker! Svara med enhet *kr*."

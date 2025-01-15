@@ -1,0 +1,1 @@
+"Beräkna produkten av det största och minsta talet."

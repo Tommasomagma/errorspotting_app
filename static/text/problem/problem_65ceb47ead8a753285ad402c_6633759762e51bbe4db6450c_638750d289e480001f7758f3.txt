@@ -1,0 +1,1 @@
+"Anders är i en fruktaffär. Han har vägt en apelsin, ett äpple, en jordgubbe och en nöt. Han skriver ner deras vikt, se bilden. Hjälp Anders genom multiplikation att räkna ut hur mycket...\n\n...3 äpplen väger?"

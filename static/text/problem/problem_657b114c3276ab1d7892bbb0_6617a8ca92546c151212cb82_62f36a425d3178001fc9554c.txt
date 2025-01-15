@@ -1,0 +1,1 @@
+"Lös ekvationen. \n\n$ 8 \\cdot x = 18$"

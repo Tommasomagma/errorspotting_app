@@ -1,0 +1,1 @@
+"Sofia är på semester i 6 dagar. Hon cyklar varje morgon, antingen 5 km till stranden eller $x$ km till glasskiosken. Varannan dag cyklar hon till stranden, och varannan dag till glasskiosken. Totalt cyklar hon 48 km under semestern.\n\nHur lång är rutten till glasskiosken?"

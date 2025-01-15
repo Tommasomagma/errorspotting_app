@@ -1,0 +1,1 @@
+"Diagrammet visar hur många filmer några ungdomar tittade på under en månad.\n\nVilket antal filmer var vanligast?"

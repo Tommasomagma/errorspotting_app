@@ -1,0 +1,1 @@
+"Förenkla uttrycket $\\Large\\frac{6x\\ +\\ 3x}{6x\\ -\\ 3x}$ så långt som möjligt."

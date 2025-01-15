@@ -1,0 +1,1 @@
+"Trianglarna A och B är likformiga.\n\nHur stor är vinkel $v$?"

@@ -1,0 +1,1 @@
+"I tabellen visas olika tågtider.\n\nDet är måndag kväll och August missade precis tåget 288 från Stockholm C till Uppsala C. Hur många minuter måste han vänta tills att nästa tåg går?"

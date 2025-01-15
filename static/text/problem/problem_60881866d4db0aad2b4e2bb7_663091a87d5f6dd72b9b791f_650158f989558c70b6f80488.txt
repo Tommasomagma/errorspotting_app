@@ -1,0 +1,1 @@
+"Vilken enhet passar bäst?\n\nKalle har köpt en godispåse för ungefär 40 kr. Den väger ungefär 5 $ \\underline{\\hspace{0.4cm}} $"

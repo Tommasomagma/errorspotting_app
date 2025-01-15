@@ -1,0 +1,1 @@
+"Vad är $y$-värdet när $x=2$?"

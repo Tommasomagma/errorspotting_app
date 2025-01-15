@@ -1,0 +1,1 @@
+"En symmetrilinje är utritad i kvadraten. Rita ut kvadratens övriga symmetrilinjer.\n\nHur många symmetrilinjer har kvadraten totalt?"

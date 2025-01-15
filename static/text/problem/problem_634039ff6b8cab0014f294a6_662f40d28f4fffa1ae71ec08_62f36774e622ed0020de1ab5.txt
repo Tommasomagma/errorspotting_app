@@ -1,0 +1,1 @@
+"Antalet stickor bildar ett mönster.\n\nMed vilket av uttrycken kan man beräkna antalet stickor i figur n?\n\nA: $5n + 1$ \n\nB: $6n - 1 $\n\nC: $5n - 1$"

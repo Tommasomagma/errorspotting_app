@@ -1,0 +1,1 @@
+"Fyll i de tomma rutorna så att bråken i subtraktionen blir uppbyggda på samma sätt som beskrivs nedan. \n\n- Nämnaren är 1 större än täljaren.\n- Det första bråkets täljare har samma värde som det andra bråkets nämnare.\n\n${\\Large\\frac{a}{\\boxed{\\phantom{a}}}}-{\\Large\\frac{\\boxed{\\phantom{a}}}{a}}=$\n\nVilket uttryck beskriver differensen?"

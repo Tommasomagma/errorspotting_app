@@ -1,0 +1,1 @@
+"Beräkna längden av sidan $x+16$ med hjälp av en ekvation."

@@ -1,0 +1,1 @@
+"Hur stor andel av grönsakerna är tomater?\n\nSvara i procentform."

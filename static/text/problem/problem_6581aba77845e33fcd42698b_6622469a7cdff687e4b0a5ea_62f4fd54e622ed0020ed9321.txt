@@ -1,0 +1,1 @@
+"Kalle har 2 röda bollar och 6 blåa bollar. Hur stor andel av bollarna är röda? \n\nSvara i enklaste form."

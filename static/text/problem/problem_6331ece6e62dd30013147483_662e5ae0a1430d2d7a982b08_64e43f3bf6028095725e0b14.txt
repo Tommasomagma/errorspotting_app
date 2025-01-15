@@ -1,0 +1,1 @@
+"En cirkel har diametern $3$ cm. Hur lång är omkretsen ungefär?"

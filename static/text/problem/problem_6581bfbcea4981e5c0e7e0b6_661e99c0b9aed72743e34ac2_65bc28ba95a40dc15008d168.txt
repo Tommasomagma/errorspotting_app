@@ -1,0 +1,1 @@
+"Varje liten kub har en sidlängd som är 1 cm. Skriv ett uttryck i potensform (utan enhet) som representerar den stora kubens volym."

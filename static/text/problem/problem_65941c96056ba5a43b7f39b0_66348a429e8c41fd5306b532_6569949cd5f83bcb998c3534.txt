@@ -1,0 +1,1 @@
+"Skriv i procentform.\n\n${\\Large\\frac{7}{50}}={\\Large\\frac{7\\ \\cdot\\ 2}{50\\ \\cdot\\ 2}}=$"

@@ -1,0 +1,1 @@
+"Omvandla till bråk i enklast möjliga form. \n\n$75\\ \\%=$"

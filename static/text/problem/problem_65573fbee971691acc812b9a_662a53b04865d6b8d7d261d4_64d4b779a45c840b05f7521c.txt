@@ -1,0 +1,1 @@
+"Bilden visar en figur i ett rutnät. Varje ruta har sidlängden 2 cm. Vad är omkretsen av figuren?"

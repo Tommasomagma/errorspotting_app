@@ -1,0 +1,1 @@
+"Bilden visar en förkortning av ett bråk. \n\nVilket tal har bråket förkortats med?"

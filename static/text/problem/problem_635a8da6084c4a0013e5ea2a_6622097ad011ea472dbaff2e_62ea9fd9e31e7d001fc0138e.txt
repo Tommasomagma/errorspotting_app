@@ -1,0 +1,1 @@
+"Johannas väg till skolan är $a$ m lång. Robins skolväg är $200$ m längre än Johannas. \n\nTeckna ett uttryck för hur lång skolväg Robin har."

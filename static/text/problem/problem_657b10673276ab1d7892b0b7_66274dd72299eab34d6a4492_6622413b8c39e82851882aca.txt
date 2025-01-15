@@ -1,0 +1,1 @@
+"Anna köper en fond för 2 000 kr. Fonden ökar i värde med 10 % per år, två år i rad.\n\nMed hur mycket ökade värdet det första året?"

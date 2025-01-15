@@ -1,0 +1,1 @@
+"Ange en formel som beskriver sambandet mellan $x$ och $y$."

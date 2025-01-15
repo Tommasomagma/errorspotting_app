@@ -1,0 +1,1 @@
+"En triangel med lika långa sidor har omkretsen 36 cm.\n\nHur lång är varje sida i triangeln?"

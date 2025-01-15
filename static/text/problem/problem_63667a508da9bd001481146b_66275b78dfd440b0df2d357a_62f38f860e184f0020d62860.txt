@@ -1,0 +1,1 @@
+"Du drar slumpmässigt två kulor ur högen utan återläggning. Hur stor är sannolikheten att båda kulorna är gula?"

@@ -1,0 +1,1 @@
+"Bilden visar olika figurer av olika färger.\n\nHur många procent av figurerna är trianglar? Avrunda till hela procent."

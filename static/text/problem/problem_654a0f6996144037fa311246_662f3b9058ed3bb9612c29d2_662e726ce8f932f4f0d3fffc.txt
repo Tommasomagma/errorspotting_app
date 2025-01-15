@@ -1,0 +1,1 @@
+"En vecka har sju dagar.\n\nHur många dagar går det på 3 veckor?"

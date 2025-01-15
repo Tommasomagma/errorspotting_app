@@ -1,0 +1,1 @@
+"Välj de tre uttrycken som kan förenklas till $2a-3b$. \n\n$\\quad$**A**. $\\; 2\\cdot a-3\\cdot b$\n\n$\\quad$**B**. $\\; 2b-5b+2a$\n\n$\\quad$**C**. $\\; 5ab$\n\n$\\quad$**D**. $\\; a+a-b-b-b$"

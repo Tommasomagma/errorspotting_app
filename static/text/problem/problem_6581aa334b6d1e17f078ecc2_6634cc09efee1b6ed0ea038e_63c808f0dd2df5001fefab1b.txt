@@ -1,0 +1,1 @@
+"En bonde har 13 kor och ger bort 9 kor. \n\nHur många kor har bonden nu?"

@@ -1,0 +1,1 @@
+"En äggkartong innehåller 6 ägg.\n\nHur många ägg finns det i 8 äggkartonger?"

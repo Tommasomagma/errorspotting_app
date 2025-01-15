@@ -1,0 +1,1 @@
+"My måste passera en järnväg för att komma till skolan. När det inte kommer något tåg tar det 10 minuter, men när det kommer ett tåg måste hon vänta i 5 minuter. I genomsnitt kommer ett tåg var femte dag. \n\nHur stor är sannolikheten att hon kommer sent till skolan om hon går hemifrån 07.48 och skolan börjar 08.00? Svara i procentform."

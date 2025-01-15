@@ -1,0 +1,1 @@
+"Anton delar en kaka i två lika stora delar, och sedan delar han en av halvorna i två lika stora delar.\n\nHur stor andel av kakan utgör område A? Svara i procentform."

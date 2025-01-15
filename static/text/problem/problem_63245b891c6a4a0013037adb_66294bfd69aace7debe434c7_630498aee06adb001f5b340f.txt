@@ -1,0 +1,1 @@
+"Försök att lista ut sambandet mellan de tre talen. Vilket tal ska stå i den tomma rutan?"

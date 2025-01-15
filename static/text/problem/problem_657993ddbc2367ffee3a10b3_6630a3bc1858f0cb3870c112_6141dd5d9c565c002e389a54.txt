@@ -1,0 +1,1 @@
+"Listan visar åldern på 7 personer i ett basketlag.\n\nVad är variationsbredden?"

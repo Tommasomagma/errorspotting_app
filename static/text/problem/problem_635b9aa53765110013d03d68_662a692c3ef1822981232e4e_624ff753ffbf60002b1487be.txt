@@ -1,0 +1,1 @@
+"I en förening med $30$ medlemmar är medelåldern $24$ år. Tre medlemmar med  åldern $25$ år, $28$ år och $32$ å slutar i föreningen. Men föreningen får en ny medlem som är $19$ år. Räkna ut den nya medelåldern. Avrunda till tiondels år."

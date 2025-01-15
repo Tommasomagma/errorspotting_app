@@ -1,0 +1,1 @@
+"Elsas kortlek innehåller 52 kort med fyra kort av varje värde, där ess är högst och 2 är lägst.\n\nHur många kort måste Elsa ta för att vara säker på att medianen av korten hon tagit är högre än två?"

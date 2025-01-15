@@ -1,0 +1,1 @@
+"Vilket tal är dubbelt så stort som $2{,}4\\cdot10^8$?\n\nVälj det rätta svaret i grundpotensform."

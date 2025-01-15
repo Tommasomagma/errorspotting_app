@@ -1,0 +1,1 @@
+"Vilken produkt är störst?\n\n$900\\cdot9$ eller $5\\cdot1\\ 000$"

@@ -1,0 +1,1 @@
+"I en låda finns åtta lila, sju gröna och fem vita pärlor. Bill tar en pärla utan att kolla.\n\nHur stor är sannolikheten att han tar en vit pärla? Svara i bråkform."

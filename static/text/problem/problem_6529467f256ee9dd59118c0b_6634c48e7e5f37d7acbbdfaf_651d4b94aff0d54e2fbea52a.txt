@@ -1,0 +1,1 @@
+"Fyra båtar kommer till hamnen. En båt får lägga till i taget.\n\nBeräkna. \n\n$4!=$"

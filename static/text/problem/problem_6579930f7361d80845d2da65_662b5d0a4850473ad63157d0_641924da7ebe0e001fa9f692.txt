@@ -1,0 +1,1 @@
+"Hur många lösningar har ekvationen?\n\n$2x = 2x$"

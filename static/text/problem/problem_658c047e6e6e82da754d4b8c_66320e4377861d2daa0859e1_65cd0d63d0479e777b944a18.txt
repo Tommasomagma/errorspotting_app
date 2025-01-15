@@ -1,0 +1,1 @@
+"Sköldpaddan går till A. Vilken instruktion fattas?\n\n$1. $Gå 5 steg framåt\n\n$2. $Vrid höger\n\n$3. $Gå 1 steg bakåt\n\n$4.$ $\\underline{\\hspace{2cm}}$\n\n$5. $Vrid höger\n\n$6. $Gå 1 steg framåt"

@@ -1,0 +1,1 @@
+"Alvin cyklar i hastigheten $x$ km/h. Cindy cyklar 3 gånger snabbare. Om de skulle fortsätta i samma takt i 2 timmar skulle det fattas 4 km för att de sammanlagt cyklat 100 km. \n\nHur många km hinner Cindy på en timma?"

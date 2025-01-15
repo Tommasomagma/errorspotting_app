@@ -1,0 +1,1 @@
+"Marco frågade femton personer vad de helst gör på fritiden. 6 personer valde att utöva en sport, 6 att läsa och 3 att spela instrument. \n\nStämmer cirkeldiagrammet överens med informationen?"

@@ -1,0 +1,1 @@
+"Medlemmarna i en bokklubb har läst följande antal böcker under det senaste året:\n\n$6, 6, 7, 7, 7, 7$\n\n$8, 8, 10, 10, 10, 12$\n\nVad är typvärdet?"

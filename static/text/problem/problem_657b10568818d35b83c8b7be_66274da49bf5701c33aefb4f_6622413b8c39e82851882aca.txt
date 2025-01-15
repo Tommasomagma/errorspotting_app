@@ -1,0 +1,1 @@
+"En telefon kostade 1 000 kr men sjönk i värde med 30 %.\n\nSkriv det nya priset."

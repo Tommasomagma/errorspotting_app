@@ -1,0 +1,1 @@
+"Fyll i tabellen.\n\nVad ska stå i ruta $F$?"

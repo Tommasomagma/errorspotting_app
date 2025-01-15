@@ -1,0 +1,1 @@
+"Är vinkeln mellan visarna spetsig, rät eller trubbig när klockan är $15.00$?"

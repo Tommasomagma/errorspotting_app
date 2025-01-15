@@ -1,0 +1,1 @@
+"Breitling Orbiter $3$ flög $40\\ 800$ km runt ekvatorn på $20$ dygn. Den maximala hastigheten de kom upp i var $240$ km/h. \n\nDen första flygningen med luftballong jorden runt utan uppehåll genomfördes $1999$. Beräkna luftballongens medelhastighet i meter per sekund. Avrunda till heltal och svara utan enhet."

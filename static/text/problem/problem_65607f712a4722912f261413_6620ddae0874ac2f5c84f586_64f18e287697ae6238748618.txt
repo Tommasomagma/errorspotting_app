@@ -1,0 +1,1 @@
+"I en skola med 200 elever spelar 60 fotboll. \n\nVad är sannolikheten att en slumpmässigt vald elev spelar fotboll? Svara i procent."

@@ -1,0 +1,1 @@
+"Diagrammet visar hur många spelare i ett lag som gjorde ett visst antal mål under juni månad.\n\nVar det fler spelare som gjorde tre mål än spelare som gjorde fyra mål?"

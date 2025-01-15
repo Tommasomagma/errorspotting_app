@@ -1,0 +1,1 @@
+"En linje går genom Origo och punkten $(2,5)$. Rita upp linjen i ett koordinatsystem. Vad är linjens ekvation?"

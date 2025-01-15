@@ -1,0 +1,1 @@
+"Vera köper apelsiner. Om apelsinerna hade vägt $1$ hg $30$ g mer så hade de vägt $1$ kg. \n\nHur många gram väger apelsinerna?"

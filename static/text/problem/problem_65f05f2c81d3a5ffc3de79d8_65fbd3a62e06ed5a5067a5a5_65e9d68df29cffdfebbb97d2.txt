@@ -1,0 +1,1 @@
+"4 påskharar gömmer 16 påskägg totalt. Varje påskhare gömmer lika många ägg.\n\nHur många påskägg var gömde påskhararna?"

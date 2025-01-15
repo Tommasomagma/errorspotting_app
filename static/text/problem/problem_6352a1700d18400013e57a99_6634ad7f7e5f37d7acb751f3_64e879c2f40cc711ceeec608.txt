@@ -1,0 +1,1 @@
+"Hur stor är sannolikheten att lyckohjulet stannar på mindre än 6?\n\nSvara med ett bråk i enklaste form."

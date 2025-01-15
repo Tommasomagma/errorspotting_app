@@ -1,0 +1,1 @@
+"En glasögonfabrik producerar två typer av glasögon. Modell $a$ väger 30 gram och modell $b$ väger 60 gram. En dag levererar de ett paket med 55 solglasögön, varav tjugofem är  av modell $a$.\n\nVilka två av uttrycken beskriver vikten av paketets innehåll?"

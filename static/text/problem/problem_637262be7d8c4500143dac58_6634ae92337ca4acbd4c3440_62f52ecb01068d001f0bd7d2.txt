@@ -1,0 +1,1 @@
+"I en stad finns tre taxibolag: Gultaxi, Gröntaxi och Svarttaxi. Graferna visar samband mellan kostnad $K$ och körsträcka $x$ för taxiresor med de olika bolagen.\n\nPara ihop Gröntaxi med den rätta formeln."

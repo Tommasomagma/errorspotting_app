@@ -1,0 +1,1 @@
+"Tabellen visar avstånd i kilometer mellan olika orter.\n\nHur långt är det mellan Strömstad och Oslo?"

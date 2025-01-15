@@ -1,0 +1,1 @@
+"Vilket tal är $x$?\n\n$8$ h $= {\\large \\frac{1}{x}}$ dygn"

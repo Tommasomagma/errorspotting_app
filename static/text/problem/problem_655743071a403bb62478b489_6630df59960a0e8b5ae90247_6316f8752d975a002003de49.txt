@@ -1,0 +1,1 @@
+"Hur stor är sannolikheten att hjulet stannar på 3 eller mindre? Svara i bråkform."

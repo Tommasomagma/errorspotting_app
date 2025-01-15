@@ -1,0 +1,1 @@
+"Tabellen visar antalet personer som spelat minigolf vid sommargården under en vecka.\n\nHur många spelade under helgen (lördag och söndag)?"

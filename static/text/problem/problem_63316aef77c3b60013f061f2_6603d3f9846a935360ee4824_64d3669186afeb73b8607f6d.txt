@@ -1,0 +1,1 @@
+"Skugga eller måla ${\\Large\\frac{1}{3}}$. \n\nHur stor andel är sedan vit?"

@@ -1,0 +1,1 @@
+"Skriv i procentform.\n\n${\\Large\\frac{30}{100}}=$"

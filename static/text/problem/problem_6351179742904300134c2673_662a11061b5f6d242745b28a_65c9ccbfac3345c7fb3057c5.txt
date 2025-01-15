@@ -1,0 +1,1 @@
+"Du blundar och tar en kula. Hur stor är sannolikheten att kulan är röd? Svara i procentform."

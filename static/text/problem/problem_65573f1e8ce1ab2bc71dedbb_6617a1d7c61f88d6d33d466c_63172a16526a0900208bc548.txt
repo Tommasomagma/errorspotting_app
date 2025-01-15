@@ -1,0 +1,1 @@
+"Resultatet av röster till elevrådet visas i tabellen.\n\nVilket antal röster är medianen?"

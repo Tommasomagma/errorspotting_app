@@ -1,0 +1,1 @@
+"I skolans matsal äter 460 personer lunch varje dag. En dag kan man välja mellan lasagne, fiskgratäng och pastasallad. Av de som äter i matsalen så väljer $60\\ \\%$ lasagne och 150 personer väljer fiskgratäng. Hur många personer väljer pastasallad?"

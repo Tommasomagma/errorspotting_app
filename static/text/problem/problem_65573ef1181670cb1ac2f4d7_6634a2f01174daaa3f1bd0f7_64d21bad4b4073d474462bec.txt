@@ -1,0 +1,1 @@
+"Ali har skrivit ned hur mycket regn som föll under en vecka i en tabell.\n\nVilket är typvärdet?"

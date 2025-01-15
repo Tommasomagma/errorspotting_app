@@ -1,0 +1,1 @@
+"Vilket värde har $x$ om $y = 478$ och $y + 185 = x - 233$ ?"

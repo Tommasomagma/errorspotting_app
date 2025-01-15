@@ -1,0 +1,1 @@
+"Ett bibliotek har $35$ barnböcker och $48$ vuxenböcker. \n\nHur många böcker finns det på biblioteket om de får ytterligare $12$ böcker?"

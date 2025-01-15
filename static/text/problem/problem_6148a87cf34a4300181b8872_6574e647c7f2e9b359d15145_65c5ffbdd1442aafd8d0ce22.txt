@@ -1,0 +1,1 @@
+"Visar bilden en förlängning av bråket $\\Large \\frac{1}{3}$?"

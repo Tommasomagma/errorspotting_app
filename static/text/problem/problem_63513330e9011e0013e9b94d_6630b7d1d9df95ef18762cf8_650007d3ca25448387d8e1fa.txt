@@ -1,0 +1,1 @@
+"Antag att du kastar tre vanliga tärningar av vilka två är röda och en är grön. Hur stor är sannolikheten att den gröna tärningen visar fler prickar än vad de röda tärningarna visar sammanlagt? Avrunda till tiondels procent."

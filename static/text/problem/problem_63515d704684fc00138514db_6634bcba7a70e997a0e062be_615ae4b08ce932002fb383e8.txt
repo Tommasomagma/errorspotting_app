@@ -1,0 +1,1 @@
+"Kira frågar sin farmor hur gammal hon är. Farmor svarar då: ”Om du tar nio år från min ålder, så är $3/4$ av resten lika med $60$ år.” \n\nHur gammal är farmor?"

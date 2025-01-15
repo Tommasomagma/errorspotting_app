@@ -1,0 +1,1 @@
+"Vilket tal ska stå istället för frågetecknet?\n\n$2$ km = ? mil"

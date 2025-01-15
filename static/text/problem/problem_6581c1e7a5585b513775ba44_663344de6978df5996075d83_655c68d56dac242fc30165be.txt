@@ -1,0 +1,1 @@
+"Priset för att hyra en elsparkcykel beskrivs med ekvationen $y=1{,}5x+3$, där $y$ är priset i kronor och $x$ är antalet minuter.\n\nVad kostar det att hyra elsparkcykeln i 10 minuter?"

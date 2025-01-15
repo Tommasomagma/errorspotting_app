@@ -1,0 +1,1 @@
+"Låt x = 8. Vad blir då...\n\n6x"

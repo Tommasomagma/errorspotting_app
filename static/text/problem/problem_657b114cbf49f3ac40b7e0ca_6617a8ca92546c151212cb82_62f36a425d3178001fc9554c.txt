@@ -1,0 +1,1 @@
+"Lös ekvationen. \n\n$x \\cdot 3 - 4 = 6{,}8$"

@@ -1,0 +1,1 @@
+"Lana har $200$ flätor i sitt hår. I $5$ % av flätorna har hon röda glaspärlor, i $8$ % blå och i $12$ % gröna pärlor. \n\nHur många av flätorna har pärlor som är röda?"

@@ -1,0 +1,1 @@
+"Välj det svar som är bäst?\n\n$7{,}9\\cdot 30{,}7 ≈$"

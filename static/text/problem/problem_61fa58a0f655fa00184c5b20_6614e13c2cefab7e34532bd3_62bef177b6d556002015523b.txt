@@ -1,0 +1,1 @@
+"Bilden visar ett gem i skala $5:1$.\n\nGemet är 15 cm på bilden. Hur långt är det i verkligheten? *Visa hur du löser uppgiften.*"

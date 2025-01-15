@@ -1,0 +1,1 @@
+"Skriv i gram.\n\n$0{,}03$ kg"

@@ -1,0 +1,1 @@
+"I ett mjölkpaket är det $0{,}8$ liter mjölk kvar. Tilde häller upp $3$ dl i ett glas. Hur mycket finns sedan kvar i paketet?\n\nSvara i milliliter."

@@ -1,0 +1,1 @@
+"En promille har samma värde som\n\n$\\quad$**A.**$\\;$ ${\\Large\\frac{1}{100}}$\n\n$\\quad$**B.**$\\;$ $0{,}001$\n\n$\\quad$**C.**$\\;$ ${\\Large\\frac{1\\ 000}{1}}$"

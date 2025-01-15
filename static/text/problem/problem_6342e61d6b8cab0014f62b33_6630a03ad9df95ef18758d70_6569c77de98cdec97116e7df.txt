@@ -1,0 +1,1 @@
+"Förklara hur du tänker när du ska omvandla gram till hektogram.\n\n$\\quad$**A.**$\\;$ Man kan multiplicera volymen med $100$\n\n$\\quad$**B.**$\\;$ Man kan dividera volymen med $100$\n\n$\\quad$**C.**$\\;$ Man kan addera volymen med $100$"

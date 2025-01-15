@@ -1,0 +1,1 @@
+"Beräkna: \n\n$44\\cdot8=\\space?$\n\nAnvänd uppställning och redovisa hur du räknar!"

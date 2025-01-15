@@ -1,0 +1,1 @@
+"Figuren är en rektangel med sidorna 3 och 6 centimeter. Rektangeln har en diagonal som delar den i två lika bitar.\n\nVad är arean av rektangeln?"

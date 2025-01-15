@@ -1,0 +1,1 @@
+"Tabellen visar hur eleverna i 7C kommer till och från skolan:\n\n- Går: $6$\n\n- Cyklar: $11$\n\n- Åker buss: $5$\n\n- Åker bil: $3$\n\nRita ett stapeldiagram som visar hur eleverna kommer till och från skolan. Svara sedan på frågan om det hade passat bättre med ett stolpdiagram i det här fallet?"

@@ -1,0 +1,1 @@
+"Ett taxiföretag tar $45$ kr i fast avgift för en resa. Sedan kostar varje kilometer $12$ kr och varje minut resan tar kostar $7$ kr. Teckna ett uttryck för hur mycket det kostar att åka $x$ km om resan tar $y$ min."

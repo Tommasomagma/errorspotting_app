@@ -1,0 +1,1 @@
+"Omar har tre skålar med godis. I varje skål finns tolv godisbitar. \n\nVilket uttryck talar om hur många godisar det finns sammanlagt?"

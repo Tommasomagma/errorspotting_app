@@ -1,0 +1,1 @@
+"Berken har $1$ liter och $2$ dl äppeljuice i en kanna. \n\nHur många glas kan han fylla om vardera glas rymmer $3$ dl?"

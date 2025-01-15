@@ -1,0 +1,1 @@
+"Ali ska bestämma hur många gem som finns i en ask. Han vet att en tom ask väger 40 g. \n\n- Med gem väger asken 280 g. \n- Tar Ali ur 15 gem ur asken, väger den 268 g. \n\nHur många gem fanns i asken innan Ali tog ut 15 gem?"

@@ -1,0 +1,1 @@
+"Vilket tal saknas?\n\n$0{,}1$ dm $=\\ \\underline{\\hspace{1cm}}$ mm"

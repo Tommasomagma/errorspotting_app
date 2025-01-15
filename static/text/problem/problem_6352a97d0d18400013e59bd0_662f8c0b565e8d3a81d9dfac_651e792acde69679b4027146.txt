@@ -1,0 +1,1 @@
+"Hur mycket är ${\\Large\\frac{3}{4}}$ av $80$ katter?"

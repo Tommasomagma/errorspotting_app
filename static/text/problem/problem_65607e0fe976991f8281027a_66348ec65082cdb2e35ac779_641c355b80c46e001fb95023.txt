@@ -1,0 +1,1 @@
+"Johan och Anna diskuterar hur man ska beräkna $\\Large\\frac{2}{7}$ $+$ $\\Large\\frac{2}{4}$ .\n\nJohan säger att svaret är $\\Large\\frac{22}{28}$ och Anna säger att svaret är $\\Large\\frac{11}{14}$.\n\nVem har rätt? Motivera ditt svar."

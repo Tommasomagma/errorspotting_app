@@ -1,0 +1,1 @@
+"Du har talet $56{,}25$. Skriv talet som är $\\large\\frac{3}{100}$ större"

@@ -1,0 +1,1 @@
+"Fem kilogram vita bönor ska förpackas i påsar som rymmer $0{,}65$ kg. Vilket av uttrycken nedan visar hur man räknar ut hur många påsar det blir?\n\n$\\quad$**A.**$\\;$ $0{,}65 \\cdot 5$\n\n$\\quad$**B.**$\\;$ ${\\Large\\frac{0{,}65}{5}}$\n\n$\\quad$**C.**$\\;$ ${\\Large\\frac{5}{0{,}65}}$\n\n$\\quad$**D.**$\\;$ $0{,}65+5$"

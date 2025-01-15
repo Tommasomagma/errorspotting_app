@@ -1,0 +1,1 @@
+"Figuren nedan visar tre linjer som skär varandra så att det bildas en triangel.\n\nBestäm vinkel $c$."

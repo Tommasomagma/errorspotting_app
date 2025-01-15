@@ -1,0 +1,1 @@
+"År $2005$ hade $74$ % av alla hushåll i Sverige en prenumeration på minst en dagstidning. År $2010$ hade andelen minskat till $64$ %.\n\nHur många procent fler hushåll hade en dagstidningsprenumeration år $2005$ jämfört med år $2010$? Svara i hela procent."

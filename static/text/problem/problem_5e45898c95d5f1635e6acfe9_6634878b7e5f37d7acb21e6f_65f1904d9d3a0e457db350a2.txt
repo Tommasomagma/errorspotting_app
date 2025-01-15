@@ -1,0 +1,1 @@
+"En affär säljer en chokladkaka som väger 200 g och kostar 25 kr. Storleken på chokladkakan ändras så att den nya chokladkakan väger $10\\ \\%$ mer. Affären höjer samtidigt priset på den nya chokladkakan med $30\\ \\%$. Med hur många procent förändras kilopriset?  Avrunda och svara i hela procent."

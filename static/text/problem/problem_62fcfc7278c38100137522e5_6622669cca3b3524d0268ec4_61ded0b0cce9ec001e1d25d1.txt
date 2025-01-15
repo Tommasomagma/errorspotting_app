@@ -1,0 +1,1 @@
+"Skriv med siffrorna $2$, $5$, $1$ och $7$ ett tal som är så litet som möjligt."

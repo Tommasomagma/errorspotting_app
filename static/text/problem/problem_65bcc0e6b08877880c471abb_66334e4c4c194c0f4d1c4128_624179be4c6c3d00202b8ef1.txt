@@ -1,0 +1,1 @@
+"I bilden är ${\\Large\\frac{2}{3}}$ markerade. \n\nFörläng bråket ${\\Large\\frac{2}{3}}$ med 2."

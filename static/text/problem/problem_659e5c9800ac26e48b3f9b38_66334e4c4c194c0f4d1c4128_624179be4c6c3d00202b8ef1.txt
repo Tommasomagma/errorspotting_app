@@ -1,0 +1,1 @@
+"I ett tält på festivalområdet säljs festivaltröjor för $120$ kronor styck. Inköpspriset är $40$ kronor per tröja. Man har köpt in $900$ festivaltröjor.\n\nFör att täcka kostnaderna för inköp av tröjor måste man sälja ett visst antal. Hur många tröjor måste man då sälja?"

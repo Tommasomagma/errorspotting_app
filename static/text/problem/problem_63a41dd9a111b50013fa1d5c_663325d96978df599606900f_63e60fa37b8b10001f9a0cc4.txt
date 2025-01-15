@@ -1,0 +1,1 @@
+"I Sverige finns det ungefär $6\\ 000\\ 000$ bilar och $14$ % av dem är svarta. \n\nPå en väg passerade en dag $240$ bilar. Hur många av dem kan förväntas vara svarta?"

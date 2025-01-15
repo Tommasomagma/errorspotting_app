@@ -1,0 +1,1 @@
+"Med vilket av uttrycken kan du räkna ut talen i talföljden nedan.\n\n$1\\hspace{0.5cm} 4 \\hspace{0.5cm} 7 \\hspace{0.5cm} 10 ...$\n\n\n$\tA: 4n -3 \\hspace{0.5cm}B: 3n -2 \\hspace{0.5cm}C: 2n -1 $"

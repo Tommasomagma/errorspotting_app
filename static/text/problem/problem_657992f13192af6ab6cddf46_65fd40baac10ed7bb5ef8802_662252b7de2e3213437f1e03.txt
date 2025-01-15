@@ -1,0 +1,1 @@
+"Samir ska köpa skruvar och muttrar i lösvikt. Varje skruv väger 3,4 gram, och varje mutter väger 4,15 gram. För att beräkna den totala vikten av Samirs köp, kan följande uttryck användas. \n\n$\\quad 3{,}4\\cdot s+4{,}15 \\cdot m$\n\nOm Samir köper 20 skruvar och 10 muttrar, vad blir totalvikten av hans köp? Avrunda till hela gram."

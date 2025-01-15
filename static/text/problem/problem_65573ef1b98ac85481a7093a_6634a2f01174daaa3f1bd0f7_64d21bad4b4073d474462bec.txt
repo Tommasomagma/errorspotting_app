@@ -1,0 +1,1 @@
+"I en skola går det 100 elever som är mellan 10 och 13 år. \n30 elever är 10 år, 18 elever är 11 år, 25 elever är 12 år och resten av eleverna är 13 år.\n\nVilket är typvärdet?"

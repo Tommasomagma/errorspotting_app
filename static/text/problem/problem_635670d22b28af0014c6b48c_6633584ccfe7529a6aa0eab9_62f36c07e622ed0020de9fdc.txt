@@ -1,0 +1,1 @@
+"Michel har $y$ kr. Cajsa har dubbelt så mycket pengar som Michel. Sara har $10$ kr mindre än Cajsa. Teckna ett uttryck för hur mycket pengar Cajsa har."

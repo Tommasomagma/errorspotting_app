@@ -1,0 +1,1 @@
+"Förenkla uttrycket.\n\n$(4x-y)+(2y-x)=$"

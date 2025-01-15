@@ -1,0 +1,1 @@
+"Titta på vinklarna och avgör vilken typ av triangel det är som visas i bild."

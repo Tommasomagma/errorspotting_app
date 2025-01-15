@@ -1,0 +1,1 @@
+"Beräkna med huvudräkning.\n\n${\\sqrt3 \\cdot \\sqrt{12}}=$"

@@ -1,0 +1,1 @@
+"Du kan välja mellan tre olika betalningsmodeller A, B och C när du besöker simhallen under ett år. Diagrammet visar de tre betalningsmodellerna. Axel har valt att betala enligt modell A, Beatrice enligt modell B och Charlie enligt modell C. Under 2012 besökte alla tre simhallen 20 gånger var.\n\nHur mycket fick Beatrice betala?"

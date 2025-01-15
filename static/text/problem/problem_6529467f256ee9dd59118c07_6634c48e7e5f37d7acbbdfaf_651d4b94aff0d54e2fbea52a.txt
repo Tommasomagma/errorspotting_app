@@ -1,0 +1,1 @@
+"Fyra båtar kommer till hamnen. En båt får lägga till i taget.\n\nHur många sätt kan vi välja vem som skall lägga till som nummer tre?"

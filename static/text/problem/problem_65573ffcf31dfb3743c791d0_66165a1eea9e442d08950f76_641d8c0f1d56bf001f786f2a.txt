@@ -1,0 +1,1 @@
+"En rätvinklig triangel har basen 5 centimeter och höjden 4 centimeter. \n\nBeräkna arean av triangeln."

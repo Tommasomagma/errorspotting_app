@@ -1,0 +1,1 @@
+"Familjen Björk åker på skidsemester. De köper liftkort för $5\\ 365$ kr. De båda vuxna betalar fullt pris. Anna $11$ år betalar $50$ % och Jonas får betala $25$ % av vuxenpriset.\n\n\nHur mycket kostade liftkortet för Anna? Avrunda till närmaste heltal."

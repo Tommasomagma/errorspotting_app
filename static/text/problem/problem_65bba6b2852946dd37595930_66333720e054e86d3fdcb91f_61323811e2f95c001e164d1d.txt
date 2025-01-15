@@ -1,0 +1,1 @@
+"Leo är en av 240 personer som serverar mat på Nobelfesten. Varje år byts 30 av dessa slumpmässigt ut. Hur stor är sannolikheten att Leo får servera igen de kommande 3 åren? Avrunda till hela procent."

@@ -1,0 +1,1 @@
+"Beräkna värdet av uttrycket $ab + a^2$ för $a = 5$ och $b = 2$."

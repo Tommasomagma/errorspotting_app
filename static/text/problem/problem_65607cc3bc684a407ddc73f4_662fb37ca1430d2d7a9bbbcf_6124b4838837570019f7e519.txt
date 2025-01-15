@@ -1,0 +1,1 @@
+"Hur många kilogram banan har en kund köpt vars totalkostnad kan beräknas så här?\n\n$3\\cdot 25+120+2 \\cdot40$"

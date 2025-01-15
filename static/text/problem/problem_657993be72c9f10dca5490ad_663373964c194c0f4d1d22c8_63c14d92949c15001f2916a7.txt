@@ -1,0 +1,1 @@
+"En klass med 30 elever blev tillfrågade ifall de var rädda för ormar. Resultatet visas i diagrammet.\n\nHur stor andel av eleverna svarade \"Nej\"?"

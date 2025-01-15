@@ -1,0 +1,1 @@
+"Ett ridhus är 60 m långt och 20 m brett.\n\nBeräkna ridhusets omkrets."

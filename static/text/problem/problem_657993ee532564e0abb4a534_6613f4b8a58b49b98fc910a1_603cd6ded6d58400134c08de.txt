@@ -1,0 +1,1 @@
+"Ett fotbollslag har 10 utespelare. I en straffläggning slår varje lag 5 straffar. Hur stor sannolikhet är det att en viss utespelare får slå en straff? \n\nSvara i procentform."

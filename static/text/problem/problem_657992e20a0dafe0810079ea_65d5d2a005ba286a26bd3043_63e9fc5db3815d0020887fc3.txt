@@ -1,0 +1,1 @@
+"Alicia hade $x$ kr innan hon köpte ett armband för 12 kr. Skriv ett uttryck för hur mycket pengar Alicia hade kvar efter hon köpte armbandet."

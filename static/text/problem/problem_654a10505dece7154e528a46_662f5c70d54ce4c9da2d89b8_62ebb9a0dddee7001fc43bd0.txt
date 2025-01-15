@@ -1,0 +1,1 @@
+"Sven är 34 år, Hans är 28 år, Lisa är 53 år, Susanne är 27 år och Aline är 38 år.\n\nStorleksordna ålder från minst till störst."

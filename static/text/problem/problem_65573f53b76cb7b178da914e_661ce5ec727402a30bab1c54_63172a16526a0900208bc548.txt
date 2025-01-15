@@ -1,0 +1,1 @@
+"Anna är 9 år gammal, och har tre syskon som är 6, 7 och 15 år.\n\nVad är medianen för åldrarna mellan Anna och hennes syskon?"

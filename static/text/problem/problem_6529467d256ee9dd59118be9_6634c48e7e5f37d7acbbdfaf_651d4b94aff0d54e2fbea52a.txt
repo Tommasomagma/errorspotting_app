@@ -1,0 +1,1 @@
+"Emma ska köpa 3 kulor glass och väljer mellan choklad och vanilj.\n\nEmma är noggrann med vilken ordning som smakerna kommer. Hur många permutationer kan hon välja mellan?"

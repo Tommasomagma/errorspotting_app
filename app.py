@@ -25,7 +25,7 @@ print('TABLE CREATED')
 conn.close()
 
 # Directory setup
-IMAGE_FOLDER = 'static/image'
+IMAGE_FOLDER = 'static/images'
 PROBLEM_FOLDER = 'static/text/problem'
 CORRECT_FOLDER = 'static/text/correct'
 ANSWER_FOLDER = 'static/text/answer'

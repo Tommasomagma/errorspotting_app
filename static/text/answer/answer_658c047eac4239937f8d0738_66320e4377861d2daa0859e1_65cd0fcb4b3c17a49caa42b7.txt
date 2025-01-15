@@ -1,0 +1,1 @@
+["Vrid vänster","1 steg fram","2 steg fram","Vrid höger"]

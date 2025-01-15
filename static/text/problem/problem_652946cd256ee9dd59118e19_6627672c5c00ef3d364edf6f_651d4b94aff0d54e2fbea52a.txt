@@ -1,0 +1,1 @@
+"Listan visar antal mål som fem fotbollsspelare gjorde på en säsong.\n\nVad är typvärdet av antal mål?"

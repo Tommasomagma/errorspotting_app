@@ -1,0 +1,1 @@
+"I ett ritprogram gör Zaza en modell av sitt rum. I modellen är hennes säng 4 cm lång och skalan är $1:50.$ Hur många meter är hennes säng i verkligheten?"

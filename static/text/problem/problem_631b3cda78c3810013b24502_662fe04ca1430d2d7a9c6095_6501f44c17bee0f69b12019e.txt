@@ -1,0 +1,1 @@
+"Figurens sidor är $5$ cm, $4$ cm, $6$ cm och $7$ cm. Beräkna omkretsen."

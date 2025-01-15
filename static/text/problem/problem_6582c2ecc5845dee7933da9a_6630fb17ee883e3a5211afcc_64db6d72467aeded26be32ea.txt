@@ -1,0 +1,1 @@
+"Skriv vikten i gram.\n\n$0{,}3$ kg $=$"

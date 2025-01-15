@@ -1,0 +1,1 @@
+"Vad är ${\\Large\\frac{2}{3}}$ ungefär lika med? Avrunda till två decimaler."

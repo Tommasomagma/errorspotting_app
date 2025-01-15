@@ -1,0 +1,1 @@
+"Beräkna och svara i enklaste form.\n\n${\\Large\\frac{3}{5}} \\cdot {\\Large\\frac{20}{21}}=$"

@@ -1,0 +1,1 @@
+"Förenkla uttrycket.\n\n$y(2z-3y)+2z(y-z)+3y^2=$"

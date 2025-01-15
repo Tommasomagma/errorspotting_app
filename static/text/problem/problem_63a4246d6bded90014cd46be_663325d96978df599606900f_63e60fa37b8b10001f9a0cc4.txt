@@ -1,0 +1,1 @@
+"Det finns olika blodgrupper hos människor. De kallas A, B, O och AB. Dessa blodgrupper delas sedan in i undergrupperna, plus (+) och minus (-). \n\nHur stor andel av svenskarna som har en viss blodgrupp kan du se i tabellen. Hur stor är sannolikheten att en slumpvis utvald person tillhör A."

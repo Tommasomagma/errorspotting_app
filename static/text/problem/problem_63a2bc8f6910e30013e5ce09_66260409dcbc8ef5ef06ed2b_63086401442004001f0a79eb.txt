@@ -1,0 +1,1 @@
+"Oskar hoppar fallskärm. När han hoppar ut ur planet ökar hans fart snabbt. När hans fallskärm öppnar sig minskar farten plötsligt och han sjunker sedan ner mot marken med en jämn fart.\n\nVilken av de tre graferna beskriver Oskars fallskärmshopp?"

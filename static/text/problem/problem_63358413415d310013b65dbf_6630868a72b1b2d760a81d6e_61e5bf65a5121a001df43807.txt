@@ -1,0 +1,1 @@
+"En portkod innebär ofta att man först ska trycka A eller B och sedan fyra siffror mellan $0$ och $9$. \n\nHur många olika kombinationer finns det sammanlagt?"

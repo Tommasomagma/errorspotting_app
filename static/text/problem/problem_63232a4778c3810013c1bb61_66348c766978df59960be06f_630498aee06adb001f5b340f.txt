@@ -1,0 +1,1 @@
+"Det är $45$ mil mellan Stockholm och Göteborg. När Agnes åker tåg tar det tre timmar. Hur mycket längre tid tar resan med bil om hon kör $90$ km i timmen i genomsnitt? Svara utan enhet."

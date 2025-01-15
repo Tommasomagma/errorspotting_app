@@ -1,0 +1,1 @@
+"På påsklovet åker Mehmet tre varv i ett skidspår som är $870$ m långt. \n\nHur långt åker han sammanlagt?"

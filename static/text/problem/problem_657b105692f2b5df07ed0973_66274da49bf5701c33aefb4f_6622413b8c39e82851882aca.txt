@@ -1,0 +1,1 @@
+"En rektangel har arean 15 cm$^2$ och höjden 3 cm. \n\nOm basen av rektangeln förlängs med 40 %, vad blir rektangelns nya area?"

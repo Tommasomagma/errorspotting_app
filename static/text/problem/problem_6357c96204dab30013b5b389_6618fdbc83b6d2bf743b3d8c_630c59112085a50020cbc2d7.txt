@@ -1,0 +1,1 @@
+"Ett normaltjockt A4-papper har måtten $210 \\cdot 297$ mm och väger $5$ g.\n\nPå en skola gjordes ett år $685\\ 000$ kopior på A4-papper. Hur många fotbollsplaner skulle man kunna täcka med dessa papper? En fotbollsplan kan ha måtten $110$ m $\\cdot$ $65$ m. Avrunda till heltal."

@@ -1,0 +1,1 @@
+"Från översta raden, hur är tågen storleksordnade?\n\n$\\hspace{0.37cm}$**A.** Från kortast till längst\n\n$\\hspace{0.37cm}$**B.** Från längst till kortast"

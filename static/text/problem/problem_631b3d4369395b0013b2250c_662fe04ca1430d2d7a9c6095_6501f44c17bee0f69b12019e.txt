@@ -1,0 +1,1 @@
+"Rektangeln har höjden $20$ mm och bredden $55$ mm. \n\nBeräkna omkretsen i centimeter."

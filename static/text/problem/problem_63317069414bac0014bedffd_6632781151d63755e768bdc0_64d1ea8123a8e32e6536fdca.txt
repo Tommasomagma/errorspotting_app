@@ -1,0 +1,1 @@
+"Ett träd är $4$ cm högt på en bild. Hur högt är trädet i verkligheten om bilden är i skala $1$ : $100$?"

@@ -1,0 +1,1 @@
+"Beräkna och svara i potensform.\n\n$6^0 \\cdot 6^4 =$"

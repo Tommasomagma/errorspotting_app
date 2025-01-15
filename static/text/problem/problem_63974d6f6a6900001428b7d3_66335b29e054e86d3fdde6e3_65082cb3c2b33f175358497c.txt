@@ -1,0 +1,1 @@
+"En dunk rymmer $6$ liter saft. Den är fylld till ${\\Large\\frac{2}{3}}$. Saften hälls upp i flaskor som rymmer $75$ cl. Hur stor andel av den sista flaskan blir fylld? Svara i bråkform."

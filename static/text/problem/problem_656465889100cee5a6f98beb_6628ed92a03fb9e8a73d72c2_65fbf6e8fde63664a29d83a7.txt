@@ -1,0 +1,1 @@
+"Ahmet gillar att fiska. Hans utrustning består av drag, spön och linor. Han kan kombinera sin utrustning på 36 olika sätt.\n\nIfall Ahmet har två spön och två linor, hur många olika drag har Ahmet?"

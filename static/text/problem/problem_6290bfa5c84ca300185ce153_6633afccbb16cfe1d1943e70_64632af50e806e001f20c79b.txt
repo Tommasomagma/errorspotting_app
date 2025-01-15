@@ -1,0 +1,1 @@
+"Beräkna.\n\n$\\sqrt{81} \\cdot \\sqrt{81}=$"

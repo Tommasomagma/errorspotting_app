@@ -1,0 +1,1 @@
+"En ridgrupp bestod av $7$ elever. Deras medelålder var $14$ år. Den äldsta, som var $17$ år, flyttades till en vuxengrupp.\n\nSamtidigt började två nya elever som var $11$ och $12$ år gamla.\n\nVilken blev den nya medelåldern i ridgruppen?"

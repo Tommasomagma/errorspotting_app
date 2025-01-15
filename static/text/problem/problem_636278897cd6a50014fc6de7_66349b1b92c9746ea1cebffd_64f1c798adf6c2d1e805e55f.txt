@@ -1,0 +1,1 @@
+"Vilka två uttryck nedan betyder ett tal som är en tredjedel av $x$?\n\n\n${\\Large\\frac{x}{3}}\\hspace{0.5cm}x-3\\hspace{0.5cm}{\\Large\\frac{3}{x}}\\hspace{0.5cm}0{,}3x\\hspace{0.5cm}{\\Large\\frac{1}{3}} \\cdot x$"

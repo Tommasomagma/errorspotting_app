@@ -1,0 +1,1 @@
+"Bestäm värdet av uttrycket $a+ b=$ om $a=1$ och $b=2$."

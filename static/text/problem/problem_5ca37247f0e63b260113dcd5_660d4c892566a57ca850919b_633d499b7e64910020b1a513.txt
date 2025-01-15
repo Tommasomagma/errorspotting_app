@@ -1,0 +1,1 @@
+"Robin har fem kort som visar olika former. Han blandar korten och tar slumpvis ett kort. \n\nHur stor är sannolikheten i procent att han tar ett kort med en fyrhörning?"

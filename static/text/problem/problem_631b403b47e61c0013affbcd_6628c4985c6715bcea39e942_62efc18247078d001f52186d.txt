@@ -1,0 +1,1 @@
+"Kvadraten har sidlängden $3$ cm. Beräkna arean."

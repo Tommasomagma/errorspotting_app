@@ -1,0 +1,1 @@
+"Vilket tal behöver $\\Large\\frac{3}{7}$ förlängas med för att summan av täljaren och nämnaren ska bli 60?"

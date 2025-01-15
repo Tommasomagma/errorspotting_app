@@ -1,0 +1,1 @@
+"En grusplan är $10$ m lång och $8$ m bred. Hur stor area skulle grusplanen ha om den hade samma omkrets, men formen av en kvadrat?"

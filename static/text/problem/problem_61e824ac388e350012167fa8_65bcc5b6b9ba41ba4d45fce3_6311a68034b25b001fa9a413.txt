@@ -1,0 +1,1 @@
+"Lådan är 5 dm lång, 9 dm bred och 6 dm hög. Mika häller i sand i lådan tills den är halvfull. \n\nHur mycket sand är det i lådan då?"

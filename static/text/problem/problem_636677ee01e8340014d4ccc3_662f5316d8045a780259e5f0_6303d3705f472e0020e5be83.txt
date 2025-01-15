@@ -1,0 +1,1 @@
+"Du kastar en röd och en grön tärning. Hur stor är sannolikheten att ingen tärning visar en $1$:a? Svara i bråkform."

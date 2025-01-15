@@ -1,0 +1,1 @@
+"Diagrammet visar hur många mål olika fotbollsspelare gjort under en säsong.\n\nNär all insamlad data är storleksordnad, vilket värde i ordningen har då medianen?"

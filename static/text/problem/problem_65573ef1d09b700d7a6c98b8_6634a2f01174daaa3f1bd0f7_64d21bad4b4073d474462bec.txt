@@ -1,0 +1,1 @@
+"50 elever tillfrågades om vad de ville göra på elevens val. Resultatet visas i tabellen.\n\nOm det istället hade varit 60 elever i klassen, vilket hade varit typvärdet då?"

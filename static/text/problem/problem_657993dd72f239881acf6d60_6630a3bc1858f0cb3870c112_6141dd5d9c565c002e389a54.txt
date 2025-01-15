@@ -1,0 +1,1 @@
+"Talen visar fem olika observationer.\n\n$3 \\hspace{0.3cm} 3  \\hspace{0.3cm} 5  \\hspace{0.3cm}  9  \\hspace{0.3cm}  10$\n\nVad är medelvärdet av talen?"

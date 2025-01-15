@@ -1,0 +1,1 @@
+"Hur många grader ska ringen vridas runt mittpunkten P för att mönstret ska sammanfalla med det ursprungliga mönstret?\n\nAnge *minsta möjliga* gradtal."

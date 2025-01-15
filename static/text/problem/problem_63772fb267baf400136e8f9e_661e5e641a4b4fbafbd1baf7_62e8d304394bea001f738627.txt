@@ -1,0 +1,1 @@
+"Amir och Lisa köper potatis med samma kilopris (kr/kg). Vilken vikt ska fyllas i för Lisas potatis i tabellen?"

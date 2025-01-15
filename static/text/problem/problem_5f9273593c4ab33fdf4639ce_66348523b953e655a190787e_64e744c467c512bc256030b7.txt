@@ -1,0 +1,1 @@
+"Ett rektangulärt trädäck har en kortsida som är hälften så lång som långsidan. Under en vår oljas däcket in två gånger. Långsidan har längden $x$. Vilka två uttryck anger arean som oljades in totalt?"

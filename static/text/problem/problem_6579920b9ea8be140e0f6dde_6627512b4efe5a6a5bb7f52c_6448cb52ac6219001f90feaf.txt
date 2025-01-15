@@ -1,0 +1,1 @@
+"I förrgår åt Kerstin en ${ \\Large \\frac{1}{3} }$ av ett flingpaket, igår åt hon ${ \\Large \\frac{1}{6} }$ av ett annat flingpaket. Idag åt hon ${ \\Large \\frac{1}{12} }$ av ett tredje flingpaket. Hur stor andel av ett paket har hon ätit på dessa tre dagar?"

@@ -1,0 +1,1 @@
+"Beräkna värdet av uttrycket $6x-4y$ för\n\n$x=5$ och $y=3$."

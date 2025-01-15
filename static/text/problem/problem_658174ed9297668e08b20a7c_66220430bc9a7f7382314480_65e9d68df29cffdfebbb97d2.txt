@@ -1,0 +1,1 @@
+"Syskonen Adrian, Alma och Alice är sammanlagt 27 år. Adrian är hälften så gammal som Alma. Alice är hälften så gammal som Adrian och Alma är sammanlagt. \n\nHur gammal är Adrian?"

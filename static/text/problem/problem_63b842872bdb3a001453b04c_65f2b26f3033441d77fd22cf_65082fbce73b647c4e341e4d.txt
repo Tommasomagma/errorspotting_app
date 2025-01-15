@@ -1,0 +1,1 @@
+"Agnes är $10$ år. Hennes mamma Lisa är $4$ gånger så gammal. \n\nHur gammal är Lisa när Agnes är dubbelt så gammal som hon är nu?"

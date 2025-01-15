@@ -1,0 +1,1 @@
+"Rita en rektangel med sidorna 5 cm och 4 cm. \n\nBeräkna omkretsen."

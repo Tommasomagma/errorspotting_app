@@ -1,0 +1,1 @@
+"En dator kostar 4 300 kr. Skriv hur många procent priset ändrats om det nya priset kan beräknas enligt $0{,}86 \\cdot 4\\ 300$."

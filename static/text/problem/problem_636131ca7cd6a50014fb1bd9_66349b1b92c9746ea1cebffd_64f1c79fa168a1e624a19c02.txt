@@ -1,0 +1,1 @@
+"Skriv talen med siffror i decimalform.\n\ntolv tusendelar $= \\ \\underline{\\hspace{1cm}}$"

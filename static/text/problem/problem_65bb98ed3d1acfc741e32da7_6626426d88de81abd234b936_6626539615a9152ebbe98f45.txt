@@ -1,0 +1,1 @@
+"Undersök talföljden. Vilket tal fattas?\n\n$2\\hspace{0.3cm}5\\hspace{0.3cm}11\\hspace{0.3cm}20\\hspace{0.3cm}32\\hspace{0.3cm}\\underline{\\hspace{0.5cm}}$"

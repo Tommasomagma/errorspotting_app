@@ -1,0 +1,1 @@
+"På ett biljardbord finns 8 klot. Anna stöter ner $\\Large\\frac{3}{8}$ av alla klot. Hur många klot finns kvar på bordet efter det?"

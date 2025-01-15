@@ -1,0 +1,1 @@
+"Liam ska göra modeller av två matlådor. De ska tillverkas i samma material. Alla längdmått på den stora matlådan är 3 gånger så långa som på den lilla matlådan.\n\nLiam påstår att den stora lådans volym är 9 gånger större än den lilla lådans volym. Stämmer det? Motivera ditt svar."

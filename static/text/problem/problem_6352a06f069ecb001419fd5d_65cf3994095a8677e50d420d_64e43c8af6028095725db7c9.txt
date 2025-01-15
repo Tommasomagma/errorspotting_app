@@ -1,0 +1,1 @@
+"I bild visas en halvcirkel med diametern $4$ cm. Vilket är det bästa närmevärdet på omkretsen?"

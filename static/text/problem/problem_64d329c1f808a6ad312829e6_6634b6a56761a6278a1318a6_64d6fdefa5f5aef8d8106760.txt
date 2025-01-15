@@ -1,0 +1,1 @@
+"Ett flygplan har flugit $12\\ 699$ km. Hur långt har det åkt när det flugit en km till?"

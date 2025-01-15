@@ -1,0 +1,1 @@
+"Välj det alternativ som är lika med\n\n$\\Large\\frac{1}{10}=$"

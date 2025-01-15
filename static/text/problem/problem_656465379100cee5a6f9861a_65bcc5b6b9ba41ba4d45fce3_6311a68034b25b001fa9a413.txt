@@ -1,0 +1,1 @@
+"En sandlåda är formad som ett rätblock och rymmer $4\\ 800$ liter sand. Djupet är $30$ cm.\n\nVilken är den minsta möjliga omkretsen för sandlådan? Svara i meter."

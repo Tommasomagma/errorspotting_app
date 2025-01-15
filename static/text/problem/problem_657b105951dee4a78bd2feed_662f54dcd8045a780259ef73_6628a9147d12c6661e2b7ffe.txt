@@ -1,0 +1,1 @@
+"På ett maraton startade 25 236 personer. 5 148 personer avbröt loppet.\n\nHur många procent avbröt? Avrunda till hela procent."

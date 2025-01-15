@@ -1,0 +1,1 @@
+"Vilket tal skrivs i utvecklad form enligt nedan?\n\n$10\\ 000+2 \\space 000+400+50+6$"

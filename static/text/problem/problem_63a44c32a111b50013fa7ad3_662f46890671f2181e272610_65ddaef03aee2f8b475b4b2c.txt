@@ -1,0 +1,1 @@
+"En gummiboll som faller mot golvet studsar upp till ${\\Large\\frac{4}{5}}$ av den högsta höjd den hade innan studsen. Erika släpper bollen från $8$ meters höjd. Hur högt studsar bollen efter första studsen?"

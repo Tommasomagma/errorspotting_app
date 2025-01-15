@@ -1,0 +1,1 @@
+"Kvadrat $A$ har en sida som är tre gånger så lång som sidan i kvadrat $B$. \n\nAntag att kvadrat $B$ har sidan $x$. Vad blir uttrycket för omkretsen av kvadrat $A$? Förenkla så långt som möjligt."

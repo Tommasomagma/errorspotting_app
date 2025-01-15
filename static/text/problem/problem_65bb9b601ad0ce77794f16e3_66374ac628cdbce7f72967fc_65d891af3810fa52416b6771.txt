@@ -1,0 +1,1 @@
+"Diagrammet visar ålder för alla personer på en fest. Använd diagrammet och bestäm om påståendet är sant eller falskt. Motivera ditt svar med resonemang eller beräkningar. \n\n**Sant eller falskt?**\n\nMedelvärdet är 23 år."

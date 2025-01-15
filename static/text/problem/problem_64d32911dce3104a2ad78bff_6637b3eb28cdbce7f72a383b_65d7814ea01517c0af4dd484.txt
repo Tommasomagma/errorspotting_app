@@ -1,0 +1,1 @@
+"Ali har $4$ pennor och Bella har $5$ pennor. \n\nHur många pennor har Ali och Bella tillsammans?"

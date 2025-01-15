@@ -1,0 +1,1 @@
+"Mildred drar ett kort ur en vanlig kortlek. Hon stoppar tillbaka kortet, blandar leken och drar sen ett kort till. Hur stor är sannolikheten att det första kortet är en spader och det andra högre än $10$? Svara i bråkform."

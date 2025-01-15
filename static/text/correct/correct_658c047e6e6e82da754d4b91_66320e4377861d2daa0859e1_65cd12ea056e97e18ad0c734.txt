@@ -1,0 +1,1 @@
+["Gå 1 steg bakåt","Vrid höger","Gå 1 steg framåt"]

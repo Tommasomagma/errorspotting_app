@@ -1,0 +1,1 @@
+"Skriv uttrycket utan parentes.\n\n$z(y-2z)=$"

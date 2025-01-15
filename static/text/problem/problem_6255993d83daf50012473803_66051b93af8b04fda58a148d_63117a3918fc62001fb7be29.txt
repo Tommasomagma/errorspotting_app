@@ -1,0 +1,1 @@
+"Triangeln är likbent. Bestäm värdet på $x$."

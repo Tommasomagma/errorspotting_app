@@ -1,0 +1,1 @@
+"En rätvinklig triangel har arean 20 cm$^2$. Hugo ritar en ny triangel som har samma form som den tidigare nämnda triangeln, men som har dubbelt så lång bas respektive höjd.\n\nVad är arean av Hugos triangel?"

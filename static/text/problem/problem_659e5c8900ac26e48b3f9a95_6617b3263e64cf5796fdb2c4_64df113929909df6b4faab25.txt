@@ -1,0 +1,1 @@
+"Sydafrika består av 9 provinser. I tabellen ser du folkmängd och area för varje provins.\n\nVilken provins är störst till befolkning?"

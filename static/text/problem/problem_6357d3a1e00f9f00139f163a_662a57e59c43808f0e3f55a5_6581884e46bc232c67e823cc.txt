@@ -1,0 +1,1 @@
+"I ask $B$ finns det $4$ tabletter fler än i ask $A$. Sammanlagt innehåller de båda askarna $60$ tabletter. Hur många är det i ask $B$? Lös med ekvation."

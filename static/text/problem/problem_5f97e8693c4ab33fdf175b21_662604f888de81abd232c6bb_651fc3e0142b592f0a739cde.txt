@@ -1,0 +1,1 @@
+"Under en vecka sprang Adam 5 gånger. De sträckor han sprang var:\n\n2 km$\\hspace{0.5cm}$3 km$\\hspace{0.5cm}$1,5 km$\\hspace{0.5cm}$3,5 km$\\hspace{0.5cm}$4 km\n\nHur långt sprang han i genomsnitt?"

@@ -1,0 +1,1 @@
+"Ett rep är 72 meter långt. Repet ska bilda en triangel där den kortaste sidan är en sjättedel av den genomsnittliga längden per sida. De övriga sidorna är lika långa. Hur långa är de sidorna?"

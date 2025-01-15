@@ -1,0 +1,1 @@
+"Bilden visar ett antal figurer byggda av tändstickor. \n\nTeckna ett uttryck för hur många tändstickor som krävs för $n$ stycken femhörningar."

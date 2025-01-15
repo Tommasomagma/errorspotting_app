@@ -1,0 +1,1 @@
+"Påsen innehåller kulor av 3 olika färger.\n\nHur många kulor måste du dra för att vara säker på att dra en röd kula?"

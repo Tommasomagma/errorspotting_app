@@ -1,0 +1,1 @@
+"Bilen är $2{,}5$ cm lång på bilden. Hur lång är den i verkligheten?"

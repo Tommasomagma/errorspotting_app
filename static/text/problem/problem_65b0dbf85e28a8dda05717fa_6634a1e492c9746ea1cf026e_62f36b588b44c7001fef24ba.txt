@@ -1,0 +1,1 @@
+"Medelvärdet av fyra tal är 9. Tre av talen är 4, 11 och 16. \n\nVilket kan vara det fjärde talet?"
