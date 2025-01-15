@@ -15,7 +15,7 @@ def get_db_connection():
 conn = get_db_connection()
 with conn.cursor() as cur:
     cur.execute("""
-        CREATE TABLE IF NOT EXISTS user_inputs_test (
+        CREATE TABLE IF NOT EXISTS es_data_main (
             id SERIAL PRIMARY KEY,
             input TEXT NOT NULL
         )
@@ -114,11 +114,11 @@ def handle_user_input():
     conn = get_db_connection()
     with conn.cursor() as cur:
         # Insert into whichever table you are actually using (user_inputs or user_inputs_test)
-        cur.execute("INSERT INTO user_inputs (input) VALUES (%s)", (final_input,))
+        cur.execute("INSERT INTO es_data_main (input) VALUES (%s)", (final_input,))
         conn.commit()
 
         # Verification query
-        cur.execute("SELECT * FROM user_inputs ORDER BY id DESC LIMIT 1")
+        cur.execute("SELECT * FROM es_data_main ORDER BY id DESC LIMIT 1")
         result = cur.fetchone()
         print(f"Last inserted row: {result}")
 
@@ -136,11 +136,11 @@ def skip_user_input():
     conn = get_db_connection()
     with conn.cursor() as cur:
         # Insert into whichever table you are actually using (user_inputs or user_inputs_test)
-        cur.execute("INSERT INTO user_inputs (input) VALUES (%s)", (final_input,))
+        cur.execute("INSERT INTO es_data_main (input) VALUES (%s)", (final_input,))
         conn.commit()
 
         # Verification query
-        cur.execute("SELECT * FROM user_inputs ORDER BY id DESC LIMIT 1")
+        cur.execute("SELECT * FROM es_data_main ORDER BY id DESC LIMIT 1")
         result = cur.fetchone()
         print(f"Last inserted row: {result}")
 
@@ -166,7 +166,7 @@ def upload_image():
 def view_inputs():
     conn = get_db_connection()
     with conn.cursor() as cur:
-        cur.execute("SELECT * FROM user_inputs")
+        cur.execute("SELECT * FROM es_data_main")
         inputs = cur.fetchall()
     conn.close()
     return render_template('view_inputs.html', inputs=inputs)
