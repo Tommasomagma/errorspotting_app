@@ -1,0 +1,1 @@
+"Matbordet är 9 cm i bilden och är ritad i skala $1:50$. Hur många meter är bordet i verkligheten?". Problem image: missing

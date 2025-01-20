@@ -1,0 +1,1 @@
+"I en parallellogram ABCD är vinkeln A hälften så stor som vinkel B. Bestäm vinklarna. \n\n$\\text{A} = \\text{C} = \\underline{\\hspace{0.5cm}} \\degree$". Problem image: missing

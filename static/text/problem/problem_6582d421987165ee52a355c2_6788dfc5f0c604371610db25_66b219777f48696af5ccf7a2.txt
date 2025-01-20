@@ -1,0 +1,1 @@
+"Talet 86 har två siffror.\n\nVilket värde har tiotalssiffran?". Problem image: missing

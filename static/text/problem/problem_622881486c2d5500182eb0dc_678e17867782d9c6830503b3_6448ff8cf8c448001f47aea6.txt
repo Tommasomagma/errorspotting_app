@@ -1,0 +1,1 @@
+"Vilket tal pekar pilen på?\n\n$\\quad$**A**. $\\; \\Large\\frac{1}{2}$\n\n$\\quad$**B**. $\\; \\Large\\frac{1}{4}$\n\n$\\quad$**C**. $\\;\\Large\\frac{3}{4}$"

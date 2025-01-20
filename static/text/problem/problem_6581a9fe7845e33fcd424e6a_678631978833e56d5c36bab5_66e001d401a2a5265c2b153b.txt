@@ -1,0 +1,1 @@
+"Beräkna.\n\n$110+100=$". Problem image: En uppställning för addition i ett rutnät med tre kolumner och två rader där den översta raden innehåller siffrorna ett, ett och noll och den nedersta raden innehåller siffrorna ett, noll och noll med ett plustecken till vänster. En horisontell blå linje under rutnätet markerar var summan ska skrivas.

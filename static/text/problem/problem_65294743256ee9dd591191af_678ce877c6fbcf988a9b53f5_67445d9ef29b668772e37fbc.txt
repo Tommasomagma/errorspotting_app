@@ -1,0 +1,1 @@
+"Bilden visar en frekvenstabell för antal gjorda mål per match av Zlatan under en säsong.\n\nHur många matcher spelade Zlatan under säsongen?". Problem image: missing

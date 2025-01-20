@@ -1,0 +1,1 @@
+"Abdi har 10 kr och köper ett äpple som kostar 5 kr.\n\nHur många kronor har Abdi kvar?". Problem image: Ett äpple och en skiva av ett äpple.

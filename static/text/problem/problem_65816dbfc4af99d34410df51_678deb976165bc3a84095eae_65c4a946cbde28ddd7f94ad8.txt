@@ -1,0 +1,1 @@
+"Skriv talet i decimalform. \n\n${\\Large\\frac{25}{100}}=$"

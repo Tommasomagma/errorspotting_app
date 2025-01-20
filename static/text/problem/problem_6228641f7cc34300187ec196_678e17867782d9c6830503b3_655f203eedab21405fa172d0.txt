@@ -1,0 +1,1 @@
+"Vilket tal ska stå istället för frågetecknet?". Problem image: En sekvens av tal minskar gradvis med ett frågetecken vid slutet som representerar det okända talet som ska fastställas.

@@ -1,0 +1,1 @@
+"Lös följande uppgift. \nVisa hur du räknar. \n\n$  204 ÷ 6$"

@@ -1,0 +1,1 @@
+"Beräkna. \n\n$3{,}3 - 0{,}6=$". Problem image: Bilden visar två uppsättningar av staplar för att representera tal. Den första uppsättningen består av tre hela orange staplar och en tredjedels stapel, symboliserande 3,3. Den andra uppsättningen består av en hel orange stapel och en tredjedels stapel som är genomkorsad av en svart linje, symboliserande 0,6.

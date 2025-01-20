@@ -1,0 +1,1 @@
+"Pål och Tyra är 96 år tillsammans. Pål är hälften så många år som Tyra. \n\nHur många år är **Tyra**? Svara endast med ett tal. \n\nVisa hur du löser uppgiften och skriv svar."

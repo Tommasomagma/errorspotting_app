@@ -1,0 +1,1 @@
+"Bilden visar ett lådagram över hur många gånger elever i en klass klipper håret per år.\n\nVad är variationsbredden?"

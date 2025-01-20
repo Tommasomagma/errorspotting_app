@@ -1,1 +1,1 @@
-"Ett par skor är nedsänkta med 40 % och är då 320 kr billigare än utgångspriset. \n\nVad kostade skorna innan rean?"
+"Ett par skor är nedsänkta med 40 % och är då 320 kr billigare än utgångspriset. \n\nVad kostade skorna innan rean?". Problem image: En blå sneaker.

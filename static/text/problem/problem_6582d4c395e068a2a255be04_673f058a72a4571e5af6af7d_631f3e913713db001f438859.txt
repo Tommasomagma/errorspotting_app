@@ -1,0 +1,1 @@
+"Du har $5$ bokhyllor. Det är $4$ böcker på varje hylla.\n\nHur många böcker har du totalt?". Problem image: A single brown shelf with four upright books side by side in varied colors.

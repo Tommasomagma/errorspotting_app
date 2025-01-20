@@ -1,0 +1,1 @@
+"Graferna i diagrammet visar sambandet mellan höjd och brinntid för några ljus.\n\nFormeln $y = -4x + 12$ beskriver sambandet mellan höjden $y$ cm och brinntiden $x$ h för ljus A. Skriv på motsvarande sätt formeln för ljus B."

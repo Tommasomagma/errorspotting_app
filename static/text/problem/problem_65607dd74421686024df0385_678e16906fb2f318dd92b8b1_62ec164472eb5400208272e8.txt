@@ -1,0 +1,1 @@
+"Förkorta bråket med 7. \n\n${\\Large \\frac{56}{63}} = $"

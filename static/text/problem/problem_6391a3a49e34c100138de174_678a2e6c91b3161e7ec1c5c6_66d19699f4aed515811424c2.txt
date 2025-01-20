@@ -1,0 +1,1 @@
+"Följ mönstret och rita figur $4$.\n\nHur många tändstickor finns i figur 4?". Problem image: missing

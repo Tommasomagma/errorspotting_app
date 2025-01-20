@@ -1,0 +1,1 @@
+"Para ihop tabell C med rätt linje och ekvation.\n\n$\\quad$**A.**$\\;$ Linje Q och ekvation 2\n\n$\\quad$**B.**$\\;$ Linje P och ekvation 3\n\n$\\quad$**C.**$\\;$ Linje Q och ekvation 3\n\n$\\quad$**D.**$\\;$  Linje R och ekvation 1\n\n$\\quad$**E.**$\\;$  Linje Q och ekvation 1"

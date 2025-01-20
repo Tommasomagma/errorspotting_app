@@ -1,0 +1,1 @@
+"I ett innebandylag finns det 20 spelare. Under träning så delar laget på en säck med bollar. Säcken innehåller totalt 100 bollar. Hur många bollar skulle varje spelare få om varje spelare skulle få lika många $?$"

@@ -1,1 +1,1 @@
-"Hur många prickar är det i figur 6?"
+"Hur många prickar är det i figur 6?". Problem image: missing

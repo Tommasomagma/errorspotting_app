@@ -1,0 +1,1 @@
+"Hur stor del av figuren är skuggad?\n\nSvara i decimalform.". Problem image: missing

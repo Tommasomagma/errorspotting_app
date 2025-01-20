@@ -1,0 +1,1 @@
+"Vilket tal är $x$?\n\n$18+x \\cdot 2=24$"

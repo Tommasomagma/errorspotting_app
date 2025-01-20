@@ -1,1 +1,1 @@
-"Med vilket av uttrycken kan man beräkna kastrullens mantelarea? \n\n**A.** $2 \\cdot π \\cdot 6{,}8 \\cdot 8{,}5$\t\n\n**B.** $π \\cdot 6{,}8 \\cdot 8{,}5$\n\n**C.** $π \\cdot 6{,}82 \\cdot 8{,}5\t$\n\n**D.** $π \\cdot 6{,}8 \\cdot 8{,}52$"
+"Med vilket av uttrycken kan man beräkna kastrullens mantelarea? \n\n**A.** $2 \\cdot π \\cdot 6{,}8 \\cdot 8{,}5$\t\n\n**B.** $π \\cdot 6{,}8 \\cdot 8{,}5$\n\n**C.** $π \\cdot 6{,}82 \\cdot 8{,}5\t$\n\n**D.** $π \\cdot 6{,}8 \\cdot 8{,}52$". Problem image: missing

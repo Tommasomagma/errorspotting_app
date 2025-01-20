@@ -1,0 +1,1 @@
+"Talen i en talföljd kan beräknas med uttrycket $3 n-2$. I uttrycket är $n=1, n=2$ och så vidare.\n\nVilket är det första talet i talföljden, det vill säga för $n=1$?"

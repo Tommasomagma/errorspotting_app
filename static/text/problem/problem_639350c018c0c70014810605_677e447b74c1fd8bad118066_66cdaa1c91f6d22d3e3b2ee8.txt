@@ -1,0 +1,1 @@
+"Skriv ett uttryck för antalet gula plattor i figur $n$.". Problem image: missing

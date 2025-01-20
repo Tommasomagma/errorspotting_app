@@ -1,0 +1,1 @@
+"I vilken figur används gradskivan korrekt så att man kan avläsa en vinkel med hjälp av den?". Problem image: Fyra bilder märkta A, B, C och D som visar olika sätt att placera en gradskiva mot en vinkel för att avläsa den. Varje bild innehåller en gradskiva och en vinkel som antingen är placerad korrekt eller felaktigt i förhållande till gradskivan.

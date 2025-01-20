@@ -1,0 +1,1 @@
+"Hur många rutor täcks av den färgade figuren?". Problem image: Bilden visar en symmetrisk figur bestående av ett större gult kvadratiskt rutnät och två mindre gula trianglar placerade på varsin sida om kvadraterna, vilket bildar en större triangulär form.

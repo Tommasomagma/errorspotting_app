@@ -1,1 +1,1 @@
-"På hur många sätt kan man ta sig från A till D?"
+"På hur många sätt kan man ta sig från A till D?". Problem image: missing

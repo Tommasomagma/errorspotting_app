@@ -1,0 +1,1 @@
+"Minea bakar $4$ plåtar muffins. På varje plåt finns $5$ chokladmuffins och $3$ vaniljmuffins.\n\nHur många muffins bakar Minea totalt?". Problem image: missing

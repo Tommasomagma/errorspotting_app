@@ -1,0 +1,1 @@
+"Anna och Clara sommarjobbar. Graferna visar sambandet mellan deras löner och hur många timmar de arbetar.\n\nHur stor är Annas timlön?". Problem image: missing

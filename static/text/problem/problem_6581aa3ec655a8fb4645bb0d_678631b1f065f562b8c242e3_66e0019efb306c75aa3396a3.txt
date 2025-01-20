@@ -1,1 +1,1 @@
-"Beräkna.\n\n$ 119-7=$"
+"Beräkna.\n\n$ 119-7=$". Problem image: En uppställning för subtraktion i en tabell med tre kolumner. Överst i varje kolumn finns siffrorna 1, 1 och 9. Under strecket i den sista kolumnen står siffran 7.

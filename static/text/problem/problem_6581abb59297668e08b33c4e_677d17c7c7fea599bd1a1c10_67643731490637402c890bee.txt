@@ -1,1 +1,1 @@
-""
+"". Problem image: Det finns ett antal stjärnor, några är färgade blåa och andra är färgade rosa. Stjärnorna är utspridda utan något specifikt mönster.

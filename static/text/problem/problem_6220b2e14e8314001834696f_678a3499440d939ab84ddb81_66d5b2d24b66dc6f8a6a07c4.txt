@@ -1,0 +1,1 @@
+"". Problem image: Bilden visar fem olika objekt var och en med ett pris under. Objekten är en rosa bil, en låda med kritor, en nallebjörn, en pysselbok och en boll. Varje objekt har ett pris i kronor angett i en textetikett bredvid sig.

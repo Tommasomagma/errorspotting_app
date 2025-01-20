@@ -1,0 +1,1 @@
+"". Problem image: En analog klocka visas med siffror från 1 till 12. De två visarna pekar på olika siffror.

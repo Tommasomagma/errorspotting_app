@@ -1,0 +1,1 @@
+"En cylindrisk färgburk innehåller 5 liter färg. \n\nVad har burken för radie om höjden är 25 cm? Använd ${\\pi} \\approx 3{,}14$ och avrunda till hela centimeter."

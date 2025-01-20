@@ -1,0 +1,1 @@
+"På en ritning är ett rum $2{,}5$ cm långt. Hur långt är rummet i verkligheten\nom skalan är $1 : 200$? Svara i meter."

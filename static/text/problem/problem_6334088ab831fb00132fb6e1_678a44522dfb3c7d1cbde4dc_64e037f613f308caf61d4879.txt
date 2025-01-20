@@ -1,0 +1,1 @@
+"Det tar $3$ min i genomsnitt för Benjamin att lösa en uppgift i matteboken. \n\nHur lång tid tar det för honom att räkna $65$ uppgifter?\n\nSvara i timmar och minuter."

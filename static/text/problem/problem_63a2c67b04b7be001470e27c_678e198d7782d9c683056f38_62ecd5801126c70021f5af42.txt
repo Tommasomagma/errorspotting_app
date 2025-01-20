@@ -1,0 +1,1 @@
+"Använd diagrammet när du löser uppgiften. Graferna i diagrammet visar sambandet mellan sträcka och tid för två olika medelhastigheter.\n\nHur lång tid tar det att köra $18$ mil med hastigheten $90$ km/h?". Problem image: missing

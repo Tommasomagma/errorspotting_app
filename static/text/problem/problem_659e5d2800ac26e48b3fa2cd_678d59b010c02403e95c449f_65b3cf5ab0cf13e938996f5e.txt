@@ -1,0 +1,1 @@
+"\n\nHur mycket är klockan?". Problem image: En analog klocka med siffror 1 till 12. Den stora visaren pekar på 11 och den lilla visaren är mellan 10 och 11.

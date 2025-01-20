@@ -1,0 +1,1 @@
+"Skriv ett så litet jämnt tal som möjligt med siffrorna $2, 5$ och $1$."

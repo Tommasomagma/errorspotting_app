@@ -1,0 +1,1 @@
+"Ett runt matbord har en diameter på 120 cm. \n\nHur många personer får plats kring bordet? Varje person behöver cirka 60 cm."

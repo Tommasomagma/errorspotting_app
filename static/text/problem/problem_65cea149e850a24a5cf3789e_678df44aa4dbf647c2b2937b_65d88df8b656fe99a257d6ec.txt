@@ -1,1 +1,1 @@
-"Hur många kilo päron får du för\n\n30kr"
+"Hur många kilo päron får du för\n\n30kr". Problem image: missing

@@ -1,0 +1,1 @@
+"Hur många rutor är färgade?". Problem image: Ett rutnät bestående av kvadrater arrangerade i rader och kolumner. Vissa kvadrater är färgade.

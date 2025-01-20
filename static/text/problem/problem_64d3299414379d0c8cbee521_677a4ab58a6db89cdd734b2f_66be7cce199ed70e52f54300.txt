@@ -1,0 +1,1 @@
+"Ett bord är $1{,}65$ meter långt. Hur långt är det uttryckt i meter och centimeter?\n\n$\\hspace{0.37cm}$**A**. $1$ m $0{,}65$ cm\n\n$\\hspace{0.37cm}$**B**. $1$ m $6{,}5$ cm \n\n$\\hspace{0.37cm}$**C**. $100$ m $65$ cm \n\n$\\hspace{0.37cm}$**D**. $1$ m $65$ cm"

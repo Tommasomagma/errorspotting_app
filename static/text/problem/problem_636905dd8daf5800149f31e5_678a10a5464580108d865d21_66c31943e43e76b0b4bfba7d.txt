@@ -1,1 +1,1 @@
-"Hur stor andel av figuren är färgad?"
+"Hur stor andel av figuren är färgad?". Problem image: missing

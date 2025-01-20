@@ -1,0 +1,1 @@
+"Hur stor del av figuren är färgad?\n\n$\\Large \\frac{2}{5} \\hspace{0.5cm} \\Large \\frac{1}{10}  \\hspace{0.5cm} \\Large \\frac{1}{2}  \\hspace{0.5cm} \\Large \\frac{3}{5}$"

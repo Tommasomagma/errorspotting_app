@@ -1,0 +1,1 @@
+"Vilket tal kommer näst? \n\n$695 \\hspace{0.5cm} 697 \\hspace{0.5cm} 699 \\hspace{0.5cm} \\underline{\\hspace{1cm}}$"

@@ -1,0 +1,1 @@
+"Diagrammet visar hur många millimeter det regnade under en vecka i november.\n\nHur många millimeter regnade det sammanlagt under veckan?". Problem image: missing

@@ -1,0 +1,1 @@
+"Medelvärdet av fem tal är $10$. Fyra av talen är $0$, $7$, $11$ och $16$. Vilket är det femte talet?"

@@ -1,0 +1,1 @@
+"Skriv ett förenklat uttryck för rektangelns area.". Problem image: En rektangel med längden markerad som '6x' och bredden markerad som '2'.

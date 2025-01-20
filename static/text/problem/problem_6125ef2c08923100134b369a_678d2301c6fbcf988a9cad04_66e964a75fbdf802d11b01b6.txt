@@ -1,0 +1,1 @@
+"På ett byggområde skall det byggas $7$ stycken nya hus. Antag att det är tre stycken byggarbetare som arbetar på respektive hus, hur många arbetar då totalt med att bygga husen?"

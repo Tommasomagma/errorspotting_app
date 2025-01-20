@@ -1,1 +1,1 @@
-"Lisa lägger 4 stycken mobiler som är 12 cm långa i en rad efter varandra. August fyller sedan på raden med 6 stycken gem som vardera är 3 cm långa. \n\nHur lång blir raden totalt?"
+"Lisa lägger 4 stycken mobiler som är 12 cm långa i en rad efter varandra. August fyller sedan på raden med 6 stycken gem som vardera är 3 cm långa. \n\nHur lång blir raden totalt?". Problem image: Bilden visar en ikonisk representation av fyra mobiler och bredvid dessa, en ikonisk representation av sex gem. Mobilerna och gemmen är placerade i en rad.

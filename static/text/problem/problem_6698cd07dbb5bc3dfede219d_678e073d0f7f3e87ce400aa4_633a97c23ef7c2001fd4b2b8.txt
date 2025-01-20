@@ -1,0 +1,1 @@
+"Beräkna omkretsen på skylten. Svara i enheten cm.". Problem image: missing

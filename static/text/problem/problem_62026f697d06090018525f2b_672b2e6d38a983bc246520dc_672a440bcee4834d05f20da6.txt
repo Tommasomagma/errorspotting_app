@@ -1,0 +1,1 @@
+"". Problem image: Sekvens av tal minskar i jämn ordning från vänster till höger med ett frågetecken istället för det sista talet.

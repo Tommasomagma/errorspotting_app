@@ -1,0 +1,1 @@
+"Dela upp talet 8 i primtalsfaktorer. Rita först färdigt faktorträdet. Vilket tal är primtalsfaktor till talet 8?". Problem image: missing

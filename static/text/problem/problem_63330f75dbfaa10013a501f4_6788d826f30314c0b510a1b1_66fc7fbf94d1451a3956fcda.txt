@@ -1,1 +1,1 @@
-"Om $25$ % av figuren färgläggs, hur stor andel är då vit? \n\nSvara i procentform."
+"Om $25$ % av figuren färgläggs, hur stor andel är då vit? \n\nSvara i procentform.". Problem image: missing

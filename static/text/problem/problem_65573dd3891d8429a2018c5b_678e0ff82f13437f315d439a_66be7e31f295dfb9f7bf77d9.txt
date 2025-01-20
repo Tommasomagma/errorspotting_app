@@ -1,0 +1,1 @@
+"Bilden visar ett stapeldiagram med tillhörande tabell för temperaturer under 2018 och 2019. Fyll i de värden som saknas i tabellen.\n\nVad ska det stå istället för C?"

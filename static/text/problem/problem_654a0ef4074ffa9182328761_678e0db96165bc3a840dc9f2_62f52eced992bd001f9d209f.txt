@@ -1,0 +1,1 @@
+"Bilden av kakan är förminskad i skalan $1:2$. Hur lång diameter har kakan i verkligheten?". Problem image: En bild visar en förminskad kaka ovanför en linjal. Kakans diameter är markerad och mäts över linjalen. Linjalen har centimeter indelningar.

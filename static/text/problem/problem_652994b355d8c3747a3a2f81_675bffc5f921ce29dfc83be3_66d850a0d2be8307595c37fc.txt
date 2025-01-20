@@ -1,0 +1,1 @@
+"I triangel (1) finns ett visst mönster och talen i triangel (2) och (3) följer samma mönster.\n\nVilket heltal ska ersätta a för att få mönstret att stämma?". Problem image: missing

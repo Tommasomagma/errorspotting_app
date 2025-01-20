@@ -1,0 +1,1 @@
+"Vilken figur har kryss i en tredjedel av rutorna?". Problem image: Fyra rektangulära figurer märkta A, B, C och D, uppdelade i lika stora rutor. Varje figur innehåller ett antal rutor med ett kryss i. Figuren behöver jämföras för att bestämma vilken som har en tredjedel av rutorna kryssade.

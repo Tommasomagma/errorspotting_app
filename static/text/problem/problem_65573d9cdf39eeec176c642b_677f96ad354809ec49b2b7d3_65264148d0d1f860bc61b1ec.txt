@@ -1,0 +1,1 @@
+"Tabellen visar hur många i en elevgrupp som håller på med olika sporter.\n\nHur många kolumner har tabellen?"

@@ -1,0 +1,1 @@
+"Fem bilar med nummer $1, 2, 3, 4$ och $5$ kör efter varandra åt samma håll.\n\n- Först kör bil nr 5 om två bilar.\n- Sen kör den bil som då är näst sist om två bilar.\n- Till slut kör den bil som då är i mitten om två bilar.\n\nI vilken ordning kör de sen?". Problem image: missing

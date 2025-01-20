@@ -1,1 +1,0 @@
-"Välj koordinaterna för punkt A."

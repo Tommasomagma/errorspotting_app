@@ -1,0 +1,1 @@
+"Välj det största talet i paret.\n\n$5{,}17$ eller $5{,}175$"

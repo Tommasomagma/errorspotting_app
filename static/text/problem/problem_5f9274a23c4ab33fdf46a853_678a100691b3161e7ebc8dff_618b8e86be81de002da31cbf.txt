@@ -1,0 +1,1 @@
+"Anna har cyklat 15,7 meter. Hennes cykelhjul har då snurrat precis 10 varv. Vad är diametern på Annas cykelhjul? Använd $\\pi \\approx 3{,}14$.". Problem image: Bilden visar en enhjuling. Hjulets diametrar eller dimensioner anges inte.

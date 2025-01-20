@@ -1,1 +1,1 @@
-"Vilket tal ska stå istället för frågetecknet?"
+"Vilket tal ska stå istället för frågetecknet?". Problem image: missing

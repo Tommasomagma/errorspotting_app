@@ -1,1 +1,1 @@
-"I en bur finns det fåglar. Nova släpper in 6 fåglar till. Nu är det 28 fåglar i buren.\n\nHur många fåglar var det från början? *Gör en beräkning och skriv svar.*"
+"I en bur finns det fåglar. Nova släpper in 6 fåglar till. Nu är det 28 fåglar i buren.\n\nHur många fåglar var det från början? *Gör en beräkning och skriv svar.*". Problem image: missing

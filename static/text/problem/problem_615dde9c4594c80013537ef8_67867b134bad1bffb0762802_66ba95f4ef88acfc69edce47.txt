@@ -1,0 +1,1 @@
+"Carl har köpt en godis och en choklad. Chokladen kostade 10 kr mer än godisen. Tillsammans kostade sakerna 11 kr. \n\nVad kostade godisen?". Problem image: En bit choklad.

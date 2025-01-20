@@ -1,0 +1,1 @@
+"Greta har 1 morot. Hon får 3 morötter till.\n\nHur många morötter har Greta nu?"

@@ -1,0 +1,1 @@
+"Bosse och Amir ritar ut en tallinje på skolgården, från -10 till 10. De ställer sig på värdet 4 och gör fem hopp vardera i motsatt riktning. Varje hopp är 0,7 enheter långt.\n\nBosse hoppar i negativ riktning, alltså till vänster. Vilket värde står han på efter fem hopp?"

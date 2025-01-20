@@ -1,0 +1,1 @@
+"Zarah ska baka chokladbollar. Receptet räcker till $20$ chokladbollar. \n\nHur många dl havgreyn behövs för $30$ chokladbollar?". Problem image: missing

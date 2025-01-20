@@ -1,0 +1,1 @@
+"Beräkna vinkeln som är markerad med $x$.". Problem image: missing

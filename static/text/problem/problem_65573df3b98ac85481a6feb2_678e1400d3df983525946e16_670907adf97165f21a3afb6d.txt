@@ -1,0 +1,1 @@
+"Hur stor andel av figuren är färgad?". Problem image: Bilden visar en cirkel indelad i fyra lika stora sektorer varav en av sektorerna är ifylld med blå färg.

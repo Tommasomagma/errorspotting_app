@@ -1,0 +1,1 @@
+"Niklas har 44 meter att gå till skolan. \n\nHur många meter har han kvar om han har gått 40 meter?". Problem image: En enkel karta som visar en väg från en punkt markerad med en röd prick till en annan punkt markerad med en röd prick. Det finns träd och symboler längs vägen.

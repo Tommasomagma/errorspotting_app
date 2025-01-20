@@ -1,0 +1,1 @@
+"Sara ska köpa fiskar till klassens akvarium.  Det finns 3 olika sorters fiskar. Hon köper 4 fiskar av varje sort. \n\nHur många fiskar köper Sara? *Visa hur du löser uppgiften.*". Problem image: missing

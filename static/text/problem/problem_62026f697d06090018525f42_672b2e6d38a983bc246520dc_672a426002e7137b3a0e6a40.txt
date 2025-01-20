@@ -1,0 +1,1 @@
+"Anton har 100 kronor. Han köper två av sakerna på bilden. Då har han 5 kronor kvar. Vilka saker köpte han?". Problem image: missing

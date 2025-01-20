@@ -1,0 +1,1 @@
+"Hur många sekunder har gått på klockan?". Problem image: En analog klocka med timvisaren pekande mellan 1 och 2 och minutvisaren pekande på 12. Ett markerat område visar tiden från 12 till minutvisaren.

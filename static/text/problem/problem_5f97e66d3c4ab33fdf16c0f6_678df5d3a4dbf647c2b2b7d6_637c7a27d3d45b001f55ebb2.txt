@@ -1,0 +1,1 @@
+"Lena har 4 låtar på en spellista. I hur många olika ordningar kan hon spela låtarna om alla låtarna ska spelas en gång var?". Problem image: A play button icon.

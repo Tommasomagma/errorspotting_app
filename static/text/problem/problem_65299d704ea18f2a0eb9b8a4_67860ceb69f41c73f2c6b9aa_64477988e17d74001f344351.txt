@@ -1,0 +1,1 @@
+"Beräkna omkretsen av det orangea området. Använd $\\pi \\approx 3{,}14$ och avrunda till hela centimeter.". Problem image: Ett orange cirkelsegment med en radie på 8 cm och en korda på 3 cm.

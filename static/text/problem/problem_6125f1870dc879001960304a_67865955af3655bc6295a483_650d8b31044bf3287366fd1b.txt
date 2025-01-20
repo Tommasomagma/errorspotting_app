@@ -1,0 +1,1 @@
+"På en parkering står det lastbilar. Bilarna är antingen vita eller rosa. $11$ stycken är vita. Om det är $\\Large\\frac{1}{4}$ chans att man pekar på en vit bil om man pekar utan att titta, hur många lastbilar står det totalt på parkeringen$?$"

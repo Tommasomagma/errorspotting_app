@@ -1,0 +1,1 @@
+"I varje äppelträd finns $5$ äpplen. Hur många äpplen finns det i $9$ äppelträd?". Problem image: En illustration med nio äppelträd placerade i tre rader med tre träd i varje rad. Varje träd har äpplen på grenarna.

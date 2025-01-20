@@ -1,0 +1,1 @@
+"Du köper ett paket med 30 spikar, ett paket med 10 spikar, och två paket med 20 spikar. \n\nHur många spikar köper du totalt?". Problem image: En hammare som slår i en spik i ett stycke trä.

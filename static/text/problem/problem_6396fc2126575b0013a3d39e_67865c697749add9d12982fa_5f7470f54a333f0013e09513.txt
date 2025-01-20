@@ -1,0 +1,1 @@
+"Dela upp talet 12 i primtalsfaktorer. Rita först färdigt faktorträdet. Vilka är primtalsfaktorerna?". Problem image: missing

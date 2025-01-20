@@ -1,0 +1,1 @@
+"Vilken bild passar till $\\Large\\frac{1}{2}$ (en halv) ?". Problem image: Två rektanglar uppdelade i två lika stora delar, där den övre delen är ifylld. Bild 1 har en vertikal uppdelning och Bild 2 har en horisontal uppdelning.

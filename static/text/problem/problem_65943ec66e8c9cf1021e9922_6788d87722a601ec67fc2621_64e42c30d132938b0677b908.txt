@@ -1,0 +1,1 @@
+"Triangeln har basen 3, höjden 4 och sidan 5 cm. Beräkna arean.". Problem image: missing

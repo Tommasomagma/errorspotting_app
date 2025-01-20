@@ -1,0 +1,1 @@
+"Priset på ett spel är $x$ kronor. Priset förändras ett antal gånger. Med hur många procent har det förändrats? \n\n$1{,}6 \\cdot 0{,}4 \\cdot x$ kr $=$\n\n$\\quad$**A.**$\\;$ En sänkning med $36$ % \n\n$\\quad$**B.**$\\;$ En sänkning med $64$ % \n\n$\\quad$**C.**$\\;$ En höjning med $36$ % \n\n$\\quad$**D.**$\\;$ En höjning med $64$ %"

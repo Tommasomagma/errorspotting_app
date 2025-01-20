@@ -1,0 +1,1 @@
+"Båda glasen i ett par solglasögon är runda med en diameter på 6 cm. \n\nHur stor är den sammanlagda ytan som glasen täcker? Använd $\\pi \\approx 3{,}14$ och avrunda till hela kvadratcentimeter.". Problem image: A pair of round sunglasses with two lenses, each lens having a diameter marked as 6 cm.

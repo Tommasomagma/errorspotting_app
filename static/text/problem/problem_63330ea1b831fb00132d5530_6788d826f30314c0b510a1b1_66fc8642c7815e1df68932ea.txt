@@ -1,1 +1,1 @@
-"Om $50$ % av figuren färgläggs, hur stor andel är då vit? \n\nSvara i bråkform."
+"Om $50$ % av figuren färgläggs, hur stor andel är då vit? \n\nSvara i bråkform.". Problem image: missing

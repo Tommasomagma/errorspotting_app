@@ -1,0 +1,1 @@
+"Skriv talen i storleksordning. Börja med det minsta talet.". Problem image: missing

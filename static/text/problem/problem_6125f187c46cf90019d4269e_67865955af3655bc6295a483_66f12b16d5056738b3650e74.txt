@@ -1,0 +1,1 @@
+"Didrik ska välja strumpor på morgonen. Han har tre färger på strumpor i sin strumplåda. Lila, svarta och gula. Totalt finns det $30$ strumpor i lådan. Det finns $22$ lila, $6$ svarta och $2$ gula strumpor. \n\nVad är sannolikheten att Didrik får en $svart$ strumpa om han plockar upp en utan att titta$?$ Svara i bråkform!"

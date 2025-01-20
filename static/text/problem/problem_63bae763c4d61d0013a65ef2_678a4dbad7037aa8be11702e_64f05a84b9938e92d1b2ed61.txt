@@ -1,0 +1,1 @@
+"En rektangels area är lika med $1$. Dra en rät linje genom mittpunkterna på två intilliggande sidor på en sådan rektangel. \n\nHur stor area har den triangel du då får?"

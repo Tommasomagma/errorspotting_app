@@ -1,0 +1,1 @@
+"Hur många grupper av $5$ finns det?"

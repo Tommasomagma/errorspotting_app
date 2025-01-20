@@ -1,0 +1,1 @@
+"Triangeln har basen $3$ cm och höjden $2$ cm och de två övriga sidorna $2{,}8$ cm och $2$ cm. Beräkna triangelns area.". Problem image: missing

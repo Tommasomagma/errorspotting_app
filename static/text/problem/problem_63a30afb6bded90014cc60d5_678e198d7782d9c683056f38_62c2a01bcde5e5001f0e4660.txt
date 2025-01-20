@@ -1,0 +1,1 @@
+"Använd diagrammet för att besvara frågan.\n\nHur mycket kostar $3{,}5$ kg?". Problem image: missing

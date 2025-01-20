@@ -1,0 +1,1 @@
+"I ett lotteri finns det $4$ olika färger på lotterna. Gröna, blåa, röda och gula lotter. För varje färg, har varje lott ett unikt nummer mellan 1 och 25. Totalt finns det alltså $100$ lotter. \n\nVad är sannolikheten att man $inte$ får den röda lotten med nummer $8?$ Svara i bråkform!"

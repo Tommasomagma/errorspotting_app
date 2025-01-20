@@ -1,0 +1,1 @@
+"Vad är klockan på bilden?". Problem image: En analog klocka som visar en tid med visarna på specifika siffror.
