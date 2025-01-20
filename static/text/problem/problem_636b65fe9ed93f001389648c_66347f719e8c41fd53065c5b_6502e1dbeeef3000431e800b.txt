@@ -1,1 +1,0 @@
-"Elina har $400$ kr i månadspeng. Hon vill naturligtvis höja den. Hon frågar sina kompisar för att se hur mycket de får i månadspeng. De fick $420$ kr, $450$ kr, $350$ kr, $600$ kr, $380$ kr, $420$ kr och $390$ kr. \n\nBestäm medianen för Elinas och hennes kompisars månadspeng."

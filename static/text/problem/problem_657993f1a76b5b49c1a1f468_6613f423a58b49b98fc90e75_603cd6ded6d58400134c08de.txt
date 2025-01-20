@@ -1,1 +1,0 @@
-"I en klass finns 15 pojkar och 10 flickor. De ska dra lott om vem som ska vara lagkapten i klasskampen.\n\nHur stor är sannolikheten att det blir en flicka?"

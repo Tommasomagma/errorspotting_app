@@ -1,1 +1,0 @@
-"I en fruktskål är en tredjedel av antalet frukter bananer, och en sjättedel äpplen. I skålen finns även 28 apelsiner och 5 päron. \n\nHur många frukter finns totalt i skålen?"

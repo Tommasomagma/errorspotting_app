@@ -1,1 +1,0 @@
-"Gothia cup i fotboll hade $1\\ 570$ deltagande lag från $73$ länder år $2011$. År $2012$ deltog $1\\ 615$ lag från $78$ länder.\n\nHur många procent fler länder var med år $2012$ jämfört med år $2011$? Svara med en decimal."

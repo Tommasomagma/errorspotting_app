@@ -1,1 +1,0 @@
-"Vi kallar ett tal för $y$. Ett annat tal är en tiondel av $y$. Teckna ett uttryck för det talet."

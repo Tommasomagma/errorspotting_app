@@ -1,1 +1,0 @@
-"Använd siffrorna 4, 5, 6, och 9 en gång vardera. Skapa först det största möjliga talet. Skapa sedan talet närmast $5\\ 000$. \n\nVad är differensen mellan dessa två tal?"

@@ -1,1 +1,0 @@
-"Vad är medelvärdet av talen?\n4\t1\t9\t7\t9"

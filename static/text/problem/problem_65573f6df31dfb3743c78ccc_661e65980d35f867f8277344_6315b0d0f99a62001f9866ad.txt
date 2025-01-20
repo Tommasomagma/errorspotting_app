@@ -1,1 +1,0 @@
-"Aleksi kastar en tärning ett antal gånger. Diagrammet visar frekvensen för olika antal prickar. \n\n\nHur många gånger kastade Aleksi tärningen?"

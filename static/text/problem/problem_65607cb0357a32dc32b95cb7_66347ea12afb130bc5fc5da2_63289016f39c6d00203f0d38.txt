@@ -1,1 +1,0 @@
-"Teckna ett uttryck för kostnaden av $x$ anteckningsblock och $y$ pennor."

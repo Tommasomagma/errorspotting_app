@@ -1,1 +1,0 @@
-"En fruktkorg kostade 150 kr. Vi köper nu en fruktkorg som innehåller 20 % mer frukt.\n\nSkriv förändringsfaktorn."

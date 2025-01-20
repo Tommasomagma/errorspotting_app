@@ -1,1 +1,0 @@
-"Lös ekvationen.\n\n$2(3z-1)=4(z+2)$"

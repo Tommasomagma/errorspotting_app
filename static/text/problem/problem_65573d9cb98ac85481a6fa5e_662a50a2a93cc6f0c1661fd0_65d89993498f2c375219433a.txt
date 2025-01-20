@@ -1,1 +1,0 @@
-"Tabellen visar kostnaden för att skicka brev som är olika tunga, och hur många frimärken som behövs på brevet för olika vikter.\n\nEtt paket som ska postas väger 350 gram. Hur mycket kostar portot?"

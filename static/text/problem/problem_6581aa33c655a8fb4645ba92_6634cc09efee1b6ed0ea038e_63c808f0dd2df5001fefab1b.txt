@@ -1,1 +1,0 @@
-"Varje pil som träffar tavlan ger ett pluspoäng, och varje pil som går utanför ger ett minuspoäng. \n\nTotalt kastas 30 pilar, vilket ger 20 poäng. Hur många pilar träffade tavlan?"

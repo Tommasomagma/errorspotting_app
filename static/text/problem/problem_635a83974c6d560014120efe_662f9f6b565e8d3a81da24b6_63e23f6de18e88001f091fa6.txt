@@ -1,1 +1,0 @@
-"Den här följden av tal bildar ett mönster:\n\n$2 \\hspace{0.5cm} 5 \\hspace{0.5cm} 8 \\hspace{0.5cm} 11 \\hspace{0.5cm} 14 \\hspace{0.5cm} 17$\n\n Teckna ett uttryck för det $n$:e talet.\n\n$a_n=$"

@@ -1,1 +1,0 @@
-"Diagrammet visar hur ett virus expanderar. Efter 1 timme är endast 1 cell infekterad. Efter 2 timmar är 8 nya celler infekterade. Efter 3 timmar är 16 nya celler infekterade.\n\nHur många nya celler är infekterade efter timme 4?"

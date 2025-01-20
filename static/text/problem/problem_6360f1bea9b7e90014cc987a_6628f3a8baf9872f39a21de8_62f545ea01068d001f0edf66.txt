@@ -1,1 +1,0 @@
-"Rita in punkterna i koordinatsystemet och sammanbind dem till en graf som visar hur bilens värde är en funktion av bilens ålder. (Du ska inte dra räta linjer mellan punkterna.)\n\nMed hur många kronor sänks bilens värde mellan tredje och fjärde året?"

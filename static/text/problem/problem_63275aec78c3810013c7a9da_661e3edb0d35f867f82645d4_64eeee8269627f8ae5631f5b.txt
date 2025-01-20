@@ -1,1 +1,0 @@
-"Vilket tal saknas?\n\n$75$ cm $=\\ \\underline{\\hspace{1cm}}$ m"

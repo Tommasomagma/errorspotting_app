@@ -1,1 +1,0 @@
-"I USA finns det ungefär $8\\ 000$ restauranger som heter Mixburger. På varje restaurang äter $2\\ 625$ personer varje dag. USA:s befolkning är ungefär $3 \\cdot 10^8$. \n\nStämmer reklamen? Visa med beräkningar och resonemang."

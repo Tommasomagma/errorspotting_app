@@ -1,1 +1,0 @@
-"Välj det svar som är bäst?\n\n${\\large\\frac{53{,}7}{5{,}9}} \\approx$"

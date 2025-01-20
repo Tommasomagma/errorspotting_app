@@ -1,1 +1,0 @@
-"Rita figur 4.\n\nFormeln P=n+__ ger antalet prickar i den n:te figuren. Vilket tal ska stå i luckan?"

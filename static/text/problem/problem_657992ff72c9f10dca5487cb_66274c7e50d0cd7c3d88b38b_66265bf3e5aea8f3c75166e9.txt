@@ -1,1 +1,0 @@
-"Antalet stickor i figur $n$ beräknas med uttrycket $3n + 1$.\n\nHur många stickor finns det i figur 3?"

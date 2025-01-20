@@ -1,1 +1,0 @@
-"Bilden visar två figurer som följer samma mönster.\n\nHur många kvadrater behövs det om figuren är 5 kvadrater hög?"

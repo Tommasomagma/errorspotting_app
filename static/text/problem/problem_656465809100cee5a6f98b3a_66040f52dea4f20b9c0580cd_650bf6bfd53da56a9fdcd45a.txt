@@ -1,1 +1,0 @@
-"Astrid spelar baseball. Träddiagrammet visar sannolikheten för att hon träffar bollen.\n\nVilken siffra ska stå istället för x? Svara på formen x= följt av ditt svar."

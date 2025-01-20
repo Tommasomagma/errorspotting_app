@@ -1,1 +1,0 @@
-"Sahand har 40 spelkulor. 95 % av kulorna är gula, resten är röda. \n\nHur stor andel av hans kulor är röda? Svara i bråkform."

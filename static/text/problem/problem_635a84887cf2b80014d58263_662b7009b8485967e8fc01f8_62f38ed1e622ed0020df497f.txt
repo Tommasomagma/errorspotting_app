@@ -1,1 +1,0 @@
-"Teckna ett uttryck för triangelns omkrets. Förenkla sedan uttrycket."

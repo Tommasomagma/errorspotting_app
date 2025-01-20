@@ -1,1 +1,0 @@
-"Jasmine och Ida frågade lärarna på skolan hur ofta de använde cykelhjälm. Svaren blev följande:\n\nAlltid: $60$ %\n\nIbland: $30$ %\n\nAldrig: $10$ %\n\nVisa resultatet i ett cirkeldiagram.\nVad blir medelpunktsvinkeln i \"Alltid\" delen?"

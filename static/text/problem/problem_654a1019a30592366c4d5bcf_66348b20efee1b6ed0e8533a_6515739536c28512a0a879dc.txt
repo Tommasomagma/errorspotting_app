@@ -1,1 +1,0 @@
-"I en skål finns 12 karameller. Ola äter upp en tredjedel av dem. Sedan äter Lisa upp hälften av de karameller som finns kvar. \n\nHur många karameller finns sedan kvar i skålen?"

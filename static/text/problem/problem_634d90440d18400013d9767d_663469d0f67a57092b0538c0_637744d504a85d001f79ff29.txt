@@ -1,1 +1,0 @@
-"Felix plockar upp en knapp utan att titta. Han lägger tillbaka den och tar sedan upp en knapp till. Hur stor är sannolikheten att den andra knappen är grön? Svara i procent."

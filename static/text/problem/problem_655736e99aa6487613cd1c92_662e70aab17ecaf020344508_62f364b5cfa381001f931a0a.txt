@@ -1,1 +1,0 @@
-"Annelie sätter upp ett staket med 30 plankor som sätts bredvid varandra. Varje planka är $1{,}8$ dm bred. Mellan varje planka finns ett mellanrum som är 2 cm brett. \n\nHur brett blir hela staketet? Svara i meter."

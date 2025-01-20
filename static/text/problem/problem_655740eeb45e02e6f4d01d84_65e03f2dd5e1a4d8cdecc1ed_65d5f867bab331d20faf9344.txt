@@ -1,1 +1,0 @@
-"Skriv i decimeter.  \n\n12 m"

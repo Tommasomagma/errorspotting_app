@@ -1,1 +1,0 @@
-"Ett tallriksunderlägg är rektangelformat med runda hörn. Beräkna underläggets area. Använd $\\pi \\approx 3{,}14$ och avrunda till tiotals kvadratcentimeter."

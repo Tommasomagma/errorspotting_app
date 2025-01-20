@@ -1,1 +1,0 @@
-"Beräkna och svara i enklaste form.\n\n${\\Large\\frac{8}{5}}{\\Big/}{\\Large\\frac{2}{5}}=$"

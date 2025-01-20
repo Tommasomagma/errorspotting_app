@@ -1,1 +1,0 @@
-"Vilket bråk är störst, $\\Large \\frac{1}{4}$ eller $\\Large \\frac{1}{3}$?"

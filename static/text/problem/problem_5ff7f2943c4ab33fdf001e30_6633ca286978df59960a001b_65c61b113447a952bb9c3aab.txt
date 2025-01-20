@@ -1,1 +1,0 @@
-"Lisa delar ett kvadratiskt papper i två delar genom att klippa längs en rät linje. Vilken av följande former kan inte någon av delarna få$?$\n\na) rektangel\\\nb) kvadrat\\\nc) rätvinklig triangel\\\nd) femhörning\\\ne) likbent triangel"

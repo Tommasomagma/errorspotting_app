@@ -1,1 +1,0 @@
-"Byt ut $x$ mot ett tal så att bråken blir likvärdiga.\n\n${\\Large\\frac{4}{x}}={\\Large\\frac{20}{25}}={\\Large\\frac{y}{100}}$"

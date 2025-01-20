@@ -1,1 +1,0 @@
-"Varje rosa cirkel är omgiven av 6 blåa cirklar enligt mönstret i bild. Hur många blåa cirklar behövs det för 4 rosa cirklar?"

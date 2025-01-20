@@ -1,1 +1,0 @@
-"Aladdin har en kvadratisk matta. Längs alla sidor är det två rader med prickar. Det är lika många prickar i varje rad. Nu ser vi inte hela mattan för att den är vikt.\n\nHur många prickar är det på Aladdins matta?"

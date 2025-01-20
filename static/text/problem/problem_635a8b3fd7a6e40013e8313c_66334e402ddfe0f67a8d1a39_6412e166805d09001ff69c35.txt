@@ -1,1 +1,0 @@
-"Förenkla uttrycket.\n\n$4a\\cdot a=$"

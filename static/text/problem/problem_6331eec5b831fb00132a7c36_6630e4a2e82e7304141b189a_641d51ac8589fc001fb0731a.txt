@@ -1,1 +1,0 @@
-"En triangel har basen $3$ cm och höjden $4$ cm. Beräkna arean."

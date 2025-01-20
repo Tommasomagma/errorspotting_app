@@ -1,1 +1,0 @@
-"Vilket tal står $x$ för?\n\n${\\sqrt{x}}-7=5$"

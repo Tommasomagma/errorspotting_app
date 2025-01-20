@@ -1,1 +1,0 @@
-"Ett bilrace tog 52 minuter. Racet slutade $17.43$.\n\nNär startade racet?"

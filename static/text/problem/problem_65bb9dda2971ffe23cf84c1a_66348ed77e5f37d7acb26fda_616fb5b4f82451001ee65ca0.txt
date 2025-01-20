@@ -1,1 +1,0 @@
-"Till en fest ska skolan hyra bord. Tabellen och diagrammet visar priser hos två olika företag. Företag \"Allt för festen\" har en fast avgift och en avgift per antal bord.\n\nVad kostar det att hyra 20 bord hos företaget ”Allt för festen”?"

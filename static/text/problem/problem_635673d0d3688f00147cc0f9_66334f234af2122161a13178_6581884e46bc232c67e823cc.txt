@@ -1,1 +1,0 @@
-"Beräkna värdet av uttrycket $y-2x$ för $y=5$ och $x=2$."

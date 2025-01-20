@@ -1,1 +1,0 @@
-"I en butik i Tyskland säljer man chokladpraliner och tar betalt per styck. Diagram $1$ visar priset i euro (€) för några olika antal chokladpraliner. Diagram $2$ visar vikten för olika antal chokladpraliner. \n\nHur många chokladpraliner får man om man köper $3$ hg?"

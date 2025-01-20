@@ -1,1 +1,0 @@
-"Beräkna och avrunda till tiondelar.\n\n$\\large\\frac{14{,}15}{5}$"

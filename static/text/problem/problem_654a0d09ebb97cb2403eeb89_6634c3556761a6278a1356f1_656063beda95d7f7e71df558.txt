@@ -1,1 +1,0 @@
-"Ivan bygger ihop en modellraket som består av tre delar. Den första delen är $40$ cm, den andra delen är $500$ mm hög, och den tredje delen är $2$ dm hög. \n\nLägg ihop längderna och bestäm modellraketens totala höjd i decimeter."

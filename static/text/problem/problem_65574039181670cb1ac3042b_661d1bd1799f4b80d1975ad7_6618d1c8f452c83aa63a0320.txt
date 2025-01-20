@@ -1,1 +1,0 @@
-"Fyra simmare tävlade om vem som simmade en längd i en bassäng snabbast. Lisa simmade på 15,5 s, Nick simmade på 15,9 s, Sara simmade på 15,59 s, och Brian simmade på 15,75 s. \n\nVem simmade snabbast?"

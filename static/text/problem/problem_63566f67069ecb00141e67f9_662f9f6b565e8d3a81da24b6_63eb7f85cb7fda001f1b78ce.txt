@@ -1,1 +1,0 @@
-"Vilket nummer i talföljden har talet $71$?\n\n$5 \\hspace{0.5cm} 11  \\hspace{0.5cm} 17  \\hspace{0.5cm} 23$"

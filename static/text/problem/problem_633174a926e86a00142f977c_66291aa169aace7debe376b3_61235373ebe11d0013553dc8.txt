@@ -1,1 +1,0 @@
-"Under en regnig vecka kom det så här mycket regn de olika dagarna.\n\nBeräkna medelvärdet."

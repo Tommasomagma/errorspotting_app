@@ -1,1 +1,0 @@
-"Ben och Dilan arbetar med att putsa fönster. Graferna visar vad det kostar att anlita dem.\n\nEfter hur många timmar är det billigare att anlita Ben än Dilan?"

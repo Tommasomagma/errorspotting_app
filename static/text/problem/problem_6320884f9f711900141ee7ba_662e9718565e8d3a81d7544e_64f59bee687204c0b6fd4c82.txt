@@ -1,1 +1,0 @@
-"Gustav har ett rep som är $32$ m långt. Först delar han det på mitten. Sedan tar han en av halvorna och delar den i fyra lika stora delar. Hur lång är en sådan del?"

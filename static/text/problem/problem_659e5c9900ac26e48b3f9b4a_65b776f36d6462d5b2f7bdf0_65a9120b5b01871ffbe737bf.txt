@@ -1,1 +1,0 @@
-"Till festivalens konserter kan man köpa olika typer av biljetter. Festivalen pågår i tre dagar.\n\nSista dagen sålde man endast endagspass och kvällsbiljetter. Man sålde totalt $2\\ 000$ biljetter denna dag, till ett värde av $1\\ 539\\ 500$ kr. Hur många kvällsbiljetter sålde man?"

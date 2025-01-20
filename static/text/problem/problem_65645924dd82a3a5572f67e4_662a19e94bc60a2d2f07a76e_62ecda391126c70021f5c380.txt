@@ -1,1 +1,0 @@
-"Skriv ett uttryck för längden av den svarta pilen i enklaste form.\n\n"

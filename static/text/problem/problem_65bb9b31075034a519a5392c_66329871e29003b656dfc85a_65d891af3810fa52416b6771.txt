@@ -1,1 +1,0 @@
-"Beräkna värdet av uttrycket.\n\n $m+\\Large\\frac{1}{m}$ då $m=4$"

@@ -1,1 +1,0 @@
-"Klockan kvart i nio på morgonen ger sig Hassan ut på en cykeltur. Klockan elva på förmiddagen har han cyklat 42 km. \n\nVilken medelhastighet har han hållit? Avrunda till hela km/h och svara utan enhet."

@@ -1,1 +1,0 @@
-"I en påse finns $3$ svarta och $2$ vita kulor. Du tar upp två kulor, en i taget, noterar färgen och behåller kulorna. Träddiagrammet visar sannolikheterna för olika händelser. \n\nBeräkna.\n\n$P($svart, svart$)=$"

@@ -1,1 +1,0 @@
-"På en ritning är ett rum en kvadrat med arean $16$ cm$^2$. Skalan är $1 : 100$. \nHur stor är rummets area i verkligheten?"

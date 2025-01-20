@@ -1,1 +1,0 @@
-"Stapeldiagrammet visar hur stora några av världens största öar är.\n\nVilken av öarna är $725\\ 000$ km$^2$?"

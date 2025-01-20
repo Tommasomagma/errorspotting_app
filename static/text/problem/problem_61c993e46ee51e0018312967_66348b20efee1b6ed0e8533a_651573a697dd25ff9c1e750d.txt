@@ -1,1 +1,0 @@
-"Vilket tal är minst, $\\Large \\frac{9}{4}$ eller $\\Large \\frac{5}{2}$?"

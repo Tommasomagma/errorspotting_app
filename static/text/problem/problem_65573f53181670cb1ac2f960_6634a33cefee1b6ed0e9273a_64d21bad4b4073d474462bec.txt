@@ -1,1 +1,0 @@
-"Grafen visar genomsnittstemperaturen för de olika säsongerna åren 2018 och 2019.\n\nBeräkna genomsnittstemperaturen för 2018."

@@ -1,1 +1,0 @@
-"Mohsen kastar en tiosidig tärning fyra gånger. Han får följande resultat:\n\n$7 \\space\\space2\\space\\space8\\space\\space7$\n\nBeräkna medelvärdet."

@@ -1,1 +1,0 @@
-"I en påse med $18$ frukter är det minst ett äpple, ett päron och en apelsin. Sannolikheten att ta ett äpple när du blundar är 0,5. \n\nGivet denna information, vad är den största möjliga sannolikheten att du slumpmässigt tar ett päron? Svara i enklaste bråkform."

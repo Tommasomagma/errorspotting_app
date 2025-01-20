@@ -1,1 +1,0 @@
-"Eleverna i en klass sätter betyg från 1-5 på en film de sett. Här är deras bedömningar: \n\n2, 4, 2, 1, 5, 4, 3, 1, 2, 5,\n\n2, 5, 2, 5, 5, 2, 2, 2, 1, 5\n\nVad ska stå istället för A?"

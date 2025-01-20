@@ -1,1 +1,0 @@
-"En rektangel har sidorna $16$ cm och $20$ cm. Den kortaste sidan förlängs med $25$ % och den längsta med $50$ %. Med hur många procent ökar omkretsen? Avrunda svaret till en decimal."

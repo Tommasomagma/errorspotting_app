@@ -1,1 +1,0 @@
-"Ett linne kostar 219 kr.\n\nHur mycket kostar det om man köper 4 linnen?"

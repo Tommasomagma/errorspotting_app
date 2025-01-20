@@ -1,1 +1,0 @@
-"Vad kallas den minsta vinkeln som visarna bildar när klockan är $15.45$?"

@@ -1,1 +1,0 @@
-"Ari har fått i uppgift att måla en vägg. Väggen är kvadratisk och har sidan 2 meter.\n\nAri målar väggen tre gånger. Hur stor yta målar Ari?"

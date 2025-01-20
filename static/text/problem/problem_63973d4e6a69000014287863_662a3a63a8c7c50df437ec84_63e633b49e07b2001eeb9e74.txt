@@ -1,1 +1,0 @@
-"Beräkna och svara med så liten nämnare som möjligt.\n\n$1{\\Large\\frac{1}{4}}+2{\\Large\\frac{3}{4}}=$"

@@ -1,1 +1,0 @@
-"Medianen av fyra tal är 10. Tre av talen är 8, 3 och 12. \n\nVilka värden kan det fjärde talet ha?"

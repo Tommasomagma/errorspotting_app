@@ -1,1 +1,0 @@
-"Skriv i kilogram. \n\n15,2 hg"

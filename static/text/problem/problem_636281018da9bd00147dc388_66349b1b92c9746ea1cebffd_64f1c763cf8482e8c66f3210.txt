@@ -1,1 +1,0 @@
-"Lös ekvationen.\n\n$2z - 3 = 5z -21$"

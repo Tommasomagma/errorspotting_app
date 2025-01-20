@@ -1,1 +1,0 @@
-"Arvid har $1\\ 935$ kr och köper äpplen för 49 kr. Hur mycket pengar har Arvid kvar efter köpet? Avrunda till tiotal."

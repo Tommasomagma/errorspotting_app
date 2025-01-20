@@ -1,1 +1,0 @@
-"Yasmine har $3\\ 450$ m till skolan. Leo har $\\large\\frac{1}{3}$ så lång skolväg.\n\nHur mycket längre har Yasmine än Leo?"

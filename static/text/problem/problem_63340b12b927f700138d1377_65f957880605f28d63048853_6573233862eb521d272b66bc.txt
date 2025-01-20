@@ -1,1 +1,0 @@
-"Välj det svar som är bäst. \n\n$892 - 213 \\approx $"

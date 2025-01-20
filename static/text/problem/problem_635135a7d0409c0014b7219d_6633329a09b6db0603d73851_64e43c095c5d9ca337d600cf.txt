@@ -1,1 +1,0 @@
-"Du kastar två sexsidiga tärningar. Hur stor är sannolikheten att summan är $9$ eller större? \n\nSvara med ett bråk i enklaste form."

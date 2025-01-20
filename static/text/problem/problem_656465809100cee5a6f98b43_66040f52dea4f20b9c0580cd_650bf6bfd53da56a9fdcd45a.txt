@@ -1,1 +1,0 @@
-"Astrid spelar baseball. Träddiagrammet visar sannolikheten för att hon träffar bollen.\n\nHur stor är sannolikheten att Astrid träffar precis en boll? Svara i bråkform i enklaste form."

@@ -1,1 +1,0 @@
-"Robin lägger stenar i ett mönster.\n\nHur många stenar finns det i Figur 8? *Visa hur du löser uppgiften.*"

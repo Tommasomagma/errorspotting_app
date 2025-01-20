@@ -1,1 +1,0 @@
-"Du drar slumpmässigt två kulor ur högen utan återläggning. Hur stor är sannolikheten att det är en kula av varje färg?"

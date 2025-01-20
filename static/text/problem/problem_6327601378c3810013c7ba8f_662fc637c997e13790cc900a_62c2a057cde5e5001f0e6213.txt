@@ -1,1 +1,0 @@
-"Vilket tal saknas?\n\n$14{,}5$ dm $=\\ \\underline{\\hspace{1cm}}$ cm"

@@ -1,1 +1,0 @@
-"Kängurubarnen är $2, 4, 5, 6, 8$ och $10$ år gamla. Fyra av dem är tillsammans $22$ år.\n\nHur gamla är de två andra?"

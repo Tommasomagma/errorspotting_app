@@ -1,1 +1,0 @@
-"Moa ska köpa två kulor glass. Hon är noggrann med vilken smak som kommer först i bägaren och väljer mellan smakerna vanilj och choklad.\n\nHur många olika permutationer kan hon få när hon väljer smaker?"

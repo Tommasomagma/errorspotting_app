@@ -1,1 +1,0 @@
-"Biljardhallen har olika priser för medlemmar och för de som inte är medlemmar. Graferna visar sambandet mellan kostnaden $K$ (i kr) och antalet spelade timmar, $t$, för medlemmar och icke medlemmar.\n\nÄr nedanstående påståendet sant eller falskt?\n\nDen som inte är medlem betalar $50$ kr/timme."

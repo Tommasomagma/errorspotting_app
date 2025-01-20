@@ -1,1 +1,0 @@
-"Hur stor är sannolikheten att du tar upp en blå kula ur påsen?\n\nSvara i procentform."

@@ -1,1 +1,0 @@
-"Rami spelar datorspel. För varje vinst får han $6$ poäng, för varje förlust får han $0$ poäng och om det blir oavgjort får han $3$ poäng.\n\nRami vinner $3$ gånger, förlorar $2$ gånger och får oavgjort $4$ gånger. \n\nHur många poäng får Rami totalt?"

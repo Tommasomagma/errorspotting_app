@@ -1,1 +1,0 @@
-"Vilket tal saknas?\n\n$?$ % av $90$ liter $= 9$ l"

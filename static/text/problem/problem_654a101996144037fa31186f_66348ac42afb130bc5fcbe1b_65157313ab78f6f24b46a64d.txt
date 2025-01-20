@@ -1,1 +1,0 @@
-"Kalle, Bea och Lars har 9 pannbiffar. Kalle äter 2 av dem, Bea äter 3, och Lars äter 4.\n\nHur stor andel av alla pannbiffar åt Kalle?"

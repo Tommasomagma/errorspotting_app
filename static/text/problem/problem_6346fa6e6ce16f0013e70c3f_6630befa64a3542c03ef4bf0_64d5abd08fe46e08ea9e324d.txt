@@ -1,1 +1,0 @@
-"Lös ekvationen.\n\n$ x - 9 = 5x - 49$"

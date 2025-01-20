@@ -1,1 +1,0 @@
-"Albin ska kakla ett rektangulärt format golv som är 3 m brett och 4 m långt. För att lägga en kakelplatta behövs en yta på 0,01 m$^2$. \n\nHur många kakelplattor behöver Albin?"

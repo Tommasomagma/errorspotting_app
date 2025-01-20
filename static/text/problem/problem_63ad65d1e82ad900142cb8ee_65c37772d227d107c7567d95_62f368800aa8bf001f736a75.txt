@@ -1,1 +1,0 @@
-"Bestäm om figuren har rotationssymmetri. Skriv hur många grader som figuren måste vridas runt mittpunkten för att mönstret ska sammanfalla med det ursprungliga mönstret. Ange minsta möjliga gradtal. Gör ett streck (-) om figuren inte har rotationssymmetri."

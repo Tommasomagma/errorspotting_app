@@ -1,1 +1,0 @@
-"Till festivalens konserter kan man köpa olika typer av biljetter. Festivalen pågår i tre dagar.\n\nErik vill gå på festivalen en hel dag och ytterligare två kvällar. Vilken biljett ska han köpa för att det ska bli så billigt som möjligt?"

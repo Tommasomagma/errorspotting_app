@@ -1,1 +1,0 @@
-"Lös ekvationen. \n\n${\\Large \\frac{x}{5}} = 2$"

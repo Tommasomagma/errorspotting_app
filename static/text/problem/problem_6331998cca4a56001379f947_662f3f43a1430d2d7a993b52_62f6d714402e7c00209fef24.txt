@@ -1,1 +1,0 @@
-"Beräkna och avrunda till tiondelar.\n\n$5{,}79+8{,}276$"

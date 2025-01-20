@@ -1,1 +1,0 @@
-"Vilket tal fattas?\n\n$20 = \\ \\underline{\\hspace{1cm}} \\ + 9$"

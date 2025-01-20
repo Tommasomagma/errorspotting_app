@@ -1,1 +1,0 @@
-"Beräkna.\n\n$\\left((-5)-(-3)\\right)\\cdot2 = $"

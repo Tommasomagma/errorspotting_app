@@ -1,1 +1,0 @@
-"Beräkna och svara i bråkform.\n\n${\\Large\\frac{1}{6}}\\cdot4=$"

@@ -1,1 +1,0 @@
-"Ett golfhål har arean $120\\cdot {\\large \\pi}$ cm$^2$. Från hålets mitt till greenens kant är det 6 meter.\n\nHur många gånger större är greenens area jämfört med golfhålets, om hålet inte räknas som en del av greenen?"

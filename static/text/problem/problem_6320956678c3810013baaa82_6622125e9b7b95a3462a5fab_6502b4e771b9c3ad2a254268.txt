@@ -1,1 +1,0 @@
-"En rektangel har omkretsen $36$ cm. Rektangeln är dubbelt så lång som bred.\n\nHur stor area har rektangeln?"

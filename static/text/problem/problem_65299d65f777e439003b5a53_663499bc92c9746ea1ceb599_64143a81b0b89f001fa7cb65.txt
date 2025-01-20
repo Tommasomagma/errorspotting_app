@@ -1,1 +1,0 @@
-"**Sant eller falskt?**\n\nTalet $\\pi$ är ungefär lika med 3,14."

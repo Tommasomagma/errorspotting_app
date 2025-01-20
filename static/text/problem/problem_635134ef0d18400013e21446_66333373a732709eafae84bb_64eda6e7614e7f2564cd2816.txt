@@ -1,1 +1,0 @@
-"Medelvärdet av tre olika positiva heltal är $12$. \n\nHur stort kan det största av de tre talen vara?"

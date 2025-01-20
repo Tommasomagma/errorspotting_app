@@ -1,1 +1,0 @@
-"Följande tal är skrivna i det binära talsystemet $0101$. Vilket värde har de i det decimala talsystemet?"

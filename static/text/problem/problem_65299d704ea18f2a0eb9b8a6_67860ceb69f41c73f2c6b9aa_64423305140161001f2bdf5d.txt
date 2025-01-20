@@ -1,0 +1,1 @@
+"Figuren består av en halvcirkel och en liksidig triangel. \n\nBeräkna arean av hela figuren. Använd $\\pi \\approx 3{,}14$ och avrunda till hela kvadratcentimeter."

@@ -1,1 +1,0 @@
-"En ruta är $1$ cm$^2$. Beräkna arean av hela figuren."

@@ -1,1 +1,0 @@
-"En klubb fördubblade medlemsantalet från år $2010$ till år $2012$. Klubben visade detta med ett diagram.\n\nHur stort verkar medlemsantalet vara $2012$ jämfört med $2010$, enligt diagrammet?"

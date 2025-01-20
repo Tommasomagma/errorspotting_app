@@ -1,1 +1,0 @@
-"Förenkla uttrycket.\n\n$(10x-5y)-(x-5y)=$"

@@ -1,1 +1,0 @@
-"En kvadrat har omkretsen $20x$.\n\nVad är kvadratens area om $x =$ 3 cm?"

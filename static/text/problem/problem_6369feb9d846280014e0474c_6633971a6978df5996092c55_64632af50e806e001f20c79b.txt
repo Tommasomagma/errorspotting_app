@@ -1,1 +1,0 @@
-"Erika har $28$ medaljer. ​${\\Large\\frac{3}{4}}$​ av dem är bronsmedaljer.\n\nHur många bronsmedaljer har Erika?"

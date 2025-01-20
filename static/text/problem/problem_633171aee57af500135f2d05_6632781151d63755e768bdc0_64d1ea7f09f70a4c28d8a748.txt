@@ -1,1 +1,0 @@
-"Beräkna med överslagsräkning.\n\n$7{,}1\\cdot 88{,}8$"

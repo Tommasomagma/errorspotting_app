@@ -1,1 +1,0 @@
-"Du kastar en röd och en grön tärning. Hur stor är sannolikheten att båda tärningarna visar ett udda tal? Svara i procentform."

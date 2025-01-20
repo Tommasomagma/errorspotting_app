@@ -1,1 +1,0 @@
-"Du kastar en sexsidig tärning två gånger. Hur stor är sannolikheten att båda kasten blir $4$ eller högre? Svara i procentform."

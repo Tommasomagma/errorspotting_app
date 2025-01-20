@@ -1,1 +1,0 @@
-"Vilket tal fattas?\n\n$16,\\ 17,\\ 18,\\  \\underline{\\hspace{0.5cm}},\\ 20 $"

@@ -1,1 +1,0 @@
-"Ungefär hur många slag slår hjärtat under ett dygn vid normalpuls? Avrunda till tusental."

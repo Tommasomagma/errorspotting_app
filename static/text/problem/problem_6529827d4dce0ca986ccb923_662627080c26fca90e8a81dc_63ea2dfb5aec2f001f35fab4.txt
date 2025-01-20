@@ -1,1 +1,0 @@
-"I en stad röstade 38 % av den röstberättigade befolkningen på parti A. Det motsvarar $43\\ 262$ personer, och var en ökning med 5 % gentemot tidigare val. Antalet röstberättigade var samma vid de två valen.\n\nHur många procent av rösterna fick partiet vid första valet? Svara med en decimals exakthet."

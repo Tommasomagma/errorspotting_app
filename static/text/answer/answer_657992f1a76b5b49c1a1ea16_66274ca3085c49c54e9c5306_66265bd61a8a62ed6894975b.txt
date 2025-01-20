@@ -1,1 +1,0 @@
-["$7 \\cdot 8 \\cdot a + 9 \\cdot 8 \\cdot b$","$7 \\cdot 8 \\cdot 9 + a + b$"]

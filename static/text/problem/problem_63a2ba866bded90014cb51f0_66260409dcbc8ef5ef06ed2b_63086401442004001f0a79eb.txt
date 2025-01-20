@@ -1,1 +1,0 @@
-"Diagrammet visar sambandet mellan Patriks och Saras vikt och ålder under deras första $20$ år. \n\nUngefär hur mycket ökade Patrik sin vikt mellan åldern $10$ och $18$ år?"

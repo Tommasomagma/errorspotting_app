@@ -1,1 +1,0 @@
-"På en fabrik finns en ”ritmaskin” $A$ och en ”vridmaskin” $B$. \n\nI vilken ordningsföljd ska man låta maskinerna arbeta för att få den vänstra bilden om man börjar med den blanka kvadraten till höger?"

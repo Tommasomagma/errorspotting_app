@@ -1,1 +1,0 @@
-"Täljaren är $8\\ 000$ och nämnaren är $10$. \\\nHur stor är kvoten?"

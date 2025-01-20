@@ -1,1 +1,0 @@
-"Lös ekvationen.\n\n$ 12 -(2x -1) = 1 + 2x$"

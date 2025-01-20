@@ -1,1 +1,0 @@
-"Eleverna i en klass har fått frågan vilket djur de tycker bäst om. Resultatet visas i diagrammet.\n\nHur många elever tyckte bäst om hundar?"

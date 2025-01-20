@@ -1,1 +1,0 @@
-"Vilket av uttrycken nedan betyder ett tal som är hälften av $a$?\n\n${\\Large\\frac{2}{a}} \\hspace{0.5cm} {\\Large\\frac{a}{2}} \\hspace{0.5cm} 0{,}5a \\hspace{0.5cm} {\\Large\\frac{1}{2}}\\cdot a \\hspace{0.5cm} a-2$"

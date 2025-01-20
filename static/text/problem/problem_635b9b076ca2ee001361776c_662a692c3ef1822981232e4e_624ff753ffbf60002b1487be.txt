@@ -1,1 +1,0 @@
-"Du kastar två tärningar. Hur stor är sannolikheten att summan är $9$ eller större? Svara med ett bråk i enklaste form."

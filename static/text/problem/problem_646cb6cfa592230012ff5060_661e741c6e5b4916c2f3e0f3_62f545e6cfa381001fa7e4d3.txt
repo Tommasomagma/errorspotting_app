@@ -1,1 +1,0 @@
-"Hugo delar varje återstående pizza-bit i två lika stora delar. Hur stor andel av pizzan finns kvar då? Svara i bråkform."

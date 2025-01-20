@@ -1,1 +1,0 @@
-"Skriv i centimeter. \n\n3 m och 7 dm"

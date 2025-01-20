@@ -1,1 +1,0 @@
-"Beräkna.\n\n${\\Large\\frac{8}{{\\Large\\frac{1}{5}}}}=$"

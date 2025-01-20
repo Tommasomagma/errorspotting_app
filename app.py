@@ -15,7 +15,7 @@ def get_db_connection():
 conn = get_db_connection()
 with conn.cursor() as cur:
     cur.execute("""
-        CREATE TABLE IF NOT EXISTS es_data_main (
+        CREATE TABLE IF NOT EXISTS es_data (
             id SERIAL PRIMARY KEY,
             input TEXT NOT NULL
         )
@@ -43,18 +43,21 @@ app.config['USER_INPUT_FOLDER'] = USER_INPUT_FOLDER
 @app.route('/')
 def home():
     # Get a list of all image files in the IMAGE_FOLDER
-    image_files = [f for f in os.listdir(app.config['IMAGE_FOLDER']) if f.endswith(('jpg', 'png', 'jpeg', 'gif'))]
+    image_files = [f for f in os.listdir(app.config['IMAGE_FOLDER'])]
 
     if not image_files:
         return "No images available. Please upload an image."
 
     # Select a random image
-    selected_image = random.choice(image_files)
+    selected_image_folder = random.choice(image_files)
+    selected_image = next(f for f in os.listdir(os.path.join(app.config['IMAGE_FOLDER'], selected_image_folder)) if f.startswith('image'))
+    ref_image = next(f for f in os.listdir(os.path.join(app.config['IMAGE_FOLDER'], selected_image_folder)) if f.startswith('ref'))
 
     image_id = selected_image.rsplit('.', 1)[0]
     # Remove 'image_' prefix from the image ID if it exists
     if image_id.startswith('image_'):
         image_id = image_id[6:]  # Remove first 6 characters ('image_')
+
     # Find the corresponding text file
     problem_file = f'problem_{image_id}.txt'  # Replace the image extension with .txt
     problem_path = os.path.join(app.config['PROBLEM_FOLDER'], problem_file)
@@ -64,6 +67,8 @@ def home():
 
     answer_file = f'answer_{image_id}.txt'  # Replace the image extension with .txt
     answer_path = os.path.join(app.config['ANSWER_FOLDER'], answer_file)
+
+    print(problem_path)
 
     # Read the text content (if the file exists)
     if os.path.exists(problem_path):
@@ -94,12 +99,12 @@ def home():
 
     # Pass the selected image, text content, and image_id to the template
     return render_template('index.html', 
-                           image_path=url_for('static', filename=f'images/{selected_image}'), 
+                           image_path=url_for('static', filename=f'images/{image_id}/{selected_image}'), 
+                           image_path_ref=url_for('static', filename=f'images/{image_id}/{ref_image}'), 
                            problem_content=problem_content,
                            correct_content=correct_content,
                            answer_content=answer_content,
                            image_id=image_id)
-
 
 @app.route('/submit', methods=['POST'])
 def handle_user_input():
@@ -114,11 +119,11 @@ def handle_user_input():
     conn = get_db_connection()
     with conn.cursor() as cur:
         # Insert into whichever table you are actually using (user_inputs or user_inputs_test)
-        cur.execute("INSERT INTO es_data_main (input) VALUES (%s)", (final_input,))
+        cur.execute("INSERT INTO es_data (input) VALUES (%s)", (final_input,))
         conn.commit()
 
         # Verification query
-        cur.execute("SELECT * FROM es_data_main ORDER BY id DESC LIMIT 1")
+        cur.execute("SELECT * FROM es_data ORDER BY id DESC LIMIT 1")
         result = cur.fetchone()
         print(f"Last inserted row: {result}")
 
@@ -136,11 +141,33 @@ def skip_user_input():
     conn = get_db_connection()
     with conn.cursor() as cur:
         # Insert into whichever table you are actually using (user_inputs or user_inputs_test)
-        cur.execute("INSERT INTO es_data_main (input) VALUES (%s)", (final_input,))
+        cur.execute("INSERT INTO es_data (input) VALUES (%s)", (final_input,))
         conn.commit()
 
         # Verification query
-        cur.execute("SELECT * FROM es_data_main ORDER BY id DESC LIMIT 1")
+        cur.execute("SELECT * FROM es_data ORDER BY id DESC LIMIT 1")
+        result = cur.fetchone()
+        print(f"Last inserted row: {result}")
+
+    conn.close()
+    return redirect(url_for('home'))
+
+@app.route('/discard', methods=['POST'])
+def discard_user_input():
+    """Handle the form submission for skipped solutions."""
+    image_id = request.form.get('image_id', '')
+
+    # Combine them into one string for storage in the single 'input' column
+    final_input = f'{image_id}:BAD'
+
+    conn = get_db_connection()
+    with conn.cursor() as cur:
+        # Insert into whichever table you are actually using (user_inputs or user_inputs_test)
+        cur.execute("INSERT INTO es_data (input) VALUES (%s)", (final_input,))
+        conn.commit()
+
+        # Verification query
+        cur.execute("SELECT * FROM es_data ORDER BY id DESC LIMIT 1")
         result = cur.fetchone()
         print(f"Last inserted row: {result}")
 
@@ -166,7 +193,7 @@ def upload_image():
 def view_inputs():
     conn = get_db_connection()
     with conn.cursor() as cur:
-        cur.execute("SELECT * FROM es_data_main")
+        cur.execute("SELECT * FROM es_data")
         inputs = cur.fetchall()
     conn.close()
     return render_template('view_inputs.html', inputs=inputs)

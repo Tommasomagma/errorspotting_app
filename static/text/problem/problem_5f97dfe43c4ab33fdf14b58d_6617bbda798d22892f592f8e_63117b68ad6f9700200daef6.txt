@@ -1,1 +1,0 @@
-"Vinkeln $v$ är 34°. Hur stor är vinkeln $u$?"

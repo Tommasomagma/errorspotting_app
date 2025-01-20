@@ -1,1 +1,0 @@
-"Samuel såg värdet på sin insats i en aktiefond minska första året med $34$ % och andra året med $48$ %. Efter de två åren var värdet på hans aktiefond bara $8\\ 580$ kr.\n\nHur mycket hade Samuel satt in på aktiefonden? Avrunda till närmaste tusental."

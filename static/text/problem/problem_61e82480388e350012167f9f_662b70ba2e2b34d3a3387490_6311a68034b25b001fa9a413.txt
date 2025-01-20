@@ -1,1 +1,0 @@
-"Rätblocket utgörs av kuber med volymen 1 cm$^3$.\n\nVad är rätblockets volym?"

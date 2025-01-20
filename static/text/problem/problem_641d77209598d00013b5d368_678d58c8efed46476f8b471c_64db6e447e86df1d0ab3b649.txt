@@ -1,0 +1,1 @@
+"Vilket är medelvärdet till talen $7$, $10$, $5$ och $2$?"

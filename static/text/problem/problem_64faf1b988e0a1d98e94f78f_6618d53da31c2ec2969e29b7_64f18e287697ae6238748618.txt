@@ -1,1 +1,0 @@
-"En kula kastas slumpmässigt över ett golv som ser ut som på bilden. \n\nHur stor är sannolikheten att kulan hamnar på en blå ruta? Svara i bråkform."

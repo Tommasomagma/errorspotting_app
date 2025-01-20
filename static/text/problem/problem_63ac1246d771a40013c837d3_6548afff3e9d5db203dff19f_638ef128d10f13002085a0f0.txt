@@ -1,1 +1,0 @@
-"Kombinera rätt ekvation med rätt linje.\n\n$y = 2x+1$"

@@ -1,1 +1,0 @@
-"Beräkna längden av sidan $x$ i cm med hjälp av en ekvation."

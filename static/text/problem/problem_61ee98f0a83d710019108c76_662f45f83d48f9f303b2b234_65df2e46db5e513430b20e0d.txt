@@ -1,1 +1,0 @@
-"Skriv i decimeter. \n\n50 cm"

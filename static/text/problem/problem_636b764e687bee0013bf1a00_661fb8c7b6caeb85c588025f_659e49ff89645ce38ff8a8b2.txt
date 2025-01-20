@@ -1,1 +1,0 @@
-"Markera likhetstecken (=) mellan uttrycken om de har samma värde och ej lika med tecken (≠) om de inte har samma värde.\n\n$2a \\cdot 2b$  $\\ \\underline{\\hspace{0.5cm}}\\ $  $4ab$"

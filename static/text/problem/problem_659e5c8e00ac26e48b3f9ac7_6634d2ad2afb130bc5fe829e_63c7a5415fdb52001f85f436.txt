@@ -1,1 +1,0 @@
-"Att gå på kafé har de senaste åren blivit alltmer populärt i Sverige och kaféernas totala inkomster har ökat.\n\nMan tror att de totala inkomsterna kommer att öka med ungefär $7\\ \\%$ per år från och med år 2011.  Hur mycket kommer då kaféernas totala inkomster att vara år 2016? Avrunda till hela miljontal."

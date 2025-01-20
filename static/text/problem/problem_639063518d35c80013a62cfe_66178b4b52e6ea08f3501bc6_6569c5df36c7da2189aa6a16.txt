@@ -1,1 +1,0 @@
-"Luften vi andas består mest av kväve, $78$ % och syre, $21$ %. \n\nUngefär hur många liter kväve finns det i $15$ liter luft? Svara med en decimal."

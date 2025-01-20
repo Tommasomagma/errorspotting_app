@@ -1,1 +1,0 @@
-"Tabellen och cirkeldiagrammet visar resultatet på en undersökning om favoritmat i en skolklass.\n\nHur stor andel av eleverna hade hamburgare som favoritmat?"

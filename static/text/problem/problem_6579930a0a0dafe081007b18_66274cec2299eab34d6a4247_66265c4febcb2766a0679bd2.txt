@@ -1,1 +1,0 @@
-"Om man dividerar morfars ålder med 6, subtraherar 4 och därefter dividerar med 2, då får man 6. \n\nHur gammal är morfar?"

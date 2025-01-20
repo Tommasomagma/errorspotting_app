@@ -1,1 +1,0 @@
-"Produkten av tre primtal är 105. \n\nVilket är det största primtalet?"

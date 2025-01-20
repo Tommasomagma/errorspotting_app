@@ -1,1 +1,0 @@
-"Lös ekvationen.\n\n$2z-9=6z-33$"

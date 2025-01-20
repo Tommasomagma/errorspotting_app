@@ -1,1 +1,0 @@
-"Anna äter $\\Large\\frac{5}{11}$ av en brödlimpa på måndag morgon och $\\Large\\frac{3}{7}$ av hela brödlimpan på tisdag morgon. \n\nHur stor andel av limpan är kvar på onsdag morgon?"

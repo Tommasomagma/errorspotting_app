@@ -1,1 +1,0 @@
-"Ett taxiföretag tar $45$ kr i fast avgift för en resa. Sedan kostar varje kilometer $12$ kr och varje minut resan tar kostar $7$ kr. Hur mycket kostar det att åka $4$ km\nom resan tar en kvart?"

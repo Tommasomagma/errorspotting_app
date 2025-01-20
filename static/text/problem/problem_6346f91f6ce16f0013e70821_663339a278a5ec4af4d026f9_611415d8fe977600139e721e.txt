@@ -1,1 +1,0 @@
-"Teckna ett uttryck för hur mycket man ska betala för $x$ burkar mineralvatten och $y$ glassar."

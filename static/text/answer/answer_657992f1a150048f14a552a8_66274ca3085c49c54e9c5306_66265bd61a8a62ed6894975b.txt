@@ -1,1 +1,0 @@
-["$3\\cdot a + 4\\cdot b $","$a\\cdot 7\\cdot b$"]

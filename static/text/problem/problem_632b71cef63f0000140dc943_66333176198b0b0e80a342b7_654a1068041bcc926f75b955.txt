@@ -1,1 +1,0 @@
-"Skriv talet $\\Large\\frac{1}{4}$ i decimalform."

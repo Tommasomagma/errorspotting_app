@@ -1,1 +1,0 @@
-"Personalen på en djurpark skrev ned hur mycket mat de olika djuren fick under en dag. Alla djuren av en viss sort delade lika på den totala mängd mat de fick.\n\nHur mycket mat åt en älg på en dag?"

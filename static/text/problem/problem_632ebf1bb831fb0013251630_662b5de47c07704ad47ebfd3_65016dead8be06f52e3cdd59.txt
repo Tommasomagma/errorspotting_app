@@ -1,1 +1,0 @@
-"Skriv längden $0{,}3$ mil i kilometer."

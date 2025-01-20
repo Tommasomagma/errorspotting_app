@@ -1,0 +1,1 @@
+"I grafen visas sambandet mellan kostnaden för att hyra film och antalet filmer som hyrs.  Hur många filmer kan man hyra för en hundralapp och en femtiolapp?"

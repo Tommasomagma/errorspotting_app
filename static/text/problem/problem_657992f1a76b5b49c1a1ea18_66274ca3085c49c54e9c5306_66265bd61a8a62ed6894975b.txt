@@ -1,1 +1,0 @@
-"Bestäm värdet av följande uttryck om $a=8$ och $b=3$. \n\n${\\Large\\frac{2a}{4}}-{\\Large\\frac{2b}{3}}$"

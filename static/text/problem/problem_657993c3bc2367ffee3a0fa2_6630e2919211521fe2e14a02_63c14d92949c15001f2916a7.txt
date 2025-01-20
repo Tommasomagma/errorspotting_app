@@ -1,1 +1,0 @@
-"På skolresan kunde man välja mellan fyra rätter till lunch. Resultatet blev följande:\n\n- Köttbullar med potatismos: 40 st\n- Korv med pommes frites: 30 st\n- Spaghetti med köttfärssås: 20 st\n- Pytt i panna: 10 st\n\nVisa resultatet genom att rita ett cirkeldiagram.\n\nVilken av bitarna är nästan en tredjedel av cirkeln?"

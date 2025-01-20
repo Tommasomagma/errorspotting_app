@@ -1,1 +1,0 @@
-"Diagrammet visar den relativa frekvensen för olika bilmärken som fanns i ett parkeringshus. Det fanns $8$ st bilar av märket Saab. Hur många bilar av märket Volvo fanns det?"

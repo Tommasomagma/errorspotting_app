@@ -1,1 +1,0 @@
-"Ett normaltjockt A4-papper har måtten $210 \\cdot 297$ mm och väger $5$ g.\n\nDiagrammet visar hur många kilogram papper vi förbrukar per person i genom- snitt i Sverige under ett år. Om all din förbrukning av tryck- och skrivpapper var vanliga A4-papper, hur många A4-papper skulle det motsvara?"

@@ -1,1 +1,0 @@
-"I en påse finns $2$ svarta och $2$ vita kulor. Josefin drar $2$ kulor.\n\nHur stor är sannolikheten att första kulan är en vit kula?"

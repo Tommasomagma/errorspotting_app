@@ -1,1 +1,0 @@
-"Vilket tal är det bästa närmevärdet till $\\Large\\frac{13}{4,32}$?"

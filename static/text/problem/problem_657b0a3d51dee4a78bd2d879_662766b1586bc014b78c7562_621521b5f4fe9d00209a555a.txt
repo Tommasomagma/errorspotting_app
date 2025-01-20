@@ -1,1 +1,0 @@
-"Elias öppnar en förpackning med 1 liter juice. Han häller upp 2 dl i ett glas.\n\nHur många deciliter juice är det kvar i förpackningen?"

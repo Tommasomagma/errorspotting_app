@@ -1,1 +1,0 @@
-"Hur mycket väger $1$ liter valnötskärnor? Avrunda till tiotal gram."

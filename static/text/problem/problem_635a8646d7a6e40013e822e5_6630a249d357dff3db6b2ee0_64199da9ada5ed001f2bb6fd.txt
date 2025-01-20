@@ -1,1 +1,0 @@
-"Skriv uttrycket utan parentes.\n\n$4x(2x-y)=$"

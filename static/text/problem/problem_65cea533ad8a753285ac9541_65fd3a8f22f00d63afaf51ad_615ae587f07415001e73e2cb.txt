@@ -1,1 +1,0 @@
-"Titta på bilden och bestäm...\n\nFigurens area."

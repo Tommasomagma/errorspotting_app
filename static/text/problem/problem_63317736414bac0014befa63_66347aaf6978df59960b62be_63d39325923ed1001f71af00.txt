@@ -1,1 +1,0 @@
-"En rabatt har formen av en rektangel. Den är $6$ m lång och $2$ m bred. Beräkna rabattens area."

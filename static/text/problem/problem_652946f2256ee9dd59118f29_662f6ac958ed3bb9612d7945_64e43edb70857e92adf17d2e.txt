@@ -1,1 +1,0 @@
-"Du skall plocka bollar ur en säck och sannolikheten för att ta en röd är 60 % och en blå är 40 %.\n\nNär du tagit upp en boll, så lägger du tillbaka den igen innan du tar en ny. Vad är sannolikheten att ta två röda bollar i rad?"

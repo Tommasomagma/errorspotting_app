@@ -1,1 +1,0 @@
-"Använd tallinjen för att multiplicera. \n\n$7 \\cdot 2=$"

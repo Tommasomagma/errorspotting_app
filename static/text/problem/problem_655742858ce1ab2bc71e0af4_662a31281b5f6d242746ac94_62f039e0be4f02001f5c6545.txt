@@ -1,1 +1,0 @@
-"Erik dricker upp tre fjärdedelar av milkshaken. Hur mycket finns kvar? Svara i cl."

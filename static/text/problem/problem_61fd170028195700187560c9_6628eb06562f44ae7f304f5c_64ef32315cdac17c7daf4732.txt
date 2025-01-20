@@ -1,1 +1,0 @@
-"Vilken av ekvationerna har **inte** lösningen $x=3$?\n\n$\\quad$**A**. $\\;4x=12$\n\n$\\quad$**B**. $\\; {\\large\\frac{2x}{3}}=2$\n\n$\\quad$**C**. $\\;  9x=3$\n\n$\\quad$**D**. $\\; {\\large\\frac{1}{x}}={\\large\\frac{1}{3}}$"

@@ -1,1 +1,0 @@
-"Jonna och Adam springer tillsammans. Jonna har sprungit $\\Large\\frac{9}{13}$ när Adam har sprungit $\\Large\\frac{2}{5}$. \n\nHur stor är skillnaden? Svara i bråkform."

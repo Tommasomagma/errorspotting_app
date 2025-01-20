@@ -1,1 +1,0 @@
-"Hur skrivs volymen i liter och centiliter?\n\n$105$ cl $=$"

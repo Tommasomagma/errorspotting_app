@@ -1,1 +1,0 @@
-"Förläng följande bråk med 4. Svara genom att ange det förlängda bråket.\n\n$\\color{#505050}{\\large\\frac{2}{7}}$"

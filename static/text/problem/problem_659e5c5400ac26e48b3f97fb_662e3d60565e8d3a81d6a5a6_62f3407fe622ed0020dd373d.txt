@@ -1,1 +1,0 @@
-"I en säck ligger det olika mynt:\n\n20 järnmynt  \n10 bronsmynt  \n8 silvermynt  \n2 guldmynt\n\nHur många procent av mynten är järnmynt?"

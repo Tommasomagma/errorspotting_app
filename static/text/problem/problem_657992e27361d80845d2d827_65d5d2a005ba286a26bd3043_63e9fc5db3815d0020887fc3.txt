@@ -1,1 +1,0 @@
-"Sträcka 1 är $z$ lång, och sträcka 2 är fyra gånger så lång som sträcka 1. Teckna ett uttryck för längden av sträcka 2."

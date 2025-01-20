@@ -1,1 +1,0 @@
-"Bilden visar 3 apelsiner och 1 äpple.\n\nHur stor andel av frukterna är äpplen? Svara i procentform."

@@ -1,1 +1,0 @@
-"Albin spelar fotboll i ett lag. Under en säsong gör han x mål.\n\nSkriv det förenklade uttrycket för antalet mål de tre gjorde tillsammans."

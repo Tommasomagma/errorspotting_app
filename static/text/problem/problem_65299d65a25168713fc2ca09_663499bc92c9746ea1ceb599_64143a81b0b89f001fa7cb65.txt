@@ -1,1 +1,0 @@
-"**Sant eller falskt?**\n\nTalet $\\pi$ är kvoten mellan cirkelns omkrets och radie."

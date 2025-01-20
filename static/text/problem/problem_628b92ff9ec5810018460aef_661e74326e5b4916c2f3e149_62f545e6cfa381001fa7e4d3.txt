@@ -1,1 +1,0 @@
-"Vilket tal fattas? \n\n$\\Large \\frac{1}{4}$ av $ \\ \\underline{\\hspace{0.5cm}} = 8$"

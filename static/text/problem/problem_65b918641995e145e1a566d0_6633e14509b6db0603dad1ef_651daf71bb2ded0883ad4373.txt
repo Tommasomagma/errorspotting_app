@@ -1,1 +1,0 @@
-"Affären har 18 marsvin i olika burar. I varje bur finns det 3 marsvin.\n\nHur många burar är det? *Gör en beräkning och skriv svar.*"

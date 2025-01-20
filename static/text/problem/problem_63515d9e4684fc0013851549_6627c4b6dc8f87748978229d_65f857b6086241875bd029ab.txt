@@ -1,1 +1,0 @@
-"Vasaloppet är en skidtävling som går varje år första söndagen i mars. Loppet är $90$ km långt. Ernst Alm vann det allra första Vasaloppet år $1922$. Hans tid blev $7$ h $32$ min $49$ s. Vilken var Ernsts medelhastighet? Avrunda till tiondels meter per sekund, och svara utan enhet."

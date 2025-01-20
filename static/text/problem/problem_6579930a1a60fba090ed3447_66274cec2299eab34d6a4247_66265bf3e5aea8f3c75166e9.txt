@@ -1,1 +1,0 @@
-"Vilket tal ska du multiplicera sidorna av en kvadrat med för att arean ska halveras? Avrunda till en decimal."

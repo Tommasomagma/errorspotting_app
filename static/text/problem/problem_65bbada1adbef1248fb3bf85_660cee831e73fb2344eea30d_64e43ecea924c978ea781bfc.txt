@@ -1,1 +1,0 @@
-"Arean på ett hjärta är 80 cm$^2$. Hjärtat ska avbildas i längdskala $1:4$. Bestäm det avbildade hjärtats area i kvadratcentimeter."

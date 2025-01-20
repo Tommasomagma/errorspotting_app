@@ -1,1 +1,0 @@
-"Lejla har bakat 40 kakor åt klassen. I klassen är det 15 elever och en lärare. Varje elev får två kakor och läraren får en. \n\nHur många kakor har Lejla kvar efter fikat?"

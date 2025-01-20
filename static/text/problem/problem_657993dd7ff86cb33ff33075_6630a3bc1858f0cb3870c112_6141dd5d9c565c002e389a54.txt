@@ -1,1 +1,0 @@
-"Talen visar fem olika observationer.\n\n$3 \\hspace{0.3cm} 3  \\hspace{0.3cm} 5  \\hspace{0.3cm}  9  \\hspace{0.3cm}  10$\n\nTvå 6:or läggs till som observation. Vad är den nya medianen?"

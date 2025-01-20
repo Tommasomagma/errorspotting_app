@@ -1,1 +1,0 @@
-"Vilket uttryck har störst värde när $n$ är ett negativt tal?"

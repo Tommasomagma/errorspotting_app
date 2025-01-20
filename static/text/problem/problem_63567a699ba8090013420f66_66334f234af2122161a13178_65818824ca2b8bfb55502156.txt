@@ -1,1 +1,0 @@
-"Förenkla uttrycket.\n\n$7a-(2a+b)+(a-3b)=$"

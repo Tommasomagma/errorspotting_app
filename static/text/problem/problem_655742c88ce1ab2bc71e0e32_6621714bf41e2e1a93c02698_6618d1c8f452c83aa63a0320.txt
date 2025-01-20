@@ -1,1 +1,0 @@
-"Nellies mobil väger $1\\ 500$ gram och Omars väger 15 hektogram. \n\nHur många kilogram väger deras mobiler tillsammans?"

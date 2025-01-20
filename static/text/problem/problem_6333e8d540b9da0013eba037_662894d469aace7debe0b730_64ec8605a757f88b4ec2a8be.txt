@@ -1,1 +1,0 @@
-"Rita en kvadrat med sidan $3$ cm. Dela in kvadraten i fyra lika stora delar. Skugga en av delarna. Hur stor andel av kvadraten är inte skuggad?"

@@ -1,1 +1,0 @@
-"Arman har 3 pennor, en linjal och 3 sudd. \n\nPå hur många sätt kan han välja en penna, en linjal och ett sudd?"

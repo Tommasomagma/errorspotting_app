@@ -1,1 +1,0 @@
-"Förenkla så långt som möjligt.\n\n${\\Large\\frac{3x\\ +\\ x}{x}}$"

@@ -81,6 +81,13 @@
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
 
+        .image-container-mini img {
+            width: 50%;
+            height: auto;
+            border-radius: 6px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
         .form-group {
             display: flex;
             gap: 1rem;
@@ -219,7 +226,14 @@
                         <input type="hidden" name="image_id" value="{{ image_id }}">
                         <button type="submit">Skip</button>
                     </form>
+                    <form action="/discard" method="POST"></form>
+                        <input type="hidden" name="image_id" value="{{ image_id }}">
+                        <button type="submit">Discard</button>
+                    </form>
                 </div>
+            </div>
+            <div class="image-container-mini">
+                <img src="{{ image_path_ref }}" alt="Task Image">
             </div>
         </div>
     </div>

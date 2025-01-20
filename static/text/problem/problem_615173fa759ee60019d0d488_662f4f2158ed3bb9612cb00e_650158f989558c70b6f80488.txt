@@ -1,1 +1,0 @@
-"Björn har byggt en trappa, och ska nu måla trappans båda sidoväggar. \n\nVarje steg av trappan har samma dimensioner. Vad är den totala yta som Björn behöver måla?"

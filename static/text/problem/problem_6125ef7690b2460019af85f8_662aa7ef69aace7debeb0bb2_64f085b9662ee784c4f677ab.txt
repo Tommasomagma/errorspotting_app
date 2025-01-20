@@ -1,1 +1,0 @@
-"Thomas konditionstränar. Han springer längs en fotbollsplan som är $100m$ lång. Han springer $12$ längder. Hur många $m$ har Thomas sprungit totalt$?$ Glöm ej enheten!"

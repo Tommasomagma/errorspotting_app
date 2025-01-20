@@ -1,1 +1,0 @@
-"En hamburgare kostar $40$ kr.\n\nPriset höjs med $25$ %. Beräkna det nya priset."

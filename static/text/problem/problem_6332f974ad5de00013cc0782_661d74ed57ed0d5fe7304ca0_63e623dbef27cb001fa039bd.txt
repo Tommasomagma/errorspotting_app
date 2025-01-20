@@ -1,1 +1,0 @@
-"Du har talet $5\\ 273$. Avrunda till hundratal."

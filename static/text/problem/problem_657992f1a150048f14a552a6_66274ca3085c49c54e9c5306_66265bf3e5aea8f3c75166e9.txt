@@ -1,1 +1,0 @@
-"Bestäm värdet av följande uttryck om $x = 3, y = 5$ och $z = 2$.\n\n$x \\cdot x \\cdot y + z\\cdot y - x - y - z$,"

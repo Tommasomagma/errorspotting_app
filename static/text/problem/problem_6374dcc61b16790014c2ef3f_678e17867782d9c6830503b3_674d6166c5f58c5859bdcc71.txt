@@ -1,0 +1,1 @@
+"Skillnaden mellan Gustavs och Marys åldrar är $27$ år. Mary är $54$ år. Hur många år kan Gustav vara?\n\nVisa hur du löser uppgiften och skriv svar."

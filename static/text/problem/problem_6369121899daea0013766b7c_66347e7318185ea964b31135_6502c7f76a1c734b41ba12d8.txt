@@ -1,1 +1,0 @@
-"Ett lodrätt område i en tabell kallas\n\n$\\quad$**A.**$\\;$ rad\n\n$\\quad$**B.**$\\;$ kolumn\n\n$\\quad$**C.**$\\;$ rubrik"

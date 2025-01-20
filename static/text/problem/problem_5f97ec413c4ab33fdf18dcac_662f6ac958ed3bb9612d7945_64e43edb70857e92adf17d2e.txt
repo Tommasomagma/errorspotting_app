@@ -1,1 +1,0 @@
-"Aila går i en skola med 200 elever. Hälften är pojkar och hälften är flickor. Bland flickorna drar man lott om vem som ska bli årets Lucia. \n\nHur stor är chansen att Aila blir lucia?  Svara i procentform."

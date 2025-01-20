@@ -1,1 +1,0 @@
-"Bestäm figurens area i areaenheter. Svara enbart med talet."

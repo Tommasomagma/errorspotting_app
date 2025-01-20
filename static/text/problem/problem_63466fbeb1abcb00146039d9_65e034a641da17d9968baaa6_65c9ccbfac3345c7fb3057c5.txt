@@ -1,1 +1,0 @@
-"Linus går upp till toppen av ett berg med medelhastigheten $3$ km/h. På vägen nerför samma berg är hans medelhastighet dubbelt så hög. Det tar en timme längre tid att gå upp än ner. \n\nHur lång är sträckan upp till bergets topp? Lös gärna med ekvation."

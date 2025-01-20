@@ -1,1 +1,0 @@
-"En rät triangel har en area på 25 kvadratcentimeter och en bas som är 10 centimeter. Bestäm höjden för triangeln."

@@ -1,1 +1,0 @@
-"Skriv i procentform. Använd räknare och avrunda till hela procent.\n\n${\\Large\\frac{19}{158}}\\approx$"

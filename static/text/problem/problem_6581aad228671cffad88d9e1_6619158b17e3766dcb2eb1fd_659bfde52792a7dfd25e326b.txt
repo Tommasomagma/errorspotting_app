@@ -1,1 +1,0 @@
-"Ett paket innehåller 24 stycken munkar.\n\n2 vänner ska dela på munkarna. Hur många får var och en?"

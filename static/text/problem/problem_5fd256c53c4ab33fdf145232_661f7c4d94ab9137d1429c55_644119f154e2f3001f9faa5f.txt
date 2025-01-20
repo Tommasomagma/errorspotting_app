@@ -1,1 +1,0 @@
-"$\\begin{gathered}\n\\begin{aligned}\n&\\color{#505050}\\textsf{ Förenkla }\n\\bigg( {\\frac{1}{2} \\bigg)}^4\n\\end{aligned}\n\\end{gathered}$"

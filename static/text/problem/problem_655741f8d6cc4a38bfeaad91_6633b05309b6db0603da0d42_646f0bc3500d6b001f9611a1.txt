@@ -1,1 +1,0 @@
-"Skriv i centiliter.\n\n250 ml"

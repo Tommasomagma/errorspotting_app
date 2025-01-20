@@ -1,1 +1,0 @@
-"Tabellen visar resultatet av kast med pilar. Beräkna medelvärdet."

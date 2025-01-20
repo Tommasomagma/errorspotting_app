@@ -1,1 +1,0 @@
-"Vilket alternativ är en lösning till ekvationen nedan?\n\n$2x^2=18$"

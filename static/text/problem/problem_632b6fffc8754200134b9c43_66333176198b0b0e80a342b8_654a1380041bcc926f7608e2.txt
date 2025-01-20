@@ -1,1 +1,0 @@
-"Hur stor area har en kvadrat med sidolängden $9$ cm?"

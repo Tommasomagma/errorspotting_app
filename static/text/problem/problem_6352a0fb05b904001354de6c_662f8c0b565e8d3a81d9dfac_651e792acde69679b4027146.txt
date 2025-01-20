@@ -1,1 +1,0 @@
-"Grafen visar hur priset på frysta hallon beror av vikten. Hur mycket kostar $250$ g?"

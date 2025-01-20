@@ -1,1 +1,0 @@
-"Skriv bråken med så liten nämnare som möjligt.\n\n${\\Large\\frac{25}{40}}=$"

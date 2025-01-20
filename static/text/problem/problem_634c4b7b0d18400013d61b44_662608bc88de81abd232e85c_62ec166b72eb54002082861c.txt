@@ -1,1 +1,0 @@
-"Fredrik och Jacob tippade tillsammans varje vecka. Nedan ser du hur många rätt de hade som bäst under ett antal veckor:\n$11$, $8$, $10$, $9$, $9$, $10$, $9$, $11$, $11$, $8$, $8$, $9$, $8$, $9$, $9$, $10$, $10$, $10$, $9$, $10$\nVad ska stå istället för $C$?"

@@ -1,1 +1,0 @@
-"Breitling Orbiter $3$ flög $40\\ 800$ km runt ekvatorn på $20$ dygn. Den maximala hastigheten de kom upp i var $240$ km/h. \n\nHur lång tid hade flygningen tagit om de kunnat flyga med den maximala hastigheten hela tiden? Avrunda till hela dygn."

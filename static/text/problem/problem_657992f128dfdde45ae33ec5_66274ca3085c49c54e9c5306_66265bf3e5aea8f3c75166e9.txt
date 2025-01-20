@@ -1,1 +1,0 @@
-"Bestäm värdet av följande uttryck om $m=7$ och $n=3$. \n\n$9\\cdot m+3\\cdot m-4\\cdot n$"

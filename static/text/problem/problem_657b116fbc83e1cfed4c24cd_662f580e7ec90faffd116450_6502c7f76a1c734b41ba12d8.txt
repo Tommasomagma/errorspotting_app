@@ -1,1 +1,0 @@
-"Ett lotteri har 4 vinstlotter och 2 % av alla som deltar vinner. Hur många lotter finns det totalt?"

@@ -1,1 +1,0 @@
-"Omvandla till centimeter.\n\n4mm"

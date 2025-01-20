@@ -1,1 +1,0 @@
-"Skriv i kilometer.\n\n$9\\ 900$ m"

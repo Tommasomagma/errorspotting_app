@@ -1,1 +1,0 @@
-"En brandman står på den mittersta pinnen på en brandstege. Han klättrar upp $12$ steg. Men eftersom elden är så kraftig blir han tvungen att backa $7$ steg. Efter en stund klättrar brandmannen upp $11$ steg och står då på stegens näst översta pinne. Hur många pinnar har stegen?"

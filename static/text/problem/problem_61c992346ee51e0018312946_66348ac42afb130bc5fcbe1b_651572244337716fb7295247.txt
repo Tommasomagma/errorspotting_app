@@ -1,1 +1,0 @@
-"Bilden visar en tårta som är delad i lika stora delar. Två personer har tagit varsin bit. \n\nHur stor andel av tårtan finns kvar?"

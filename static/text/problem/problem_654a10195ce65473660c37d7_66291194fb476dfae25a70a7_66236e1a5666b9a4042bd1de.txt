@@ -1,1 +1,0 @@
-"I ett kylskåp står det 6 burkar med läsk. Aziz tar $\\Large\\frac{1}{3}$ av burkarna. \n\nHur många burkar finns kvar efter det?"

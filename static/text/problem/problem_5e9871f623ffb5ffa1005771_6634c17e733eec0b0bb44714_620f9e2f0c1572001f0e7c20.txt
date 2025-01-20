@@ -1,1 +1,0 @@
-"I kvadrat B med sidan 12 cm ritas fyra cirkelbågar med samma radie. Cirkelbågarnas medelpunkter ligger i kvadratens hörn. Myran promenerar längs cirkelbågarna. Den startar i punkt P och går till Q vidare till R och S och sedan till P igen. Jämför längden på myrans promenad i kvadrat B med promenaden i kvadrat A. Förklara ditt resultat. Använd $\\pi\\approx3{,}14$."

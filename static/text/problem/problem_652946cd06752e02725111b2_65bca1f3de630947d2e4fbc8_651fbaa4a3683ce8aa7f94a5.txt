@@ -1,1 +1,0 @@
-"I en familj har medlemmarna åldrarna:\n\n6 år,  10 år,  32 år,  63 år,  91 år\n\nRäkna ut medelåldern i familjen."

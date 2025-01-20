@@ -1,1 +1,0 @@
-"Pantea kastar sju pilar mot en tavla. Resultatet blir: $8$, $7$, $5$, $6$, $8$, $7$, och $8$ poäng. Beräkna medelvärdet."

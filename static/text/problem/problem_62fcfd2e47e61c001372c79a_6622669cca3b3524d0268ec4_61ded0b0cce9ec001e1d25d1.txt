@@ -1,1 +1,0 @@
-"Vad är värdet av den siffra med högst värde i talet $175$?"

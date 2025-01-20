@@ -1,1 +1,0 @@
-"Två rutor som ligger intill varandra får inte ha samma siffra.\n\nVilken bit är det som fattas?"

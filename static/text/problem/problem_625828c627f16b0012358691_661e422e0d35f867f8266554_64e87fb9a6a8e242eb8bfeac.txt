@@ -1,1 +1,0 @@
-"Hur stor är vinkeln $AOC$?\n\n$AOC=$"

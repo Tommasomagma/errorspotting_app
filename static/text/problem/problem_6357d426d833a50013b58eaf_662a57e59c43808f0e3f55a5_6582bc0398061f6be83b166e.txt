@@ -1,1 +1,0 @@
-"Lös ekvationen.\n\n$2(y-1)=4(y-3)$"

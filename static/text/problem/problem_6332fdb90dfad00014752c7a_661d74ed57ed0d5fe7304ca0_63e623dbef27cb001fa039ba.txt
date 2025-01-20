@@ -1,1 +1,0 @@
-"Sidan i en kvadrat är $21$ cm. Hur långa är de längsta sidorna i en rektangel med samma omkrets, om dess kortsidor är hälften så långa som långsidorna?"

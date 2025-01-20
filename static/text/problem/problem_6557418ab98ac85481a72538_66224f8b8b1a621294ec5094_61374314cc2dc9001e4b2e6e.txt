@@ -1,1 +1,0 @@
-"Ett tal är 10 gånger så stort som ett annat tal. Om det mindre talet kallas $x$, hur tecknas då ett uttryck för det större talet?"

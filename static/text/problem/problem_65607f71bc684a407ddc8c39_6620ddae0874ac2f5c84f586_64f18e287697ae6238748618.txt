@@ -1,1 +1,0 @@
-"Claes har 1 basker, 1 hatt och 2 kepsar. \n\nOm han slumpmässigt tar på sig en av huvudbonaderna, vad är sannolikheten att det blir en keps? Svara i procentform."

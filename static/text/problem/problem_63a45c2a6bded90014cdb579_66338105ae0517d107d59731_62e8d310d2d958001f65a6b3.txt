@@ -1,1 +1,0 @@
-"Sannolikheten för att ett frö ska gro är ${\\Large\\frac{4}{5}}$. Pernilla sätter två frön i jorden. Rita ett träddiagram och beräkna.\n\n$P($båda fröna gror$)=$"

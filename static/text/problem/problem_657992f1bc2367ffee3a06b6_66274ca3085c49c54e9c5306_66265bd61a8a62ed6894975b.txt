@@ -1,1 +1,0 @@
-"Bestäm värdet av uttrycket $x-6+2y$ om $x=8$ och $y=3$."

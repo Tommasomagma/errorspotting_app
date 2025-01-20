@@ -1,1 +1,0 @@
-"Två av ekvationerna har lösningen $x=3$. Vilka?\n\n$\\quad$**A**. $\\;4x=12$\n\n$\\quad$**B**. $\\; {\\large\\frac{2x}{3}}=2$\n\n$\\quad$**C**. $\\;  9x=3$\n\n$\\quad$**D**. $\\; {\\large\\frac{2}{x}}={\\large\\frac{1}{3}}$"

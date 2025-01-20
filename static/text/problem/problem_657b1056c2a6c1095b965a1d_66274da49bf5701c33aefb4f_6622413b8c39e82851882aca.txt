@@ -1,1 +1,0 @@
-"Johan springer 5 km en dag. Nästa dag springer han 35 % längre. \n\nHur långt har han sprungit totalt under de två dagarna?"

@@ -1,1 +1,0 @@
-"Kevin och Noa har varsin påse med chokladbitar. Båda påsarna har följande blandning: \n\n- 8 bitar ljus choklad\n- 7 bitar mörk choklad\n- 6 bitar vit choklad\n\nNoa tar två chokladbitar ur sin påse. Hur stor är sannolikheten att han tar två bitar *ljus* choklad? Svara i bråkform."

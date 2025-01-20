@@ -1,1 +1,0 @@
-"Vilket tal saknas? \n\n$1$ vecka $ = \\ \\underline{\\hspace{1cm}} $ h"

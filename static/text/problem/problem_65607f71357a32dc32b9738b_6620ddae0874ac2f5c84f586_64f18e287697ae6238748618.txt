@@ -1,1 +1,0 @@
-"I fruktskålen finns 3 bananer och 2 äpplen.\n\nVad är sannolikheten att du får en banan? Svara i procentform."

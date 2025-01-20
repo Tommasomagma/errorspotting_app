@@ -1,1 +1,0 @@
-"Kannan rymmer $1$ liter. Skriv i deciliter."

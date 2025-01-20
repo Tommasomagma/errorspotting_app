@@ -1,1 +1,0 @@
-"Mehmet och Isak samlar pantburkar. Isak hittar $30$ % fler burkar än Mehmet. Tillsammans hittar de $115$ burkar. Antag att Mehmet hittar $x$ burkar.\n\nHur många burkar hittar Mehmet?"

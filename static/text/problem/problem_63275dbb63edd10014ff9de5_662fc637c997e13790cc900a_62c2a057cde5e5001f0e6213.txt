@@ -1,1 +1,0 @@
-"Vilket tal saknas?\n\n$4{,}2$ m $=\\ \\underline{\\hspace{1cm}}$ cm"

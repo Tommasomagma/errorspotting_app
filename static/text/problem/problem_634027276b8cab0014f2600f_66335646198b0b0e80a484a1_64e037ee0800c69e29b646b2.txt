@@ -1,1 +1,0 @@
-"Figuren består av en kvadrat och en likbent triangel som sitter ihop.\n\nHur stor är vinkeln $v$?"

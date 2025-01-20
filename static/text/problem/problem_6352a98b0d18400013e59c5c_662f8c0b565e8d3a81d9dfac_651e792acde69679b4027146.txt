@@ -1,1 +1,0 @@
-"Hur mycket är ${\\Large\\frac{7}{10}}$ av $60$ fiskar?"

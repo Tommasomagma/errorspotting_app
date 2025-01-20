@@ -1,1 +1,0 @@
-"Du har talen 1, 9, 2 och 4. Vilken är medianen av de fyra talen? Visa att det stämmer."

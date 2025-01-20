@@ -1,1 +1,0 @@
-"Beräkna med huvudräkning. Gör gärna anteckningar som stöd för minnet. Avrunda till närmaste heltal.\n\n$89$ % av $120$ m"

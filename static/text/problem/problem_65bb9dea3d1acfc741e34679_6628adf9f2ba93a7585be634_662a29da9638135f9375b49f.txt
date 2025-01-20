@@ -1,1 +1,0 @@
-"Hur stor area har figuren? Svara i kvadratcentimeter."

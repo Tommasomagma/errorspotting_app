@@ -1,1 +1,0 @@
-"Beräkna med huvudräkning. Gör gärna anteckningar som stöd för minnet.\n\n$5$ % av $300$ m"

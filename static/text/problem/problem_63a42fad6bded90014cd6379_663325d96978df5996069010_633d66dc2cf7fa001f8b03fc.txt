@@ -1,1 +1,0 @@
-"På ett test finns fem svarsalternativ (a–e) på fråga $1$ och fyra svarsalternativ (a–d) på fråga $2$. Daniel gissar på båda frågorna. Beräkna.\n\n$P($inget rätt$)=$"

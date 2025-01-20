@@ -1,1 +1,0 @@
-"Skriv i decimalform andelen som motsvarar \"hälften av hälften\"."

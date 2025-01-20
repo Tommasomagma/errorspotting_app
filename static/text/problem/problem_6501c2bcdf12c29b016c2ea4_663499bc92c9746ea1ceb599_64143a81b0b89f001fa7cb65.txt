@@ -1,1 +1,0 @@
-"Månen roterar på ett avstånd som är $385\\ 000$ km från jordens mittpunkt.\n\nHur långt är månens varv runt jordens mittpunkt? Använd ${\\large \\pi }\\approx 3{,}14$ och avrunda till tusentals km."

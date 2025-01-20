@@ -1,1 +1,0 @@
-"En rätblocksformad tegelsten har måtten 2 dm, 4 dm och 1 dm. Med hjälp av sådana tegelstenar ska Lancelot bygga en mur som är 10 m lång, 4 m hög, och 0,2 m bred. \n\nHur många tegelstenar behövs för att bygga muren?"

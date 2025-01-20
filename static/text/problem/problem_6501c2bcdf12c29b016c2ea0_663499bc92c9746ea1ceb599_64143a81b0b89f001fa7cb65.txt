@@ -1,1 +1,0 @@
-"Hur lång är den svarta bågen på halvcirkeln? Använd $\\pi \\approx 3{,}14$ och svara med en decimal."

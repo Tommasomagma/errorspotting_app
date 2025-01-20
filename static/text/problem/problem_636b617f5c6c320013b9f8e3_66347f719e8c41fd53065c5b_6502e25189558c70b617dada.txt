@@ -1,1 +1,0 @@
-"Diagrammet visar vilken aktivitet de $84$ pensionärerna på ett servicehus valde att delta i. \n\nBeräkna hur många personer som valde nutidsfrågor."

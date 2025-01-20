@@ -1,1 +1,0 @@
-"En skola köpte 63 nya pennor som delades lika mellan 7 årskurser. Varje årskurs innehåller 3 klasser och varje klass fick lika många pennor. \n\nHur många pennor fick varje klass?"

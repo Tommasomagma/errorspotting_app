@@ -1,1 +1,0 @@
-"Bilden visar alla sidor på en tärning.\n\nHur många sidor finns det som har exakt tre prickar på sig?"

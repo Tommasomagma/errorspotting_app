@@ -1,1 +1,0 @@
-"Tabellen visar regnmängden för 5 veckor.\n\nVad var medianvärdet för perioden?"

@@ -1,1 +1,0 @@
-"Skriv volymen i liter.\n\n$2\\ 300$ ml"

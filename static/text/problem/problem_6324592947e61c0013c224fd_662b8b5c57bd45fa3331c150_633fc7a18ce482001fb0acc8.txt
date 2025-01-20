@@ -1,1 +1,0 @@
-"Tabellen visar hur många sportprogram eleverna i 5C hade sett den senaste veckan.\n\nHur stor andel av eleverna hade sett $2$ program?"

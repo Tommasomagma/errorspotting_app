@@ -1,1 +1,0 @@
-"En stor läsk innehåller $1$ liter $50$ cl. Johan dricker upp en tredjedel. Av det som finns kvar dricker Hussein en fjärdedel. \n\nHur mycket läsk finns kvar i flaskan sedan? Svara i centiliter."

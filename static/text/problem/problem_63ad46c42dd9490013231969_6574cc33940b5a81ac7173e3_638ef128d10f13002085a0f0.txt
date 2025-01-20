@@ -1,1 +1,0 @@
-"Kontrollera med hjälp av Pythagoras sats om vinklarna i hörnen är räta vinklar."

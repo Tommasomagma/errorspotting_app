@@ -1,1 +1,0 @@
-"En låda har volymen 360 dm$^3$. Lådans höjd är 5 dm och dess längd är 8 dm.\n\nVad är lådans bredd?"

@@ -1,0 +1,1 @@
+"Lös ekvationen med balnsmetoden.\n\n$x+5=27$"

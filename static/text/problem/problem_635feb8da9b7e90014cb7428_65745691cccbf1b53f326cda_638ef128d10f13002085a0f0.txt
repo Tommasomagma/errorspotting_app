@@ -1,1 +1,0 @@
-"Trianglarna är likformiga. Hur lång är sidan $x$?"

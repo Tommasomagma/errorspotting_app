@@ -1,1 +1,0 @@
-"Vilken enhet passar bäst?\n\nEn bil väger $1\\ 200$ $ \\underline{\\hspace{0.4cm}} $"

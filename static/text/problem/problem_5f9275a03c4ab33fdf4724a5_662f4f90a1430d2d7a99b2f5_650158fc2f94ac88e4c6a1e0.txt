@@ -1,1 +1,0 @@
-"Frida gör en trekantsmacka. De två triangulära ytorna på mackan har båda höjden 12 centimeter och basen 10 centimeter. \n\nHur stora är dessa ytor tillsammans?"

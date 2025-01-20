@@ -1,0 +1,1 @@
+"Bilen är 6 cm lång på bilden och är avbildad i skala $1:100$. Hur lång är den i verkligheten?"

@@ -1,1 +1,0 @@
-"Hur många procent är $\\Large\\frac{1}{3}$? Avrunda till hela procent."

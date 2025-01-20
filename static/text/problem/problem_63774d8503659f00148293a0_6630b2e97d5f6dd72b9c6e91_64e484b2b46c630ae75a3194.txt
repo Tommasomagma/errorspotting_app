@@ -1,1 +1,0 @@
-"Festivalen har en egen logga (se bilden). Vinkel $x$ förhåller sig till vinkel $y$ som $5:8$. Hur stor är vinkeln $x$?"

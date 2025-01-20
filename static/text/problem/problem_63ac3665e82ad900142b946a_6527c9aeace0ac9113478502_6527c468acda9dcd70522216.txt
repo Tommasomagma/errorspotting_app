@@ -1,1 +1,0 @@
-"Beräkna. Skriv först på samma bråkstreck. Förkorta och skriv svaret i blandad form om det går.\n\n${\\Large\\frac{1}{3}} \\cdot {\\Large\\frac{3}{5}}=$"

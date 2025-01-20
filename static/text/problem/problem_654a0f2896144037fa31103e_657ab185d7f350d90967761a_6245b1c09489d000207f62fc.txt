@@ -1,1 +1,0 @@
-"Vilket tal fattas?\n\n$7  \\cdot \\underline{\\hspace{0.5cm}} = 42 $"

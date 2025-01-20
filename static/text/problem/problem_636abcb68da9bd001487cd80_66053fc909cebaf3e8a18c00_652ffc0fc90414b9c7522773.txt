@@ -1,1 +1,0 @@
-"Beräkna och avrunda till hundradelar.\n\n$7\\sqrt{11}-\\sqrt{20}=$"

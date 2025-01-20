@@ -1,1 +1,0 @@
-"Du kastar en tärning två gånger. Beräkna sannolikheten för att första kastet ger $6$ och att andra ger ett udda tal, dvs $P(6$, udda tal$)$ eller $P(6$, $1$ eller $3$ eller $5)$."

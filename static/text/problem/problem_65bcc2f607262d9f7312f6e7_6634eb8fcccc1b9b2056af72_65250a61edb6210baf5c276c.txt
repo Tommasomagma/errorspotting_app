@@ -1,1 +1,0 @@
-"Beräkna differensen och svara i enklaste bråkform. Visa dina beräkningar.\n\n${\\Large\\frac{3}{4}}-{\\Large\\frac{2}{3}}=$"

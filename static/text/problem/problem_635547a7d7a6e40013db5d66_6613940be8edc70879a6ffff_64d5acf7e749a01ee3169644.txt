@@ -1,1 +1,0 @@
-"Teckna ett uttryck för arean och utför multiplikationerna."

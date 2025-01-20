@@ -1,1 +1,0 @@
-"Adrian, Petter och Molly är sammanlagt $18$ år. Adrian är hälften så gammal  som Molly. Petter är hälften så gammal som Adrian och Molly är sammanlagt. \n\nHur gammal är Adrian?"

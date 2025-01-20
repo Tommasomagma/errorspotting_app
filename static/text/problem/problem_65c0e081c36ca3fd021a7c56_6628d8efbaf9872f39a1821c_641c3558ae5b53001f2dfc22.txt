@@ -1,1 +1,0 @@
-"På en bondgård är ${\\Large\\frac{1}{6}}$ av djuren hönor. Av dessa är $\\Large\\frac{3}{4}$ äldre än 1 år.\n\nDet finns 72 djur på bondgården. Hur många hönor är äldre än 1 år?"

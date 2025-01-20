@@ -1,1 +1,0 @@
-"En bil åker 6 km på 5 minuter.\n\nBeräkna bilens medelfart i km/h.  Svara utan enhet."

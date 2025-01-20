@@ -1,1 +1,0 @@
-"I en rektangel är sidan $AB$ tre gånger så lång som sidan $BC$. Rektangelns omkrets är $48$ cm. Beräkna längden av sidorna."

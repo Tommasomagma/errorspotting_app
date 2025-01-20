@@ -1,1 +1,0 @@
-"Skriv talet med siffror.\n\ntvå hundratal, ett tiotal, sju ental"

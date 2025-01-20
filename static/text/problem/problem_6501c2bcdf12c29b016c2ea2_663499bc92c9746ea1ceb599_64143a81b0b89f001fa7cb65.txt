@@ -1,1 +1,0 @@
-"Vad är cirkelns omkrets? Använd $\\pi \\approx 3{,}14$."

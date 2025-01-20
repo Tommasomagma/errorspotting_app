@@ -1,1 +1,0 @@
-"Cirkeldiagrammet visar resultatet av en undersökning om favoritdjur i en klass.\n\nHur stor andel har katt som favoritdjur? Svara i bråkform."

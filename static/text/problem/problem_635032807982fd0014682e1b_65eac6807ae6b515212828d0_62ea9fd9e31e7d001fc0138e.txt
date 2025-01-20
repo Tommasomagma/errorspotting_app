@@ -1,1 +1,0 @@
-"Antalet rutor bildar ett mönster. Vilket av uttrycken i rutan beskriver hur många rutor det finns i figur $n$?"

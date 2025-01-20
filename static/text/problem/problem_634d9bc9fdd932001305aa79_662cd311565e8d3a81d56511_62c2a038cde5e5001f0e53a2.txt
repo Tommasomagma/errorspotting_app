@@ -1,1 +1,0 @@
-"Diagrammet visar antalet boende i lägenheterna i ett hyreshus. Hur många lägenheter finns i huset?"

@@ -1,1 +1,0 @@
-"Linus blundar och tar upp en av kulorna. Sedan lägger han tillbaka kulan.\n\nHur stor är sannolikheten att han tar upp en vit kula. Svara i procentform."

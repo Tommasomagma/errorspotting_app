@@ -1,1 +1,0 @@
-"Diagrammet visar hur många spelare i ett lag som gjorde ett visst antal mål under juni månad.\n\nOm några spelare gjort noll mål, går det att använda diagrammet för att räkna ut hur många spelare det finns i laget?"

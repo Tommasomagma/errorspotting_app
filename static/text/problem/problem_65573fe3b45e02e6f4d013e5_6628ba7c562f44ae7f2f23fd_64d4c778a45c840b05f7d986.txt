@@ -1,1 +1,0 @@
-"Gabriella vill beräkna antalet kakelplattor som behövs för att täcka golvet i rummet, vars planritning visas på bilden. Varje kvadratmeter kan täckas av 4 brickor. \n\nHur många brickor behöver Gabriella?"

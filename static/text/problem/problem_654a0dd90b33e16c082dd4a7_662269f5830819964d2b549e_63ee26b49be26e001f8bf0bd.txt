@@ -1,1 +1,0 @@
-"Anders har ätit en halv pizza. Den gröna punkten sitter i pizzans mittpunkt.\n\nHur stor är vinkeln vid den gröna punkten, från den ena kanten av pizzan till den andra?"

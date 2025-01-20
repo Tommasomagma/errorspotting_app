@@ -1,1 +1,0 @@
-"I din garderob har du 8 blå och 4 gula strumpor.\n\nDu köper ett nytt par gula strumpor efter att du tappat bort 4 blå strumpor. Om du nu tar en strumpa utan att titta, vilken färg är det störst sannolikhet att du får?"

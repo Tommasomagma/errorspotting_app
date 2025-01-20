@@ -1,1 +1,0 @@
-"Beräkna arean av en triangel vars hörn har koordinaterna $(0,0), (4,0)$ och $(2,4)$."

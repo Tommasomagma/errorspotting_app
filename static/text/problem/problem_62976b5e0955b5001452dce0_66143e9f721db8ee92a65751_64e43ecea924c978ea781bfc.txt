@@ -1,1 +1,0 @@
-"Beräkna och välj rätt svarsalternativ. \n\n$4^3 \\cdot 4^2 =$"

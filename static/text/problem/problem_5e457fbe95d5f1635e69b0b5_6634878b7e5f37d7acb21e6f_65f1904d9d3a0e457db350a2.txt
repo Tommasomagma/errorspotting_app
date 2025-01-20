@@ -1,1 +1,0 @@
-"Erik och Liam har fått en låda med salamikorvar för att sälja så att de kan tjäna pengar till en klassresa. När Erik har sålt ${\\Large\\frac{1}{3}}$ av alla korvarna och Liam har sålt ${\\Large\\frac{1}{4}}$ av alla korvar återstår det $15$ korvar.\n\nHur många salamikorvar fanns det från början i lådan?"

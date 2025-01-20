@@ -1,1 +1,0 @@
-"Bestäm värdet på $x$."

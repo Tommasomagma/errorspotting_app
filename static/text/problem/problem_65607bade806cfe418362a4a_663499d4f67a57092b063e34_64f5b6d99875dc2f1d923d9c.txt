@@ -1,1 +1,0 @@
-"Ett flygplan färdas med en hastighet som är 0,79 gånger ljudets hastighet.\n\nHur stor andel av ljudets hastighet är det? Svara i procentform."

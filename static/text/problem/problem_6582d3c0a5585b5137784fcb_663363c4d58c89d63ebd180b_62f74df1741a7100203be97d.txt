@@ -1,1 +1,0 @@
-"Det finns $14$ äpplen i en affär. $5$ äts upp av fåglar och $3$ äts upp av ekorrar.\n\nHur många äpplen finns det nu kvar i affären?"

@@ -1,1 +1,0 @@
-"En katt har vid 3 olika tillfällen fått kattungar. Varje gång har den fått lika många kattungar, och totalt har det blivit 18 stycken. \n\nHur många kattungar har det blivit per gång?"

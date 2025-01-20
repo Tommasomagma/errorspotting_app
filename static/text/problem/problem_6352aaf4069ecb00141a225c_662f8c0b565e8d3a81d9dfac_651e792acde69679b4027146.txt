@@ -1,1 +1,0 @@
-"Vilket tal saknas?\n\n$?$ % av $400$ kr $= 80$ kr"

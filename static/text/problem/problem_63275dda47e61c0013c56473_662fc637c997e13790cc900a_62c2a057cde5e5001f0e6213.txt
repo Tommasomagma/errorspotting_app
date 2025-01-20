@@ -1,1 +1,0 @@
-"Vilket tal saknas?\n\n$0{,}9$ m $=\\ \\underline{\\hspace{1cm}}$ mm"

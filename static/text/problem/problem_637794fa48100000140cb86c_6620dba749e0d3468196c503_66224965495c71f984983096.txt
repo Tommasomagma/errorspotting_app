@@ -1,1 +1,0 @@
-"Vinstchansen i ett lotteri är $20$ % varje gång man köper en lott. Kirsti köper två lotter.\n\nHur stor är sannolikheten att få två nitlotter?"

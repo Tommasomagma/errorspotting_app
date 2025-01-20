@@ -1,1 +1,0 @@
-"Anna frågar 21 elever om deras favoritsiffra. Hon räknar medianen till 10.\n\nStämmer det att, det som mest finns 10 elever vars favoritsiffra är högre än 10?"

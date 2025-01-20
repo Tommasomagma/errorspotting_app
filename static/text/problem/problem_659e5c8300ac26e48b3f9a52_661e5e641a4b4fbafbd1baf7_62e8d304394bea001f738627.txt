@@ -1,1 +1,0 @@
-"Studera talföljden nedanför. Avgör om värdet i talföljden ökar, minskar eller förblir oförändrat.\n\n$\\Large\\frac{3}{2} \\hspace{0.3cm} \\Large\\frac{4}{3} \\hspace{0.3cm} \\Large\\frac{5}{4}\\hspace{0.3cm} \\Large\\frac{6}{5}$"

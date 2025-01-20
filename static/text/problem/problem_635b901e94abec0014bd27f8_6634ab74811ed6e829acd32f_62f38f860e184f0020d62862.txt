@@ -1,1 +1,0 @@
-"Hur många fyrsiffriga tal kan bildas med siffrorna 1–8 om alla siffror ska vara olika?"

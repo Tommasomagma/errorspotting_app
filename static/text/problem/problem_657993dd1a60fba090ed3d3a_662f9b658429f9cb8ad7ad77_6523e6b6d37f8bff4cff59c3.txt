@@ -1,1 +1,0 @@
-"Frekvenstabellen visar hur många länder några elever besökt.\n\nVad är medianen av antalet besökta länder?"

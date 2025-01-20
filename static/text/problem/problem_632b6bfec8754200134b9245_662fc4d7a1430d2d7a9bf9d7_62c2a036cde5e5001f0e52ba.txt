@@ -1,1 +1,0 @@
-"Beräkna arean av en triangel med basen $3$ cm och höjden $5$ cm."

@@ -1,1 +1,0 @@
-"En swimmingpool fylls på $8$ timmar med ett rör där det kan rinna $50$ liter per minut. Hur många minuter tar det att fylla poolen med ett rör där det kan rinna $2{,}5$ liter per sekund?"

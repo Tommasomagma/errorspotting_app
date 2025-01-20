@@ -1,1 +1,0 @@
-"Med uttrycket $4n + 1$ kan du räkna ut talen i en talföljd. Vilka är det första talet?"

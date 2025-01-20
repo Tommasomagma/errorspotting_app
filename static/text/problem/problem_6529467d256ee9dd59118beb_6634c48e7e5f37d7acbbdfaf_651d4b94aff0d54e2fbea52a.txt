@@ -1,1 +1,0 @@
-"Du har två godisar i en godispåse och skall ta upp en i taget.\n\nHur många sätt kan du ta upp dem på?"

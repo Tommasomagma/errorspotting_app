@@ -1,1 +1,0 @@
-"Urban samlar fotbollskort. Han har lite fler än $40$ stycken kort. Om han lägger dem tre och tre i varje rad får han $1$ kort i sista raden. Lägger han fyra i varje rad får han tre kort i sista raden. \n\nHur många kort får han i sista raden om han lägger fem kort i varje rad?"

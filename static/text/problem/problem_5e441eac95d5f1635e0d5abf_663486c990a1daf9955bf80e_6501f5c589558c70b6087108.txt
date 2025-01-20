@@ -1,1 +1,0 @@
-"Förenkla uttrycket.\n\n$ xy + xy + xy$"

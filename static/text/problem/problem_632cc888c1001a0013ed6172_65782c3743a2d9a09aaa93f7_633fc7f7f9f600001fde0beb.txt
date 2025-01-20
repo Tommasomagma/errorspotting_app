@@ -1,1 +1,0 @@
-"Vilket tal är minst?\n\n$0{,}18$ $\\space$ $0{,}19$ $\\space$ $0{,}2$ $\\space$ $0{,}1$ $\\space$ $0{,}08$"

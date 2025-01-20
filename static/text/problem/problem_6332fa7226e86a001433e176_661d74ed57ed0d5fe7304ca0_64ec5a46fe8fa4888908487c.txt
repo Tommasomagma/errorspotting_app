@@ -1,1 +1,0 @@
-"Hur stor är arean om varje ruta har arean $1$ cm$^2$?"

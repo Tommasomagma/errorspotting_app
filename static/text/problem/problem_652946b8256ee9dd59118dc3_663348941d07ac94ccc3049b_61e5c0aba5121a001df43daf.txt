@@ -1,1 +1,0 @@
-"Ali räknar antalet bilar han ser på vägen till skolan under en vecka. \n\nResultat är $4,  3,  6,  1,  1$\n\nUnder hur många dagar räknade Ali antalet bilar på väg till skolan?"

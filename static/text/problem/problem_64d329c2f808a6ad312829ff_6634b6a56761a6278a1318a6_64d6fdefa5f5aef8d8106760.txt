@@ -1,1 +1,0 @@
-"Ungefär vilket tal pekar pilen på?\n\nSkriv endast ett tal."

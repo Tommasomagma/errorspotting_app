@@ -1,1 +1,0 @@
-"Anna ska köpa två kulor glass. Hon bryr sig inte om vilken smak som kommer först i bägaren.\n\nHur många smakkombinationer med två kulor glass kan hon få baserat på träddiagrammet?"

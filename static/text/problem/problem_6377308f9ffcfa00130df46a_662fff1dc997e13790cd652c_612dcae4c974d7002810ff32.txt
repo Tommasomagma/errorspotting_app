@@ -1,1 +1,0 @@
-"Du ska beräkna hur mycket smågodis du får för 20 kr om du vet att godiset kostar 6,90 kr/hg.\n\nVilken av följande beräkningar väljer du?"

@@ -1,1 +1,0 @@
-"I den $508$ m höga byggnaden Taipei $101$ i Taiwan finns världens snabbaste hiss. Den rör sig $381$ m upp till $89$:e våningen på bara $30$ s. \n\nJordens medelavstånd till månen är $384\\ 000$ km. Hur lång tid skulle det ta att åka med hissen till månen? Avrunda till tiotal dygn."

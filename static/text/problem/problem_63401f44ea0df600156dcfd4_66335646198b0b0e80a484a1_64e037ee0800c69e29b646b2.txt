@@ -1,1 +1,0 @@
-"Hur stor är delen?\n\n$25$ % av $2$ mil"

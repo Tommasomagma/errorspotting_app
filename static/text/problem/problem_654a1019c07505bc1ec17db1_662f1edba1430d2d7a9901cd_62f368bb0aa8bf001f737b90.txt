@@ -1,1 +1,0 @@
-"Ylva och Patrik har köpt en tårta. Ylva äter $\\Large\\frac{2}{8}$ och Patrik äter $\\Large\\frac{3}{8}$ av tårtan.\n\nHur stor andel av tårtan finns kvar när de har ätit färdigt?"

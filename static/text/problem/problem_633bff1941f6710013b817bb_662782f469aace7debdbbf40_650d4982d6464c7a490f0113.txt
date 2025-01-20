@@ -1,1 +1,0 @@
-"Du får veta att $3{,}2/5=0{,}64$. Hur mycket är då\n\n$3{,}2/50=$"

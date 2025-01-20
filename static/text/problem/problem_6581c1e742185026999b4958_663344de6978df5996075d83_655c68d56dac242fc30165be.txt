@@ -1,1 +1,0 @@
-"Förenkla uttrycket. \n\n$2x-(x-3)+1$"

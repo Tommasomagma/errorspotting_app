@@ -1,1 +1,0 @@
-"En elektron roterar runt en atoms kärna i en cirkulär bana med radien $r=5\\cdot10^{-11}$ (m). \n\nVilket uttryck kan användas för att beräkna längden av elektronens bana?"

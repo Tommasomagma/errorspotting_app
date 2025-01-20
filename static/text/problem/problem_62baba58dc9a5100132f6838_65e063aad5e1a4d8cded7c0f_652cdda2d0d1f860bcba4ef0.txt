@@ -1,1 +1,0 @@
-"Beräkna och svara i enklaste form.\n\n${\\Large\\frac{3}{7}} \\bigg/{\\Large\\frac{5}{6}}=$"

@@ -1,1 +1,0 @@
-"En fjäril rör sig $3$ cm varje sekund. Hur många millimeter rör sig fjärilen på $2$ sekunder?"

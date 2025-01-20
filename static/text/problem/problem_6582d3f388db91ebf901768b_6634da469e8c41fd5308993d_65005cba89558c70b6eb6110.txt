@@ -1,1 +1,0 @@
-"I ett klassrum finns det $35$ bänkar. Läraren tar bort $14$ av bänkarna från klassrummet. Hur många bänkar finns det nu i klassrummet?"

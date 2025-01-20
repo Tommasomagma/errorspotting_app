@@ -1,1 +1,0 @@
-"Martin räknar bilar. Totalt räknar Martin 225 bilar, varav 45 bilar var röda.\n\nHur många procent var röda?"

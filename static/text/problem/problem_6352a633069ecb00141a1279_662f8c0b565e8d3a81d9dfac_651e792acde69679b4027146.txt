@@ -1,1 +1,0 @@
-"Hur stor andel av kopparna är gula?\n\nSvara i procentform."

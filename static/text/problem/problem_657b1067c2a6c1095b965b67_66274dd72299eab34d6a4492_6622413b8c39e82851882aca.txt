@@ -1,1 +1,0 @@
-"Första året finns 500 djur i flocken. Året efter ökar antalet med 20 %, sedan sjunker det med 20 %, och sista året ökar det med 20 % igen.\n\nHur många djur finns i flocken efter sista året?"

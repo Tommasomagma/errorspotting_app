@@ -1,1 +1,0 @@
-"Du kastar en röd och en grön tärning. Hur stor är sannolikheten att den röda tärningen visar ett jämnt tal och den gröna visar $5$ eller $6$? Svara i bråkform."

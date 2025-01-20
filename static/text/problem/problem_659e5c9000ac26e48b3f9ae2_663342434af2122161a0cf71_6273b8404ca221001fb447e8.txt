@@ -1,1 +1,0 @@
-"Leila är ledare för en gitarrkurs där eleverna betalar 75 kronor per tillfälle. Hon hyr en lokal som kostar 400 kronor per tillfälle. Diagrammet visar sambandet mellan Leilas inkomster och antalet elever.\n\nVilken formel beskriver hur Leilas inkomst ($I$) beror av antalet elever ($n$) vid ett tillfälle."

@@ -1,1 +1,0 @@
-"Parallellogrammen är likformiga.\n\nHur lång är sidan $a$?"

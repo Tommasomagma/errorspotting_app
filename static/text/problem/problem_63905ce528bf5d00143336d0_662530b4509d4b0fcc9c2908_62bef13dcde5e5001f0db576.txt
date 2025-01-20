@@ -1,1 +1,0 @@
-"Välj rätt tal som ska stå på pil $A$.\n\n${\\Large\\frac{1}{5}}\\hspace{0.5cm}80$ %$ \\hspace{0.5cm}0{,}3\\hspace{0.5cm}{\\Large\\frac{7}{10}}\\hspace{0.5cm}95$ %$ \\hspace{0.5cm} 0{,}55$"

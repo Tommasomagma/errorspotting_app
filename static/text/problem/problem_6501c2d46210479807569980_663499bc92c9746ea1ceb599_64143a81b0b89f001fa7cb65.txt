@@ -1,1 +1,0 @@
-"En piltavla har diametern $7$ dm. \n\nBeräkna arean. Använd $\\pi \\approx 3{,}14$ och svara med en decimal."

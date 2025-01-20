@@ -1,1 +1,0 @@
-"Vilket tal saknas?\n\n${\\Large\\frac{8}{14}} = {\\Large\\frac{?}{7}}$"

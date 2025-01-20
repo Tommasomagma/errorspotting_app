@@ -1,1 +1,0 @@
-"Beräkna rektangelns area. Sidornas längder är $4$ cm och $2{,}5$ cm."

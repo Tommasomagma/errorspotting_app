@@ -1,1 +1,0 @@
-"16 lärare på en skola åker bil till jobbet. Några av lärarna samåker till jobbet, dvs. de åker flera i samma bil. \n\nFyll i den frekvens som saknas i tabellen."

@@ -1,1 +1,0 @@
-"Skriv i liter.\n\n$40$ cl $50$ dl"

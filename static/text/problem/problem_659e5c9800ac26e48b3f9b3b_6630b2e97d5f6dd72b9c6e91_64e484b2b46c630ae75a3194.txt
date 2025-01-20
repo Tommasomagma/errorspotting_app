@@ -1,1 +1,0 @@
-"I ett tält på festivalområdet säljs festivaltröjor för $120$ kronor styck. Inköpspriset är $40$ kronor per tröja. Man har köpt in $900$ festivaltröjor.\n\nHur många procent dyrare är försäljningspriset jämfört med inköpspriset?"

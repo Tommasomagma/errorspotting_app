@@ -1,1 +1,0 @@
-"Hur många möjliga utfall finns det om man kastar två stycken $10$-sidiga tärningar? Förklara hur du tänker."

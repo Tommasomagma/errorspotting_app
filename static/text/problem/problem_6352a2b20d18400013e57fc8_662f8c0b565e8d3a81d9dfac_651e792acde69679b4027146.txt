@@ -1,1 +1,0 @@
-"Daniel cyklar till sin kompis Harald. Diagrammet visar hur långt Daniel har kommit vid olika klockslag. \n\nDaniel cyklar hem $20.45$. När är han hemma om cykelturen hem går $10$ min fortare än cykelturen till Harald?"

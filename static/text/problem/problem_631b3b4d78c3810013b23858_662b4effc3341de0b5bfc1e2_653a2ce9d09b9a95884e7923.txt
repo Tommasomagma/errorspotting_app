@@ -1,1 +1,0 @@
-"Rektangeln har höjden $2$ cm och bredden $4$ cm. Beräkna omkretsen."

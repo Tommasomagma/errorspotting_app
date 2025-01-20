@@ -1,1 +1,0 @@
-"Bilen är 6 cm lång i bilden och är avbildad i skala $1:60$. Hur lång är den i verkligheten? Avrunda till tiondels meter."

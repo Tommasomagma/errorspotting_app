@@ -1,1 +1,0 @@
-"Grafen beskriver sambandet mellan höjd och tid vid ett ”fritt fall” på ett nöjesfält.\n\nVad händer med hastigheten mellan tidpunkt $A$ och $B$?"

@@ -1,1 +1,0 @@
-"Diagrammet visar hur många matteuppgifter eleverna i en klass har löst på en vecka. \n\nVad är medelvärdet för lösta uppgifter per elev på en vecka? Svara med en decimal."

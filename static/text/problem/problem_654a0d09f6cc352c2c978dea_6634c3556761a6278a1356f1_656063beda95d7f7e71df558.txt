@@ -1,1 +1,0 @@
-"Skriv i decimeter.\n\n$130$ cm och $800$ mm"

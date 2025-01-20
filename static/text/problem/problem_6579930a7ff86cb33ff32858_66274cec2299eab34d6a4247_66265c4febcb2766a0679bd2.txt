@@ -1,1 +1,0 @@
-"Summan av två tal är 73. Det ena talet är 15 större än det andra.\n\nVilket är det största talet?"

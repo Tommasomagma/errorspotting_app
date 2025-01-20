@@ -1,1 +1,0 @@
-"Farah köper den första lotten i ett lotteri med 50 lotter, varav 5 av dem är vinstlotter.\n\nHur stor är sannolikheten att Farahs lott är en vinstlott? Svara i bråkform."

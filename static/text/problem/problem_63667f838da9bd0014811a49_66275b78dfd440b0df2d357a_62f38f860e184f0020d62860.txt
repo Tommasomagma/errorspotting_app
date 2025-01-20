@@ -1,1 +1,0 @@
-"Du ska gå en viss sträcka. Den första fjärdedelen håller du hastigheten $1$ km/h. Den andra fjärdedelen ökar du hastigheten till $2$ km/h. Den tredje fjärdedelen ökas hastigheten till $3$ km/h och under den sista fjärdedelen till $4$ km/h. Vilken är din medelhastighet? Avrunda till tiondels kilometer per timme och svara utan enhet."

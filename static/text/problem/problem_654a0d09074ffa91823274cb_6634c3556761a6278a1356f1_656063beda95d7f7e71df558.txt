@@ -1,1 +1,0 @@
-"En älv är $2\\ 000$ cm bred. Erik ska bygga en bro över älven som ska sticka ut 10 dm på varje sida. \n\nHur lång måste bron vara i meter?"

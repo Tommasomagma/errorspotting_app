@@ -1,1 +1,0 @@
-"I en klass finns $x$ st elever. $z$ st av dessa elever är $(y + 1)$ år gamla.  Resten av eleverna är $y$ år gamla. \n\nTeckna ett uttryck för elevernas sammanlagda ålder. Förenkla sedan uttrycket."

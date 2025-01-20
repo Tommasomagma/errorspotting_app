@@ -1,1 +1,0 @@
-"En vuxen människa andas in och ut cirka $500$ cm$^3$ luft i varje andetag. Luft innehåller $21$ % syre. I utandningsluften har syrehalten minskat till $16{,}5$ %.\n\n Hur mycket mindre syre är det i utandningsluften än i den luft vi andas in? Svara i hela kubikcentimeter."

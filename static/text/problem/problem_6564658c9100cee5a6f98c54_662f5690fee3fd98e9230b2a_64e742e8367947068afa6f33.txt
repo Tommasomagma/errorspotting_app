@@ -1,1 +1,0 @@
-"Bilden innehåller ett cirkeldiagram som redogör hur stor andel av jordens befolkning som tillhör olika trosuppfattningar, samt en tabell som visar antalet miljoner kristna i varje inriktning av kristendomen.\n\nEnligt statistiken, hur stor är jordens befolkning? Svara i grundpotensform med två gällande siffror. Använd ×-tecknet för att skriva gånger i ditt svar."

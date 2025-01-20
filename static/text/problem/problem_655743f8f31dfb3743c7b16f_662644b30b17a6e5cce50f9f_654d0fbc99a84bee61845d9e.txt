@@ -1,1 +1,0 @@
-"Beräkna.\n\n$\\Large \\frac{792}{6} \\small =$"

@@ -1,1 +1,0 @@
-"Under tio dagar i juli mätte man upp så här mycket regn i Gällivare:\n\n8 mm $\\hspace{0.1cm}$ 12 mm$\\hspace{0.1cm}$ 0 mm $\\hspace{0.1cm}$0 mm $\\hspace{0.1cm}$3 mm \n\n6 mm$\\hspace{0.1cm}$ 9 mm$\\hspace{0.1cm}$ 0 mm$\\hspace{0.1cm}$ 0 mm$\\hspace{0.1cm}$ 2 mm\n\nVilket är medelvärdet?"

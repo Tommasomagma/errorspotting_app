@@ -1,1 +1,0 @@
-"Påse B innehåller $3$ kulor fler än påse A. Teckna ett uttryck för antalet kulor i påse B. Hur många kulor finns i respektive påse? Teckna en ekvation och lös den."

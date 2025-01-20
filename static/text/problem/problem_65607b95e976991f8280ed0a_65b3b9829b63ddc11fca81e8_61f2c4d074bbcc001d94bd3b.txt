@@ -1,1 +1,0 @@
-"Casper står vid punkt A och går i pilens riktning runt kvadraten.\n\nAvståndet mellan B och C är samma som avståndet mellan C och D. Hur stor andel av hela varvet har Casper gått när han kommit till punkt C? Svara i procentform."

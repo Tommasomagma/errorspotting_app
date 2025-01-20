@@ -1,1 +1,0 @@
-"Vilket uttryck beskriver hur många rutor det finns i figur $n$?"

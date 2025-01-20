@@ -1,1 +1,0 @@
-"Vid lågsäsong kostar ett liftkort 380 kr för en dag. När det är högsäsong kostar kortet 40 % mer. \n\nHur många kronor mer kostar liftkortet under högsäsong?"

@@ -1,1 +1,0 @@
-"Förläng till hundradelar. Svara sedan i procentform.\n\n${\\Large\\frac{7}{10}}=$"

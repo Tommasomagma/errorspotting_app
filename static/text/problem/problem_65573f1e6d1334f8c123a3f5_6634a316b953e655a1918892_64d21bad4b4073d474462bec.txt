@@ -1,1 +1,0 @@
-"Alva har 4 km till skolan, Bert har 2 km till skolan, Carl har 3 km till skolan och Diana har 7 km till skolan. \n\nVad är medianen?"

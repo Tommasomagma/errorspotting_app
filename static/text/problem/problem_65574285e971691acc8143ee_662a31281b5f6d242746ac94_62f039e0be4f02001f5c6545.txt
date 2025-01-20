@@ -1,1 +1,0 @@
-"Skriv i milliliter.\n\n${\\Large \\frac{1}{8}}$ l"

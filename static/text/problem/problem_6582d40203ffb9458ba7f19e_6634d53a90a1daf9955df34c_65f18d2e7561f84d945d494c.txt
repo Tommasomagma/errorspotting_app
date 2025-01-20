@@ -1,1 +1,0 @@
-"Vilket tal ska stå istället för 🐻?\n\n25, 26, 27, 🐻, ❤️"

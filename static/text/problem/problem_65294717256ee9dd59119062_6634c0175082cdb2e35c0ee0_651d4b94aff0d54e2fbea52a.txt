@@ -1,1 +1,0 @@
-"En bonde säljer 60 % bruna ägg och 40 % vita ägg. Av alla ägg kan man räkna med att 2 % är dåliga.\n\nVad är sannolikheten att ett ägg är vitt och dåligt? Svara i procentform."

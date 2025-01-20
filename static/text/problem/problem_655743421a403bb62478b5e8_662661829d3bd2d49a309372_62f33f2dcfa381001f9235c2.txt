@@ -1,1 +1,0 @@
-"En bil åker $50$ km på en halvtimme. Vilken är bilens medelhastighet i km/h? Svara utan enhet."

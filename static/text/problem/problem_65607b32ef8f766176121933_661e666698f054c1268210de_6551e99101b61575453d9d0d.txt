@@ -1,1 +1,0 @@
-"Varje liten kub i figuren har volymen 1 kubikcentimeter. \n\nVad är kroppens volym?"

@@ -1,1 +1,0 @@
-"Hur stor andel av figuren är **inte** färgad? Svara i bråkform."

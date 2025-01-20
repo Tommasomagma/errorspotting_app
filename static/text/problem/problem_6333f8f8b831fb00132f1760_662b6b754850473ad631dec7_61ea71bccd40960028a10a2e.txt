@@ -1,1 +1,0 @@
-"Det här diagrammet visar temperaturen under en vecka i maj.\n\nVilken dag var det $16\\degree$C?"

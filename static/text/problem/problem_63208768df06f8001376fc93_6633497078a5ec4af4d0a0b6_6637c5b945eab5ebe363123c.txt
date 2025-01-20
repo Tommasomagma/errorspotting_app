@@ -1,1 +1,0 @@
-"Vilket tal ska stå istället för $x$?\n\n$\\quad x \\cdot 6 =24$"

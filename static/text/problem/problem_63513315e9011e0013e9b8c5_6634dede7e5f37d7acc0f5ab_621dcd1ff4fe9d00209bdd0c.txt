@@ -1,1 +1,0 @@
-"Ulrika ska skicka iväg fyra paket. Medelvärdet av paketens vikt är $8{,}4$ hg. Två av paketen har samma innehåll och väger $630$ g vardera. Av de två återstående paketen väger det ena dubbelt så mycket som det andra. \n\nHur mycket väger det paket som väger mest? Svara i kilogram."

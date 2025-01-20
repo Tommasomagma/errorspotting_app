@@ -1,1 +1,0 @@
-"Diagrammet visar temperaturen i Uppsala under en dag i september.\n\nHur mycket sjönk temperaturen från $14.00$ till $18.00$?"

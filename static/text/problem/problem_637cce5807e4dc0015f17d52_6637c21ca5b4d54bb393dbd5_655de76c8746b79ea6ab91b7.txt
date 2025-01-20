@@ -1,1 +1,0 @@
-"I varje ruta står resultatet av en multiplikation.\n\nVilket tal ska stå i rutan med hjärtat?"

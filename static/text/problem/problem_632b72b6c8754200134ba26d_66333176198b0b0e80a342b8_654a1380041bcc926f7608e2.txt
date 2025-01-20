@@ -1,1 +1,0 @@
-"En fjärilslarv är $3$ cm lång i verkligheten. Hur lång är den på en bild i skala $1$ : $2$?"

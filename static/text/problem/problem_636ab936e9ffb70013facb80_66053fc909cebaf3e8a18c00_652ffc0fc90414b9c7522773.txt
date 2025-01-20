@@ -1,1 +1,0 @@
-"Skriv talet utan tiopotens.\n\n$1{,}45 \\cdot 10^{-4}=$"

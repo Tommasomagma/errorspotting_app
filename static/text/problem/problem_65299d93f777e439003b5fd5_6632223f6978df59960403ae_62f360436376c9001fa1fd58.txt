@@ -1,1 +1,0 @@
-"I diagrammet visas en gepards hastighet när den jagar en antilop.\n\nHur mycket snabbare springer geparden i km/h efter 2 sekunder än efter 1 sekund?\nSvara utan enhet."

@@ -1,1 +1,0 @@
-"Sannolikheten för att ett frö ska gro är $40$ %. Erin planterar två frön. \n\nHur stor är sannolikheten för att andra fröet ska ska gro?"

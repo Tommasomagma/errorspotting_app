@@ -1,1 +1,0 @@
-"I kvadrat C med sidan 12 cm ritas fyra andra cirkelbågar, två med radien 4 cm och två med radien 8 cm. Myran promenerar längs cirkelbågarna. Jämför längden på myrans promenad i kvadrat C med promenaden i kvadrat B. Förklara ditt resultat. Använd $\\pi\\approx3{,}14$."

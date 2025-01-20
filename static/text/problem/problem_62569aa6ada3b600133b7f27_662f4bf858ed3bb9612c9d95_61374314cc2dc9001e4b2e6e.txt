@@ -1,1 +1,0 @@
-"Vilken ekvation beskriver ett korrekt samband mellan vinklarna i figuren?\n\n$\\quad$ **A**.$\\;\\angle4 = \\angle1 + \\angle2 + \\angle3 $\n\n$\\quad$ **B**.$\\; \\angle4 = \\angle3 + \\angle2$\n\n$\\quad$ **C**.$\\; \\angle4 = \\angle1 + \\angle3 $\n\n$\\quad$ **D**.$\\; \\angle 4 = \\angle1 + \\angle2$"

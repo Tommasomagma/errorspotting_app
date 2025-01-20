@@ -1,1 +1,0 @@
-"Hur stor andel av kopparna är gula?\n\nSvara i bråkform (enklaste form)."

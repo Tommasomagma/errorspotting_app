@@ -1,1 +1,0 @@
-"Beräkna medelvärdet för de nedanstående talen.\n\n$1,4,4,17,19$"

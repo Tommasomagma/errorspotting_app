@@ -1,1 +1,0 @@
-"Med hur mycket minskar talen i talföljden för varje tal? \n\n${-3{,}5}; \\hspace{0.1cm} {-6}; \\hspace{0.1cm} {-8{,}5}; \\hspace{0.1cm} \\underline{\\hspace{0.5cm}}$"

@@ -1,1 +1,0 @@
-"Vilka mått är lika stora? \n\nVälj 2 alternativ."

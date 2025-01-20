@@ -1,1 +1,0 @@
-"Beräkna.\n\n\n$\\Large \\frac{1\\ 230}{10}\\small =$"

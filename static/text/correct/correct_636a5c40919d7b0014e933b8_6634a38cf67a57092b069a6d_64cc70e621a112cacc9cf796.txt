@@ -1,1 +1,0 @@
-["${\\Large\\frac{1}{12}}$","${\\Large\\frac{3}{8}}$","${\\Large\\frac{8}{13}}$","${\\Large\\frac{23}{24}}$","${\\Large\\frac{6}{5}}$"]

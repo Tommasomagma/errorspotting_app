@@ -1,1 +1,0 @@
-"Skriv andelen i decimalform. \n\n5 ‰ $=$"

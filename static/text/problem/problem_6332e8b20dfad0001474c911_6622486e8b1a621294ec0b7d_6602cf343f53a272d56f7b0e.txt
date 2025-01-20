@@ -1,1 +1,0 @@
-"En kvadrat har lika lång omkrets som den här triangeln. \n\nHur stor area har kvadraten?"

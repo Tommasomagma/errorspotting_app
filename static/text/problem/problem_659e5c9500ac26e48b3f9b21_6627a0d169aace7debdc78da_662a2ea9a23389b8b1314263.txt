@@ -1,1 +1,0 @@
-"Du ska bilda en parallellogram där punkterna A, B och C är tre av hörnen. Vilka tre punkter är möjliga för hörnet D?"

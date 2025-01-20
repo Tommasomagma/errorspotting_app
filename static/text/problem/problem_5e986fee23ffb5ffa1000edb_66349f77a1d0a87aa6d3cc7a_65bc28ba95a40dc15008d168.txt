@@ -1,1 +1,0 @@
-"I kvadrat A med sidan 12 cm ritas en cirkel med diametern 12 cm. Myran promenerar hela vägen runt cirkeln. Hur långt har myran då gått?\nAnvänd $\\pi\\approx3{,}14$ och avrunda till hela centimeter."

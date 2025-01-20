@@ -1,1 +1,0 @@
-"Ett radioaktivt material halveras på en tid som kallas halveringstid. \n\nHur många sådana tidsperioder behövs för det ska finnas mindre än en procent kvar av det radioaktiva materialet?"

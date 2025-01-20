@@ -1,1 +1,0 @@
-"Astrid spelar baseball. Träddiagrammet visar sannolikheten för att hon träffar bollen.\n\nVad är komplementhändelsen till att hon missar bägge bollarna?"

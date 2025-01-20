@@ -1,1 +1,0 @@
-"Beräkna medianen för de nedanstående talen.\n\n$1,1,5,17,17,19$"

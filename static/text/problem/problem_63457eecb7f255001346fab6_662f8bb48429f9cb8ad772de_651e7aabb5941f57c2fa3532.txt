@@ -1,1 +1,0 @@
-"Hur stor andel av grönsakerna är tomater?\n\nSvara i bråkform i enklaste form."

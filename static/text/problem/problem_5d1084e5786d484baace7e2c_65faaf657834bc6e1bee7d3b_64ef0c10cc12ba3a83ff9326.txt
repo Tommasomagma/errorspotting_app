@@ -1,1 +1,0 @@
-"Priset på en vara är 400 kr. Nu ska priset sänkas. Ebba beräknar det nya priset så här:\n\n$0{,}80 \\cdot 400$\n\nHur många procent sänks priset med?"

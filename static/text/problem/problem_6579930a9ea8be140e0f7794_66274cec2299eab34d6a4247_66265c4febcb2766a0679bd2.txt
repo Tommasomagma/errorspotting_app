@@ -1,1 +1,0 @@
-"Vilka två $x$-värden löser ekvationen?\n\n$(x-3)(x+4) = 0$?"

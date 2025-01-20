@@ -1,1 +1,0 @@
-"Skriv i procentform.\n\n${\\Large\\frac{11}{20}}=$"

@@ -1,0 +1,1 @@
+"Rikard sätter vikter på en skivstång. Vikterna väger lika mycket.\n\nSkriv en formel som visar sambandet mellan vikten $y$ kg och antal vikter $x$."

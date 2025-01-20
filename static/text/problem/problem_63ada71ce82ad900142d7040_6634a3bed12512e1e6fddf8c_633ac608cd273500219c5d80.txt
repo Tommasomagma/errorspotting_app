@@ -1,1 +1,0 @@
-"Skriv som promille.\n\n${\\Large\\frac{5}{1\\ 000}}=$"

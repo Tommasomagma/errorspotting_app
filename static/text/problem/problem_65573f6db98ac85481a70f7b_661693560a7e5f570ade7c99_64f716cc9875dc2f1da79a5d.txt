@@ -1,1 +1,0 @@
-"Diagrammet visar åldern på de barn som är på ett sportläger.\n\nBestäm medianen."

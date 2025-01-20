@@ -1,1 +1,0 @@
-"Ett runt cirkustält täcker en cirkulär yta med radien $50$ m. \n\nHur stor yta täcker tältet? Använd $\\pi\\approx3{,}14$."

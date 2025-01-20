@@ -1,1 +1,0 @@
-"Vilket värde har siffran 7 i talet?\n\n$7\\ 382$"

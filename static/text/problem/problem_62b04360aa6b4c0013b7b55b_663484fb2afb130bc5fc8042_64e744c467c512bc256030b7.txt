@@ -1,1 +1,0 @@
-"Välj två sanna påståenden till talföljden. \n\n $6, 10, 14, 18, ... $\n\n**A.** Alla tal är jämna.\n\n**B.** Regeln är \"lägg till 4\".\n\n**C.** Alla tal är i fyrans gångertabell."

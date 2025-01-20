@@ -1,1 +1,0 @@
-"Under tio dagar i juli uppmäter man följande regnmängder i Gällivare:\n\n$8$ mm, $12$ mm, $0$ mm, $0$ mm, $3$ mm, $6$ mm, $9$ mm, $0$ mm, $0$ mm, $2$ mm\n\nVilken är medianen?"

@@ -1,1 +1,0 @@
-"En skola är avbildad i skalan $1 : 200$. På bilden är skolan $30$ cm lång. Hur lång är skolan i verkligheten? Svara i meter."

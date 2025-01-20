@@ -1,1 +1,0 @@
-"Liam och Amy planerar en temakväll för föräldrar på skolan. De har bestämt att det ska finnas fruktskålar i varje klassrum. \n\nI en skål ska det finnas 5 apelsiner, 8 bananer och 12 äpplen. De har köpt in en fruktlåda med totalt 400 frukter. Förhållandet mellan de olika frukterna är detsamma i fruktlådan som i skålen. Hur många bananer finns det totalt?"

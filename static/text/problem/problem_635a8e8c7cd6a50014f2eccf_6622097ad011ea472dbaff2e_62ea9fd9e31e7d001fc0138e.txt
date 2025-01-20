@@ -1,1 +1,0 @@
-"Lös ekvationen.\n\n$10x=65$"

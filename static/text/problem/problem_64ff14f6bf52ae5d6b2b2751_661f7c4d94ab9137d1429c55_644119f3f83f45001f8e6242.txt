@@ -1,1 +1,0 @@
-"Beräkna och svara i potensform. \n\n $9^8 \\cdot 9^9 =$"

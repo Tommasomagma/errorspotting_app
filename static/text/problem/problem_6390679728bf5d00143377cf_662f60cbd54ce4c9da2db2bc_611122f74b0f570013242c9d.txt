@@ -1,1 +1,0 @@
-"I simklubben Fenan är $28$ personer uttagna till en tävling. De motsvarar $7$ % av alla i klubben. \n\nHur många personer är med i simklubben?"

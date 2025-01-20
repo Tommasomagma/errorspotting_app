@@ -1,1 +1,0 @@
-"Figuren har följande sidlängder: \n\n- $AB = 5$ cm\n- $BC = 3{,}5$ cm\n- $CD = 2$ cm\n- $DE = 4$ cm\n- $AE = 3{,}5$ cm\n\nVad är figurens omkrets?"

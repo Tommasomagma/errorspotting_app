@@ -1,1 +1,0 @@
-"Förkorta bråket med $3$.\n\n${\\Large\\frac{3}{12}} =$"

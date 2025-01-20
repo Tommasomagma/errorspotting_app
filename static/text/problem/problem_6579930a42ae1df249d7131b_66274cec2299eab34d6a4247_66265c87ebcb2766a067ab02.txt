@@ -1,1 +1,0 @@
-"Ett tal divideras med 4 och sedan adderas 8. Då erhålls talet 19. Bestäm det okända talet."

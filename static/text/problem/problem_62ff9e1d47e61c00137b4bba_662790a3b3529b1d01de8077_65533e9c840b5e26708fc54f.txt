@@ -1,1 +1,0 @@
-"$10$ mm = $ \\underline{\\hspace{1cm}}$ cm"

@@ -1,1 +1,0 @@
-"Skriv i milliliter.\n\n$3$ dl"

@@ -1,1 +1,0 @@
-"Johan spelar padel och betalar varje månad för både bollar och banhyra. Ett rör bollar kostar 90 kr och för varje timme kostar 150 kr. Johans månadskostnad kan beskrivas med uttrycket\n\n$\\quad {\\Large\\frac{90}{2}}\\cdot x + 150x$, \n\ndär $x$ är antal timmar som han spelar. Hur mycket får Johan betala under en månad om han spelar 10 timmar?"

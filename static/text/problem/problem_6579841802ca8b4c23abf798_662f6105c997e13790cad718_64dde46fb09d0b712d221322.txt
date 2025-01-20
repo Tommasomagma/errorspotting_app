@@ -1,1 +1,0 @@
-"Under en helg regnade det $1{,}2$ cm på lördagen och $4$ mm på söndagen. Hur mycket regnade det totalt under helgen?"

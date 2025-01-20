@@ -1,1 +1,0 @@
-"I ask $B$ finns det $4$ tabletter fler än i ask $A$. Teckna ett uttryck för antalet tabletter i ask $B$."

@@ -1,1 +1,0 @@
-"Aila äter ${\\Large\\frac{3}{8}}$ av en paj. Liam äter ${\\Large\\frac{1}{8}}$ av pajen. \n\nHur stor andel av pajen finns kvar efter det? Svara i bråkform."

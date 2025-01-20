@@ -1,1 +1,0 @@
-"En låda har volymen 36 dm$^3$. Lådans höjd är 2 dm. Lådans bredd är hälften av lådans längd.\n\nVad är lådans bredd?"

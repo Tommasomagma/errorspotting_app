@@ -1,1 +1,0 @@
-"Vilka två av dessa uttryck ger alltid samma resultat som $a\\cdot3+4\\cdot b$?"

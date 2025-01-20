@@ -1,1 +1,0 @@
-"Medelvärdet av fem positiva heltal är 7. Medianen är 9. Det största talet är 13. Inga tal är identiska. \n\nVilka är de fem talen?"

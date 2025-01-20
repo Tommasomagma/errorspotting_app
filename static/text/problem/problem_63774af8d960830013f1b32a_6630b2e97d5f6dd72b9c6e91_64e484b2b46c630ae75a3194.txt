@@ -1,1 +1,0 @@
-"På festivalen kan man tävla om att få träffa en artist. Tävlingen genomförs med hjälp av en spelapp. Man ska få tre likadana frukter på en rad för att vinna (se bild). Det finns $5$ olika sorters frukter. En frukt av varje sort kan slumpas fram till varje position. Hur stor är sannolikheten att få tre likadana frukter på en rad?"

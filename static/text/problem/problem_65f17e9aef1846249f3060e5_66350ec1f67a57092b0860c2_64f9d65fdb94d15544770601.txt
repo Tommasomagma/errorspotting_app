@@ -1,1 +1,0 @@
-"Alla parallellogram är lika stora. Beräkna arean av den gula sammansatta figuren.\n\nFiguren är inte skalenligt ritad."

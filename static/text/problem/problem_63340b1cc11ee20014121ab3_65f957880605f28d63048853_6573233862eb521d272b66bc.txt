@@ -1,1 +1,0 @@
-"Välj det svar som är bäst. \n\n$48 + 18 + 73 \\approx $"

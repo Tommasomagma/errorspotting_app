@@ -1,1 +1,0 @@
-"Vilket tal saknas? \n\n$2$ hg $5$ g $=\\ \\underline{\\hspace{1cm}}$ hg"

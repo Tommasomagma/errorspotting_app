@@ -1,1 +1,0 @@
-"Irma går $1$ m för varje steg. Hur många centimeter går Irma på $4$ steg?"

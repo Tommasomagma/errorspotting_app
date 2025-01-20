@@ -1,1 +1,0 @@
-"Vilket är det nästa talet i talföljden?\n\n$1{,}2 \\hspace{0.2cm}1{,}7  \\hspace{0.2cm}\\quad 2{,}7 \\hspace{0.2cm}\\quad 4{,}7$ \n$ \\hspace{0.2cm}\\ 8,7 \\hspace{0.2cm}\\ldots$"

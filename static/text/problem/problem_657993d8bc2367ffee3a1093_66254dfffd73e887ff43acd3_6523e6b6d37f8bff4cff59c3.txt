@@ -1,1 +1,0 @@
-"Eleverna i en klass fick frågan om hur många gånger de gått på bio under december månad. Resultatet visas i diagrammet.\n\nBestäm medelvärdet för antalet biobesök per elev."

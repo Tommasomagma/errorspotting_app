@@ -1,1 +1,0 @@
-"Bilden visar en karta som användes under en påskäggsjakt. Kartan har basen 3 dm och höjden 6 dm.\n\nHur stor är kartans area?"

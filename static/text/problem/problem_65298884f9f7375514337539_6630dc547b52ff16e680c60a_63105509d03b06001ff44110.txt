@@ -1,1 +1,0 @@
-"Anna har dubbelt så många kulor som Bea. Bea har hälften så många kulor som Charlie. David har lika många kulor som Charlie och Anna har tillsammans. Bea har $x$ kulor.\n\nSkriv ett förenklat uttryck för hur många kulor de har tillsammans."

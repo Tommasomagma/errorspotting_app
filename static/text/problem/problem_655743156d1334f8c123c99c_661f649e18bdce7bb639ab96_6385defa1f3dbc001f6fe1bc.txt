@@ -1,1 +1,0 @@
-"Ali har glömt bort den sista siffran i hans pinkod till telefonen. Siffran är mellan 0-9. \n\nHur stor är sannolikheten att han gissar rätt på första försöket? Svara i procentform."

@@ -1,1 +1,0 @@
-"Ett golfhål har diametern $3{,}44$ cm. Vad är hålets omkrets? Använd $\\pi \\approx 3{,}14$ och svara i hela centimeter."

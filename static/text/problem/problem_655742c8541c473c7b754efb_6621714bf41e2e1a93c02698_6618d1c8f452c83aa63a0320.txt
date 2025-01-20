@@ -1,1 +1,0 @@
-"Bagaren Melvin behöver $2$ kg mjöl. Han har redan $15$ hg mjöl. \n\nHur många gram mjöl saknar han?"

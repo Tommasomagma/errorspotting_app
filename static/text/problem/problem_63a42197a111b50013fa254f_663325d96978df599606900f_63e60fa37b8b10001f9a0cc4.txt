@@ -1,1 +1,0 @@
-"En buss avgår från en hållplats varje kvart. Lina kommer till hållplatsen utan att hålla koll på tiden. \n\nHur stor är sannolikheten att hon får vänta högst $5$ minuter innan bussen kommer?"

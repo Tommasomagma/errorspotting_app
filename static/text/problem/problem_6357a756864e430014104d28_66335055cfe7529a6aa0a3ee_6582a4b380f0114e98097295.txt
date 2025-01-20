@@ -1,1 +1,0 @@
-"Förenkla uttrycket.\n\n$3x(y - 2x) - 2x(y - 2x)$"

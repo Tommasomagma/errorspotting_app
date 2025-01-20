@@ -1,1 +1,0 @@
-"Vilket tal saknas?\n\n$1$ % av $?$ kr $=$ $60$ kr"

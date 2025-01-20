@@ -1,1 +1,0 @@
-"20 % av Arvids tröjor är gröna.\n\nSkriv 20 % som hundradelar i bråkform."

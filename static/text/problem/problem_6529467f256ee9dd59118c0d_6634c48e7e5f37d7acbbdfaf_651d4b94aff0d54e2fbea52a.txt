@@ -1,1 +1,0 @@
-"Lara har 6 spelkort. Hon ska lägga ut två kort.\n\nPå hur många olika sätt kan hon lägga ut dessa?"

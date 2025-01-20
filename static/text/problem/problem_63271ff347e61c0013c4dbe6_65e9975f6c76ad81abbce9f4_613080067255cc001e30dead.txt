@@ -1,1 +1,0 @@
-"Skriv talen $\\large\\frac{17}{100}$, $\\large\\frac{8}{10}$ och $\\large\\frac{1}{5}$ i decimalform och beräkna summan av de tre talen."

@@ -1,1 +1,0 @@
-"Beräkna volymen av figuren. Använd $\\pi \\approx 3{,}14$ och svara i kubikcentimeter avrundat till två decimaler."

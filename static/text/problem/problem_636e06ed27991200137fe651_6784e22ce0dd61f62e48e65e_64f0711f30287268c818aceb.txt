@@ -1,0 +1,1 @@
+"Figuren visar delar av en cirkel med radien $3$ cm. Hur stor är cirkelsektorns area? Avrunda till en decimal."

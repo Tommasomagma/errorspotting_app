@@ -1,1 +1,0 @@
-"Lova och Robin löste ekvationen $8x-40 = 16$. Lova fick svaret $x=7$ och Robin fick svaret $x=9$. \n\nVem har löst ekvationen rätt?"

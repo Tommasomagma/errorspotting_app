@@ -1,1 +1,0 @@
-"En rektangel har en bas som är $b$ cm, och en höjd som $h$ cm.\n\nOm arean är 24 kvadratcentimeter och höjden är 6 centimeter, hur lång är då basen?"

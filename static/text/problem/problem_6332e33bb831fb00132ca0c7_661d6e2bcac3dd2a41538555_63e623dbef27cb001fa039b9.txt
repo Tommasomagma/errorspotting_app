@@ -1,1 +1,0 @@
-"Skriv sträckan i meter. \n\n$70$ dm"

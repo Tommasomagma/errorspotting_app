@@ -1,1 +1,0 @@
-"Diagrammet visar antalet bilar som finns i några utvalda hushåll.\n\nBeräkna medelvärdet för antalet bilar per hushåll. Avrunda till en decimal."

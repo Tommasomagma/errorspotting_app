@@ -1,1 +1,0 @@
-"Beräkna längden av sidan $2x+6$ med hjälp av en ekvation."

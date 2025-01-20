@@ -1,1 +1,0 @@
-"Skriv om receptet på köttfärssås så att det passar till $1$ person.\n\nHur mycket vatten behövs?"

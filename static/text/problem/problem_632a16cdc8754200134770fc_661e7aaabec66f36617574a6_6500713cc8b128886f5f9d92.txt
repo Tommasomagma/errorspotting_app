@@ -1,1 +1,0 @@
-"Diametern är $2$ cm. Beräkna omkretsen. Använd att $\\pi$ är ungefär lika med $3$."

@@ -1,1 +1,0 @@
-"Skriv bråken i storleksordning. Börja med det minsta.\n\n${\\Large\\frac{6}{5}}\\hspace{0.5cm}{\\Large\\frac{3}{8}}\\hspace{0.5cm}{\\Large\\frac{1}{12}}\\hspace{0.5cm}{\\Large\\frac{23}{24}}\\hspace{0.5cm}{\\Large\\frac{8}{13}}$"

@@ -1,1 +1,0 @@
-"Priset på en vara är $3\\ 500$ kr. Det höjs först med 3 % och sänks sedan med 10 %. \n\nVälj det uttryck som beskriver det nya priset."

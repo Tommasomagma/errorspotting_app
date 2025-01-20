@@ -1,1 +1,0 @@
-"Tabellen visar resultatet av en undersökning om husdjur.\n\nHur stor andel av kvinnorna har husdjur? Svara i hela procent."

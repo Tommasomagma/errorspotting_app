@@ -1,1 +1,0 @@
-"En bokklubb räknar hur många timmar varje medlem läser per vecka. Tabellen visar antal timmar och hur många medlemmar som läst dessa timmar.\n\nVad är medelvärdet av antal lästa timmar?"

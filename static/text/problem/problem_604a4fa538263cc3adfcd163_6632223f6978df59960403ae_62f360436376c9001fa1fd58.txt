@@ -1,1 +1,0 @@
-"En bil har medelhastigheten $108$ km/h. Vilken hastighet motsvarar det i m/s? Svara utan enhet."

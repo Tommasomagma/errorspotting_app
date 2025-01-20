@@ -1,1 +1,0 @@
-"Varje äggkartong innehåller $x$ ägg. \n\nHur många ägg är det i varje kartong om det är lika många i båda?"

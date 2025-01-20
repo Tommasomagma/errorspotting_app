@@ -1,1 +1,0 @@
-"Kuben är byggd av tre sorters träklossar.\n\nHur många vita klossar finns det i kuben?"

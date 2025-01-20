@@ -1,1 +1,0 @@
-"Vilket bråk fattas?\n\n$ \\ \\underline{\\hspace{0.5cm}} $ av $36= 4$"

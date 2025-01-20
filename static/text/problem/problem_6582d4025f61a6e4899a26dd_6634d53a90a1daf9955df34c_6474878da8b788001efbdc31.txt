@@ -1,1 +1,0 @@
-"Vilket tal kommer precis innan $49$?"

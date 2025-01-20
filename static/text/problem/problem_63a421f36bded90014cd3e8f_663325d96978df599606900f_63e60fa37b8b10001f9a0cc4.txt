@@ -1,1 +1,0 @@
-"När det är fotbollsmatch brukar sannolikheten för att hemmalaget vinner uppskattas till $50$ % och sannolikheten för att det blir oavgjort uppskattas till $30$ %. \n\nHur stor är då sannolikheten att hemmalaget förlorar?"

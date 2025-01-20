@@ -1,1 +1,0 @@
-"Fyra vänner bowlar. Diagrammet visar frekvensen av antalet poäng per runda.\n\nHur många poäng fick de tillsammans?"

@@ -1,1 +1,0 @@
-"Alfons hus är formad som en rektangel med långsidan 12 m och kortsidan 8 m. Han går 4 varv runt huset. \n\nVad är den minsta möjliga sträckan han kan ha gått?"

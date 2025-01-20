@@ -1,1 +1,0 @@
-"En triangel har ritats in i ett koordinatsystem. Hur många areaenheter är triangelns area?"

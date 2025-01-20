@@ -1,1 +1,0 @@
-"Skriv i gram.\n\n$2$ kg $300$ g"

@@ -1,1 +1,0 @@
-"Vilket tal saknas?\n\n$4$ cm $8$ mm $=\\ \\underline{\\hspace{1cm}}$ cm"

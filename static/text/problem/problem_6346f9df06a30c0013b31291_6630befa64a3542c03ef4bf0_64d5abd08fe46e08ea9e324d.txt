@@ -1,1 +1,0 @@
-"I en talföljd beräknas talen med uttrycket $5n + 2 $ där $n = 1$, $n = 2$ och så vidare. \n\nVilket är det $8:e$ talet i talföljden?"

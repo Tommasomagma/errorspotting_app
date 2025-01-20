@@ -1,1 +1,0 @@
-"Sam, Arash och Anton köper en lott. Sam betalar 20 % av lottens kostnad, och Arash och Anton delar lika på resterande belopp. Lotten gav en vinst på 200 godisar som vännerna fördelar enligt betalningens fördelning. \n\nHur många godisar fick Arash och Anton vardera?"

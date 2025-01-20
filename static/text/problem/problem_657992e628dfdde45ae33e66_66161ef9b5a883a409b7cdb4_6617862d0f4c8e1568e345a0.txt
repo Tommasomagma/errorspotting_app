@@ -1,1 +1,0 @@
-"Ari har fått i uppgift att måla en vägg. Väggen är kvadratisk och har sidan $x$.\n\nVad blir uttrycket för arean som Ari behöver måla?"

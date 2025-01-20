@@ -1,1 +1,0 @@
-"Det här diagrammet visar temperaturen klockan $12.00$ under en vecka i maj. Vilken temperatur var det på tisdagen?"

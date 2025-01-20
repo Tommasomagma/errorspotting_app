@@ -1,1 +1,0 @@
-"Du har talet $56{,}25$. Skriv talet som är $\\large\\frac{1}{10}$ mindre"

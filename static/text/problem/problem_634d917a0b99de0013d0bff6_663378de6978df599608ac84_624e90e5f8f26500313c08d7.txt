@@ -1,1 +1,0 @@
-"Det är $25$ % chans att vinna på ett lotteri. Hur många vinstlotter finns det i lotteriet om det har $2\\ 000$ lotter?"

@@ -1,1 +1,0 @@
-"Basen i en rektangel är 123 cm. Höjden är 9 cm längre än en tredjedel av basen. \n\nBeräkna rektangelns area."

@@ -1,1 +1,0 @@
-"Bestäm hur många sätt vi kan kombinera skjorta, shorts och strumpor från bilden."

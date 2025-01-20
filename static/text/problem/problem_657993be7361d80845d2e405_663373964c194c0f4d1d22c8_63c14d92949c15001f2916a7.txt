@@ -1,1 +1,0 @@
-"Eleverna i en klass tillfrågades om deras favoritsmak på glass och resultatet visas i diagrammet. 4 personer valde päron.\n\nHur många elever tillfrågades totalt?"

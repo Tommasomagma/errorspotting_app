@@ -1,1 +1,0 @@
-"Skriv i meter.\n\n$120$ dm"

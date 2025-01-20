@@ -1,1 +1,0 @@
-"Hur stor andel av en pizza finns kvar när du har ätit $\\Large\\frac{3}{5}$?"

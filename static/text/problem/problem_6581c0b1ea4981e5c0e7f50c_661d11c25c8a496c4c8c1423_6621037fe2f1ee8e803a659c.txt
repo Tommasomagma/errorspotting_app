@@ -1,1 +1,0 @@
-"Teckna ett uttryck för omkretsen av flaggan."

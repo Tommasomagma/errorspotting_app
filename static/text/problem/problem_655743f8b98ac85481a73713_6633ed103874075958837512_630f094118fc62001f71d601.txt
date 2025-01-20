@@ -1,1 +1,0 @@
-"Beräkna.\n\n$\\Large \\frac{642}{3} \\small =$"

@@ -1,1 +1,0 @@
-"Skriv volymen i milliliter.\n\n$3$ cl"

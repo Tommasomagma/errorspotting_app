@@ -1,0 +1,1 @@
+"I tabellen ser du hur många procent av rösterna som några partier fick vid riksdagsvalen $2014$ och $2018$. \n\nHur många procent var minskningen för Socialdemokraterna? Avrunda till en decimal."

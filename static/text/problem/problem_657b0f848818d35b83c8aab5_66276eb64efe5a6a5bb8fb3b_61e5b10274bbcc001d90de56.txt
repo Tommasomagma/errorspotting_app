@@ -1,1 +1,0 @@
-"Vilket tal ska du förkorta bråket $\\Large \\frac{27}{81}$ med, för att summan av täljaren och nämnaren ska bli 12?"

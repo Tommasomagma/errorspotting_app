@@ -1,1 +1,0 @@
-"En tågresa kostar 4 300 kr tur och retur. Skriv hur många procent priset ändrats om det nya priset kan beräknas enligt $0{,}6 \\cdot 4\\ 300$."

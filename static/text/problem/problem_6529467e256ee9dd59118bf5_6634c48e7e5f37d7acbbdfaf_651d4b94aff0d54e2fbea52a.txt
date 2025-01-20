@@ -1,1 +1,0 @@
-"Anna, Björn, Cecilia och Dan ska ställa sig på kö innan de går in i klassrummet. Vi kallar dem för A, B C, D.\n\nPå hur många sätt kan vi välja vem som står först i kön?"

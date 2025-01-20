@@ -1,1 +1,0 @@
-"Walter har köpt $1{,}5$ liter mjölk.\nTill hur många glas räcker mjölken om varje glas rymmer $3$ dl?"

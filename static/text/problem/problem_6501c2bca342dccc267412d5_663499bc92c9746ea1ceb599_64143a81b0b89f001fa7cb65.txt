@@ -1,1 +1,0 @@
-"En frisbee har diametern 27 cm. Vad är frisbeens omkrets? Använd $\\pi \\approx 3{,}14$ och svara i hela centimeter."
