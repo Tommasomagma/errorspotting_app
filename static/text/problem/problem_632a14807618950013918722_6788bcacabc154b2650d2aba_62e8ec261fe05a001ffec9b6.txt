@@ -1,1 +1,0 @@
-"Pelaren är $6$ cm på bilden. Hur hög är pelaren i verkligheten? Svara i meter.". Problem image: missing

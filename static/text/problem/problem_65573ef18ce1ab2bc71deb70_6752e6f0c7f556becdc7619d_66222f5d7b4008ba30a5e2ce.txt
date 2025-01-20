@@ -1,1 +1,0 @@
-"I klassen gjordes en undersökning om vilken deras favoritsport är. Resulatet finns i tabellen.\n\nVilket är typvärdet?". Problem image: missing

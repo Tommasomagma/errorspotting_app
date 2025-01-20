@@ -1,1 +1,0 @@
-"Mellan $A$ och $D$ kan man gå på $24$ olika sätt.\n\nPå hur många sätt kan man gå från $C$ till $D$?". Problem image: missing

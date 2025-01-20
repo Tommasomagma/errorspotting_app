@@ -1,1 +1,0 @@
-"Vinkeln A är $30\\degree$ och vinkeln B är $90\\degree$. \n\nHur stor är vinkeln C?". Problem image: missing

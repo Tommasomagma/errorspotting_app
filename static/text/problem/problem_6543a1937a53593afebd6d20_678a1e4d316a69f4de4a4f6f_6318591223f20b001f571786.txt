@@ -1,1 +1,0 @@
-"År $2022$ fanns det på Lemur island $30\\ 000$ lemurer. En smitta har dock brutit ut, och nu minskar antalet lemurer på ön med $7$ % per år.\n\nHur många lemurer beräknas finns kvar på ön år $2027$?". Problem image: missing

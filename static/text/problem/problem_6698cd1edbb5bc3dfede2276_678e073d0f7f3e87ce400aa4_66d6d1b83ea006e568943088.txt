@@ -1,1 +1,0 @@
-"Beräkna omkretsen på skylten. Svara i enheten dm.". Problem image: missing

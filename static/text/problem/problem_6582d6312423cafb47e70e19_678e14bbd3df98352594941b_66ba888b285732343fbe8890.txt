@@ -1,1 +1,0 @@
-"Amir köper $4$ påsar med godis. Varje påse innehåller $10$ godisar.\n\nHur många godisar har Amir totalt?". Problem image: missing

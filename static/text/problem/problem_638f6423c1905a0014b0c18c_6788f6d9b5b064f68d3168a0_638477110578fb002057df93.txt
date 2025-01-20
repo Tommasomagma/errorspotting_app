@@ -1,1 +1,0 @@
-"Skriv ett uttryck för figurens area med paranteser.". Problem image: missing

@@ -1,1 +1,0 @@
-"Diagrammet visar sambandet mellan antal teskedar chokladpulver och mängden mjölk som behövs för att göra en chokladdryck.\n\nHur många teskedar choklad behövs till $4$ deciliter mjölk?". Problem image: missing

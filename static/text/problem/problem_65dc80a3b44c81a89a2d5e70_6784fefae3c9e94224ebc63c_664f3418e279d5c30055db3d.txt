@@ -1,1 +1,0 @@
-"Klockan är 23.00 på kvällen. Hur många timmar är det kvar till nästa dygn?". Problem image: missing

@@ -1,1 +1,0 @@
-"Hur stor volym har asken? Avrunda till hela kubikcentimeter.". Problem image: missing

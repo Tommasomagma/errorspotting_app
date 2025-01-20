@@ -1,1 +1,0 @@
-"Beräkna.\n\n${\\Large\\frac{5\\ 600}{200}}=$". Problem image: missing

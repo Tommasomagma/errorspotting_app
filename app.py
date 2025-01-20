@@ -25,10 +25,10 @@ print('TABLE CREATED')
 conn.close()
 
 # Directory setup
-IMAGE_FOLDER = 'static/images'
-PROBLEM_FOLDER = 'static/text/problem'
-CORRECT_FOLDER = 'static/text/correct'
-ANSWER_FOLDER = 'static/text/answer'
+IMAGE_FOLDER = 'static/imagesApp'
+PROBLEM_FOLDER = 'static/textApp/problem'
+CORRECT_FOLDER = 'static/textApp/correct'
+ANSWER_FOLDER = 'static/textApp/answer'
 USER_INPUT_FOLDER = 'user_input'
 os.makedirs(IMAGE_FOLDER, exist_ok=True)
 os.makedirs(PROBLEM_FOLDER, exist_ok=True)
@@ -68,8 +68,6 @@ def home():
     answer_file = f'answer_{image_id}.txt'  # Replace the image extension with .txt
     answer_path = os.path.join(app.config['ANSWER_FOLDER'], answer_file)
 
-    print(problem_path)
-
     # Read the text content (if the file exists)
     if os.path.exists(problem_path):
         with open(problem_path, 'r') as f:
@@ -99,8 +97,8 @@ def home():
 
     # Pass the selected image, text content, and image_id to the template
     return render_template('index.html', 
-                           image_path=url_for('static', filename=f'images/{image_id}/{selected_image}'), 
-                           image_path_ref=url_for('static', filename=f'images/{image_id}/{ref_image}'), 
+                           image_path=url_for('static', filename=f'imagesApp/{image_id}/{selected_image}'), 
+                           image_path_ref=url_for('static', filename=f'imagesApp/{image_id}/{ref_image}'), 
                            problem_content=problem_content,
                            correct_content=correct_content,
                            answer_content=answer_content,

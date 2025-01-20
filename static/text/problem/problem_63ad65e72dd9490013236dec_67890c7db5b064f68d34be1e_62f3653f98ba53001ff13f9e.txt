@@ -1,1 +1,0 @@
-"Gruppen Streetdancers anlitar en danslärare. Hon tar $300$ kr i administrativ avgift och sedan $400$ kr i timmen för att träna dem.\n\nGruppen har $10\\ 000$ kr. Räcker det till träning $4$ timmar vid $10$ tillfällen?". Problem image: missing

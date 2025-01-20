@@ -1,1 +1,0 @@
-"Eleverna röstar på sitt favoritdjur. Diagrammet visar resultatet för tre klasser.\n\nHugo säger att det är lika stor andel elever i klass 6a som i klass 6c som röstar på marsvin.\n\nHar han rätt? *Motivera ditt svar*.". Problem image: missing

@@ -1,1 +1,0 @@
-"I vilken figur är den $blåa$ delen ungefär $12,5\\%$ av cirkeldiagrammet$?$". Problem image: missing

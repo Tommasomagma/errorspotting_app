@@ -1,1 +1,0 @@
-"Bilden visar tre vaser, A, B och C, som fylls med vatten under en jämn vattenstråle. Graferna $1-3$ visar hur vattenhöjden i vaserna ändras med tiden. \n\nPara ihop vas A med rätt graf. Motivera.". Problem image: missing

@@ -1,1 +1,0 @@
-"Beräkna volymen. Avrunda till tiotal kubikcentimeter.". Problem image: missing

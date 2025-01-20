@@ -1,1 +1,0 @@
-"Cirkeln har diametern 10 cm.\n\nHur lång är radien?". Problem image: missing

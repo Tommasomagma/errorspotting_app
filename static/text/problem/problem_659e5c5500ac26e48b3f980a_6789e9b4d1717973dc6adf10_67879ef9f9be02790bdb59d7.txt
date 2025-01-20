@@ -1,1 +1,0 @@
-"Klassen gör tröjor med ett koordinatsystem på ryggen.\n\nVilka koordinater har punkt A?". Problem image: missing

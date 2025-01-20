@@ -1,1 +1,0 @@
-"Hur stor är vinkel $x$ i triangeln? *Visa hur du beräknar vinkeln.*". Problem image: missing

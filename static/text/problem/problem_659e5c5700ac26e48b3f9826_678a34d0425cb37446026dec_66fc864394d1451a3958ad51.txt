@@ -1,1 +1,0 @@
-"Eleverna röstar på sitt favoritdjur. Diagrammet visar resultatet för tre klasser.\n\nHur många elever i klass 6b röstar på hund?". Problem image: missing

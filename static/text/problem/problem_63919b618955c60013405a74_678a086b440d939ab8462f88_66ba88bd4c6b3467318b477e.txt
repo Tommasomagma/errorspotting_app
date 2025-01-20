@@ -1,1 +1,0 @@
-"Skriv ett uttryck för hur många tändstickor som behövs till figur $n$. Kalla antalet tändstickor för $S$.". Problem image: missing

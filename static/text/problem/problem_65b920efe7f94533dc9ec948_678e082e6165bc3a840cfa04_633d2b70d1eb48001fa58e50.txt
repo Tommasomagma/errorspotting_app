@@ -1,1 +1,0 @@
-"När kaninmamman hoppar 1 hopp måste kaninungen hoppa 3 hopp. Skriv talet som saknas. \n\nNär mamman hoppar $\\underline{\\hspace{0.5cm}}$ hopp måste ungen hoppa 15 hopp.". Problem image: missing

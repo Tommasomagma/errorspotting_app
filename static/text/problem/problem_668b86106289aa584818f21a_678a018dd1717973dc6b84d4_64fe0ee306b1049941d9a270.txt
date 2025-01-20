@@ -1,1 +1,0 @@
-"Vilket tal pekar pil C på?\n\nSvara i blandad form.". Problem image: missing

@@ -1,1 +1,0 @@
-"Diagrammet visar vilka maträtter som var populärast i en klass.\n\nHur många elever gick i klassen om alla var med och röstade?". Problem image: missing
