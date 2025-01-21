@@ -1,1 +1,0 @@
-"Beräkna.\n\n${\\Large\\frac{2}{5}}+{\\Large\\frac{2}{5}}=$"

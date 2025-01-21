@@ -1,1 +1,0 @@
-"Beräkna differensen av talen $75$ och $5$."

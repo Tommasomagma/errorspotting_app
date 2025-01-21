@@ -1,1 +1,0 @@
-"Hur stor andel av figuren är färgad? Svara i decimalform.". Problem image: Bilden visar en rektangel indelad i lika stora mindre rektanglar, varav några är färgade. Antalet mindre rektanglar och placeringen av de färgade delarna är relevant för frågan.

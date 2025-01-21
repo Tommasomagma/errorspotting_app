@@ -1,1 +1,0 @@
-"Skriv det tal som är $3$ tiotal större än $259$."

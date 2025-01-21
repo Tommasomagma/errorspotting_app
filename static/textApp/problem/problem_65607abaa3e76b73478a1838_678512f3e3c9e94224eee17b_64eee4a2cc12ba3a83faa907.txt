@@ -1,1 +1,0 @@
-"Beräkna arean av triangeln.". Problem image: En rosa triangel med en bas som är 5 cm och en höjd som är 3 cm, samt en liten vit rektangel ovanpå triangeln med en sida på 4 cm.

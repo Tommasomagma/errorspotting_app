@@ -1,1 +1,0 @@
-"Ahmed har $13$ böcker. Santos ger honom $3$ böcker och Lisa ger honom $1$ bok.\n\nHur många böcker har han totalt?". Problem image: Two children reading and writing at a table.

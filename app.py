@@ -68,11 +68,6 @@ def home():
         # Remove 'image_' prefix from the image ID if it exists
         if image_id.startswith('image_'):
             image_id = image_id[6:]  # Remove first 6 characters ('image_')
-        
-        if image_id not in existing_ids:
-            imgFound = True
-
-    print(image_id)
     
     # Find the corresponding text file
     problem_file = f'problem_{image_id}.txt'  # Replace the image extension with .txt

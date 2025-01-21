@@ -1,1 +1,0 @@
-"Vilket värde har siffran $3$ i följande tal?\n\n$1{,}36$"

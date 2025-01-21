@@ -1,1 +1,0 @@
-"Teckna ett uttryck för vad det kostar att köpa $x$ bananer och $y$ apelsiner.". Problem image: missing

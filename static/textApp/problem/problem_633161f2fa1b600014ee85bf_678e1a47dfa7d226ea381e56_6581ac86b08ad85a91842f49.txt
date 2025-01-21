@@ -1,1 +1,0 @@
-"Vilket olikhetstecken passar mellan talen, < eller >?\n\n ${\\Large \\frac{3}{4}} \\ \\underline{\\hspace{0.5 cm}} \\ {\\Large \\frac{7}{8}}$"

@@ -1,1 +1,0 @@
-"Vilket tal fattas? \n\n$10 + 14 =14+  \\underline{\\hspace{1cm}}$"

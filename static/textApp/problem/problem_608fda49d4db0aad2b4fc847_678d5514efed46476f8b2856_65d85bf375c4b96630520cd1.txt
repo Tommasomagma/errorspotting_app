@@ -1,1 +1,0 @@
-"Lukaz har $y$ stycken glassar hemma. Aziz har hälften så många. Teckna ett uttryck för hur många glassar Aziz har hemma.". Problem image: En glass.

@@ -1,1 +1,0 @@
-"". Problem image: En sekvens av tal som ökar med fem för varje steg från vänster till höger. Talen som visas är 11, 16, 21 och 26, följt av ett frågetecken.

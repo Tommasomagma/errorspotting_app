@@ -1,1 +1,0 @@
-"Vilka två påståenden stämmer?\n\n$\\quad$ **A**.$\\;$ Ju större ett tal är, desto längre till höger är det på tallinjen\n\n$\\quad$ **B**.$\\;$ Ju mindre ett tal är, desto längre till vänster är det på tallinjen\n\n$\\quad$ **C**.$\\;$ Det finns inga tal mellan 1 och 2 på tallinjen"

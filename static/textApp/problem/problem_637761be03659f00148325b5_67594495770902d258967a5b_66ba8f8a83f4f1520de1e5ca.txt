@@ -1,1 +1,0 @@
-"Marja har $56$ hönor. Av hönorna är det $32$ som är vita och resten är bruna.\n\nHur många av Marjas hönor är bruna? *Gör en beräkning och skriv svar.*". Problem image: En brun höna och en vit höna.

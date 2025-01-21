@@ -1,1 +1,0 @@
-"Hur många $sekunder$ är $4\\space minuter?$"

@@ -1,1 +1,0 @@
-"Skriv datumet på två andra sätt.\n\n5/7 2020."

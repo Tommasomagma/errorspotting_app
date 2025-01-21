@@ -1,1 +1,0 @@
-"En tärning har sidan 2 cm och en annan tärning har sidan 6 cm.\n\nBeräkna volymen av den lilla tärningen."

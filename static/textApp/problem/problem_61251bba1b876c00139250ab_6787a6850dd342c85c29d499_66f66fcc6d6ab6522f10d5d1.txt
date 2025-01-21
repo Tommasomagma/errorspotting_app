@@ -1,1 +1,0 @@
-"Multiplicera:\n\n$\\large 236\\cdot4$"

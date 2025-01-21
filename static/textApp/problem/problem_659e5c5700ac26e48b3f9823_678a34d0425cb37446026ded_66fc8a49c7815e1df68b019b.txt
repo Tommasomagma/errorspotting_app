@@ -1,1 +1,0 @@
-"Datorer använder det binära talsystemet. I det binära talsystemet skriver man alla tal med siffrorna 0 och 1. Tabellen visar hur man skriver olika tal i det binära talsystemet.\n\nHur skriver man 12 i det binära talsystemet? *Fyll i tabellen*."

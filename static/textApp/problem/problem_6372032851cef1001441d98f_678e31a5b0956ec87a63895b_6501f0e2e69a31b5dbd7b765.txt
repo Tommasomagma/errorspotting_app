@@ -1,1 +1,0 @@
-"Vilket påstående stämmer om en radie i en cirkel?\n\n$\\quad$**A.**$\\;$ Radien är sträckan från cirkelns mittpunkt till cirkelns ytterkant.\n\n$\\quad$**B.**$\\;$ Radien är ungefär tre gånger kortare än omkretsen på cirkeln.\n\n$\\quad$**C.**$\\;$ Radien är dubbelt så lång som diametern."

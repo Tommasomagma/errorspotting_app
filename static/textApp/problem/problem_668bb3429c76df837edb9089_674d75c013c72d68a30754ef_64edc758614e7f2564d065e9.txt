@@ -1,1 +1,0 @@
-"Beräkna. Avrunda till två decimaler.\n\n${\\Large\\frac{85}{6}}=$"

@@ -1,1 +1,0 @@
-"Beräkna och svara i bråkform\n\n$5 \\cdot {\\Large\\frac{3}{7}}=$"

@@ -1,1 +1,0 @@
-"Bestäm medianen för talen $\\large \\frac{1}{2}, \\frac{3}{4}, \\frac{5}{6}$ och $\\large \\frac{5}{12}$."

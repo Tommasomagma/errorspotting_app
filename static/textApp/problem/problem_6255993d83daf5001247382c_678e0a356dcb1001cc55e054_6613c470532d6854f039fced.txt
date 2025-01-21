@@ -1,1 +1,0 @@
-"Bilden visar vilka vinklar Rileys drake ska ha. Hur stor är $\\angle A$?". Problem image: A diagram showing a kite shape with dashed lines. The top angle is labeled 96 degrees, and the bottom angle is labeled 58 degrees. The angle at vertex 'A' is not labeled. There is an image of a pair of scissors indicating the context of fabric cutting.

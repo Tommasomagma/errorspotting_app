@@ -1,1 +1,0 @@
-"Längden av de tre sidorna i en triangel förhåller sig som $3 : 5 : 7$. Triangelns omkrets är $45$ cm. Hur långa är de tre sidorna?"

@@ -1,1 +1,0 @@
-"Skriv ett så stort udda tal som möjligt med siffrorna $8, 7$ och $6$."

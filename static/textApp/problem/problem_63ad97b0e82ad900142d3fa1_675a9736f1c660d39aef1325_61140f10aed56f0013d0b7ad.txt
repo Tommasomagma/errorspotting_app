@@ -1,1 +1,0 @@
-"Skriv i enheten liter.\n\n$750$ ml $=$"

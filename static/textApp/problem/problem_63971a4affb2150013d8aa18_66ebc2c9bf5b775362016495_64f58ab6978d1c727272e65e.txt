@@ -1,1 +1,0 @@
-"Skriv ett tal som är större än $1{,}99$ men mindre än $2$."

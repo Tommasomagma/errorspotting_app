@@ -1,1 +1,0 @@
-"Om en till vit bit färgas, hur stor andel av figuren är då färgad? Svara i decimalform.". Problem image: En cirkeldiagram indelad i lika stora sektorer där vissa sektorer är färgade och andra är ofärgade.

@@ -1,1 +1,0 @@
-"Anna ska ta sig från start till mål. Vilken väg är längst?". Problem image: En enkel bild visar tre olika färgade linjer som representerar vägar från en punkt markerad 'START' till en annan punkt markerad 'MÅL'. Det finns en blå, en rosa och en gul linje, och varje linje tar en unik bana mellan dessa två punkter.

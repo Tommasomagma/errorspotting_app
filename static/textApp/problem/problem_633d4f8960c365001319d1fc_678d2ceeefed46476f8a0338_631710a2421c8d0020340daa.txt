@@ -1,1 +1,0 @@
-"Skriv vikten i kilogram.\n\n$1{,}2$ ton."

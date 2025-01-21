@@ -1,1 +1,0 @@
-"Beräkna utan att använda miniräknare.\n\n5 % av 12 000"

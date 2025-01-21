@@ -1,1 +1,0 @@
-"Vilken rotationsordning har stjärnan?\n\n$\\quad$ **A**.$\\;$ $3$\n\n$\\quad$ **B**.$\\;$ $6$\n\n$\\quad$ **C**.$\\;$ $60 \\degree$". Problem image: missing

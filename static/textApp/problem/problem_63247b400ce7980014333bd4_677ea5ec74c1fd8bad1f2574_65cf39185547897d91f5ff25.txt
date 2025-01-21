@@ -1,1 +1,0 @@
-"Skriv talen i storleksordning med det största talet först. \n\n$0{,}28 \\quad 0{,}189  \\quad 0{,}3  \\quad 0{,}098  \\quad 0{,}2$"

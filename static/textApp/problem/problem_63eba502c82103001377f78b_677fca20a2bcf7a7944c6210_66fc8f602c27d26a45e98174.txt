@@ -1,1 +1,0 @@
-"I bilden visas fyra siffror. Du ska skapa ett tal som är så stort som möjligt, men får bara använda två av siffrorna. \n\nVilket tal skapar du? $\\color{white}8\\hspace{0.5cm} 5 \\hspace{0.5cm} 2  \\hspace{0.5cm} 9 $"

@@ -1,1 +1,0 @@
-"Vilket tal ligger mitt emellan ${ \\Large \\frac{1}{5}}$ och ${ \\Large \\frac{2}{5}}$ på tallinjen?"

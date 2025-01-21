@@ -1,1 +1,0 @@
-"Beräkna volymen. Svara i milliliter.". Problem image: En geometrisk figur bestående av en kub och en pyramid ovanpå. Basområdet B är markerat med 15 cm² och höjden av pyramiden är angiven som 6 cm.

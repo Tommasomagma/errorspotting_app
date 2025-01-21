@@ -1,1 +1,0 @@
-"Cykeln är 3 cm i bilden och är ritad i skala $1:40$. Hur lång är den i verkligheten? Avrunda till tiondels meter.". Problem image: En bild av en stiliserad cykel med texten 'Skala 1:40' ovanför. Cykeln är markerad med en bredd som mäter '3 cm' under den.

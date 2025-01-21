@@ -1,1 +1,0 @@
-"Välj två tal som ligger mellan $0{,}1$ och $0{,}3$."

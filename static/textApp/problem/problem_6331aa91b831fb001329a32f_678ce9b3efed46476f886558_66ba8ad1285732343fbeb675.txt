@@ -1,1 +1,0 @@
-"På en restaurang kan man välja mellan $6$ varmrätter och $4$ efterrätter. På hur många sätt kan man kombinera om man äter en varmrätt och en efterrätt?"

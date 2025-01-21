@@ -1,1 +1,0 @@
-"Skriv uttrycket utan parenteser och förenkla så långt som möjligt.\n\n$6a(a+1)=$"

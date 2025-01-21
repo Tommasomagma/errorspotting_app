@@ -1,1 +1,0 @@
-"Tio fåglar sitter i ett träd. Fem fåglar flyger bort från trädet. Sedan sätter sig två till fåglar i trädet.\n\nHur många fåglar fattas för att det ska vara $10$ fåglar i trädet totalt?". Problem image: En tecknad fågel.

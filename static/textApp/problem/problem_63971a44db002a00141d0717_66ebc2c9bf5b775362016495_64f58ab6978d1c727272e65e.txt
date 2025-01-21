@@ -1,1 +1,0 @@
-"Vilket tal är större än $3{,}3$ men mindre än $3{,}4$?"

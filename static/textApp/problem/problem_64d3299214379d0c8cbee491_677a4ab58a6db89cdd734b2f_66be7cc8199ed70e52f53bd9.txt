@@ -1,1 +1,0 @@
-"Vilket tal kommer näst? \n\n$812 \\hspace{0.5cm} 807 \\hspace{0.5cm} 802 \\hspace{0.5cm} \\underline{\\hspace{1cm}}$"

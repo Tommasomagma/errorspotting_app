@@ -1,1 +1,0 @@
-"Förläng eller förkorta så att bråket får nämnaren $10$.\n\n${\\Large\\frac{14}{20}}=$"

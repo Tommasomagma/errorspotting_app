@@ -1,1 +1,0 @@
-"Ali går från Storby och är på väg mot Småstad, när han kommer till skylten på bilden.\n\nHur många kilometer är det mellan Småstad och Storby?". Problem image: Två vägskyltar på en stolpe. Övre skylten pekar mot höger med texten 'Småstad 17 km'. Nedre skylten pekar mot vänster med texten 'Storby 12 km'.

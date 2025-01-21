@@ -1,1 +1,0 @@
-"Vilket tal är $x$ om $12={\\Large\\frac{x}{5}}-2$?"

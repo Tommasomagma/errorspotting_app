@@ -1,1 +1,0 @@
-"". Problem image: En bild som visar en cirkel med sex mindre cirklar kopplade till varandra i en sekvens. Varje mindre cirkel har ett tal eller ett frågetecken. Pilar mellan de mindre cirklarna visar riktningen och har antingen plus eller minus tecken följt av tal.

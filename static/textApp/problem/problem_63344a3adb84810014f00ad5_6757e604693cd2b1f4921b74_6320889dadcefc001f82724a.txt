@@ -1,1 +1,0 @@
-"Pantea kastar sex pilar mot en tavla. Resultatet blir: $8$, $4$, $5$, $3$, $10$ och $6$. \n\nBeräkna medelvärdet."

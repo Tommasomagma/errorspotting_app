@@ -1,1 +1,0 @@
-"Kalle kollar på klockan kl som visar 3 på dagen på tisdag. Nästa dag kollar Kalle på klockan igen, och då visar klockan 2 på dagen. Hur många timmar har gått mellan de två tidpunkterna?". Problem image: En analog klocka som visar tiden 3 på dagen. Klockans timvisare pekar på 3 och minutvisaren på 12.

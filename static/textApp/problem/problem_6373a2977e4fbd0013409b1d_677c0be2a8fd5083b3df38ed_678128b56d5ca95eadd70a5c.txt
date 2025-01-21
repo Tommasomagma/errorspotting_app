@@ -1,1 +1,0 @@
-"Beräkna andelen och avrunda till hela procent.\n\n$25$  av $510$ lärare"

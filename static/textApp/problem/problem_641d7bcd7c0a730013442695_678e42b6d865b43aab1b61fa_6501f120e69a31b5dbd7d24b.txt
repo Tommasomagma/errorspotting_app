@@ -1,1 +1,0 @@
-"Hur mycket år $1{,}4+{\\Large\\frac{1}{4}}$?"

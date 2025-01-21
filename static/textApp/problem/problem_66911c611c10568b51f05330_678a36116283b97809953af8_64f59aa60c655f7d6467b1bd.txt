@@ -1,1 +1,0 @@
-"Beräkna skalan som bilden är gjord i. \n\n**Bild**: 6 cm\n\n**Verklighet**: 3 m"

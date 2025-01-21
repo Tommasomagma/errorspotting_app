@@ -1,1 +1,0 @@
-"Farah ska köpa en glass med två kulor av olika smaker. Smakerna är choklad, vanilj, lakrits, päron, hallon och jordgubb. \n\nHur många olika kombinationer kan Farah välja mellan?". Problem image: En glass med två kulor i olika färger för att representera olika smaker.

@@ -1,1 +1,0 @@
-"Diagrammet visar hur många mål olika fotbollsspelare gjort under en säsong.\n\nHur många fotbollsspelare finns i laget?"

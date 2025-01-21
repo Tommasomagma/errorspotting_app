@@ -1,1 +1,0 @@
-"Vilket tal är $x$ om ${\\Large\\frac{2\\ 500}{x}}=50$?"

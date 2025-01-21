@@ -1,1 +1,0 @@
-"Välj den enhet som fattas.\n\nEn kanna saft rymmer 1 $\\underline{\\hspace{0.5cm}}$."

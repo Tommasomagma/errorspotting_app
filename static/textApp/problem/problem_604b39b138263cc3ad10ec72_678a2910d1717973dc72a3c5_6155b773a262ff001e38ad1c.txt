@@ -1,1 +1,0 @@
-"Beräkna.\n\n$\\Large \\frac{2\\ 300}{10}\\small =$"

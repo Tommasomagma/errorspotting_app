@@ -1,1 +1,0 @@
-"Vad är arean av den färgade figuren?". Problem image: Ett rutnät bestående av vita och rödfärgade rutor bildar en stor triangulär figur. Varje ruta representerar en kvadratmeter. Triangeln är komplett bortsett från en vit ruta i mitten på den nedre kanten.

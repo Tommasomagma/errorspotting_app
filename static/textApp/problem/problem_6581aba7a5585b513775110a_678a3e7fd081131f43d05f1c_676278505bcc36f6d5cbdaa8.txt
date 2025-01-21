@@ -1,1 +1,0 @@
-"Hur stor andel av figuren är färgad?". Problem image: En cirkel uppdelad i två lika stora delar där den ena delen är färgad och den andra är ofärgad.

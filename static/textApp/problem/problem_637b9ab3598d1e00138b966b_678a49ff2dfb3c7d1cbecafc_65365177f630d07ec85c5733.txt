@@ -1,1 +1,0 @@
-"Två figurer är likformiga. Den mindre figuren är $8$ cm bred och $4$ cm hög. Den större figuren är $24$ cm hög. Hur bred är den större figuren?\n\n$\\quad$ **A**.$\\;$ $12$ cm\n\n$\\quad$ **B**.$\\;$ $24$ cm\n\n$\\quad$ **C**.$\\;$ $48$ cm"

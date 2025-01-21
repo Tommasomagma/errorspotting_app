@@ -1,1 +1,0 @@
-"En park har dimensionerna enligt bilden. De svarta kanterna symboliserar ett staket. \n\nHur långt är staketet om $x = 5$ meter?". Problem image: En rektangulär park omges av ett staket representerat av svarta linjer. Längden på staketet på den ena sidan är märkt med '6x' och på den kortare sidan med '4x'.

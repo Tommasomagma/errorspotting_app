@@ -1,1 +1,0 @@
-"En myra går ett varv längs figurens sidor.\n\nHur långt går myran?". Problem image: Bilden visar en rektangel med sidornas längder markerade. Längden är 8 cm och bredden är 3 cm. Det finns en illustration av en myra som börjar vid ett hörn av rektangeln.

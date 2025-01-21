@@ -1,1 +1,0 @@
-"Jasmine har feber. Hennes temperatur tas varannan timma under dagen och förs in i ett diagram. Så här ser feberkurvan ut:\n\nMed hur många grader sjönk Jasmines temperatur mellan klockan $10.00$ och klockan $14.00$? Avrunda till närmsta $0{,}5$ och svara utan enhet.". Problem image: missing

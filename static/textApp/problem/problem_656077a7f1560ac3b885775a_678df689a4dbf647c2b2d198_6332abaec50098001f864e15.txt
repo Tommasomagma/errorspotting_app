@@ -1,1 +1,0 @@
-"Hur stor andel av figuren är inte gråfärgad? Svara i decimalform.". Problem image: En cirkel uppdelad i en yttre ring och en inre cirkel. Den yttre ringen är uppdelad i lika stora segment där några är färgade i grått och andra i blått.

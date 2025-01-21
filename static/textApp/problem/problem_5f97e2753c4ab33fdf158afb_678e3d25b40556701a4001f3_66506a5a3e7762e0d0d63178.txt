@@ -1,1 +1,0 @@
-"Du har lånat $80\\ 000$ kr till räntesatsen 5 %. Varje år betalar du tillbaka $10\\ 000$ kr plus räntan. \n\nHur mycket betalar du tillbaka efter det andra året?"

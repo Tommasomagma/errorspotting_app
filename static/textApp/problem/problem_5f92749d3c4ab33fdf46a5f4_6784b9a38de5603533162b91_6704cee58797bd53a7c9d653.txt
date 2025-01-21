@@ -1,1 +1,0 @@
-"Hur lång är den svarta bågen på halvcirkeln? Använd $\\pi \\approx 3{,}14$ och svara med en decimal.". Problem image: Bilden visar en halvcirkel med en svart båge längst upp mot den raka kanten och en färgad del i orange. Den raka kanten av halvcirkeln är markerad med en dubbelriktad pil och texten 13 cm, vilket anger diametern av halvcirkeln.

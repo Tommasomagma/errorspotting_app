@@ -1,1 +1,0 @@
-"Aila lägger upp en ny video på sin Youtube-kanal. Diagrammet visar hur antalet visningar ökar under veckan.\n\nHur många nya visningar får videon från tisdag till fredag?"

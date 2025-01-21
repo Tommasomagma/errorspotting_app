@@ -1,1 +1,0 @@
-"Vilket tal fattas i talföljden?\n\n$30,25,20,15,10,\\underline{\\hspace{0.5cm}}$"

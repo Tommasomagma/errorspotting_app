@@ -1,1 +1,0 @@
-"". Problem image: En följd av tal skrivna i ökande ordning med ett frågetecken för det saknade talet.

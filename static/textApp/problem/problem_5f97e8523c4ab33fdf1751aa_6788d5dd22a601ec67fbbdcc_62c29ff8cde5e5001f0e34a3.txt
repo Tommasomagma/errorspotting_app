@@ -1,1 +1,0 @@
-"Diagrammet visar hur många mål 6 fotbollsspelare gjorde under en säsong. \n\nVilket var typvärdet?". Problem image: Diagrammet är ett stapeldiagram med en lodrät axel märkt 'Mål', som sträcker sig från 0 till 10, och en vågrät axel med namnen på sex fotbollsspelare. Varje spelares namn har en stapel ovanför, vilken representerar antalet gjorda mål.

@@ -1,1 +1,0 @@
-"Vilken geometrisk figur beskrivs? Basytan är en kvadrat. Figuren har totaltfem sidoytor, fyra av sidoytorna är likbenta trianglar. Den har en spetsig topp.\n\n$\\quad$**A.**$\\;$ Prisma\n\n$\\quad$**B.**$\\;$ Pyramid\n\n$\\quad$**C.**$\\;$ Kon"

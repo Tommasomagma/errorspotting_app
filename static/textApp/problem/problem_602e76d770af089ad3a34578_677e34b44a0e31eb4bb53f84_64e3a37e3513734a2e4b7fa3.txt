@@ -1,1 +1,0 @@
-"Använd huvudräkning när du löser uppgiften som läses upp.\n\nSkriv bara svaret."

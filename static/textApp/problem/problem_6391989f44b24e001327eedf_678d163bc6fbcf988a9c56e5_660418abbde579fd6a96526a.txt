@@ -1,1 +1,0 @@
-"Differensen av två tal är $160$. Det ena talet är tre gånger så stort som det andra. Vilka är talen?\n\nKalla det minsta talet för $x$ och skriv ett uttryck för det andra talet."

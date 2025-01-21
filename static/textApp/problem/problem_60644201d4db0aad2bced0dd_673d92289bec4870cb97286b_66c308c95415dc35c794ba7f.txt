@@ -1,1 +1,0 @@
-"Ett äpple och ett päron kostar tillsammans 5 kr. Ett äpple och en banan kostar tillsammans 7 kr. Ett päron och en banan kostar tillsammans 10 kr. \n\nHur mycket kostar ett äpple, ett päron och en banan tillsammans?". Problem image: Fyra grupper av animerade frukter med ansikten och armar där varje grupp representerar en kombination av äpple, päron och banan.

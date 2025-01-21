@@ -1,1 +1,0 @@
-"Vågen är i balans, och enheten för vikterna är gram. Vad ska stå istället för $a$?". Problem image: En balansvåg med två skålar. På den vänstra skålen finns två vikter märkta 20 och 15, och en vikt märkt med $a$. På den högra skålen finns tre vikter märkta med $a$ och två vikter märkta med 10.

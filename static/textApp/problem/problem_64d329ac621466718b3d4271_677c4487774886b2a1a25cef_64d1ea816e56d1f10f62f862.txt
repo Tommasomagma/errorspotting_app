@@ -1,1 +1,0 @@
-"Vilket tal är störst? \n\n$1{,}3$ eller $1{,}27$"

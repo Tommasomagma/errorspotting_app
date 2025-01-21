@@ -1,1 +1,0 @@
-"Tre vänner ska äta en pizza. Pizzan delas i åtta lika stora delar. Om en av vännerna ätit halva pizzan, hur mycket får var och en av de andra två vännerna om de delar lika? Svara i enklaste bråkform.". Problem image: En cirkulär pizza som är indelad i åtta lika stora slice.

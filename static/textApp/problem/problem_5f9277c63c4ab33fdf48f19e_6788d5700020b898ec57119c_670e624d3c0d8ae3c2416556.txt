@@ -1,1 +1,0 @@
-"Cirkelns radie är 5 cm och ${\\pi} \\approx 3{,}14$.\n\nBeräkna cirkelns area.". Problem image: Bilden visar en vertikal cylinder med en markerad radie 'r' på cirkelns övre bas.

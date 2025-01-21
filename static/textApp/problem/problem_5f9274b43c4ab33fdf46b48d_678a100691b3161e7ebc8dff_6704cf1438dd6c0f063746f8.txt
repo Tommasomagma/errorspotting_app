@@ -1,1 +1,0 @@
-"Hur stor är den sammanlagda arean av de tre cirklarna? Använd $\\pi \\approx 3{,}14$ och avrunda till hela kvadratcentimeter.". Problem image: Three overlapping circles forming a composite figure with each circle having a radius of 2 cm.

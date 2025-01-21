@@ -1,1 +1,0 @@
-"I en skål ligger $27$ plommon. Rikard äter upp ${\\Large\\frac{2}{9}}$ av plommonen. \n\nHur många plommon finns kvar i skålen?"

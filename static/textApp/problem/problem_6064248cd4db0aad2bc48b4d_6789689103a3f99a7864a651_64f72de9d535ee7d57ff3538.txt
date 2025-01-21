@@ -1,1 +1,0 @@
-"". Problem image: Bilden visar en sudoku-liknande rutnät med sex rutor där varje ruta innehåller en matematisk operation. Under rutnätet finns fem alternativ betecknade A till E, som visar olika mönster med vissa rutor ifyllda i grått.

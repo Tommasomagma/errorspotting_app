@@ -1,1 +1,0 @@
-"". Problem image: Tre tal visas i en rad följt av ett frågetecken. Talen minskar med ett konstant intervall.

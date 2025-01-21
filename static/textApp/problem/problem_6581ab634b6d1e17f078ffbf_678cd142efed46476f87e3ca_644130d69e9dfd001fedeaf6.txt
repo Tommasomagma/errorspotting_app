@@ -1,1 +1,0 @@
-"Bilden visar en våg i balans. \n\nHur mycket väger den orangea klossen?". Problem image: En våg i balans med en orange kloss på den ena sidan och två objekt på den andra sidan, varje objekt markerat med '70 g'.

@@ -1,1 +1,0 @@
-"Priset för ett månadskort på ett gym har ändrats två gånger. Det nya priset kan beräknas så här: \n\n$0{,}8 \\cdot 1{,}15 \\cdot 750$ kr\n\nMed hur många procent sänktes priset totalt efter de två prisändringarna?"

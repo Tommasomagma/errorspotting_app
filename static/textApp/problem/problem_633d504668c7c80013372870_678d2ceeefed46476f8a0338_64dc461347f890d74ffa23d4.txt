@@ -1,1 +1,0 @@
-"Vilket tal saknas?\n\n$15$ cl $ = \\ \\underline{\\hspace{1cm}} $ liter"

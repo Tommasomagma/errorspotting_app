@@ -1,1 +1,0 @@
-"Vilket tal saknas?\n\n$2{,}5$ dl $ = \\ \\underline{\\hspace{1cm}} $ cl"
