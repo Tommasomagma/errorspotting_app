@@ -1,0 +1,1 @@
+"Packa all mat i korgarna så att de väger lika mycket. Dra streck från maten till korgarna. \n\nHur mycket väger varje korg?"

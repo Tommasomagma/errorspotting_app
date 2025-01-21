@@ -1,0 +1,1 @@
+"I en rektangulär swimmingpool är långsidan tre gånger så lång som kortsidan. Kortsidan har längden $x$. \n\nSkriv ett uttryck för poolens omkrets. Förenkla uttrycket så långt som möjligt.". Problem image: En förenklad illustration av en rektangulär swimmingpool sett uppifrån. Det finns inga dimensioner eller siffror angivna på bilden.

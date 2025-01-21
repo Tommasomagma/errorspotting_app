@@ -1,0 +1,1 @@
+"Vilket tal ska stå istället för $x$?\n\n$4 = {\\Large\\frac{x}{3}}$"

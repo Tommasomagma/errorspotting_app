@@ -1,0 +1,1 @@
+"Addera och välj det alternativ som anger svaret i timmar och minuter.  \n\n60 min $+$ 70 min $=$"

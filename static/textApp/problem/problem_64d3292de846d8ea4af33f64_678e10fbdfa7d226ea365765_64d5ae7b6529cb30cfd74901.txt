@@ -1,0 +1,1 @@
+"Vilket tal fattas? \n\n$46,\\ 47,\\ 48,\\ 49, \\ \\underline{\\hspace{0.5cm}} $"

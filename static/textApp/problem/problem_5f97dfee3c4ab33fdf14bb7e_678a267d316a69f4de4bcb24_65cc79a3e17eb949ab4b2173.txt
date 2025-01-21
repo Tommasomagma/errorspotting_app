@@ -1,0 +1,1 @@
+"Bestäm vinkeln $x$.\n\n$x=$". Problem image: Bilden visar en enkel triangelform. Inuti trianglen är två vinklar markerade: en vinkel är märkt med 26 grader och den andra vinkeln märks med 'x' grader. Triangeln har en rät vinkel markerad vid basen.

@@ -1,0 +1,1 @@
+"Här är ett mönster. I de vita fälten har färgerna försvunnit. \n\nVilken färg saknas i fält 3?"

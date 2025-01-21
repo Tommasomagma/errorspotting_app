@@ -1,0 +1,1 @@
+"Beräkna. \n\n$25 + {\\Large \\frac{6}{2}} \\cdot 3 - 2 = $"

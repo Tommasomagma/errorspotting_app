@@ -1,0 +1,1 @@
+"Vilket tal är lika stort som ${\\Large\\frac{1}{2}}$?"

@@ -1,0 +1,1 @@
+"En kartong med ägg kostar $6$ kronor.\n\nHur många kartonger ägg har du köpt när du betalat $24$ kr? *Visa hur du löser uppgiften och skriv svar.*". Problem image: En illustration av en äggkartong. På kartongens lock finns en etikett med texten 'Hanjas ägg, Ekologiska' och 'Pris 6 kr'.

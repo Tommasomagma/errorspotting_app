@@ -1,0 +1,1 @@
+"Skriv det första talet i talföljden som beskrivs med formeln $y=3n$."

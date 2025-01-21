@@ -1,0 +1,1 @@
+"Vilket tal visas i bilden?". Problem image: Bilden visar tre olika typer av block: orange stora block som bildar trappsteg, rosa staplar, och blå enkla block. Varje rosa stapel består av flera mindre block som är staplade på varandra.

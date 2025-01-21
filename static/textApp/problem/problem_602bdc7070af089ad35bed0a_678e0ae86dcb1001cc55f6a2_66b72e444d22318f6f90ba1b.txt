@@ -1,0 +1,1 @@
+"Bertil har lagt tegelstenar i högar. \nHur många högar med 3 i varje har han lagt?". Problem image: Bilden visar flera högar av tegelstenar. Varje hög består av tre tegelstenar som är lagda ovanpå varandra.

@@ -1,0 +1,1 @@
+"Vilket tal ska stå i stället för $x$?\n\n${\\Large\\frac{20}{24}}=\\Large\\frac{x}{6}$"

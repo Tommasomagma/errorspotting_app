@@ -1,0 +1,1 @@
+"Avrunda första faktorn till tiotal och andra faktorn till heltal. Beräkna med överslagsräkning.\n\n$19\\cdot3{,}2 \\approx$"

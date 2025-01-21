@@ -1,0 +1,1 @@
+"Skriv i potensform.\n\n$4\\cdot4\\cdot 4\\cdot 4\\cdot 4=$"

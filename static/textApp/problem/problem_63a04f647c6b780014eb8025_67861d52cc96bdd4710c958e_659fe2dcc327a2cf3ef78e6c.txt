@@ -1,0 +1,1 @@
+"I en burk finns det enkronor och tvåkronor. Totalt finns det $119$ mynt till ett värde av $153$ kronor i burken.\n\nHur många tvåkronor finns det i burken?"

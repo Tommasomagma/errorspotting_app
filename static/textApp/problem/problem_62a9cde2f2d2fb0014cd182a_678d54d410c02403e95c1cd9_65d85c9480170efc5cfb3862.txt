@@ -1,0 +1,1 @@
+"Hur många termer finns det i uttrycket? \n\n$ 2x+5x^2$"

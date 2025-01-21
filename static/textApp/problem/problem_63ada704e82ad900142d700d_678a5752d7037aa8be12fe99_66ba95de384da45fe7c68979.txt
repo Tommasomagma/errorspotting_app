@@ -1,0 +1,1 @@
+"Beräkna räntesatsen om räntan är $500$ kr och man har lånat $10\\ 000$ kr."

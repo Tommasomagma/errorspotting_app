@@ -1,0 +1,1 @@
+"Magnus är med i en orienteringstävling. Start och mål är på samma plats. För att nå första kontrollen springer han 1 km rakt österut, och sedan 2 km norrut. För att nå den andra kontrollen springer han sedan 4 km västerut. För att slutligen nå den sista kontrollen springer han 2 km rakt söderut.\n\nHur långt har Magnus kvar till mål då han nått tredje kontrollen?"

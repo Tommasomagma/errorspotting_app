@@ -1,0 +1,1 @@
+"En cirkel har omkretsen 44 cm. Beräkna cirkelns area. Använd $\\pi \\approx 3{,}14$ och avrunda till hela kvadratcentimeter."

@@ -1,0 +1,1 @@
+"Beräkna. Kontrollera om ditt svar är rimligt.\n\n${\\Large\\frac{525}{5}}=$"

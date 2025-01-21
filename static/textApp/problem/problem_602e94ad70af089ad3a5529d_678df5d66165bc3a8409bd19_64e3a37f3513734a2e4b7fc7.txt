@@ -1,0 +1,1 @@
+"Tom säger att han multiplicerade ett tal på miniräknaren med 3 och fick svaret 0,6. \n\nRinga in en av de två svarsraderna, och om du anser att det är möjligt, skriv ett tal på den tomma linjen."

@@ -1,0 +1,1 @@
+"Talen i en talföljd kan räknas ut med uttrycket $5n-3$.\n\nVilket är tal nummer 100?"

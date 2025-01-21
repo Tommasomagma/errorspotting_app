@@ -1,0 +1,1 @@
+"Förenkla uttrycket.\n\n$3x-2y+5+6y=$"

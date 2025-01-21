@@ -1,0 +1,1 @@
+"Under en vecka visade Anjas termometer:\n\n$24\\degree C$ $\\space\\space\\space$ $22\\degree C$ $\\space\\space\\space$ $24\\degree C$  $\\space\\space\\space$ $30\\degree C$ $\\space\\space\\space$ $28\\degree C$ $\\space\\space\\space$ $26\\degree C$ $\\space\\space\\space$ $24\\degree C$\n\nVilket är typvärdet?"

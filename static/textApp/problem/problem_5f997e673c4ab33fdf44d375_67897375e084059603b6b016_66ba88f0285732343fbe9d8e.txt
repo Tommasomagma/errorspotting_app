@@ -1,0 +1,1 @@
+"En nöjespark har $x$ stycken attraktioner. Varje attraktion har plats för 25 personer. Om alla attraktioner är fullsatta sitter totalt 500 personer vid någon attraktion. \n\nHur många attraktioner finns det på nöjesparken?". Problem image: En karusell.

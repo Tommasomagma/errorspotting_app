@@ -1,0 +1,1 @@
+"Vilket tal ska stå istället för frågetecknet?". Problem image: En sekvens av tal ökar med fem, startar från elva och slutar med ett frågetecken som representerar det nästa talet i sekvensen.

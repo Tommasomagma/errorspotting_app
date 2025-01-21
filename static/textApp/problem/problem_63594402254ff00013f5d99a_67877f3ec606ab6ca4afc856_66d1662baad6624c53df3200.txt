@@ -1,0 +1,1 @@
+"På en pizzeria kan man välja mellan normal pizza och liten pizza. De båda pizzorna är lika tjocka, Den normala pizzan har diametern $30$ cm och den lilla pizzan har diametern $22$ cm.\n\nHur många procent mindre pizza är det i den lilla pizzan än i den normala? Avrunda till hela procent."

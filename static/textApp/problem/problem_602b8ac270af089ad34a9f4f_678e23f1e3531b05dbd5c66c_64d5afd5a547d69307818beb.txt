@@ -1,0 +1,1 @@
+"Vad är klockan om det är kväll?". Problem image: En analog klocka som visar en tid. Klockan har en timvisare och en minutvisare.

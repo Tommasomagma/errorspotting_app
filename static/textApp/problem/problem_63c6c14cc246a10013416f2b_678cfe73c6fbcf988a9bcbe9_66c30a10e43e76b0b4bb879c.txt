@@ -1,0 +1,1 @@
+"För två tal $x$ och $y$ gäller att summan av talen är $56$, och att skillnaden är $12$, där $x$ är det större talet av de två. \n\nVilket tal är $x$?"

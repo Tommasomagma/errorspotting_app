@@ -1,0 +1,1 @@
+"Beräkna.\n\n$\\Large \\frac{314}{2} \\small =$"

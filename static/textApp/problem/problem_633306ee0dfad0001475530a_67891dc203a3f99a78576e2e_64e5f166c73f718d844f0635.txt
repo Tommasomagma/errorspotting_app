@@ -1,0 +1,1 @@
+"Skriv bråket i blandad form. \n\n${\\Large \\frac{11}{3}} = $"

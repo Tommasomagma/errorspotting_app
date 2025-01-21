@@ -1,0 +1,1 @@
+"Magnus köper $7$ hg köttfärs för $44{,}80$ kr. Priset är proportionellt mot vikten. Teckna funktionen som visar hur priset beror av vikten i kilogram."

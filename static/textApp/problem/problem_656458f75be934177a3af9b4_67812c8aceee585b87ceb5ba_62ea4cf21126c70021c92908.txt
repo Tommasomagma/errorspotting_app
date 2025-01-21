@@ -1,0 +1,1 @@
+"Hur många procent motsvarar en ökning från...\n\n400 till 500? Svara i hela procent."

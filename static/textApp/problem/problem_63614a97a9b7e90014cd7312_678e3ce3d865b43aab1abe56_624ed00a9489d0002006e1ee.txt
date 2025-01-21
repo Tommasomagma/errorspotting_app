@@ -1,0 +1,1 @@
+"I en tennisklubb är $30$ % yngre än $18$ år. $105$ medlemmar är $18$ år eller äldre.\n\nTeckna en ekvation och räkna ut hur många medlemmar tennisklubben har."

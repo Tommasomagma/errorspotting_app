@@ -1,0 +1,1 @@
+"En talföjd kan beskrivas med formeln $y = 2n + 1$.\n\nBeräkna värdet på $y$ för $n=1$.\n\n$y=$"

@@ -1,0 +1,1 @@
+"Cindy ska måla varje område i cirkeln antingen rött, blått eller gult. Områden som gränsar till varandra ska ha olika färger. Det yttersta området målar hon blått. \nHur många områden kommer att vara blå när bilden är färdigmålad?". Problem image: En cirkel uppdelad i flera koncentriska områden genom linjer ritade från mitten till cirkelns kant.

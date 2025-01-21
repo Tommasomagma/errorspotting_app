@@ -1,0 +1,1 @@
+"Titta på raden med bokstäver. Bokstäverna är ordnade efter ett visst mönster. \n\n$\\text{A} \\hspace{0.3cm} \\text{A} \\hspace{0.3cm} \\text{B} \\hspace{0.3cm} \\text{C} \\hspace{0.3cm} \\text{A} \\hspace{0.3cm} \\text{A} \\hspace{0.3cm} \\text{B} \\hspace{0.3cm} \\text{C}$\n\nPå ritytan finns tre andra mönster. Ett av dem är ordnat på samma sätt som bokstäverna. *Välj det.*"

@@ -1,0 +1,1 @@
+"Fyll i det som saknas i ruta $A$. \n\n$\\boxed{A}(4-3\\boxed{B})=4y-3y^2$"

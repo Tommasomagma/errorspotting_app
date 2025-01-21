@@ -1,0 +1,1 @@
+"". Problem image: En stor triangel uppdelad i nio mindre trianglar i ett mönster som liknar ett pyramidspel. Två av de mindre trianglarna innehåller talen 2 och 3.

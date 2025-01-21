@@ -1,0 +1,1 @@
+"En kon har en cirkelformad botten med radien $4{,}2$ cm och höjden $14$ cm. Bestäm volymen. Avrunda till tiotals kubikcentimeter."

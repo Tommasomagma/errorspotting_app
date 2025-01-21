@@ -1,0 +1,1 @@
+"". Problem image: Sex stämplar visas i en rad. Varje stämpel har en kvadratisk form med en tjock ram och innehåller en stor siffra i mitten.

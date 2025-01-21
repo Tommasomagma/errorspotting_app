@@ -1,0 +1,1 @@
+"Välj det största talet i paret.\n\n$2{,}06$ eller $2{,}3$"

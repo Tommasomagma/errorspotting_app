@@ -1,0 +1,1 @@
+"Skriv följande tal i bråkform.\n\n$\\color{#505050}{\\large2\\frac{1}{7}}$"

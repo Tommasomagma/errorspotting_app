@@ -1,0 +1,1 @@
+"Använd huvudräkning och skriv bara svaret.\n\n$0{,}46-0{,}19=$"

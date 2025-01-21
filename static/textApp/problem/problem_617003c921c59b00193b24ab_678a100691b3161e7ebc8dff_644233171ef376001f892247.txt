@@ -1,0 +1,1 @@
+"En cirkel har omkretsen 6,28 cm. Beräkna cirkelns diameter. Använd $\\pi \\approx 3{,}14$."

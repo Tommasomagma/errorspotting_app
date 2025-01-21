@@ -1,0 +1,1 @@
+"Vilket tal fattas?". Problem image: En bild som visar tre rosa cirklar kopplade med svarta linjer för att bilda ett triangel-liknande mönster. Två cirklar har nummer: en cirkel med talet 10 och en annan med talet 7. Den tredje cirkeln, mellan de två andra cirkeltal, har ett frågetecken som representerar det saknade talet.

@@ -1,0 +1,1 @@
+"Hur stor del av rektangeln är skuggad? Välj det tal som beskriver det bäst.". Problem image: En rektangel delad i två delar där den ena delen är skuggad.

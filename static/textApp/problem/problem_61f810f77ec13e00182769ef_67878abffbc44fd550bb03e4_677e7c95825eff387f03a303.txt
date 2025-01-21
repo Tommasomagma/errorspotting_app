@@ -1,0 +1,1 @@
+"Hur många $sekunder$ är $10\\space minuter?$"

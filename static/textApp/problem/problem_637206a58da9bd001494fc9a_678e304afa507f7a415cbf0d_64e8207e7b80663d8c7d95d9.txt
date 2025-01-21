@@ -1,0 +1,1 @@
+"På en bensinmack lagras bensinen i en cylinderformad tank med radien $1{,}5$ m och höjden $6$ m. Hur stor volym har tanken? Avrunda till hela kubikmeter."

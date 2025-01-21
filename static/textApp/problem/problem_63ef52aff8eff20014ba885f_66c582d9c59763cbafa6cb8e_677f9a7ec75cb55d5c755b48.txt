@@ -1,0 +1,1 @@
+"Använd huvudräkning och skriv bara svaret.\n\n$30\\cdot 50=$"

@@ -1,0 +1,1 @@
+"Skriv talet i decimalform.\n\n${\\Large \\frac{3}{5}}=$"

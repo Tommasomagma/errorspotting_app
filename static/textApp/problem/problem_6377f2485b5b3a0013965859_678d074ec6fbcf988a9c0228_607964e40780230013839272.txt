@@ -1,0 +1,1 @@
+"Teckna ett uttryck för $48$ % av $z$."

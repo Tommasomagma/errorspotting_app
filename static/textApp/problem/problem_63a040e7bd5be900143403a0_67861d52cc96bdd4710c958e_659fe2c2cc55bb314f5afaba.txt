@@ -1,0 +1,1 @@
+"En bult väger $10$ gram mer än en mutter. $8$ bultar och $12$ muttrar väger tillsammans $160$ gram. \n\nHur mycket väger en mutter?"

@@ -1,0 +1,1 @@
+"4A börjar första lektionspasset klockan $08.30$ varje dag. Tio minuter i tio är det rast.\n\nHur långt är det första lektionspasset? Svara i minuter."

@@ -1,0 +1,1 @@
+"Vid vilket $x$-värde skär den röda linjen $x$-axeln?"

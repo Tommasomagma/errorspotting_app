@@ -1,0 +1,1 @@
+"Nova och Troj spelar spel. \n\nTroj får $5$ poäng. Nova får tre gånger så många poäng som Troj. Hur många poäng får Nova?"

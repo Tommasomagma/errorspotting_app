@@ -1,0 +1,1 @@
+"Utför multiplikationen.\n\n$2y \\cdot y=$"

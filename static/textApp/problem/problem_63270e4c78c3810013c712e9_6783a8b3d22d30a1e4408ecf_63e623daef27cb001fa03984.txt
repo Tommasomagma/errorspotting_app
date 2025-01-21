@@ -1,0 +1,1 @@
+"Summan av tre tal i följd är $297$. Vilket är det minsta talet av de tre?"

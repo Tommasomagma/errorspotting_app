@@ -1,0 +1,1 @@
+"Du ska gå runt det kvadratiska fältet. Du startar vid hörnet S och rör dig i pilens riktning. Sätt ett X där du är efter att ha gått $\\Large\\frac{1}{3}$ av vägen."

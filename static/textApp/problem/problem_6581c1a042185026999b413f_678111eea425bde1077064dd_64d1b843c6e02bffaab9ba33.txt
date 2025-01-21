@@ -1,0 +1,1 @@
+"Trianglarna i bilden är likformiga. \n\nBeräkna basen för figur B.". Problem image: Två likformiga trianglar, märkta A och B, placerade sida vid sida. Triangel A har en höjd på 4 och en bas på 3, medan triangel B har en höjd på 6. Basen för triangel B är inte märkt.

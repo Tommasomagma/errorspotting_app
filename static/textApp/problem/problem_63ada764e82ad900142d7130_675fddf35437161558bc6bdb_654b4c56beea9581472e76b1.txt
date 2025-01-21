@@ -1,0 +1,1 @@
+"Sune köper en tvättmaskin på avbetalning och betalar $350$ kr i månaden i ett år. Om han hade betalat direkt hade kostnaden varit $3\\ 600$ kr.\nHur många procent dyrare är det att köpa tvättmaskinen på avbetalning än att köpa den direkt? Svara i procentform och avrunda till hela procent."

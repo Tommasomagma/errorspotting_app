@@ -1,0 +1,1 @@
+"Vilket tal är $x$ om $7 \\cdot x + 11 = 46$?"

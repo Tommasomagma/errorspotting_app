@@ -1,0 +1,1 @@
+"Adam har 3 ljusslingor. Varje ljusslinga består av 4 lampor. \n\nHur många lampor har Adam totalt?"

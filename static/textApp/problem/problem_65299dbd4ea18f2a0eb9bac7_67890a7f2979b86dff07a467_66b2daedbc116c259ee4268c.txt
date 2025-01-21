@@ -1,0 +1,1 @@
+"På en karta över Sverige i skalan $1:8\\ 000\\ 000$, är Sveriges längd 20 cm. På en annan karta över Italien i skalan $1:4\\ 000\\ 000$, är Italiens längd 30 cm. \n\nHur många kilometer skiljer det i längden mellan länderna i verkligheten?". Problem image: En stiliserad bild av jorden.

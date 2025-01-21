@@ -1,0 +1,1 @@
+"Hur stor andel av figuren är **inte** färgad? Svara i bråkform.". Problem image: En cirkel uppdelad i åtta lika stora sektorer där två angränsande sektorer är färgade.

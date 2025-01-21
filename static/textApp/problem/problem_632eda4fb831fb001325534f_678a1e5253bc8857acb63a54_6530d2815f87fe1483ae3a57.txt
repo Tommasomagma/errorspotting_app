@@ -1,0 +1,1 @@
+"Under en vecka föll det sammanlagt $133$ mm regn i Storlien. Veckan därpå var ännu regnigare. I genomsnitt kom det då $4$ mm mer per dygn än under veckan innan. \n\nHur många millimeter regn föll det sammanlagt den andra veckan?"

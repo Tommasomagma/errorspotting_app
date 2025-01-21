@@ -1,0 +1,1 @@
+"Sortera följande mått i storleksordning. Börja med det minsta måttet. \n\n$0{,}4$ dm, $120$ mm, $10$ mm, $4$ mm, $12$ mm, $1$ dm, $0{,}6$ dm och $70$ mm."

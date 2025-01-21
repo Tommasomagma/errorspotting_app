@@ -1,0 +1,1 @@
+"Skriv uttrycket utan parenteser och förenkla så långt som möjligt.\n\n$5(x-3)=$"

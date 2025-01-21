@@ -1,0 +1,1 @@
+"Ett tal har avrundats utan decimaler till 6.\n\nOm det avrundade talet hade en decimal, vilket är det största möjliga talet?"

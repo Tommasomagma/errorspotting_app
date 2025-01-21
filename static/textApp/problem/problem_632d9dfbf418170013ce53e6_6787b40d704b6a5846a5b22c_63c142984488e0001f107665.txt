@@ -1,0 +1,1 @@
+"Skriv det binära talet $110$ som ett naturligt tal, t.ex. $4$."

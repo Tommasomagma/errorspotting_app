@@ -1,0 +1,1 @@
+"Beräkna figurens vinkelsumma.". Problem image: En fyrkant med en diagonal linje från det övre vänstra hörnet till det nedre högra hörnet.

@@ -1,0 +1,1 @@
+"En cirkel har omkretsen $120$ m. Beräkna cirkelns radie. Avrunda till heltal."

@@ -1,0 +1,1 @@
+"Ella och Johannes köper likadana askar med hallon. Ella köper 4 askar och Johannes 2 askar. Varje ask innehåller $x$ hallon. Tillsammans har de $x+35$ hallon. \n\nHur många hallon finns i en ask?". Problem image: En hallon och en hallonask.

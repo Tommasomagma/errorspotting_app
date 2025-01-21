@@ -1,0 +1,1 @@
+"Markera och skriv talen $\\Large\\frac{1}{10}$ och $\\Large\\frac{4}{5}$ på tallinjen."

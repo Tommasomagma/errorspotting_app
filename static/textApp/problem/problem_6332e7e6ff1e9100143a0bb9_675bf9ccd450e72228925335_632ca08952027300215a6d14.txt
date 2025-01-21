@@ -1,0 +1,1 @@
+"Förkorta bråket med $2$. \n\n${\\Large \\frac{4}{10}} = $"

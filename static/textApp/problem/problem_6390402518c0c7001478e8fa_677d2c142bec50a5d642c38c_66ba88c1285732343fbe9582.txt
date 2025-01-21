@@ -1,0 +1,1 @@
+"Agnes tänker på ett tal. Hon multiplicerar talet med $3$ och adderar sedan produkten med $6$. Resultatet blir då talet $30$. Vilket tal tänkte Agnes på?"

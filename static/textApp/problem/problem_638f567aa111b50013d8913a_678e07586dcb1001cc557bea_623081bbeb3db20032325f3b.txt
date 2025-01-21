@@ -1,0 +1,1 @@
+"Vad ska stå i rutan?\n\n${\\Large\\frac{3}{9}}={\\Large\\frac{\\boxed{\\phantom{a}}}{18}}$"

@@ -1,0 +1,1 @@
+"I bilden ser du en del av tallinjen. Hur många streck måste du rita för att dela upp delen mellan $0$ och $1$ i fem bitar?"

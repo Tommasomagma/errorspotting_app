@@ -1,0 +1,1 @@
+"En bonde samlar mjölken från sina kor i en cylindrisk behållare. Cylindern har bottenarean $1{,}54$ m$^2$ och rymmer $3$ m$^3$. Beräkna höjden av cylindern. Avrunda till två decimaler."

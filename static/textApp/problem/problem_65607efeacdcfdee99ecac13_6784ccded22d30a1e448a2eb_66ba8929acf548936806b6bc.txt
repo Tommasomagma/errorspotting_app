@@ -1,0 +1,1 @@
+"Om triangeln $ABC$ speglas över $y$-axeln, vad blir den nya koordinaten för punkten C?"

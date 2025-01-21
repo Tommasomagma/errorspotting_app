@@ -1,0 +1,1 @@
+"Beräkna differensen av talen $18$ och $3$."

@@ -1,0 +1,1 @@
+"Du vet att $\\Large\\frac{235}{50}$ $=4{,}7$ . \n\nHur mycket är då $\\Large\\frac{235}{0,5}$?"

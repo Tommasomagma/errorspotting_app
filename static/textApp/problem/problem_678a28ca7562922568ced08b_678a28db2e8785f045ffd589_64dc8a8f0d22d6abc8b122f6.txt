@@ -1,0 +1,1 @@
+"Beräkna.\n\n$1\\ 000+100=$". Problem image: En additionstabell med två rader och fyra kolumner. Översta raden visar siffrorna 1, 0, 0, 0 och nedersta raden visar en plus-symbol följt av siffrorna 1, 0, 0. En horisontell linje finns under tabellen.

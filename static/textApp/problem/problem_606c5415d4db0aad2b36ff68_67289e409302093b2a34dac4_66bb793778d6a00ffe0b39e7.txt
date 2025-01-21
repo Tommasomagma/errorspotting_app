@@ -1,0 +1,1 @@
+"Petter och Albin löser problem olika fort. När Petter har löst två problem har Albin löst tre. Sammanlagt löser de två pojkarna 30 problem. \nHur många fler problem än Petter har Albin löst?"

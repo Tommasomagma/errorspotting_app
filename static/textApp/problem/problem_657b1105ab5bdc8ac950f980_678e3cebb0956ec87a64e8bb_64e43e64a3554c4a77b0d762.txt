@@ -1,0 +1,1 @@
+"Bestäm volymen.". Problem image: En tredimensionell figur som liknar en cylinder med topp och botten formade som hexagoner. Höjden är angiven till 10 cm. Basens kortsidor är 4 cm medan de längre sidorna är 8 cm och höjden på det mittre rektangulära området är markerat till 8 cm.

@@ -1,0 +1,1 @@
+"Adam ska lägga sina kulor i burkar. Varje burk innehåller lika många kulor. Om han lägger kulorna i $6$ burkar finns det plats för en kula till. Om han lägger kulorna i $5$ burkar blir det $2$ kulor över.\n\nHur många kulor är det i varje burk?"

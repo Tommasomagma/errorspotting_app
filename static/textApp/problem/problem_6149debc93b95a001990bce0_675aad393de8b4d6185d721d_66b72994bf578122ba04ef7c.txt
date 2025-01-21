@@ -1,0 +1,1 @@
+"Förkorta bråket med 4. \n\n${\\Large \\frac{4}{12}} = $"

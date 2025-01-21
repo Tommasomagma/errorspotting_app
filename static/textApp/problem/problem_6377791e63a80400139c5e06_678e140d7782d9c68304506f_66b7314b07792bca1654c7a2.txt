@@ -1,0 +1,1 @@
+"Den vita hästen har ätit $6$ äpplen och den bruna hästen  har ätit dubbelt så många. Nu finns det $3$ äpplen kvar. Hur många äpplen fanns det från början? *Visa hur du löser uppgiften och skriv svar.*". Problem image: Två hästar står bredvid några äpplen på marken.

@@ -1,0 +1,1 @@
+"Lös ekvationen\n\nx + 5 = 32"

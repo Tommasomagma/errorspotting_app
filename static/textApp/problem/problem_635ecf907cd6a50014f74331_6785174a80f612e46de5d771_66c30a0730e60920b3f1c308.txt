@@ -1,0 +1,1 @@
+"En dag var temperaturen vid Kebnekajses fjällstation $12\\degree$C. Högre upp var temperaturen lägre. Temperaturen sjunker med en hundradels grad per meter.\n\nTeckna ett uttryck för vilken temperaturen var på höjden $x$ m ovanför fjällstationen."

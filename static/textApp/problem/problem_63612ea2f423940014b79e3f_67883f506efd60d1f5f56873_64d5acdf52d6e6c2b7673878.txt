@@ -1,0 +1,1 @@
+"En liksidig triangel har lika lång omkrets som en kvadrat. Triangelns sida är $7$ cm längre än kvadratens sida. \n\nBeräkna kvadratens area."

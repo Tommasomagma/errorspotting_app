@@ -1,0 +1,1 @@
+"På åtta kast med tärning fick Yasmin följande resultat:\n\n$1$, $3$, $4$, $1$, $6$, $3$, $2$ och $4$. \n\nBeräkna medelvärdet."

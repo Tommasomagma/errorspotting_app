@@ -1,0 +1,1 @@
+"En termometer visar $15{,}3 \\ \\degree$C. Vad visar den om temperaturen stiger med $0{,}9\\degree$C?"

@@ -1,0 +1,1 @@
+"Beräkna volymen av en kon där basytans diameter är $4$ cm och konens höjd är $3$ cm. Avrunda till hela kubikcentimeter."

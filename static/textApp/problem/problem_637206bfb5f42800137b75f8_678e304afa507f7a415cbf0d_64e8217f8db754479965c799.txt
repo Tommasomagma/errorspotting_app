@@ -1,0 +1,1 @@
+"Beräkna volymen av en kon med basytan $30$ cm$^2$ och höjden $10$ cm."

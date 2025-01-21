@@ -1,0 +1,1 @@
+"Vem har rätt? Motivera ditt svar. \n\nAmanda: $0{,}15$ är en större andel än $1{,}5$%\n\nBodil: $0{,}15$ är en mindre andel än $1{,}5$%\n\nCissi:  $0{,}15$ är lika stor andel än $1{,}5$%"

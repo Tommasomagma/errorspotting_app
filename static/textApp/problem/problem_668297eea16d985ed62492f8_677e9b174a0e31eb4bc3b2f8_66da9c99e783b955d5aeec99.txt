@@ -1,0 +1,1 @@
+"Vilket tal fattas?\n\nOm entalssiffran är 5 eller 0 så är talet delbart med $\\underline{\\hspace{0.5cm}}\\ $."

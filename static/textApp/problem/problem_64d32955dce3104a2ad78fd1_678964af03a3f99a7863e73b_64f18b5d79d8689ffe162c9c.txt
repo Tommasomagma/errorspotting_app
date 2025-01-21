@@ -1,0 +1,1 @@
+"Ali har $12$ pennor och ger $5$ till Stina. \n\nVilket uttryck passar till räknehändelsen?"

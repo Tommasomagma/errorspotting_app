@@ -1,0 +1,1 @@
+"Förkorta.\n\n${\\Large\\frac{10}{15}}$ med $5$"

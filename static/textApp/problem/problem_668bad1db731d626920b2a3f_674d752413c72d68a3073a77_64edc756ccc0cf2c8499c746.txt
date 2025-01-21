@@ -1,0 +1,1 @@
+"Beräkna med uppställning.\n\n${\\Large\\frac{8{,}4}{3}}=$"

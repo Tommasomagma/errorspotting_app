@@ -1,0 +1,1 @@
+"Viggo har $30$ kronor och ska köpa både äpplen och morötter. Han handlar för mer än $25$ kronor. \n\nHur många äpplen och hur många morötter kan Viggo ha köpt? *Visa hur du löser uppgiften och skriv svar.*". Problem image: En tabell över priser. Första raden visar ett grönt äpple med texten 'Äpplen 8 kr/styck'. Andra raden visar en orange morot med texten 'Morötter 3 kr/styck'.

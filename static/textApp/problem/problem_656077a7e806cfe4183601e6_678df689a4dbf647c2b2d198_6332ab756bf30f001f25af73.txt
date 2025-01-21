@@ -1,0 +1,1 @@
+"Hur stor andel av figuren är färgad? Svara i decimalform.". Problem image: Ett rutnät bestående av mindre kvadrater med vissa kvadrater färgade i rosa. Rosa färg täcker en del av hela rutnätet.

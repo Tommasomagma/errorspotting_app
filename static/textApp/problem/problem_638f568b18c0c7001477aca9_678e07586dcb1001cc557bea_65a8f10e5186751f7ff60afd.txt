@@ -1,0 +1,1 @@
+"Vad ska stå i rutan?\n\n$2{\\Large\\frac{\\boxed{\\phantom{a}}}{3}}={\\Large\\frac{8}{3}}$"

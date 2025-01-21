@@ -1,0 +1,1 @@
+"Summan av två tal är $54$. Det ena talet är fem gånger så stort som det andra. Vilka är de två talen?\n\nKalla det minsta talet för $x$ och skriv ett uttryck för det andra talet."

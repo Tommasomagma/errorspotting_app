@@ -1,0 +1,1 @@
+"Du har $15$ stolar. Du ställer $3$ stolar vid varje bord. Hur många bord räcker stolarna till?"

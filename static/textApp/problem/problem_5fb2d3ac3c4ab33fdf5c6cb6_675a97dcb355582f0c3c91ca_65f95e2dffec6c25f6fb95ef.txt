@@ -1,0 +1,1 @@
+"En kon och ett halvt klot har samma basarea och samma höjd. \n\nHur många gånger större volym har halvklotet?". Problem image: En tredimensionell bild av ett halvklot. Halvklotet är avgränsat i botten av en basarea och har en synlig höjd. Streckade linjer visar halvklotets symmetri genom mitten och dess bas.

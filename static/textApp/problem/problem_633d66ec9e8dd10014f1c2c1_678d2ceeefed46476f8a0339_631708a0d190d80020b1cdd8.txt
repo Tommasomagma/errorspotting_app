@@ -1,0 +1,1 @@
+"Mellan Örebro och Mora är det $13{,}2$ cm på en karta som är ritad i  skala $1 : 1\\ 500\\ 000$. Hur långt är det i verkligheten? Svara i mil.  Avrunda till hela mil."

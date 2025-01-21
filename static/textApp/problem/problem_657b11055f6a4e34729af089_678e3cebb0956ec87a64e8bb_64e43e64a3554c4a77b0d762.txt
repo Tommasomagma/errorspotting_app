@@ -1,0 +1,1 @@
+"På en godisfabrik gör man gelégodisar som har mått enligt bilden. Fabriken har 30 liter smet.\n\nHur många gelégodisar med form enligt bilden kan de då tillverka?". Problem image: Bilden visar en tredimensionell geometrisk figur som liknar ett gelégodis. Figuren har mätningar markerade: 10 mm höjd, 6 mm bredd vid basen, och 3 mm höjd till toppen där bredden är 5 mm.

@@ -1,0 +1,1 @@
+"När Arvid ska gå ut väljer han ett par shorts och en tröja. \n\nPå hur många olika sätt kan Arvid välja sin outfit?". Problem image: Bilden visar tre olika tröjor och två olika par shorts. Tröjorna och shortsen är ordnade i två separata grupper.

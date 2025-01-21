@@ -1,0 +1,1 @@
+"Beräkna.\n\n${\\Large\\frac{4}{5}}$ av $450$"

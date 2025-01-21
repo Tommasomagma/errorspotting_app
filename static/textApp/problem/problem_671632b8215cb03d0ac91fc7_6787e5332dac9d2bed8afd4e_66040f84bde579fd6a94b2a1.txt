@@ -1,0 +1,1 @@
+"Räkna ut differensen.\n\n$485-153=$"

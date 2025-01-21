@@ -1,0 +1,1 @@
+"Skriv talet i decimalform. \n\n$2\\Large\\frac{2}{5}$"

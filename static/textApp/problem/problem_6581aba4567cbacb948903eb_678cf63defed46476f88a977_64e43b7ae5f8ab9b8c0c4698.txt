@@ -1,0 +1,1 @@
+"Hur stor andel av figuren är färgad?". Problem image: En rektangel uppdelad i sex lika stora kvadrater där de två övre kvadraterna är färglagda.

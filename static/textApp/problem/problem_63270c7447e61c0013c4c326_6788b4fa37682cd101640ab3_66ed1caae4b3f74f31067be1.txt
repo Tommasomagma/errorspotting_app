@@ -1,0 +1,1 @@
+"Vilket är det okända talet $x$?\n\n$x\\cdot x\\cdot x=27$"

@@ -1,0 +1,1 @@
+"Hur stor är ändringen i procent om förändringsfaktorn är $0{,}96$?\n\n$\\quad$**A.**$\\;$ En ökning med $4$ %\n\n$\\quad$**B.**$\\;$ En ökning med $96$ %\n\n$\\quad$**C.**$\\;$ En minskning med $96$ %\n\n$\\quad$**D.**$\\;$ En minskning med $4$ %"
