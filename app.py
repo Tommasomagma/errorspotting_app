@@ -15,8 +15,9 @@ def get_db_connection():
 conn = get_db_connection()
 with conn.cursor() as cur:
     cur.execute("""
-        CREATE TABLE IF NOT EXISTS es_data (
+        CREATE TABLE IF NOT EXISTS test_db (
             id SERIAL PRIMARY KEY,
+            imgId SERIAL PRIMARY KEY,
             input TEXT NOT NULL
         )
     """)
@@ -42,22 +43,35 @@ app.config['USER_INPUT_FOLDER'] = USER_INPUT_FOLDER
 
 @app.route('/')
 def home():
+
+    # Get all imgId values from the database
+    conn = get_db_connection()
+    with conn.cursor() as cur:
+        cur.execute("SELECT imgId FROM test_db")
+        existing_ids = [row[0] for row in cur.fetchall()]
+    conn.close()
+
     # Get a list of all image files in the IMAGE_FOLDER
     image_files = [f for f in os.listdir(app.config['IMAGE_FOLDER'])]
 
-    if not image_files:
-        return "No images available. Please upload an image."
+    # Find an img that has not been labelled yet
+    imgFound = False
 
-    # Select a random image
-    selected_image_folder = random.choice(image_files)
-    selected_image = next(f for f in os.listdir(os.path.join(app.config['IMAGE_FOLDER'], selected_image_folder)) if f.startswith('image'))
-    ref_image = next(f for f in os.listdir(os.path.join(app.config['IMAGE_FOLDER'], selected_image_folder)) if f.startswith('ref'))
+    while imgFound == False:
 
-    image_id = selected_image.rsplit('.', 1)[0]
-    # Remove 'image_' prefix from the image ID if it exists
-    if image_id.startswith('image_'):
-        image_id = image_id[6:]  # Remove first 6 characters ('image_')
+        # Select a random image
+        selected_image_folder = random.choice(image_files)
+        selected_image = next(f for f in os.listdir(os.path.join(app.config['IMAGE_FOLDER'], selected_image_folder)) if f.startswith('image'))
+        ref_image = next(f for f in os.listdir(os.path.join(app.config['IMAGE_FOLDER'], selected_image_folder)) if f.startswith('ref'))
 
+        image_id = selected_image.rsplit('.', 1)[0]
+        # Remove 'image_' prefix from the image ID if it exists
+        if image_id.startswith('image_'):
+            image_id = image_id[6:]  # Remove first 6 characters ('image_')
+        
+        if image_id not in existing_ids:
+            imgFound = True
+    
     # Find the corresponding text file
     problem_file = f'problem_{image_id}.txt'  # Replace the image extension with .txt
     problem_path = os.path.join(app.config['PROBLEM_FOLDER'], problem_file)
@@ -117,13 +131,9 @@ def handle_user_input():
     conn = get_db_connection()
     with conn.cursor() as cur:
         # Insert into whichever table you are actually using (user_inputs or user_inputs_test)
-        cur.execute("INSERT INTO es_data (input) VALUES (%s)", (final_input,))
+        cur.execute("INSERT INTO test_db (input) VALUES (%s)", (final_input,))
+        cur.execute("INSERT INTO test_db (imgId) VALUES (%s)", (image_id,))
         conn.commit()
-
-        # Verification query
-        cur.execute("SELECT * FROM es_data ORDER BY id DESC LIMIT 1")
-        result = cur.fetchone()
-        print(f"Last inserted row: {result}")
 
     conn.close()
     return redirect(url_for('home'))
@@ -139,13 +149,9 @@ def skip_user_input():
     conn = get_db_connection()
     with conn.cursor() as cur:
         # Insert into whichever table you are actually using (user_inputs or user_inputs_test)
-        cur.execute("INSERT INTO es_data (input) VALUES (%s)", (final_input,))
+        cur.execute("INSERT INTO test_db (input) VALUES (%s)", (final_input,))
+        cur.execute("INSERT INTO test_db (imgId) VALUES (%s)", (image_id,))
         conn.commit()
-
-        # Verification query
-        cur.execute("SELECT * FROM es_data ORDER BY id DESC LIMIT 1")
-        result = cur.fetchone()
-        print(f"Last inserted row: {result}")
 
     conn.close()
     return redirect(url_for('home'))
@@ -161,13 +167,9 @@ def discard_user_input():
     conn = get_db_connection()
     with conn.cursor() as cur:
         # Insert into whichever table you are actually using (user_inputs or user_inputs_test)
-        cur.execute("INSERT INTO es_data (input) VALUES (%s)", (final_input,))
+        cur.execute("INSERT INTO test_db (input) VALUES (%s)", (final_input,))
+        cur.execute("INSERT INTO test_db (imgId) VALUES (%s)", (image_id,))
         conn.commit()
-
-        # Verification query
-        cur.execute("SELECT * FROM es_data ORDER BY id DESC LIMIT 1")
-        result = cur.fetchone()
-        print(f"Last inserted row: {result}")
 
     conn.close()
     return redirect(url_for('home'))
@@ -191,7 +193,7 @@ def upload_image():
 def view_inputs():
     conn = get_db_connection()
     with conn.cursor() as cur:
-        cur.execute("SELECT * FROM es_data")
+        cur.execute("SELECT * FROM test_db")
         inputs = cur.fetchall()
     conn.close()
     return render_template('view_inputs.html', inputs=inputs)
