@@ -1,0 +1,1 @@
+"Tänk dig att du har en klump med modellera. Du formar först ett rätblock med de mått som är utsatta i figuren. Beräkna rätblockets volym. Svara i kubikcentimeter.". Problem image: missing

@@ -1,0 +1,1 @@
+"En fjäder belastas med vikter. Tabellen visar sambandet mellan längden på fjädern, $y$ millimeter, och vikten, $x$ gram, som hängs på den.\n\nHur mycket sträcks fjädern ut om man hänger på $1$ gram?". Problem image: missing

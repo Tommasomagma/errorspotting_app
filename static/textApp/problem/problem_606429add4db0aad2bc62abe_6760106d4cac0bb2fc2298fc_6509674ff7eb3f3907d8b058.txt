@@ -1,0 +1,1 @@
+"Varje gång som kängurun hoppar upp 7 trappsteg skuttar kaninen ner 3 trappsteg.\nPå vilket trappsteg kommer de att mötas?". Problem image: missing

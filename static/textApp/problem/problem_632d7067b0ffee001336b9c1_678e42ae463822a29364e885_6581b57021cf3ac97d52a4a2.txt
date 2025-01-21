@@ -1,0 +1,1 @@
+"Hur stor är sannolikheten att hjulet stannar på $8$, $9$ eller $10$? \n\nSvara i procentform.". Problem image: missing

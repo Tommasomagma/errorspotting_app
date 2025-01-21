@@ -1,0 +1,1 @@
+"Eleverna vid Säteriskolan mätte temperaturen klockan 12.00 varje dag under en vecka. \n\nResultatet blev: 13 °C, 11 °C, 12 °C, 12 °C och 7 °C.\n\nBestäm typvärdet.". Problem image: missing

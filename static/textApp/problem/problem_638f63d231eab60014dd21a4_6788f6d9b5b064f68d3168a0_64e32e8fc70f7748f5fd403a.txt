@@ -1,0 +1,1 @@
+"Skriv ett uttryck för figurens area med parenteser.". Problem image: missing

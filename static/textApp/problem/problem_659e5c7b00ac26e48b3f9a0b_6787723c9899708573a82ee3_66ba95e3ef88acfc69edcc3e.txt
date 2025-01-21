@@ -1,0 +1,1 @@
+"Novas leksaksbilar är lika långa. Hon ställer två bilar efter varandra. Då är raden $12$ cm lång.\n\nHur många bilar står efter varandra om raden är $30$ cm lång? *Visa hur du löser uppgiften*.". Problem image: missing

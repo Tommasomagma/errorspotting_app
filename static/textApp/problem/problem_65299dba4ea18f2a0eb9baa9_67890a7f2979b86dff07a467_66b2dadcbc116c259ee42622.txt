@@ -1,0 +1,1 @@
+"Orienteringskartan är i skalan $1:25\\ 000$.\n\nHur många centimeter på kartan motsvarar en kilometer i verkligheten?". Problem image: missing

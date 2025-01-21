@@ -1,0 +1,1 @@
+"Ett flygplan har flugit $13\\ 699$ km. Hur långt har det åkt när det flugit en km till?". Problem image: missing

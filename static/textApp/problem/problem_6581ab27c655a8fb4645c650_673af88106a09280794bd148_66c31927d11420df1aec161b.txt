@@ -1,0 +1,1 @@
+"Ett kg potatis kostar 8 kr. En påse kostar 2 kr.\n\nAdam köper 6 kg potatis och 2 påsar. Hur mycket får Adam betala?". Problem image: missing

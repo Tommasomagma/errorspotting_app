@@ -1,0 +1,1 @@
+"Vincent äter frukost klockan halv 9 och har ätit upp 20 minuter senare. Vilken tid har Vincent ätit färdigt?". Problem image: missing

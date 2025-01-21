@@ -1,0 +1,1 @@
+"Kalla rektangelns sidor för $x$ och $y$. Vilka olika heltal kan $x$ och $y$ ha i cm om arean är $18$ cm$^2$?". Problem image: missing

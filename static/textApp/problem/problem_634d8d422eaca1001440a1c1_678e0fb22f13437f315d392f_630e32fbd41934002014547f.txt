@@ -1,0 +1,1 @@
+"Hur många kastruller med vatten krävs det för att fylla ett akvarium på $100$ liter? Avrunda till heltal.". Problem image: missing

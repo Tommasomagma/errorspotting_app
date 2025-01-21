@@ -1,0 +1,1 @@
+"Hur stor är burkens volym? Avrunda till tiotal kubikcentimeter.". Problem image: missing

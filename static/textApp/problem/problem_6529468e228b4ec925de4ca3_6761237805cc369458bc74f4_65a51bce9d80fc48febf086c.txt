@@ -1,0 +1,1 @@
+"Linjediagrammet visar taxipriset för ett visst antal kilometer.\n\nHur mycket kostar det att åka första kilometern?". Problem image: missing

@@ -1,0 +1,1 @@
+"Det finns 8 kakor.\n\nHur många kakor får varje person om de ska delas på 2 personer?". Problem image: missing

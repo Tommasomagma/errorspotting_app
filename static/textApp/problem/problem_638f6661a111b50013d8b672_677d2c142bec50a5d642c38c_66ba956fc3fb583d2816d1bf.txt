@@ -1,0 +1,1 @@
+"Rektangelns area är $27$ cm$^2$. Beräkna rektangelns omkrets i cm.". Problem image: missing

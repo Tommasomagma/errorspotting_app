@@ -1,0 +1,1 @@
+"Diagrammet visar sambandet mellan Patriks och Saras vikt och ålder under deras första $20$ år. \n\nMellan vilka åldrar vägde Patrik mer än Sara?". Problem image: missing

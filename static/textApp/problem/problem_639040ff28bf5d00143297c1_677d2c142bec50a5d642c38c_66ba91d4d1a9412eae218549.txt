@@ -1,0 +1,1 @@
+"Beräkna längden av sidan $x$ i cm om rektangelns omkrets är $24$ cm.". Problem image: missing

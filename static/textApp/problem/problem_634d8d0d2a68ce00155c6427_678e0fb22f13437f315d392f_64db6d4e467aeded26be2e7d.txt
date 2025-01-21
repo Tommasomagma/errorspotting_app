@@ -1,0 +1,1 @@
+"Beräkna pyramidens volym. Avrunda till hela kubikcentimeter.". Problem image: missing

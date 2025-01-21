@@ -1,0 +1,1 @@
+"Hur stor är pyramidens volym? Avrunda till tiondels liter.". Problem image: missing

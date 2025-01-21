@@ -1,0 +1,1 @@
+"Använd diagrammet för att besvara frågan.\n\nHur mycket kan du köpa för $50$ kronor?". Problem image: missing

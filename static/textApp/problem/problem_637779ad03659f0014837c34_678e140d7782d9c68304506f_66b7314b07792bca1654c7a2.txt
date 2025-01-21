@@ -1,0 +1,1 @@
+"På en gård finns det $10$ djur. Det är kor, hästar och får. Hälften av alla djur är kor. Det finns tre fler hästar än får.  \n\nHur många kor finns det på gården?". Problem image: missing

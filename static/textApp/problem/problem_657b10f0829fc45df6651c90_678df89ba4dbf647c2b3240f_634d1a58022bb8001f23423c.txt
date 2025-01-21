@@ -1,0 +1,1 @@
+"Anna går ett halvt varv precis längs utsidan av ett UFO:s stråle för att nå sin kompis. Ufot strålar upp allt inom en cirkel med radie 35 m. \n\nHur långt gick hon? Använd $\\pi \\approx 3{,}14$ och svara i hela meter.". Problem image: missing

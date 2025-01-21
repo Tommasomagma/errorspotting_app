@@ -1,0 +1,1 @@
+"Beräkna längden av sidan $x$ i cm om rektangelns area är $24$ cm$^2$.". Problem image: missing

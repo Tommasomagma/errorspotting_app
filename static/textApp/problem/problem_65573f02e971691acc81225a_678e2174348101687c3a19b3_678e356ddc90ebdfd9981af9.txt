@@ -1,0 +1,1 @@
+"Anders har ätit en halv pizza. Den gröna punkten sitter i pizzans mittpunkt.\n\nAnders tar en tredjedel av vad som finns kvar.  Hur stor är vinkeln vid den gröna punkten, från pizzans kanter efter att Anders tagit biten?". Problem image: missing

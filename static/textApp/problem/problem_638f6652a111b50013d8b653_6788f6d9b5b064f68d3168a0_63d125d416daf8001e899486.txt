@@ -1,0 +1,1 @@
+"Rektangelns area är $27$ cm$^2$. Beräkna värdet av $x$.". Problem image: missing

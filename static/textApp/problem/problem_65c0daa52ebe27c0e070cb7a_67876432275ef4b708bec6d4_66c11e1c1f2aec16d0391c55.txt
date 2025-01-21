@@ -1,0 +1,1 @@
+"En stad har beställt $2\\ 500$ blommor som ska planteras i olika parker. 500 blommor vissnade under leveransen. Om varje park får 100 blommor, hur många parker finns det i staden?". Problem image: missing

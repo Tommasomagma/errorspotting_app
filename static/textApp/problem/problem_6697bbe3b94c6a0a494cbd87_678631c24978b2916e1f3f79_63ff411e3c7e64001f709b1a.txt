@@ -1,0 +1,1 @@
+"Linjen visar sambandet mellan sträcka och tid när Elisabeth kör motorcykel. Vi tänker oss att hon kör i samma hastighet hela tiden. Hur långt kör hon på 2 timmar?". Problem image: missing

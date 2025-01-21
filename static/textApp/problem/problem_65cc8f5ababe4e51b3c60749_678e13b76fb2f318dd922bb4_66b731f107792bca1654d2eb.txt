@@ -1,0 +1,1 @@
+"Lara besöker en biograf där en ny film spelas varannan timme. Hon kommer precis när en film börjar.\n\nFörst ser Lara en film som är en och en halv timme lång. Sedan ser hon en annan film som är två timmar lång. Hur många timmar behöver Lara stanna på biografen för att se båda filmerna? Räkna med pausen mellan filmerna.". Problem image: missing

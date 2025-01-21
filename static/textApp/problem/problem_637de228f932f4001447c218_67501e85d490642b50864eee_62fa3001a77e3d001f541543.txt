@@ -1,0 +1,1 @@
+"Lucia har bakat en jultårta. Hon äter själv upp $\\large \\frac{1}{8}$ av den, och hennes pappa $\\large \\frac{1}{4}$ av den. Hur stor andel av tårtan finns kvar efter att de ätit sina respektive delar?". Problem image: missing

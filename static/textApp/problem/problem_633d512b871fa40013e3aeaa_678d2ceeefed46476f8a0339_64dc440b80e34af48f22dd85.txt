@@ -1,0 +1,1 @@
+"Hur långt är det fågelvägen mellan Bredbyn och Näset i verkligheten? Avrunda till hela km.". Problem image: missing

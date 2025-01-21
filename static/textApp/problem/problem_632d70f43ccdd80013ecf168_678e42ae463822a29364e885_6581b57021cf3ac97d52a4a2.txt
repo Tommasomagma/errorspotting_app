@@ -1,0 +1,1 @@
+"Hur stor är sannolikheten att hjulet stannar på $4$ eller mindre? \n\nSvara i procentform.". Problem image: missing

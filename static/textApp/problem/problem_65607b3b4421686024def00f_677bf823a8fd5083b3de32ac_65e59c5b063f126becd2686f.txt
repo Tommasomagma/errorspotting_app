@@ -1,0 +1,1 @@
+"Akvariets mått är utsatta i bilden. Hur mycket vatten ryms i akvariet?". Problem image: missing

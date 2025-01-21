@@ -1,0 +1,1 @@
+"En klass med 30 elever blev tillfrågade ifall de var rädda för ormar. Resultatet visas i diagrammet.\n\nDet var dubbelt så många som svarade \"Nej\" som svarade \"Lite grann\". Hur många elever svarade \"Lite grann\"?". Problem image: missing

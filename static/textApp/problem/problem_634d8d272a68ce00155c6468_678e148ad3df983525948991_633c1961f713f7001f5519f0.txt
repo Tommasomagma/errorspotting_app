@@ -1,0 +1,1 @@
+"Ett glas ser ut som bilden visar. Hur stor är volymen uttryckt i centiliter?  Avrunda till hela centiliter.". Problem image: missing

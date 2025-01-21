@@ -1,0 +1,1 @@
+"Det går 27 elever i klassen och eleverna delar upp sig i 4 lag, så jämnstora som möjligt.\n\nHur många lag innehåller 6 elever?". Problem image: missing

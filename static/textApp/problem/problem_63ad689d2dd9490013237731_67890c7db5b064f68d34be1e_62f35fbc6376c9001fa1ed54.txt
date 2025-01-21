@@ -1,0 +1,1 @@
+"I rutan finns ekvationer för fyra räta linjer.\n\nVilka två av de räta linjerna har lutningen $3$?". Problem image: missing

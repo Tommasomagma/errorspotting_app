@@ -1,0 +1,1 @@
+"Tabellen visar sambandet mellan kostnaden, $y$ kronor, och vikten, $x$ kilogram, för potatis som man köper i en låda.\n\nVad kostar ett kilogram potatis?". Problem image: missing

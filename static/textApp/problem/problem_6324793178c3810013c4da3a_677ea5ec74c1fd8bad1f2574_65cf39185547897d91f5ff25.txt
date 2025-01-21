@@ -1,0 +1,1 @@
+"Hur stor andel av figuren är skuggad? Svara i decimalform.". Problem image: missing

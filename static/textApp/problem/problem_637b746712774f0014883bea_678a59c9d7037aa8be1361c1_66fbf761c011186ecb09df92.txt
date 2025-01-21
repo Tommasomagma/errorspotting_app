@@ -1,0 +1,1 @@
+"På bilden syns ett känt byggnadsverk och dess verkliga höjd. Hur högt skulle det bli på en avbildning i skala $1:2\\ 000$?". Problem image: missing

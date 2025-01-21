@@ -1,0 +1,1 @@
+"I rutan finns ekvationer för fyra räta linjer.\n\nVilka två av de räta linjerna skär $y$-axeln i punkten $(0, 3)$?". Problem image: missing

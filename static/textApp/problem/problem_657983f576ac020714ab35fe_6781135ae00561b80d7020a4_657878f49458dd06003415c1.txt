@@ -1,0 +1,1 @@
+"Alina kastar en tärning fyra gånger. Hon får en $2$:a, en $5$:a, en $3$:a och en $6$:a.\n\nVad är medelvärdet av de fyra kasten?". Problem image: missing

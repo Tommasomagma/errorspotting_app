@@ -1,0 +1,1 @@
+"Vilken av figurerna är kongruenta?\n\n$\\quad$ **A**.$\\;$ I, II och IV\n\n$\\quad$ **B**.$\\;$ I och II\n\n$\\quad$ **C**.$\\;$ III och IV". Problem image: missing

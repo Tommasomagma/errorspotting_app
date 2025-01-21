@@ -1,0 +1,1 @@
+"Diagrammet visar vad Astrid och hennes klasskamrater brukar göra på rasterna.\n\nDet går $28$ elever i klassen.\n\nHur stor andel av eleverna brukar spela basket?". Problem image: missing

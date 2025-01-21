@@ -1,0 +1,1 @@
+"I Rubiks kub är längden av varje sida $9$ cm.\n\nHur många sidoytor har en kub?". Problem image: missing

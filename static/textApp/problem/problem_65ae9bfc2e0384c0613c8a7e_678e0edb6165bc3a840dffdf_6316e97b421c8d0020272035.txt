@@ -1,0 +1,1 @@
+"Bilden visar ett gem i skala $5:1$.\n\nMan behöver 16 cm ståltråd för att göra ett gem. Hur många gem kan man göra av 12 m ståltråd? *Visa hur du löser uppgiften.*". Problem image: missing

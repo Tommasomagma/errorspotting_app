@@ -1,0 +1,1 @@
+"Summan av två tal x och y är 63. Talet y är 11 större än x.\n\nVad är x?". Problem image: missing

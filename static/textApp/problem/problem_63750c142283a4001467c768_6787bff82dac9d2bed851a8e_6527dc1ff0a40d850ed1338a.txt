@@ -1,0 +1,1 @@
+"Teckna ett uttryck för kvadratens area. Förenkla sedan uttrycket.". Problem image: missing

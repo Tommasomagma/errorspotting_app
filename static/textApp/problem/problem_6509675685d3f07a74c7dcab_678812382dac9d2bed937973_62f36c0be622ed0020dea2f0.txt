@@ -1,0 +1,1 @@
+"I frekvenstabellen redovisas åldrarna hos gästerna på ett kalas. \n\nRita ett stolpdiagram för gästernas åldrar om ett år. Vad är medelvärdet av deras åldrar då?". Problem image: missing

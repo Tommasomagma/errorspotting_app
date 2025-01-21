@@ -1,0 +1,1 @@
+"Tre av hörnen i en rektangel finns i punkterna $(-2, -4)$, $(3, -4)$ och $(3, 2)$. Vilka koordinater har den punkt där det fjärde hörnet ligger?". Problem image: missing

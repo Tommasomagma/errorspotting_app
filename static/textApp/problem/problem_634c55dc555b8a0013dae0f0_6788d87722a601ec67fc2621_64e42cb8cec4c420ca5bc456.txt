@@ -1,0 +1,1 @@
+"En cirkel har radien $1{,}25$ cm. Hur stor är diametern?". Problem image: missing

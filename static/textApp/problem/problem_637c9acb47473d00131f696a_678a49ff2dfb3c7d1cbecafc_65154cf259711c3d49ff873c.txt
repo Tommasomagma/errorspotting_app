@@ -1,0 +1,1 @@
+"Hur många grader ska figuren rotera kring sin mittpunkt för att se likadan ut som ursprungsfiguren?". Problem image: missing

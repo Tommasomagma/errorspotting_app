@@ -1,0 +1,1 @@
+"Det är saft i två glas. Vilket påstående är sant? *Förklara varför.*\n\n$\\hspace{0.37cm}$**A.**$\\;$ Det är lika mycket saft i båda glasen.\n\n$\\hspace{0.37cm}$**B.**$\\;$ Det är mest saft i glas 1.\n\n$\\hspace{0.37cm}$**C.**$\\;$ Det är mest saft i glas 2.". Problem image: missing
