@@ -1,1 +1,0 @@
-"Alma har 10 kr och köper klubbor för 3 kr/st.\n\nAlma köper så många klubbor hon kan. Hur mycket får hon i växel?". Problem image: missing

@@ -1,1 +1,0 @@
-"Alva klipper ett papper i två lika stora delar, och sedan klipper hon en av delarna i två lika stora delar igen.\n\nHur stor del av hela pappret är en av de minsta bitarna?". Problem image: missing

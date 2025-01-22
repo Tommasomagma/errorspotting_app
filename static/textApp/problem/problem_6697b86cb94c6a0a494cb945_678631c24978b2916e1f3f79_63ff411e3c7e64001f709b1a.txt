@@ -1,1 +1,0 @@
-"Punkterna visar sambandet mellan kostnad och vikt för några påsar med frukt. Vilka två påsar har samma pris per kilogram?". Problem image: missing

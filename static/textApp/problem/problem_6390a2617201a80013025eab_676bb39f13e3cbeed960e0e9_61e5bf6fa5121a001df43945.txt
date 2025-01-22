@@ -1,1 +1,0 @@
-"Det finns $n$ stenar i stapeln. Skriv ett uttryck för antalet stenar i stapeln om den innehåller $3$ gånger så många stenar.". Problem image: missing

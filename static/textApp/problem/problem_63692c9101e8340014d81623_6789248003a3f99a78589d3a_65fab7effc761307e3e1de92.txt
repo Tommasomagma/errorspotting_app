@@ -1,1 +1,0 @@
-"Beräkna arean av triangeln. Svara i dm$^2$.". Problem image: missing

@@ -1,1 +1,0 @@
-"Beräkna kartongens volym. Svara i tiondels kubikdecimeter.". Problem image: missing

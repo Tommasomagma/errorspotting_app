@@ -1,1 +1,0 @@
-"Diagrammet visar temperaturen under en dag i maj.\n\nVilken var temperaturen 13.00?". Problem image: missing

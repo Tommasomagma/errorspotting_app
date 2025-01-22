@@ -1,1 +1,0 @@
-"Beräkna arean på alla sidoytor och addera dem.". Problem image: missing

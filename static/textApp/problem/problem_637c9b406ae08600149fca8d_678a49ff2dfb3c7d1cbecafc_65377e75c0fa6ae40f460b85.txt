@@ -1,1 +1,0 @@
-"Flugan på bilden är avbildad i skala $6:1$. Hur lång är flugan i verkligheten?". Problem image: missing

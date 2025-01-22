@@ -1,1 +1,0 @@
-"Beräkna omkretsen.\n\nAnvänd $\\pi \\approx3$.". Problem image: missing

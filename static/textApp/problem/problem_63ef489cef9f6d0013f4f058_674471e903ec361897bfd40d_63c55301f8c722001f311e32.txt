@@ -1,1 +1,0 @@
-"I en kartong finns det $1\\ 204$ gem. Hanna tar ut $100$ stycken, hur många finns då kvar?". Problem image: missing

@@ -1,1 +1,0 @@
-"Ringa in ${\\Large\\frac{1}{3}}$ av äpplena. \n\nHur många äpplen är ${\\Large\\frac{1}{3}}$ av $24$ st?". Problem image: missing

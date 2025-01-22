@@ -1,1 +1,0 @@
-"Dante har $95$ kr. Han köper ett par hörlurar för $89$ kr. \n\nHur många kronor har Dante kvar nu?". Problem image: missing

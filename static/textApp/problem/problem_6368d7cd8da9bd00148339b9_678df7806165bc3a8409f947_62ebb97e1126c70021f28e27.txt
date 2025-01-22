@@ -1,1 +1,0 @@
-"Vilket bråk är markerat med $A$ på tallinjen?". Problem image: missing

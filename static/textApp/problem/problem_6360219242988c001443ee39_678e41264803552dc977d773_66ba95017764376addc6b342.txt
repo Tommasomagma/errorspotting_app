@@ -1,1 +1,0 @@
-"Hur stor är volymen? Avrunda till tiotals kubikcentimeter.". Problem image: missing

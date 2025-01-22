@@ -1,1 +1,0 @@
-"Vilket av uttrycken betyder hälften av $x$?". Problem image: missing

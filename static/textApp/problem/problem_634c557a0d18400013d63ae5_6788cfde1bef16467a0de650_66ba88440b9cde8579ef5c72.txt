@@ -1,1 +1,0 @@
-"I figuren visas ett parallelltrapets. De två sidor som är parallella med varandra har längderna $4$ cm och $2$ cm, och höjden mellan dessa är $3$ cm. Beräkna figurens area.". Problem image: missing

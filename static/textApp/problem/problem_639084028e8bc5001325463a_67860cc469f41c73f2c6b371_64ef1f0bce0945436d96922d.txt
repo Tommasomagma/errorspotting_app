@@ -1,1 +1,0 @@
-"Beräkna förpackningens begränsningsarea.". Problem image: missing

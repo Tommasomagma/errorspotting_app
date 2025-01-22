@@ -1,1 +1,0 @@
-"Figuren visar en glass som har formen av ett halvt klot, sammansatt med en kon.\n\nBeräkna glassens volym. Använd $\\pi \\approx 3{,}14$ och avrunda svaret till hela kubikcentimeter.". Problem image: missing

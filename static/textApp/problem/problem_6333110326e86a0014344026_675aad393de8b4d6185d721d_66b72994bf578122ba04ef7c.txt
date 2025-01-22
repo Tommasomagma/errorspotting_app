@@ -1,1 +1,0 @@
-"Om $75$ % av figuren färgläggs, hur stor andel är då vit? \n\nSvara i decimalform.". Problem image: missing

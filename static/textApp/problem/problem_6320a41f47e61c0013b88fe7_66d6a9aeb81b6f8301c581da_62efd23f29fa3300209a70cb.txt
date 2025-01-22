@@ -1,1 +1,0 @@
-"Hur stor andel är skuggad? Svara i decimalform.". Problem image: missing

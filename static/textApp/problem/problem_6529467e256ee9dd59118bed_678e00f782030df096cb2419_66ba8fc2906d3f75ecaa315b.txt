@@ -1,1 +1,0 @@
-"I en säck ligger en gul, en röd och en blå pärla.\n\nHur många alternativ har vi när vi skall ta upp den första pärlan?". Problem image: missing

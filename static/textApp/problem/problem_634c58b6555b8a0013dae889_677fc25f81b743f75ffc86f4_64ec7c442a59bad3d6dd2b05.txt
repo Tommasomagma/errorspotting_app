@@ -1,1 +1,0 @@
-"Hur stor volym har skokartongen? Svara i hela kubikdecimeter.". Problem image: missing

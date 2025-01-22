@@ -1,1 +1,0 @@
-"Rektanglarna är likformiga. Beräkna den okända höjden. Svara utan enhet.". Problem image: missing

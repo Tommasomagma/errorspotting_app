@@ -1,1 +1,0 @@
-"På idrottslektionen ska de köra en racketsport och en bollsport. Bland racketsporterna kan de välja mellan pingis och badminton och bland bollsporterna kan de välja mellan fotboll och basket. Rita ett träddiagram.\n\nHur många sätt kan man välja sporter på?". Problem image: missing

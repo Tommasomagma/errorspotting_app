@@ -1,1 +1,0 @@
-"Beräkna begränsningsarean av kartongen i kvadratdecimeter när den är stängd.". Problem image: missing

@@ -1,1 +1,0 @@
-"Beräkna volymen på glasspaketet. Svara i enheten liter.". Problem image: missing

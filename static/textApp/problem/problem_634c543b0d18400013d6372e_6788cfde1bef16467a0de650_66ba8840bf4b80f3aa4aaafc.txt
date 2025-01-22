@@ -1,1 +1,0 @@
-"Basen är $4$ cm och höjden är $3$ cm. Beräkna figurens omkrets.". Problem image: missing

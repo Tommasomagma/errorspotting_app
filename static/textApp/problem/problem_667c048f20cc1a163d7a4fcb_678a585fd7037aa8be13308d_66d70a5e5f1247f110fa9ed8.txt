@@ -1,1 +1,0 @@
-"Vilket är talet?\n\nTiotalssiffran i ett tresiffrigt tal är 5. Hundratalssiffran är hälften så stor som entalssiffran. Talets siffersumma är 8.". Problem image: missing

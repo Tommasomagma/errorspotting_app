@@ -1,1 +1,0 @@
-"Vilka koordinater har punkt $E$?". Problem image: missing

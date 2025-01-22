@@ -1,1 +1,0 @@
-"Handbollsspelaren Felicia har gjort totalt $x$ mål på fem matcher. De första tre matcherna gjorde hon sex mål per match, och de sista två matcherna gjorde hon tre mål per match.\n\nHur många mål har Felicia gjort de senaste fem matcherna?". Problem image: missing

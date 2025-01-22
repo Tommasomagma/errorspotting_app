@@ -1,1 +1,0 @@
-"Beräkna arean av den sammansatta figuren. Svara i cm$^2$.". Problem image: missing

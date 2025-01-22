@@ -1,1 +1,0 @@
-"Figuren föreställer en skiss av ett glas. Kim ska hälla upp $1$ liter mjölk i $4$ glas. Räcker mjölken till fyra fulla glas?". Problem image: missing

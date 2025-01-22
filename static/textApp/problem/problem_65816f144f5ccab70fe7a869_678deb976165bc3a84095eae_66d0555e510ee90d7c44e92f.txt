@@ -1,1 +1,0 @@
-"Hur stor andel är färgad? Svara i decimalform.". Problem image: missing

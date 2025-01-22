@@ -1,1 +1,0 @@
-"Akvariet rymmer 200 liter vatten. Nova har en hink som rymmer 10 liter.\n\nHur många hinkar med vatten måste hon hälla i för att akvariet ska bli fullt? *Visa hur du löser uppgiften och skriv svar.*". Problem image: missing

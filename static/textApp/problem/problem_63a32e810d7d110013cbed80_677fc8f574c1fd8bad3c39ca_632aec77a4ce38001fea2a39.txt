@@ -1,1 +1,0 @@
-"Ett chokladhjul på ett nöjesfält ger vinst på var tredje nummer. Johan spelar två gånger. Träddiagrammet visar sannolikheten för vinst respektive förlust. \n\nBeräkna.\n\n$P($minst en vinst$)=$". Problem image: missing

@@ -1,1 +1,0 @@
-"Beräkna arean av figuren. Avrunda till tiotals kvadratcentimeter.". Problem image: missing

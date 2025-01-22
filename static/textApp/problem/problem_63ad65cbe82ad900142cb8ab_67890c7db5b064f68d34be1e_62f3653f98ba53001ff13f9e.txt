@@ -1,1 +1,0 @@
-"Gruppen Streetdancers anlitar en danslärare. Hon tar $300$ kr i administrativ avgift och sedan $400$ kr i timmen för att träna dem.\n\nSkriv en formel för hur kostnaden $y$ kronor beror av tiden $x$ timmar.". Problem image: missing

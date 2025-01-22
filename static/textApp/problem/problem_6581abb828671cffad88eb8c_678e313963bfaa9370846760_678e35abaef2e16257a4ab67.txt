@@ -1,1 +1,0 @@
-"Ali har $3$ påsar med $2$ kulor i varje. Han ger bort $1$ kula till sin kompis. Hur många har han kvar?". Problem image: missing

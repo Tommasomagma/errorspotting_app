@@ -1,1 +1,0 @@
-"Hur stor är begränsningsarean? Avrunda till tiotal kvadratcentimeter.". Problem image: missing

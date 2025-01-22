@@ -1,1 +1,0 @@
-"Diagrammet visar temperaturen i Uppsala under en dag i september.\n\nVid vilka klockslag var temperaturen $20$ °C?". Problem image: missing

@@ -1,1 +1,0 @@
-"Vilket bråk är markerat med $B$ på tallinjen?". Problem image: missing

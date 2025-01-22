@@ -1,1 +1,0 @@
-"Hur stor volym har basketbollen? Svara i tiondels kubikdecimeter.". Problem image: missing

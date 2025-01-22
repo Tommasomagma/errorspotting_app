@@ -1,1 +1,0 @@
-"Rikard sätter vikter på en skivstång. Vikterna väger lika mycket.\n\nHur mycket väger en vikt?". Problem image: missing

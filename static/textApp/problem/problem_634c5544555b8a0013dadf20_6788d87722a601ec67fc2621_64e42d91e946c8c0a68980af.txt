@@ -1,1 +1,0 @@
-"Figuren kan med ett horisontellt streck delas in i en rektangel och en triangel. För den undre rektangeln gäller att basen är $5$ cm, och att höjden är $2$ cm. Den övre triangeln har samma bas och samma höjd. Beräkna figurens area.". Problem image: missing

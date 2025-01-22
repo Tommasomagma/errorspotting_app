@@ -1,1 +1,0 @@
-"Skriv ett så enkelt uttryck som möjligt för rektangelns area.". Problem image: missing

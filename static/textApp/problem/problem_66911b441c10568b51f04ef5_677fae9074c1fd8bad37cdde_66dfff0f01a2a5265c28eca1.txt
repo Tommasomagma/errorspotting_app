@@ -1,1 +1,0 @@
-"Love bor $20$ km från farmor. En dag cyklar han till henne. På hemvägen\nträffar han Rebecka och stannar för att prata. Linjen i koordinatsystemet\nvisar sambandet mellan sträckan och tiden.\n\nHur många minuter tar det för Love att cykla till Farmor?". Problem image: missing

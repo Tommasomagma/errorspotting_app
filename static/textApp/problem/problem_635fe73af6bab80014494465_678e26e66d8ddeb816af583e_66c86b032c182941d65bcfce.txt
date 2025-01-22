@@ -1,1 +1,0 @@
-"Grafen visar kostnaden vid tryckning av en katalog. Teckna funktionen som visar hur kostnaden $(y)$ beror av antalet exemplar $(x)$.". Problem image: missing
