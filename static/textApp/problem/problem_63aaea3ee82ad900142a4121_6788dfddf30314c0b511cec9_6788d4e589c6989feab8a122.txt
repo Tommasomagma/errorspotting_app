@@ -1,1 +1,0 @@
-"Beräkna och avrunda svaret till två decimaler.\n\n$\\sqrt{2} \\cdot \\sqrt{4}\\approx$"

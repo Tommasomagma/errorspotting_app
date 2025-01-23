@@ -1,0 +1,1 @@
+"Beräkna figurens vinkelsumma.". Problem image: En femhörning med fem markerade vinklar.

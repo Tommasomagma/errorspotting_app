@@ -1,0 +1,1 @@
+"Tabellen visar hur mycket det kostar att köpa äpplen som kostar $10$ kr/kg.\n\nFyll i tabellen vad det kostar att köpa $5$ kg och $6$ kg äpplen. Hur många kronor hade $6$ kg äpplen kostat?"

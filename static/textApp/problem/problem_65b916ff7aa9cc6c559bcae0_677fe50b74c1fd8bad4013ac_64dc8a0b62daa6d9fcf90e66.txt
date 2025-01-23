@@ -1,1 +1,0 @@
-"Använd en skriftlig räknemetod och beräkna.\n\n$90-23=$"

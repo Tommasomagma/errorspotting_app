@@ -1,0 +1,1 @@
+"Beräkna.\n\n$266+17=$". Problem image: En additionstabell med två rader och tre kolumner. Övre raden visar siffrorna 2, 6, 6 och den undre raden har plus-tecknet följt av siffrorna 1, 7. En blå linje markerar slutet på tabellen.

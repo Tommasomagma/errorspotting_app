@@ -1,0 +1,1 @@
+"Vilket tal ska stå istället för frågetecknet?\n\n$3\\Large\\frac{?}{4}$ $=$ $\\Large\\frac{15}{4}$"

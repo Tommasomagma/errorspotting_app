@@ -1,1 +1,0 @@
-"Bilden visar en rät linje som går genom punkten $(0,2)$ och är alltså förskjuten uppåt två steg. Linjen har lutningen $1$.\n\nHur kan vi beskriva linjen?"

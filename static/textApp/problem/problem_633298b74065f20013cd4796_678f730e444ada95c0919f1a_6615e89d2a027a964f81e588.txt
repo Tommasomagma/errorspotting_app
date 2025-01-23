@@ -1,0 +1,1 @@
+"Sally köper $x$ bullar för $10$ kr styck och $y$ kakor för $8$ kr styck. \n\nTeckna ett uttryck för hur mycket Sally får tillbaka på $100$ kr."

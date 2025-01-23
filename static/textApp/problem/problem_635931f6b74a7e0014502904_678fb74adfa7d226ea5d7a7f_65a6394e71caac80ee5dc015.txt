@@ -1,0 +1,1 @@
+"Beräkna omkretsen av en halvcirkel med diametern $12$ cm. Avrunda svaret till hela centimeter."

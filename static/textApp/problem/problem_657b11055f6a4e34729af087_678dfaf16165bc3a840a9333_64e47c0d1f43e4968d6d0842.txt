@@ -1,1 +1,0 @@
-"Beräkna volymen.". Problem image: En tredimensionell rektangulär figur. Längden är 6 meter, bredden är 4 meter och höjden är 2 meter. Bokstaven B är placerad på den undre rektangulära ytan.

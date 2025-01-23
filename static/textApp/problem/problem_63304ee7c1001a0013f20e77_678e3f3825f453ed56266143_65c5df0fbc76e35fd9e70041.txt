@@ -1,1 +1,0 @@
-"Fyra personer, $A$, $B$, $C$ och $D$ står i kö.\n\nPå hur många olika sätt kan kön ordnas?"

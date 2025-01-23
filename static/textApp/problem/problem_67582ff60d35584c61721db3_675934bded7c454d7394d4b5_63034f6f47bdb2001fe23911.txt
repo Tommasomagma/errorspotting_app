@@ -1,0 +1,1 @@
+"Förkorta bråket så långt det går:\n$\\frac{10}{35}$"

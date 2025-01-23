@@ -1,0 +1,1 @@
+"Välj vilket uttryck som ska stå på den tomma raden, så att påståendet stämmer.\n\n$ 736 ÷ 6 \\ \\underline{\\hspace{1cm}} \\ 736 \\cdot\\Large \\frac{1}{6}$"

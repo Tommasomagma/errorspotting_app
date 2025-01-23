@@ -1,1 +1,0 @@
-"Beräkna och svara i enklaste form. \n\n${\\Large \\frac{42}{63}} \\cdot {\\Large \\frac{27}{14}}$"

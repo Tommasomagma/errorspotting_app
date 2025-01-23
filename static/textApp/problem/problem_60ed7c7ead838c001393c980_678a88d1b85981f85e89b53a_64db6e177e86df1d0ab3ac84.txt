@@ -1,0 +1,1 @@
+"Om jag simmar $6$ längder i poolen blir det $100$ m.\n\nHur långt blir det om jag simmar $9$ längder?"

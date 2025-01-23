@@ -1,1 +1,0 @@
-"Bilden på godisen är förstorad i skala $3:1$. Hur lång diameter har godisen i verkligheten?". Problem image: En förstorad bild av en godis med en markerad diameter med en pil på varje sida. Pilarna symboliserar måttet på diametern.

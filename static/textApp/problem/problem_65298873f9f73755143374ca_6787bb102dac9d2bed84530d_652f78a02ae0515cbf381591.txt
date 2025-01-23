@@ -1,1 +1,0 @@
-"Hur många kulor finns i figur 4?". Problem image: Tre olika figurer representerade med grupper av blåa kulor. Varje figur har en bas av kulor med en eller flera kulor ovanpå som bildar en stapel. Figuren numreras som 1, 2 och 3.

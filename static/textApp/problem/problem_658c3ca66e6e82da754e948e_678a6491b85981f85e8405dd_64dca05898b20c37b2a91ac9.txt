@@ -1,1 +1,0 @@
-"Skriv talet i tiosystemet.\n\n$10_2=$"

@@ -1,0 +1,1 @@
+"Vid ett tillfälle såldes vindruvor för 45 kr/kg. Teckna funktionen för hur kostnaden $(y)$ beror av antalet kilogram $(x)$."

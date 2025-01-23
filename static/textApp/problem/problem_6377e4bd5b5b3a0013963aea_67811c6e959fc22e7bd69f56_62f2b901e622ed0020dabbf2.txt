@@ -1,0 +1,1 @@
+"Gör en korrekt förenkling.\n\n$3x(x + 2) - 4x(x - 1)=$"

@@ -1,1 +1,0 @@
-"Börja med att hitta en gemensam nämnare och förläng båda talen. Beräkna.\n\n${\\Large\\frac{7}{10}}-{\\Large\\frac{2}{7}}=$"

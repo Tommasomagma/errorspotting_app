@@ -1,0 +1,1 @@
+"En karta över Stockholm är i skala $1 : 150\\ 000$. På kartan är det $6{,}6$ cm mellan Haga slott och Drottningholms slott.\n\nHur långt är det i verkligheten? Svara i kilometer."

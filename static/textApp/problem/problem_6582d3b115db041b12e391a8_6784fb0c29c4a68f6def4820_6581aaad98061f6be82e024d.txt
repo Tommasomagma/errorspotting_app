@@ -1,1 +1,0 @@
-"Beräkna med hjälp av tallinjen.\n\n$5-3=$"

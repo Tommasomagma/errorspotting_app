@@ -1,1 +1,0 @@
-"Annie simmar $1\\ 500$ m. Emma simmar $20$ % längre än Annie.\n\nHur långt simmar Emma?"

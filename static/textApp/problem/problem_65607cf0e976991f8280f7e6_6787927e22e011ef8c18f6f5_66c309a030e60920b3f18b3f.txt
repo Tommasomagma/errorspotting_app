@@ -1,1 +1,0 @@
-"Grafen visar hur priset för tyg beror på hur många meter man köper. Hur mycket kostar $8$ m tyg?"

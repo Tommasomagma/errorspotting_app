@@ -1,0 +1,1 @@
+"Det ligger $60$ plattor i en lång rad. Adam plockar bort var sjätte platta. Beata plockar därefter bort var femte platta. Sedan plockar Calle bort var fjärde platta. Doris tar hand om de plattor som är kvar.\n\nHur många plattor får Doris?"

@@ -1,0 +1,1 @@
+"Tom skriver 15 på varandra följande heltal som börjar med $a$.\n\nVilket är det fjärde talet?\n\nSkriv som ett uttryck utifrån $a$."

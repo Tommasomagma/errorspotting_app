@@ -1,1 +1,0 @@
-"Visa hur du löser uppgiften och skriv svar. \n\n$513+79+9=$"

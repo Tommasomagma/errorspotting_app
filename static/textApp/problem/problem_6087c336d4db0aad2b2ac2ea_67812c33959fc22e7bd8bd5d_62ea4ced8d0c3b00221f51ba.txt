@@ -1,1 +1,0 @@
-"Vilket tal fattas? \n\n$0{,}093$ $ \\cdot $ $ \\underline{\\hspace{0.5cm}} = 9{,}3$"

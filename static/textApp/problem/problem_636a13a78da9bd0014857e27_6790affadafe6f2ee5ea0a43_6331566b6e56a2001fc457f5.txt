@@ -1,0 +1,1 @@
+"En rektangel har omkretsen $28$ cm. En diagonal delar rektangeln i två trianglar som båda har omkretsen $24$ cm. \n\nHur lång är diagonalen?"

@@ -1,1 +1,0 @@
-"Välj de tal som är faktorer i talet 12. D.v.s. som 12 är jämnt delbart med. Välj 6 rätta svar."

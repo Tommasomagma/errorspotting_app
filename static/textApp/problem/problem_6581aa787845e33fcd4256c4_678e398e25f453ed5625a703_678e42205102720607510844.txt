@@ -1,1 +1,0 @@
-"Anna köper 6 burkar läsk. Varje burk kostar 9 kr. \n\nHur mycket betalar hon för läsken?". Problem image: En bild av en läskburk.

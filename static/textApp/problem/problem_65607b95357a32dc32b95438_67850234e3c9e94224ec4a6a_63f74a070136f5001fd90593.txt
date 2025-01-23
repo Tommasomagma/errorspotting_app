@@ -1,1 +1,0 @@
-"Skriv $\\Large\\frac{3}{10}$ i procentform.". Problem image: En stapeldiagram delat i tio lika stora delar där varje del representerar 10 procent. Diagrammet börjar vid 0 procent och slutar vid 100 procent, med markeringar vid varje 20-procentsintervall.

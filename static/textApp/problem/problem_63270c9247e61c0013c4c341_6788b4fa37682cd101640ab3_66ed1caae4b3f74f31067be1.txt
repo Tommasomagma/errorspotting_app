@@ -1,1 +1,0 @@
-"Vilket är det okända talet $x$?\n\n$x+x+56=106$"

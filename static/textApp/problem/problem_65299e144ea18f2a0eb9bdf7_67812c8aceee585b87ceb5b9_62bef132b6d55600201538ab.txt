@@ -1,1 +1,0 @@
-"Bestäm vinkeln $x$.". Problem image: En rätvinklig triangel med en 90 graders vinkel, en vinkel märkt med 35 grader och en okänd vinkel märkt med x.

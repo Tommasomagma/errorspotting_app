@@ -1,1 +1,0 @@
-"Hur många tiondels procent är \n\n${\\Large\\frac{75}{980}} \\approx $"

@@ -1,0 +1,1 @@
+"Beräkna värdet av uttrycket $2a+4b$ för\n\n$a=5$ och $b=3$"

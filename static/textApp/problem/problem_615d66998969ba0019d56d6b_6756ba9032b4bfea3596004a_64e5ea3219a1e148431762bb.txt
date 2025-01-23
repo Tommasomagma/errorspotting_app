@@ -1,1 +1,0 @@
-"Skriv ett uttryck för kvadratens omkrets.". Problem image: En bild av en kvadrat med sidan betecknad med 'x'.

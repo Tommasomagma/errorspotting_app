@@ -1,0 +1,1 @@
+"Beräkna.\n\n$\\Large \\frac{84}{6}\\small =$"

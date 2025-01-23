@@ -1,0 +1,1 @@
+"En cirkels area är 226,08 cm$^2$. Beräkna cirkelns omkrets. Använd $\\pi \\approx 3{,}14$ och avrunda till hela centimeter."

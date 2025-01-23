@@ -1,0 +1,1 @@
+"Johan har en fotboll med radien 11 cm. \n\nBeräkna volymen. Använd $\\pi \\approx 3{,}14$ och avrunda svaret till hela kubikcentimeter.". Problem image: En fotboll.

@@ -1,0 +1,1 @@
+"Diagrammet visar hur medeltemperaturen varierar för varje dag under en vecka.\n\nVad var medeltemperaturen under helgen?"

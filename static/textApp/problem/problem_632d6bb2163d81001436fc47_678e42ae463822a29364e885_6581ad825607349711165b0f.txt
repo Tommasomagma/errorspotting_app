@@ -1,1 +1,0 @@
-"Skriv talet i decimalform. \n\n$3\\Large\\frac{9}{100}$"

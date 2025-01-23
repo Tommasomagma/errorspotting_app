@@ -15,7 +15,7 @@ def get_db_connection():
 conn = get_db_connection()
 with conn.cursor() as cur:
     cur.execute("""
-        CREATE TABLE IF NOT EXISTS es_data_1 (
+        CREATE TABLE IF NOT EXISTS es_data_2 (
             id SERIAL PRIMARY KEY,
             imgId TEXT,
             input TEXT
@@ -47,7 +47,7 @@ def home():
     # Get all imgId values from the database
     conn = get_db_connection()
     with conn.cursor() as cur:
-        cur.execute("SELECT imgId FROM es_data_1")
+        cur.execute("SELECT imgId FROM es_data_2")
         existing_ids = [row[0] for row in cur.fetchall()]
     conn.close()
 
@@ -67,7 +67,8 @@ def home():
         image_id = selected_image.rsplit('.', 1)[0]
         # Remove 'image_' prefix from the image ID if it exists
         if image_id.startswith('image_'):
-            image_id = image_id[6:]  # Remove first 6 characters ('image_')
+            image_id = image_id.split('_')[2]+'_'+image_id.split('_')[3]+'_'+image_id.split('_')[4]
+            print(image_id)
         
         if image_id not in existing_ids:
             imgFound = True
@@ -131,7 +132,7 @@ def handle_user_input():
     conn = get_db_connection()
     with conn.cursor() as cur:
         # Insert into whichever table you are actually using (user_inputs or user_inputs_test)
-        cur.execute("INSERT INTO es_data_1 (input, imgId) VALUES (%s, %s)", (final_input, image_id))
+        cur.execute("INSERT INTO es_data_2 (input, imgId) VALUES (%s, %s)", (final_input, image_id))
         conn.commit()
 
     conn.close()
@@ -150,7 +151,7 @@ def skip_user_input():
     conn = get_db_connection()
     with conn.cursor() as cur:
         # Insert into whichever table you are actually using (user_inputs or user_inputs_test)
-        cur.execute("INSERT INTO es_data_1 (input, imgId) VALUES (%s, %s)", (final_input, image_id))
+        cur.execute("INSERT INTO es_data_2 (input, imgId) VALUES (%s, %s)", (final_input, image_id))
         conn.commit()
 
     conn.close()
@@ -167,7 +168,7 @@ def discard_user_input():
     conn = get_db_connection()
     with conn.cursor() as cur:
         # Insert into whichever table you are actually using (user_inputs or user_inputs_test)
-        cur.execute("INSERT INTO es_data_1 (input, imgId) VALUES (%s, %s)", (final_input, image_id))
+        cur.execute("INSERT INTO es_data_2 (input, imgId) VALUES (%s, %s)", (final_input, image_id))
         conn.commit()
 
     conn.close()
@@ -191,7 +192,7 @@ def upload_image():
 def view_inputs():
     conn = get_db_connection()
     with conn.cursor() as cur:
-        cur.execute("SELECT * FROM es_data_1")
+        cur.execute("SELECT * FROM es_data_2")
         inputs = cur.fetchall()
     conn.close()
     return render_template('view_inputs.html', inputs=inputs)

@@ -1,0 +1,1 @@
+"En morgon visade termometern $4{,}7 \\degree \\text{C}$. På eftermiddagen var det $15{,}5 \\degree \\text{C}$.\n\nMed hur många grader steg temperaturen?"

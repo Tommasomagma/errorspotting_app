@@ -1,1 +1,0 @@
-"Är ${\\Large\\frac{4}{0{,}5}}$ större än $0{,}5 \\cdot 4$? Förklara med ett exempel."

@@ -1,0 +1,1 @@
+"Kodjo löptränar. Han kollar hur lång tid det tar för honom att springa en runda under en vecka. Han får tiderna: 33, 29, 38, 38, 31, 43 och 33min.\nHur lång tid tog det honom i snitt att springa rundan$?$"

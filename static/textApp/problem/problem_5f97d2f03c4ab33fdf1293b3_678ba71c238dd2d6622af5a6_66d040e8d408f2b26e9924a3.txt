@@ -1,1 +1,0 @@
-"Bilden av burken är en förminskning av en verklig burk i skala $1:9$. Hur hög är burken i verkligheten?". Problem image: En linjal bredvid en burk för att visa dess höjd. Linjalen mäts i centimeter och har markeringar som indikerar enheter och delenheter. Burken nås upp till en viss punkt på linjalen.

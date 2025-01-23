@@ -1,0 +1,1 @@
+"En sexsidig tärning kastas. Hur stor är sannolikheten att det blir ett udda antal prickar?\n\nSvara med bråk i enklaste form."

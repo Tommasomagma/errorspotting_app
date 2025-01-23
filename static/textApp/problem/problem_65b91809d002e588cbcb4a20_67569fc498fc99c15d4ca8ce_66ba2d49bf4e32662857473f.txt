@@ -1,0 +1,1 @@
+"Det finns 13 vita möss och 29 bruna möss.\n\nHur många färre vita möss finns det? *Gör en beräkning och skriv svar.*"

@@ -1,0 +1,1 @@
+"Förenkla uttrycket.\n\n$x + 2x + 3x + 4x^2 =$"

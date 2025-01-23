@@ -1,1 +1,0 @@
-"I rutorna ska talen 1, 2, 3, 4, 5 och 6 stå. Ett tal i varje ruta. Summan i de mörkgrå rutorna ska vara 10. Summan i de ljusgrå rutorna ska också vara 10.\nVilket tal ska stå i den vita rutan med X?". Problem image: Ett rutnät bestående av sex rutor ordnade i två rader och tre kolumner. Tre rutor är mörkgrå, två är ljusgrå, och en ruta med ett 'X' är vit.

@@ -1,0 +1,1 @@
+"Beräkna värdet av uttrycket $ab-\\Large\\frac{a}{b}$ för \n\n$a=0{,}2$ och $b=0{,}5$."

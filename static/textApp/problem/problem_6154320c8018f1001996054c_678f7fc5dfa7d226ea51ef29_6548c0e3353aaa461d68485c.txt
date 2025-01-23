@@ -1,0 +1,1 @@
+"Bestäm värdet av uttrycket $a\\cdot 2$ om $a=0{,}3$."

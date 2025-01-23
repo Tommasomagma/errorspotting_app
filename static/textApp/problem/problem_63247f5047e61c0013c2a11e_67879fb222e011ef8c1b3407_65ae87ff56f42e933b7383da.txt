@@ -1,1 +1,0 @@
-"Vilket tal är fyra tiondelar större än $\\frac{1}{4}$?"

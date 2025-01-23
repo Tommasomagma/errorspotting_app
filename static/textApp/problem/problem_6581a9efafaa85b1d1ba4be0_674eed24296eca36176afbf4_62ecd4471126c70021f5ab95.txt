@@ -1,0 +1,1 @@
+"Beräkna.\n\n$642+129=$". Problem image: En additionstabell med tre kolumner och två rader som visar siffrorna 6, 4, 2 i översta raden och 1, 2, 9 i nedersta raden.

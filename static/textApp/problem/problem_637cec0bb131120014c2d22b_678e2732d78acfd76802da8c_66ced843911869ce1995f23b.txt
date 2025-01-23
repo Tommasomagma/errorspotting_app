@@ -1,0 +1,1 @@
+"Bryt ut faktorn $4$ ur uttrycket.\n\n$28x -12 =$"

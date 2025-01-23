@@ -1,0 +1,1 @@
+"Alva har en burk med $30$ mynt. Det är femkronor och tiokronor. Värdet av mynten är $185$ kr. Hur många femkronor finns det i burken? Lös uppgiften med två olika metoder."

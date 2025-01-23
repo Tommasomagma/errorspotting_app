@@ -1,1 +1,0 @@
-"Hundvalpen London väger $y$ kg. Den vuxna hunden Leo väger $30$ % mer än London. Skriv ett uttryck för hur mycket Leo väger."

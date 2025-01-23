@@ -1,1 +1,0 @@
-"Erik ska välja en väska. Han tar den femte från höger. \n\nVilket tal står det på väskan som Erik väljer?"

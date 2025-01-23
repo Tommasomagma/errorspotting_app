@@ -1,1 +1,0 @@
-"Troj har 124 kronor och Nova har 78 kronor. \n\nHur många kronor har de tillsammans?"

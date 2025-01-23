@@ -1,0 +1,1 @@
+"Beräkna kvot och rest.\n\n${\\Large \\frac{26}{4}}=$"

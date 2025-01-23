@@ -1,1 +1,0 @@
-"Vide tränar bågskytte. Efter att ha träffat med 8 pilar har han följande poäng:\n\n$2, 7, 10, 7, 8, 3, 5$ och $6$ poäng.\n\nVilken är medianen?"

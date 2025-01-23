@@ -1,1 +1,0 @@
-"Hur stor är vinkeln?". Problem image: En cirkel med markerade grader: 0°, 90°, 180° och 270°. En horisontell linje sträcker sig från 0° till 180° och en vertikal linje från 90° till 270°. I mitten finns en mindre cirkel med en punkt där linjerna korsar varandra.

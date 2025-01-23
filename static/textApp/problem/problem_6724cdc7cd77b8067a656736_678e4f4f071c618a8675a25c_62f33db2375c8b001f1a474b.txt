@@ -1,0 +1,1 @@
+"Räkna ut svaret.\n\n$3\\cdot5=$"

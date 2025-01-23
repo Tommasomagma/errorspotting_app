@@ -1,1 +1,0 @@
-"I en talföljd beräknas talen med uttrycket $4n - 1$ där $n = 1$, $n = 2$ och så vidare.\nVilket är det andra talet?"

@@ -1,0 +1,1 @@
+"Använd huvudräkning när du löser uppgiften som läses upp."

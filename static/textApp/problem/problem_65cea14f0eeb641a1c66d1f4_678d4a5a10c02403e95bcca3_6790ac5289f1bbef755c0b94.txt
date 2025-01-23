@@ -1,0 +1,1 @@
+"Beräkna värdet av varje uttryck\n\n$10-3+9-2 \\cdot 4=$"

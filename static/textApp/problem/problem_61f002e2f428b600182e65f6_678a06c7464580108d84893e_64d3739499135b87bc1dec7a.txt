@@ -1,0 +1,1 @@
+"Den större tabletten väger 500 mg, och den mindre tabletten väger 250 mg. \n\nVad är skillnaden i gram mellan tabletterna?". Problem image: Två olika tabletter visas med viktangivelser. Den större tabletten är märkt med 500 mg och den mindre tabletten med 250 mg.

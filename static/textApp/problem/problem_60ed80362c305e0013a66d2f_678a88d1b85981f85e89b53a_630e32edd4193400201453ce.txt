@@ -1,0 +1,1 @@
+"Lös följande uppgift. Visa hur du räknar.\n\n$7{,}26+2{,}3$"

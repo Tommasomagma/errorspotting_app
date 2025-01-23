@@ -1,0 +1,1 @@
+"Vilket tal fattas för att likheten ska stämma?\n\n${\\Large\\frac{1}{2}} \\cdot  \\underline{\\hspace{0.5cm}}={\\Large\\frac{2}{4}}$"

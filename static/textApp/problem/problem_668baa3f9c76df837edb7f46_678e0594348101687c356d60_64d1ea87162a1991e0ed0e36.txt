@@ -1,0 +1,1 @@
+"Skriv vikten i kilogram.\n\n950 g $=$"
