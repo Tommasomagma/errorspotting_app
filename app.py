@@ -68,14 +68,24 @@ def home():
         # Remove 'image_' prefix from the image ID if it exists
         if image_id.startswith('image_'):
             image_id = image_id.split('_')[2]+'_'+image_id.split('_')[3]+'_'+image_id.split('_')[4]
-            print(image_id)
         
         if image_id not in existing_ids:
-            imgFound = True
-    
-    # Find the corresponding text file
-    problem_file = f'problem_{image_id}.txt'  # Replace the image extension with .txt
-    problem_path = os.path.join(app.config['PROBLEM_FOLDER'], problem_file)
+            # Find the corresponding text file
+            problem_file = f'problem_{image_id}.txt'  # Replace the image extension with .txt
+            problem_path = os.path.join(app.config['PROBLEM_FOLDER'], problem_file)
+            # Read the text content (if the file exists)
+            if os.path.exists(problem_path):
+                with open(problem_path, 'r') as f:
+                    problem_content = f.read()
+            else:
+                problem_content = "NONE"
+            
+            if "Ekvation" in problem_content or "ekvation" in problem_content or "Förenkla" in problem_content or "förenkla" in problem_content or "x" in problem_content:
+                imgFound = True
+
+    # # Find the corresponding text file
+    # problem_file = f'problem_{image_id}.txt'  # Replace the image extension with .txt
+    # problem_path = os.path.join(app.config['PROBLEM_FOLDER'], problem_file)
 
     correct_file = f'correct_{image_id}.txt'  # Replace the image extension with .txt
     correct_path = os.path.join(app.config['CORRECT_FOLDER'], correct_file)
