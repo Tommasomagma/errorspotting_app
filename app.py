@@ -47,8 +47,11 @@ def home():
     # Get all imgId values from the database
     conn = get_db_connection()
     with conn.cursor() as cur:
-        cur.execute("SELECT imgId FROM es_data_3")
+        cur.execute("SELECT imgId FROM es_data_2")
         existing_ids = [row[0] for row in cur.fetchall()]
+        cur.execute("SELECT imgId FROM es_data_3")
+        for row in cur.fetchall():
+            existing_ids.append(row[0])
     conn.close()
 
     # Get a list of all image files in the IMAGE_FOLDER
