@@ -1,1 +1,0 @@
-"En stor plastdunk rymmer 60 l. En mindre dunk har samma form men sidorna är 20 % kortare.\n\nHur många liter rymmer den mindre dunken? Avrunda till hela liter.". Problem image: Bilden visar en plastdunk. Dunkens dimensioner eller volym anges inte i bilden. Det är en ikonisk representation av en generisk dunk.

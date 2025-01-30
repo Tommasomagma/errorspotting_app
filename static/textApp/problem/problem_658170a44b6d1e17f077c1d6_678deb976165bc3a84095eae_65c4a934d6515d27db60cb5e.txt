@@ -1,1 +1,0 @@
-"Siffran 1 är tiotalssiffra.\n\nSiffran 2 är tusentalssiffra.\n\nSiffran 3 är entalssiffra.\n\nSiffran 4 är hundratalssiffra.\n\nVilket är talet?"

@@ -1,0 +1,1 @@
+"Beräkna. \n\n$6 \\cdot 3=$". Problem image: Bilden visar tre grupper av objekt, varje grupp inramad med en streckad linje, och varje grupp innehåller sex orange cirklar arrangerade i två rader med tre cirklar i varje.

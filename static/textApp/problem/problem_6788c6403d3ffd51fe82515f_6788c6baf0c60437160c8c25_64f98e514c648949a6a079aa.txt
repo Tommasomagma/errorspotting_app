@@ -1,1 +1,0 @@
-"Vad är $x$?". Problem image: A straight line labeled ROP with a point Q above it forming two angles at point O. The straight angle is marked as 118 degrees and the other angle is marked with variable x degrees.

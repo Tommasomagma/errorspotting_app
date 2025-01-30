@@ -1,0 +1,1 @@
+"En ruta är $1$ cm$^2$. Beräkna arean av hela figuren.". Problem image: A 2x3 grid made up of six squares, where the central top square is missing. Each side square is colored in magenta, the missing square is represented by a black area.

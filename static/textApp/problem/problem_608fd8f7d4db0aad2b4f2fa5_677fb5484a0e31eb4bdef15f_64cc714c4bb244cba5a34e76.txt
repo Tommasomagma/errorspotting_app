@@ -1,1 +1,0 @@
-"Alma är $x$ år gammal och Per är 3 år äldre än Alma. Teckna ett uttryck för Pers ålder.". Problem image: Bilden visar ett tomt koordinatsystem utan märkningar eller skalenheter.

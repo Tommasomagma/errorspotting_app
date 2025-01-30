@@ -1,0 +1,1 @@
+"Beräkna.\n\n${\\Large \\frac{1}{3}} + {\\Large \\frac{1}{3}} = $". Problem image: Två cirkeldiagram bredvid varandra. Varje cirkeldiagram är indelat i tre lika stora sektorer, varav en är färglagd röd.

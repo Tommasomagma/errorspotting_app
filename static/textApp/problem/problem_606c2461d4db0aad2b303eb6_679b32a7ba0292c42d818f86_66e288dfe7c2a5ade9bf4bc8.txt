@@ -1,0 +1,1 @@
+"En digital klocka visar tiden 20:19. \n\nVad kommer klockan att visa nästa gång som samma fyra siffror dyker upp?"

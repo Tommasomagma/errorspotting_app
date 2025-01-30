@@ -1,0 +1,1 @@
+"Du har talen: \n\n$12, 16, 8, 23$ och $16$. \n\nVilket är medelvärdet?"

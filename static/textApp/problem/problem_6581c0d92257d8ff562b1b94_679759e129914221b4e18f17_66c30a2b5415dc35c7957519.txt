@@ -1,0 +1,1 @@
+"Lös ekvationssystemet.\n\n$\\begin{gathered}\n\\begin{aligned}\n&\\begin{cases}\n  y=3x+1{,}25 \\\\\n   y=-2x\n\\end{cases}\n\\end{aligned}\n\\end{gathered}$\n\nBestäm $x$."

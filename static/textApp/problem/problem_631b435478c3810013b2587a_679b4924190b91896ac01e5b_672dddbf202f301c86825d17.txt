@@ -1,0 +1,1 @@
+"Vilket tal är x?\n\n$x\\cdot 500=3\\ 500$"

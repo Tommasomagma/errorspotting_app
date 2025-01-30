@@ -1,0 +1,1 @@
+"Använd följande siffror och skapa ett tal så nära $500$ som möjligt.\n\n$1 \\hspace{0.5cm} 5\\hspace{0.5cm} 4$"

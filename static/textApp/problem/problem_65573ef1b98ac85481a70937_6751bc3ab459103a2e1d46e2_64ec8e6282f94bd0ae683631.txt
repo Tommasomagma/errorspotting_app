@@ -1,1 +1,0 @@
-"Vilket är typvärdet?\n\n${{1}\\hspace{0.3cm}{2}\\hspace{0.3cm}{3}\\hspace{0.3cm}{3}}$"

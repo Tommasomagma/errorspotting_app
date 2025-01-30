@@ -1,0 +1,1 @@
+"Mia har $32$ böcker och köper $17$ nya böcker. \n\nHur många böcker har Mia totalt?". Problem image: En bild som visar en hög med böcker.

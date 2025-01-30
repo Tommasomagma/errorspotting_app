@@ -1,1 +1,0 @@
-"Beräkna. Kontrollera om ditt svar är rimligt.\n\n${\\Large\\frac{1\\ 416}{2}}=$"

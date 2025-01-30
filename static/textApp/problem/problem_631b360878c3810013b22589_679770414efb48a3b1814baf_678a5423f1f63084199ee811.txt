@@ -1,0 +1,1 @@
+"Beräkna med kort division.\n\n${\\Large\\frac{908}{4}}=$"

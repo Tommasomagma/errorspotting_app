@@ -1,1 +1,0 @@
-"Hur stor andel av stjärnorna är rosa? Svara i bråkform.". Problem image: Tre stjärnor av olika färger.

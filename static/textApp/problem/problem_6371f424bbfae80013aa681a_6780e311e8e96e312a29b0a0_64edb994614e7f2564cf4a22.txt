@@ -1,1 +1,0 @@
-"En hink är formad som en cylinder och fylld med vatten. Den är $3$ dm hög och radien är $1$ dm.\n\nEn man går förbi och råkar sparka till hinken. Vattennivån sjunker då $0{,}4$ dm. Hur mycket vatten åkte ut? Avrunda till en decimal."

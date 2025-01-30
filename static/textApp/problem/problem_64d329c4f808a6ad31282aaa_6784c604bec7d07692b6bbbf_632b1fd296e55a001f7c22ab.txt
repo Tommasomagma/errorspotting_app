@@ -1,1 +1,0 @@
-"Skriv $4$ % i decimalform."

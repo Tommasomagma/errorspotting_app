@@ -1,1 +1,0 @@
-"I fysiken används negativa tal ofta. Till exempel kan en negativ hastighet vara att någon färdas i motsatt riktning. Just nu passerar Lisa, med hastighet 32 m/s, Per som har en hastighet på $-9$ m/s. Hur långt ifrån varandra är de om en sekund?"

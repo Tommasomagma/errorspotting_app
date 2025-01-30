@@ -1,0 +1,1 @@
+"Använd huvudräkning och skriv bara svaret.\n\n$0{,}6 + 0{,}8 = $"

@@ -1,1 +1,0 @@
-"Skriv uttrycket utan parenteser och förenkla så långt som möjligt.\n\n$4a-(2a+3)=$"

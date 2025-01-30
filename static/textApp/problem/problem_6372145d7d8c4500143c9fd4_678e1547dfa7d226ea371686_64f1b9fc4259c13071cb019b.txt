@@ -1,1 +1,0 @@
-"Det var $20$ % rabatt på alla spel. David köpte ett spel och betalade $400$ kr. Antag att spelet kostade $x$ kr utan rabatt.\n\nHur mycket kostade spelet utan rabatt?"

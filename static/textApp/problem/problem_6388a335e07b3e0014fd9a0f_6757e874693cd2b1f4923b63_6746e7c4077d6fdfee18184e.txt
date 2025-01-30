@@ -1,0 +1,1 @@
+"Kostnaden för en snickare kan bestämmas med uttrycket $(450x + 700)$ kr, där $x$ är antalet timmar som snickaren jobbar. Hur många timmar arbetar snickaren för $5 \\ 875$ kr?". Problem image: En person med hörlurar håller i en mikrofon.

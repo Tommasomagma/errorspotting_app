@@ -1,0 +1,1 @@
+"Beräkna vad 100 % är om 90 % är  1 h. Avrunda till hela minuter."

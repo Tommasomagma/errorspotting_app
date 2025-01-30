@@ -1,0 +1,1 @@
+"Beräkna.\n \n $489 - 234 =$". Problem image: En tabell för subtraktion med två rader och tre kolumner. Övre raden innehåller siffrorna 4, 8 och 9. Nedre raden, med ett minustecken till vänster, innehåller siffrorna 2, 3 och 4. En blå linje finns under nedre raden för att skriva svaret.

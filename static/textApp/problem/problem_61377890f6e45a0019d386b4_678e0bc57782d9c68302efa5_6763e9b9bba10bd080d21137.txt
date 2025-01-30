@@ -1,1 +1,0 @@
-"Beräkna.\n\n$1{,}4 + 1{,}3 = $". Problem image: En additionstabell med två rader och tre kolumner. Översta raden visar talen 1, 4. Understa raden har ett plusstecken följt av talen 1, 3. En horisontell linje finns under tabellen.

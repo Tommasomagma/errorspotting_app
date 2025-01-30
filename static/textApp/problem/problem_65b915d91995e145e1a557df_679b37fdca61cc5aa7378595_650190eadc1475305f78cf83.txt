@@ -1,0 +1,1 @@
+"Använd en skriftlig räknemetod och beräkna.\n\n$138+56=$"

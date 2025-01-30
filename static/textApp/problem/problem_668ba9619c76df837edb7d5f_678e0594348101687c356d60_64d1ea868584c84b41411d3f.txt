@@ -1,1 +1,0 @@
-"Skriv vikten i hektogram.\n\n400 g $=$"

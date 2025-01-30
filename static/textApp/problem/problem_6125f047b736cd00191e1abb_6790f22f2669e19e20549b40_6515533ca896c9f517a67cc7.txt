@@ -1,0 +1,1 @@
+"Lös följande ekvation: \n\n$x + 21 = 33$. \n\nVad är $x?$"

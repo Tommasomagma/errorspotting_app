@@ -1,1 +1,0 @@
-"Vilket är talet som visas i bild? Svara i bråkform.". Problem image: Två cirkelformade diagram bredvid varandra med lika stora sektioner färglagda i blått. Varje cirkel är indelad i åtta lika stora delar, och vänstra cirkeln har sex delar färglagda medan högra cirkeln har fyra delar färglagda.

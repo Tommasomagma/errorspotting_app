@@ -1,0 +1,1 @@
+"Hur stor area har den rosa figuren?\n\n*Visa hur du löser uppgiften.*". Problem image: En rosa figur som ser ut som ett 'E' liggande på sidan, där de yttre måtten är 9 cm på bredden och 7 cm på höjden. Inuti figuren finns ett vitt område formad som en kvadrat med sidlänger på 5 cm.

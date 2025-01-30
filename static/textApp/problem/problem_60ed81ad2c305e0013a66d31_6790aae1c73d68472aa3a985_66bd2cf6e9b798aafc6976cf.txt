@@ -1,1 +1,0 @@
-"Lös följande uppgift. Visa hur du räknar.\n\n$\\Large \\frac {2}{3}$ av $192$"

@@ -1,1 +1,0 @@
-"Skriv vikten i gram.\n\n$0{,}9$ kg $=$"

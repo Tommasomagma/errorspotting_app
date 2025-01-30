@@ -1,0 +1,1 @@
+"Förenkla uttrycket så långt som möjligt.\n\n\n$3a-(2b + a )-4b$"

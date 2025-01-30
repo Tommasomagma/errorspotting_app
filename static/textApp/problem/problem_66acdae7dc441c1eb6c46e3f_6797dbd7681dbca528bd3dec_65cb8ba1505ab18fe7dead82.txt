@@ -1,0 +1,1 @@
+"En kartong innehåller 8 ägg. Erik köper 10 kartonger. \n\nHur många ägg har Erik köpt?". Problem image: Bilden visar en illustration av en äggkartong som innehåller ägg. Antalet ägg är inte specificerat i beskrivningen.

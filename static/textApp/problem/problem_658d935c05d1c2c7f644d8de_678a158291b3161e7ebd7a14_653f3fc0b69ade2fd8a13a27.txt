@@ -1,0 +1,1 @@
+"Välj det största talet i paret.\n\n$4{,}19$ eller $4{,}212$"

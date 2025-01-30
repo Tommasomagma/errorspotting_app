@@ -1,0 +1,1 @@
+"I ett val fick de fem kandidaterna olika antal röster. Sammanlagt fick de $36$ röster. Vinnaren fick $12$ röster. Den kandidat som kom sist fick $4$ röster. \n\nHur många röster fick den som kom tvåa?\n\n$\\quad$ **A**.$\\;$ $8$\n\n$\\quad$ **B**.$\\;$ $8$ eller $9$\n\n$\\quad$ **C**.$\\;$ $9$\n\n$\\quad$ **D**.$\\;$ $8$ eller $9$\n\n$\\quad$ **E**.$\\;$ $10$"

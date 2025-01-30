@@ -1,1 +1,0 @@
-"Skriv först i bråkform och gör om till hundradelar. Svara sedan i procentform.\n\n$13$ kr av $50$ kr $=$"

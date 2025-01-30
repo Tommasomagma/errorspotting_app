@@ -1,1 +1,0 @@
-"Vilket är talet som visas i bild? Svara i bråkform.". Problem image: Tre cirkulära diagram bredvid varandra. De första två är helt ifyllda och uppdelade i lika stora delar medan den tredje cirkeln bara har en del ifylld och resten är markerad med streckad linje.

@@ -1,0 +1,1 @@
+"Hur stor är $\\angle A$?". Problem image: A triangle is shown with one angle labeled as 80 degrees and another as 60 degrees. The vertex opposite the unlabeled angle is marked A.

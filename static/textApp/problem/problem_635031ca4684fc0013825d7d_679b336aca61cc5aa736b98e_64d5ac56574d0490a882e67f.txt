@@ -1,0 +1,1 @@
+"Talen i en talföljd kan beräknas med uttrycket $4n + 1$, där $n = 1$, $n = 2$ och så vidare. Vilka är det tredje första talet i talföljden?"

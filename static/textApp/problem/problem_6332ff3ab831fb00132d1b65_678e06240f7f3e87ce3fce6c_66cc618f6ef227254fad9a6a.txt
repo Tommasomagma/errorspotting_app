@@ -1,1 +1,0 @@
-"Du kastar en tärning som är numrerad $0$-$9$. Hur stor är sannolikheten att du får ett udda tal?\n\nSvara med ett bråk i enklaste form."

@@ -1,0 +1,1 @@
+"Bestäm värdet av följande uttryck om $a = 4$.\n\n$5\\cdot a +1 $"

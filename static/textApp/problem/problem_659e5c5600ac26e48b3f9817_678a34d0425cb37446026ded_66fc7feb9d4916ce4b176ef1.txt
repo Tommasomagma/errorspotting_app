@@ -1,1 +1,0 @@
-"Skriv talet som saknas så att likheten stämmer.\n\n$2 \\cdot 42 = 4 \\cdot \\underline{\\hspace{0.5cm}}$"

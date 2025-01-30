@@ -1,1 +1,0 @@
-"Nova och Troj ska dela lika på 30 kronor.\n\nHur många kronor får de var? *Gör en beräkning och skriv svar.*"

@@ -1,1 +1,0 @@
-"En container som man fraktar varor i på lastbilar, tåg och båtar har formen av ett rätblock med innermåtten $2{,}4$ m $× \\ 2{,}4$ m $× \\ 5{,}9$ m. Beräkna volymen av containern. Avrunda till hela kubikmeter."

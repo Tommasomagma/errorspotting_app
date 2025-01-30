@@ -1,1 +1,0 @@
-"Skriv talet som har\n2 hundratal, 7 tiotal, 1 ental."

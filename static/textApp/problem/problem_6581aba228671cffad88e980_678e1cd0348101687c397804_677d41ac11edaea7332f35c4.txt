@@ -1,1 +1,0 @@
-"Hur stor andel av kvadraten är färgad? Svara i bråkform.". Problem image: En stor kvadrat uppdelad i fem mindre, lika stora kvadrater där tre av dem är färgade.

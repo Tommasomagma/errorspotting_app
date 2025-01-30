@@ -1,1 +1,0 @@
-"Lös ut $b$ ur formeln.\n\n$b \\cdot h \\cdot l=V$"

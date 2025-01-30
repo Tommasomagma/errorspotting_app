@@ -1,1 +1,0 @@
-"5 kompisar skall ställa sig i kö till butiken. På hur många olika sätt kan de ställa sig i kön?"

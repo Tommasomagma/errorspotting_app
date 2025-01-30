@@ -1,1 +1,0 @@
-"Beräkna uttryckets värde.\n\n$4+2 \\cdot 7 $"

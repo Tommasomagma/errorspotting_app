@@ -1,1 +1,0 @@
-"Räkna ut ${\\Large\\frac{600}{30}} = \\space ?$"

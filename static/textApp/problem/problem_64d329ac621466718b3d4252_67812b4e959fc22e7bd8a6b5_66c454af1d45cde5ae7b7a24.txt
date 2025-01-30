@@ -1,0 +1,1 @@
+"Vilken bokstav markerar talet ${\\Large \\frac{9}{100}}$?"

@@ -1,0 +1,1 @@
+"Visa hur du löser uppgiften.\n\n$318 \\cdot 7=$"

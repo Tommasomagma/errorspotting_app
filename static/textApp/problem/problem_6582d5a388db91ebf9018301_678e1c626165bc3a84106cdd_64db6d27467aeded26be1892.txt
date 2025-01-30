@@ -1,1 +1,0 @@
-"En ruta motsvarar $100$ meter. Måla så många rutor så att de tillsammans motsvarar $2$ km.\n\nHur många rutor målade du?"

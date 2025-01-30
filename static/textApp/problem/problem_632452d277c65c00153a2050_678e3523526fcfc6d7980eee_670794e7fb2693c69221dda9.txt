@@ -1,1 +1,0 @@
-"När Aram gjort $6$ kast med en vanlig tärning var medelvärdet $4$ och typvärdet $5$.\n\nVilka kombinationer av tärningsresultat är möjliga för Aram?"

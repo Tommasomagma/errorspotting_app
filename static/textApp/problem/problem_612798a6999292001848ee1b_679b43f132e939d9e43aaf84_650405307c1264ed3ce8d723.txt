@@ -1,0 +1,1 @@
+"Beräkna $6\\cdot8+\\Large\\frac{15}3$ $=$"

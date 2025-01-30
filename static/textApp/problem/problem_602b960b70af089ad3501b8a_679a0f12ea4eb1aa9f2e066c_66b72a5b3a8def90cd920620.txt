@@ -1,0 +1,1 @@
+"Här ligger några kulor. Ola lägger dit fem kulor till och Bengt tar bort sju. Visa hur många kulor som är kvar. \n\nSvara med hur många det är."

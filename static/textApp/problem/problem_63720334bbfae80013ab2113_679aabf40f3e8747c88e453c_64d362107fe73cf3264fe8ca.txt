@@ -1,0 +1,1 @@
+"Vilket påstående stämmer inte för volymen av ett rätblock?\n\n$\\quad$**A.**$\\;$ Volymen beräknas genom att multiplicera längden, bredden och höjden.\n\n$\\quad$**B.**$\\;$ Volymen beräknas genom att multiplicera basytan med höjden.\n\n$\\quad$**C.**$\\;$ Volymen är summan av alla sidoytor."

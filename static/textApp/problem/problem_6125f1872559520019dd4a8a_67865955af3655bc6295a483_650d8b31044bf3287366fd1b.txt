@@ -1,1 +1,0 @@
-"Ett handbollslag säljer dricka en varm sommardag för att samla in pengar till en resa för laget. De säljer två typer av drycker; läsk och lemonad. Båda typerna av dryck kan man få i smakerna, hallon, citron, apelsin och päron. \n\nPå hur många sätt kan man kombinera lemonaden med smakerna$?$"

@@ -1,1 +1,0 @@
-"Vilken summa är *större* än $1$? \n\nSvara utan att räkna fram svaret."

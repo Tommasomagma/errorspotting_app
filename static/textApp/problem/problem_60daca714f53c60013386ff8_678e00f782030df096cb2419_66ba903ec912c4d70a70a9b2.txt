@@ -1,1 +1,0 @@
-"Vivica har printat ut $3$ stycken bilder som hon tidigare tagit. Hon vill nu rama in dessa bilder och har därför köpt $3$ olika tavelramar till dem. \n\nPå hur många olika sätt kan hon kombinera bilderna med ramarna$?$"

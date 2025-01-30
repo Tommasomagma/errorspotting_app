@@ -1,1 +1,0 @@
-"Miranda har $10$ blåbär. Hon äter upp $8$ av dem. \n\nHur många blåbär har Miranda kvar?"

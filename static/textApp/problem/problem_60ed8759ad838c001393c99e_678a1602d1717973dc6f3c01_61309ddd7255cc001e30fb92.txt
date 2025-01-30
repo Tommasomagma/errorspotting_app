@@ -1,1 +1,0 @@
-"Välj *alla* tal, som är större än $\\Large \\frac {1}{2}$ men mindre än $1$."

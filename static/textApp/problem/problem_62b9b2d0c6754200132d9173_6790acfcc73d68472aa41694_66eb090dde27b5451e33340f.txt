@@ -1,1 +1,0 @@
-"Vilket tal ska stå istället för frågetecknet?\n\n$?\\Large\\frac{2}{3}$ $=$ $\\Large\\frac{17}{3}$"

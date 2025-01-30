@@ -1,0 +1,1 @@
+"På en bild är ett föremål $28$ mm långt.\nHur långt är föremålet i verkligheten om skalan är $7$ : $1$?"

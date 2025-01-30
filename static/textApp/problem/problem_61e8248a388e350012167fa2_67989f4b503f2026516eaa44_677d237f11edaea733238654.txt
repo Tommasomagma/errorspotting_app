@@ -1,0 +1,1 @@
+"För ett rätblock gäller l $= 50$ cm, $b= 2 $ dm och $h = 2$ dm. \n\nVad är rätblockets volym?". Problem image: En illustration av ett rätblock med längdmåtten betecknade. Längden (l) är markerad på den längsta sidan av rätblocket. Bredden (b) och höjden (h) är markerade på de kortare sidorna som är vinkelräta mot längden.

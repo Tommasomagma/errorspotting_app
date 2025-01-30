@@ -1,0 +1,1 @@
+"Räkna ut medelvärdet.\n\n$3\\hspace{0.5cm}6\\hspace{0.5cm}4\\hspace{0.5cm}12\\hspace{0.5cm}18\\hspace{0.5cm}11$"

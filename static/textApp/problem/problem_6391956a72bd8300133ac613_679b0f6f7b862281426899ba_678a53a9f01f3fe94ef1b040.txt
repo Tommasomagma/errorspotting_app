@@ -1,0 +1,1 @@
+"Katterna Missen och Busan jagar möss. Missen fångar $5$ möss fler än Busan. Tillsammans lyckas de fånga $13$ möss. Hur många möss fångar de var? Kalla antalet möss som Busan fångar för $x$.\n\nSkriv ett uttryck för hur många möss Missen fångar."

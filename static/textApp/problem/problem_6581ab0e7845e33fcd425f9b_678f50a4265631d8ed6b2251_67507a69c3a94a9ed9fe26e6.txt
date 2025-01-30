@@ -1,0 +1,1 @@
+"Skriv det tal som är $5$ hundratal större än $67$."

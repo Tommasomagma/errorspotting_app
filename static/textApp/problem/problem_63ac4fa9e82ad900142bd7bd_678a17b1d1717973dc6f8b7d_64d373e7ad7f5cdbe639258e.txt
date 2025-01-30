@@ -1,1 +1,0 @@
-"Skriv en formel som visar hur många stickor $y$ som behövs för att bygga den $n$:te figuren."

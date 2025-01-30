@@ -1,1 +1,0 @@
-"Förklara hur du kan veta att ${\\Large\\frac{7}{8}}$ är större än ${\\Large\\frac{3}{4}}$."

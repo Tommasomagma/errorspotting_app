@@ -1,1 +1,0 @@
-"Maja har 30 kr mindre än Samira. Maja har $m$ antal kronor och Samira har $s$ antal kronor. \n\nVilket samband stämmer? *Välj ditt svar*."

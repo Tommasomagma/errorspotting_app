@@ -1,1 +1,0 @@
-"Vinkeln BAC är $42\\degree$. Vinkeln BAE är $15\\degree$ större än en rät vinkel. Vinkeln CAD är hälften av BAC. \n\nHur stor är vinkeln DAE?". Problem image: En enkel bild av en vinkel uppdelad i tre delar med punkterna B, A, C, D och E märkta. Linjerna bildar vinklarna BAC, BAD och BAE.

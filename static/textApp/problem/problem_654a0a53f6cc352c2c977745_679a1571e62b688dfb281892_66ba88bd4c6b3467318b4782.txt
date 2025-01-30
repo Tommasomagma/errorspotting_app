@@ -1,0 +1,1 @@
+"Vilket tal fattas i talföljden? \n\n850, 800, $ \\ \\underline{\\hspace{0.5cm}} $, 700, 650"

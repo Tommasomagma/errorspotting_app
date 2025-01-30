@@ -1,1 +1,0 @@
-"Beräkna med kort division.\n\n${\\Large \\frac{585}{5}=}$"

@@ -1,1 +1,0 @@
-"Beräkna arean av triangeln.". Problem image: A right-angled triangle colored pink with the base labeled as 5 cm and the height labeled as 5 cm, both perpendicular to each other.

@@ -1,1 +1,0 @@
-"Ett bord är $1{,}85$ meter långt. Hur långt är det uttryckt i meter och centimeter?\n\n$\\hspace{0.37cm}$**A**. $1$ m $85$ cm\n\n$\\hspace{0.37cm}$**B**. $1$ m $8{,}5$ cm \n\n$\\hspace{0.37cm}$**C**. $100$ m $85$ cm \n\n$\\hspace{0.37cm}$**D**. $1$ m $0{,}85$ cm"

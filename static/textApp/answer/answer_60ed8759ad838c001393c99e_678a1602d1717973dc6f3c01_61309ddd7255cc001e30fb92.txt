@@ -1,1 +1,0 @@
-["$\\Large \\frac {7}{10}$","$\\Large \\frac {4}{5}$","$\\Large \\frac {4}{3}$"]

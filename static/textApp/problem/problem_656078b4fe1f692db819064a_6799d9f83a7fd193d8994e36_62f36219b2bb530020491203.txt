@@ -1,0 +1,1 @@
+"Ett företag har 37 anställda. Varje person dricker 4 koppar kaffe om dagen, och varje kopp innehåller 0,28 liter. Hur mycket kaffe dricker de totalt på en dag?". Problem image: En papperskopp med kaffe.

@@ -1,1 +1,0 @@
-"En matta är 12 m$^2$ och täcker 33,34 % av rummets golv. \n\nHur stort är rummet?". Problem image: En bild av en matta med ett mönster och fransar på sidorna. Mattan är inte skalenlig och inga dimensioner är angivna. Bilden visar inte rummets storlek.

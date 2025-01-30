@@ -1,1 +1,0 @@
-"Hur mycket är ${\\Large\\frac{400}{10}}$?"

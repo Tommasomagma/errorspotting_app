@@ -1,0 +1,1 @@
+"Kevins äpple skärs upp i fyra lika stora bitar. Hur mycket väger varje bit? \n\n*Visa hur du löser uppgiften.*". Problem image: Två föremål visas bredvid varandra med texten 'Termos' överst och 'Äpple' överst över respektive föremål. Till vänster en bild av en termos och nedanför visas vikten 480 gram. Till höger en bild av ett äpple och nedanför visas vikten 196 gram.

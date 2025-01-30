@@ -1,0 +1,1 @@
+"Skriv uttrycket utan parentes.\n\n$3a(2b-1)=$"

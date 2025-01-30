@@ -1,1 +1,0 @@
-"Studera följden av tal.\n\n$7\\hspace{0.5cm} 10\\hspace{0.5cm} 13\\hspace{0.5cm} 16\\hspace{0.5cm} . . .$\n\nTeckna ett uttryck för tal nummer $n$."

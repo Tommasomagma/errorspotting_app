@@ -1,0 +1,1 @@
+"Lös ekvationen. Förenkla först.\n\n$7-5x-3+4x=14+3x+8-6x$"

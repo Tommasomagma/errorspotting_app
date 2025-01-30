@@ -1,1 +1,0 @@
-"En triangel har basen 4 meter och höjden 10 meter. Beräkna arean av triangeln."

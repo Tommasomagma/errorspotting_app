@@ -1,1 +1,0 @@
-"Skriv i centimeter.\n\n1,3 dm"

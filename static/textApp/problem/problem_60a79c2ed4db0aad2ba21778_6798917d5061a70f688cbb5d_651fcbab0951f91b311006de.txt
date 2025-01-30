@@ -1,0 +1,1 @@
+"Bilden visar en våg i balans. \n\nHur mycket väger den orangea klossen?". Problem image: Bilden visar en enkel balansvåg med två vågskålar. På ena sidan finns en orange kloss med numret 25g och ett frågetecken på sig. På den andra sidan finns tre staplade vikter markerade med 5g, 50g och 1hg.

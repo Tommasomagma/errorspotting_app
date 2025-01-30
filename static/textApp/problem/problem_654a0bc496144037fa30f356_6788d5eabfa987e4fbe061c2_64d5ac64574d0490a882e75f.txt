@@ -1,1 +1,0 @@
-"Vilket tal fattas i talföljden?\n\n$1, 1, 2, 3, 5, 8, 13,  \\underline{\\hspace{0.5cm}}$"

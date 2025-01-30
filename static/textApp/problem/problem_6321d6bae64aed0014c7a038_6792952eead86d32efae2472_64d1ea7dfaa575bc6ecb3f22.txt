@@ -1,0 +1,1 @@
+"Hur lång tid är det mellan klockslagen?\n\n23.40 – 02.25"

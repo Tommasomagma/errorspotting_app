@@ -1,0 +1,1 @@
+"En cirkelformad duk har omkretsen $151$ cm. Hur stor är dukens area? Använd $\\pi\\approx3{,}14$ och avrunda till tiotals kvadratcentimeter."

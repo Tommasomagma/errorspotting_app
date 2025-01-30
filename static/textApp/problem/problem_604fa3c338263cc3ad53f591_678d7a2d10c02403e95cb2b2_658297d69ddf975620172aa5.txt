@@ -1,1 +1,0 @@
-"Skriv ett förenklat uttryck för rektangelns omkrets.". Problem image: Bilden visar en rektangel med sidornas längder angivna som algebraiska uttryck. Kortsidorna har längden 'a' och långsidorna har längden 'a + 5'.

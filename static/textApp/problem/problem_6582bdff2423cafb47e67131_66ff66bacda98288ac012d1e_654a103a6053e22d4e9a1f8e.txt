@@ -1,0 +1,1 @@
+"Du har talet $21{,}75$. \n\nVilken siffra är entalssiffra?"

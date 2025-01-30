@@ -1,1 +1,0 @@
-"Skriv talet med siffror. \n\n5 ental $69$ hundradelar."

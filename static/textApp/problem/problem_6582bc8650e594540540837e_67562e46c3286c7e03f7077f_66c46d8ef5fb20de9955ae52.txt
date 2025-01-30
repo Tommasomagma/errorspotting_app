@@ -1,1 +1,0 @@
-"Avrunda till heltal och beräkna med överslagsräkning.\n\n${\\Large\\frac{24,8}{5,2}}\\approx$"

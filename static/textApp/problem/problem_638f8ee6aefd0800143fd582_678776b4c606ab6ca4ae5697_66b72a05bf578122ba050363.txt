@@ -1,1 +1,0 @@
-"Året $2022$ är speciellt eftersom siffran $2$ finns med tre gånger. Det är tredje gången under sköldpaddan Evas liv som årtalet har haft tre likadana siffror.\n\nHur många år måste Eva minst vara när år $2022$ tar slut?"

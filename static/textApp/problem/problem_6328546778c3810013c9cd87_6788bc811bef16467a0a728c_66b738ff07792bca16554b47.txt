@@ -1,1 +1,0 @@
-"Beräkna med överslagsräkning avrundat till heltal. \n\n${3{,}8}\\cdot{8{,}1}$"

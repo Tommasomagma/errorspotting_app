@@ -1,1 +1,0 @@
-"Figurerna är likformiga. Beräkna höjden i figur B.". Problem image: Två trianglar märkta A och B är placerade bredvid varandra. Triangel A har en bas på 3 enheter och en höjd på 4 enheter. Triangel B är större och har en bas på 6 enheter, höjden är inte angiven.

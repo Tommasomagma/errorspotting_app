@@ -1,0 +1,1 @@
+"Beräkna summan av talen $24$ och $2$."

@@ -1,0 +1,1 @@
+"Beräkna.\n\n$759+256=$". Problem image: En additionstabell med tre kolumner och två rader där det övre talet i varje kolumn ska adderas med det undre. Första kolumnen innehåller talen 7 och 2, andra kolumnen har talen 5 och 5, och tredje kolumnen har talen 9 och 6.

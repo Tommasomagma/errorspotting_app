@@ -1,1 +1,0 @@
-"Joel är 1,85 m lång. Skriv hans längd i millimeter."

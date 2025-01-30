@@ -1,1 +1,0 @@
-"En av ekvationerna har lösningen $x = 12$. Vilken? *Välj ditt svar.*"

@@ -1,1 +1,0 @@
-"Wilma vill köpa ett nytt spel. Hon sparar 75 kr varje månad. Efter 6 månader har hon sparat ihop hälften av vad spelet kostar.\n\nHur mycket kostar spelet? *Visa hur du löser uppgiften.*"

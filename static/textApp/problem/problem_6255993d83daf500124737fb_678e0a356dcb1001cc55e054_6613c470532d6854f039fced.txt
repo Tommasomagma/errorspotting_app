@@ -1,1 +1,0 @@
-"Bestäm värdet på $x$.". Problem image: A triangle with one angle labeled as 81 degrees, another angle labeled with 'x' degrees, and a straight line extending from one side of the triangle labeled as 145 degrees.

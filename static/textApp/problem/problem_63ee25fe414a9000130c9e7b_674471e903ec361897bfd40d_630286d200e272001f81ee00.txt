@@ -1,1 +1,0 @@
-"Använd huvudräkning och skriv bara svaret. \n\n$12-7=$"

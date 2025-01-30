@@ -1,1 +1,0 @@
-"En modell av en byggnad har en skala på 1:100. Det betyder att varje 1 cm på modellen motsvarar 100 cm i verkligheten. Svara på följande:\na) Om byggnadens höjd är 15 meter i verkligheten, hur hög blir den på modellen?"

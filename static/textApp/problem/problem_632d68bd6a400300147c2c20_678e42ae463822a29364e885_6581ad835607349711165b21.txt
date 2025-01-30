@@ -1,1 +1,0 @@
-"Vilket tal saknas?\n\n$\\underline{\\hspace{1cm}}$ av $20$ kg $= 15$ kg"

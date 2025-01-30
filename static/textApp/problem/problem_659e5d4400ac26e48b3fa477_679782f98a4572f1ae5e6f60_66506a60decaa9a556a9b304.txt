@@ -1,0 +1,1 @@
+"Rita alla diagonaler du kan i figuren. Ange antalet diagonaler.\n\n". Problem image: En femhörning med raka linjer och utan diagonaler ritade.

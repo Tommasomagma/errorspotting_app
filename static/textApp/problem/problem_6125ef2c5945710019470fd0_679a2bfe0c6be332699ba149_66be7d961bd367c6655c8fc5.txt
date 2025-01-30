@@ -1,0 +1,1 @@
+"Skriv i den rätta siffran istället för \"$?$\".\\\n$9\\space\\cdot\\space?= 18$"

@@ -1,1 +1,0 @@
-"En pizza delas i åtta lika stora delar. Tre vänner ska dela på halva pizzan och en av vännerna ska få ${\\Large\\frac{1}{6}}$ av den halvan. Hur många delar måste vännerna minst dela upp den hela pizzan i för att de andra två resterande vännerna ska få lika många bitar av den halva pizzan?"

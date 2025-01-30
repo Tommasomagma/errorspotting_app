@@ -1,0 +1,1 @@
+"Hur mycket är ${\\Large\\frac{12\\ 000}{100}}$?"

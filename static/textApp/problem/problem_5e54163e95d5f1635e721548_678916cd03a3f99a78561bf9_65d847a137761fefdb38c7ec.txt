@@ -1,0 +1,1 @@
+"Leo har staplat likadana små askar i en stor låda. \n\nHur många små askar får plats i hela lådan? *Visa hur du löser uppgiften.*". Problem image: En tredimensionell bild av en stor genomskinlig låda med flera staplade små kuber inuti. Kuberna är arrangerade i rader och kolumner inom den stora lådan.

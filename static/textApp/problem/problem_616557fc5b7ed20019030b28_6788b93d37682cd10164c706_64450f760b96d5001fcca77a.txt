@@ -1,0 +1,1 @@
+"Uppskatta vad arean av den färgade figuren är. \n\n$\\quad$ **A**.$\\;$16 areaenheter\n\n$\\quad$ **B**.$\\;$12,5 areaenheter\n\n$\\quad$ **C**.$\\;$8 areaenheter\n\n$\\quad$ **D**.$\\;$10,5 areaenheter". Problem image: A grid with a blue colored shape that resembles an oval or ellipse covering several squares.

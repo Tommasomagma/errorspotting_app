@@ -1,1 +1,0 @@
-"Avrunda till närmaste heltal och beräkna sedan med överslagsräkning. \n\n$3{,}2\\cdot 5{,}9\\approx$"

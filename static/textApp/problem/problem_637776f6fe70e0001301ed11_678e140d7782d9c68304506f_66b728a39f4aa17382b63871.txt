@@ -1,1 +1,0 @@
-"Nova och Troj spelar spel. \n\nVilket av alternativen är ett förslag där Nova får tre gånger så många poäng  som Troj.\n\n$\\quad$**A.**$\\;$ Troj får $4$ poäng. Nova får $2$ poäng.\n\n$\\quad$**B.**$\\;$ Troj får $2$ poäng. Nova får $6$ poäng.\n\n$\\quad$**C.**$\\;$ Troj får $3$ poäng. Nova får $8$ poäng.\n\n$\\quad$**D.**$\\;$ Troj får $9$ poäng. Nova får $3$ poäng."

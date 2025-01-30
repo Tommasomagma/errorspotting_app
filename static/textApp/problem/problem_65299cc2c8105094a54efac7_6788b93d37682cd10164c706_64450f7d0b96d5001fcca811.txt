@@ -1,1 +1,0 @@
-"Hur många rutor har figuren totalt?". Problem image: Bilden visar en samling rutor som är uppdelade i två färger med en förklaring ovanför. Färgerna blå och rosa speglar olika antal rutor, där varje färg korresponderar med färgförklaringen ovanför; blå för blå rutor och rosa för rosa rutor.

@@ -1,1 +1,0 @@
-"På ett café har de té och kaffe. Man kan välja med eller utan mjölk, och med eller utan socker. \n\nHur många olika kombinationer av varm dryck kan man som kund få på caféet?". Problem image: Bilden visar en pappersmugg för varm dryck, symboliserar valet av dryck på ett café.

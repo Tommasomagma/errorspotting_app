@@ -1,1 +1,0 @@
-"Hur stor andel av bollarna är rosa? Svara i enklaste form.". Problem image: Två rader med bollar. Övre raden har tre bollar, och nedre raden har också tre bollar. Bollarna är färgade, några i rosa och andra i blått.

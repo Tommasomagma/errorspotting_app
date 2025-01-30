@@ -1,1 +1,0 @@
-"Beräkna.\n\n$ 4 \\cdot 8=$". Problem image: Bilden visar en rutmönstrad tabell med fyra kolumner och tio rader. Varje ruta innehåller ett nummer från 1 till 40 i stigande ordning, börjande med 1 i det övre vänstra hörnet till 40 i det nedre högra hörnet.

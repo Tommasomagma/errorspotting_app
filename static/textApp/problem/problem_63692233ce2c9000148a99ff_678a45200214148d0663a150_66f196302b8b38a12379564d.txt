@@ -1,1 +1,0 @@
-"Börja med att hitta en gemensam nämnare och förläng båda talen. Beräkna.\n\n\n${\\Large\\frac{2}{3}}+{\\Large\\frac{3}{4}}=$"

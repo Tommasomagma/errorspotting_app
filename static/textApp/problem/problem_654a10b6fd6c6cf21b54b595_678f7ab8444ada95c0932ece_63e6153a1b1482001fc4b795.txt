@@ -1,0 +1,1 @@
+"På ett kalas serveras en tårta som delas i 8 lika stora bitar. Björn tar en bit. Hur stor del av tårtan återstår efter det? Svara i bråkform.". Problem image: En tårta med ett ljus som är delad i 8 lika stora bitar. En bit är tagen.

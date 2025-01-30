@@ -1,1 +1,0 @@
-"I vilken figur är störst andel färgad?". Problem image: Två rutnätsfigurer märkta A och B. Figur A är ett rutnät med två rader och två kolumner där tre rutor är färgade. Figur B är ett rutnät med tre rader och fyra kolumner där sex rutor är färgade.

@@ -1,0 +1,1 @@
+"Kaknästornet i Stockholm är $155$ m högt. Hur hög blir en trämodell av tornet i skala $1 : 500$? Svara i centimeter."

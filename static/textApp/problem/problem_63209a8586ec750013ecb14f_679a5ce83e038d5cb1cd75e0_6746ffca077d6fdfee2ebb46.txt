@@ -1,0 +1,1 @@
+"Skriv talet i decimalform.\n\n$\\large\\frac{24}{100}=$"

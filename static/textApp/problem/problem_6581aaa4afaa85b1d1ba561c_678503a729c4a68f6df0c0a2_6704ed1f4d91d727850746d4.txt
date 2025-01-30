@@ -1,1 +1,0 @@
-"Under en handbollscup finns det 2 grupper med 6 lag i respektive grupp. Varje lag har 16 spelare vardera. \n\nHur många spelare finns det totalt?". Problem image: En person som spelar handboll.

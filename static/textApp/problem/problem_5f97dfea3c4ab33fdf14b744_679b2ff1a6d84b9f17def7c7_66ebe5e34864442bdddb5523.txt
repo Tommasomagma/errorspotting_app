@@ -1,0 +1,1 @@
+"Hur stor är den okända vinkeln i figuren?". Problem image: En fyrkant med fyra markerade vinklar. Tre vinklar är angivna: 80 grader, 80 grader och 100 grader. Den fjärde vinkeln är markerad med ett frågetecken.

@@ -1,1 +1,0 @@
-"Ett av Sveriges största träd är en ek som ligger i byn Vi i Småland. Den har en diameter på $4{,}5$ m. Beräkna trädets omkrets. Avrunda till hela meter."

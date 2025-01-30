@@ -1,0 +1,1 @@
+"Du ska gå runt det kvadratiska fältet. Du startar vid hörnet S och rör dig i pilens riktning. Vid vilken punkt är du efter att ha gått $\\Large \\frac{1}{3}$ av varvet?"

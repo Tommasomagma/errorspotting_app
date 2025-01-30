@@ -1,1 +1,0 @@
-"Välj vilket uttryck som ska stå på den tomma raden, så att påståendet stämmer.\n\n$ 456÷ 8 \\ \\underline{\\hspace{1cm}} \\ 456\\cdot\\Large \\frac{1}{8}$"

@@ -1,1 +1,0 @@
-"Välj det största talet i paret.\n\n$7{,}62$ eller $7{,}672$"

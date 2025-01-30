@@ -1,0 +1,1 @@
+"En familj med två vuxna och tre barn köper åkband till tivolit. Åkbanden för vuxna kostar 280 kr/st. Åkbanden för barn kostar 240 kr/st.\n\nHur mycket betalar familjen för alla åkbanden? *Visa hur du löser uppgiften.*". Problem image: En familj står vid en biljettlucka på ett tivoli.

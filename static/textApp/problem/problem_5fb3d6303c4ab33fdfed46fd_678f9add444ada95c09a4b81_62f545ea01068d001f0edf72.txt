@@ -1,1 +1,0 @@
-"Smeten för 8 plättar räcker till 1 pannkaka. En pannkakas diameter är 12 cm. \n\nHur stor radie har en plätt? Avrunda till heltal.". Problem image: En stapel pannkakor med smör och sirap på toppen.

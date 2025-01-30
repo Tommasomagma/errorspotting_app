@@ -1,0 +1,1 @@
+"En kvadrat har omkretsen $28$ cm. Beräkna arean."

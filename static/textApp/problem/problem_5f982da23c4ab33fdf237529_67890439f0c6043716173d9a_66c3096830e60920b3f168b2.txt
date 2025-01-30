@@ -1,1 +1,0 @@
-"Ett paket glass räcker till 26 kulor. Man säljer strutar med 3 kulor i varje strut.\n\nHur många fulla strutar räcker ett paket glass till?". Problem image: En glass med tre kulor.

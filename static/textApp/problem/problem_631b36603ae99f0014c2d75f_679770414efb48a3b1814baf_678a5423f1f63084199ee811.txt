@@ -1,0 +1,1 @@
+"Beräkna kvoten av talen $24$ och $2$."

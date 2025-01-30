@@ -1,0 +1,1 @@
+"Ett rätblock har längden 6 dm, bredden 2 dm, och volymen 12 dm$^3$.\n\nVad är rätblockets höjd?". Problem image: Ett rätblock med märkta dimensioner. Längden är märkt längs bottensidan, bredden är märkt längs framsidan och höjden är märkt vertikalt.

@@ -1,0 +1,1 @@
+"Amy köper $3$ paket smör för $48$ kronor styck. Hur kan hon räkna ut hur mycket pengar det kostar? \n\n$\\hspace{0.37cm}$**A**. $3 \\cdot 50$ och ta bort 1\n\n$\\hspace{0.37cm}$**B**. $3 \\cdot 50$ och ta bort 6\n\n$\\hspace{0.37cm}$**C**. $3 \\cdot 50$ och ta bort 3\n\n$\\hspace{0.37cm}$**D**. $3 \\cdot 50$ och ta bort 2"

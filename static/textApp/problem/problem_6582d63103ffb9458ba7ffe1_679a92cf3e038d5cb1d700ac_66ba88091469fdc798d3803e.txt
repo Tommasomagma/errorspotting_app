@@ -1,0 +1,1 @@
+"Hur mycket är siffran $4$ värd i talet $45$?"

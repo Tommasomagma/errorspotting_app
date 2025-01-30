@@ -1,0 +1,1 @@
+"I familj A finns det tre barn. De är 25 år tillsammans.\n\nBarn 1 är 7 år.\n\nBarn 2 är 10 år.\n\nHur många år kan barn 3 vara?"

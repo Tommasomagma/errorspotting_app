@@ -1,1 +1,0 @@
-"Beräkna volymen.". Problem image: En geometrisk figur som föreställer ett hus med ett prisma ovanpå en kub. Kubens sida ligger på botten och är markerad som 12 cm. En höjd inuti kuben är markerad som 5 cm och prismans höjd är markerad som 14 cm. Dotted linjer indikerar höjderna.

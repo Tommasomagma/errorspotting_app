@@ -1,0 +1,1 @@
+"Beräkna uttrycken om a = 16\n\na + 30"

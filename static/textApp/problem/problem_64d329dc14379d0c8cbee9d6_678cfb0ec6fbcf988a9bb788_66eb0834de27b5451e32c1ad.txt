@@ -1,1 +1,0 @@
-"Välj följande tal i storleksordning med det minsta talet först.\n\n$0{,}30 \\hspace{0.5cm} {\\Large\\frac{2}{5}} \\hspace{0.5cm} 25$ % $\\hspace{0.5cm} {\\Large\\frac{1}{3}}$"

@@ -1,1 +1,0 @@
-"En TV som kostat $4\\ 600$ kr säljs med $15$ % rabatt. \n\nBeräkna det nya priset."

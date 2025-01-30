@@ -1,0 +1,1 @@
+"Bonden Olsson har kycklingar, får och getter. Han har lika många av varje. Tillsammans har djuren $180$ ben. \n\nHur många getter har bonden?"

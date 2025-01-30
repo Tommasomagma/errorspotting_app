@@ -1,1 +1,0 @@
-"Skriv längden i centimeter.\n\n$0{,}95$ m ="

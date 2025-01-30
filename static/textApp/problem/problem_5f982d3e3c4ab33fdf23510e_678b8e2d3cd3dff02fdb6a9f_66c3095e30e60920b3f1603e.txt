@@ -1,1 +1,0 @@
-"Beräkna.\n\n$\\Large \\frac{368}{2} \\small=$"

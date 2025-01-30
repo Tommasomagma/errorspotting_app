@@ -1,0 +1,1 @@
+"Multiplicera i steg: \n\n$24 \\cdot 4$\n\n$4 \\cdot 4$ ="

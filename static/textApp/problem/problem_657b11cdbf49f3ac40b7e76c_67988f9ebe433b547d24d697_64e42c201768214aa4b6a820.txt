@@ -1,0 +1,1 @@
+"På en våg står en tom behållare. Vågen är nollställd och räknar inte med vikten för den tomma behållaren.\n\nGrafen visar sambandet mellan vad vågen visar i kilogram och antal mjölkpaket man har hällt i behållaren.\n\nVad visar vågen om man häller $4$ stycken mjölkpaket i behållaren?"

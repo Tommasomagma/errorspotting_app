@@ -1,0 +1,1 @@
+"Förenkla uttrycket $a + b - 4a - 2b + 3b$.\n\nBeräkna därefter värdet av uttrycket för $a = 5$ och $b = 8.$"

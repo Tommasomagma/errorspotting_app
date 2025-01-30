@@ -1,1 +1,0 @@
-"Hur stor är ändringen i procent om förändringsfaktorn är $1{,}12$?\n\n$\\quad$**A.**$\\;$ En ökning med $112$ %\n\n$\\quad$**B.**$\\;$ En ökning med $12$ %\n\n$\\quad$**C.**$\\;$ En minskning med $112$ %\n\n$\\quad$**D.**$\\;$ En minskning med $12$ %"

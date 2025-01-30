@@ -1,0 +1,1 @@
+"Vilket tal saknas i talföljden?\n\n$100 \\hspace{0.5 cm} 81\\hspace{0.5 cm}?\\hspace{0.5 cm}49 \\hspace{0.5 cm}36 \\hspace{0.5 cm} 25$"

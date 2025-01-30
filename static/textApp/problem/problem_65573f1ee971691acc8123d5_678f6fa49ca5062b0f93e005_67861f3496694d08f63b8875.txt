@@ -1,1 +1,0 @@
-"Tabellen visar hur många kg varje kompis kan lyfta. \n\nVad är medianen?". Problem image: En tabell med två kolumner. Första kolumnen är rubricerad 'Namn' med sex namn listade. Andra kolumnen är rubricerad 'kg' med motsvarande vikter listade för varje namn.

@@ -1,1 +1,0 @@
-"Förläng bråket med $5$.\n\n${\\Large\\frac{3}{4}}=$"

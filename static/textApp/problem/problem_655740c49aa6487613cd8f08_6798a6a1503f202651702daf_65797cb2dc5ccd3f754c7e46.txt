@@ -1,0 +1,1 @@
+"Ange koordinaterna för det hörn som ligger inuti cirkeln."

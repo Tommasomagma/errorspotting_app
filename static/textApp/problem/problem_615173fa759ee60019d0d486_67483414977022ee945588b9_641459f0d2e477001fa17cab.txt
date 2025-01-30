@@ -1,1 +1,0 @@
-"Triangelns area är 18 kvadratmeter. Bestäm höjden.". Problem image: En rätvinklig triangel med basen markerad som 4 meter. Höjden av triangeln är ej angiven, markerad med ett frågetecken.

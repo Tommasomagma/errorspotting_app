@@ -1,1 +1,0 @@
-"En läskeburk är 12 cm hög. Avståndet från burkens mittpunkt till kanten är 2 cm. Bestäm läskeburkens...\n\n...begränsningsyta. Svara i hela kvadratcentimeter."

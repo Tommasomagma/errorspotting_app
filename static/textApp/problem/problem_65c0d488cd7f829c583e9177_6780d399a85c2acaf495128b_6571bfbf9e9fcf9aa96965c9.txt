@@ -1,1 +1,0 @@
-"Vilket tal fattas?\n\n${\\Large\\frac{1}{5}}={\\Large\\frac{\\boxed{\\phantom{a}}}{15}}$"

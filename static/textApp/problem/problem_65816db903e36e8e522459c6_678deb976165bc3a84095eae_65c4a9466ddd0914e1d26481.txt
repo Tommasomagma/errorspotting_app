@@ -1,1 +1,0 @@
-"Skriv talet i decimalform. \n\n${\\Large\\frac{1}{10}}=$"

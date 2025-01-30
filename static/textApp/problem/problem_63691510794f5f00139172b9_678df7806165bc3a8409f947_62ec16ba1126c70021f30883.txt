@@ -1,1 +1,0 @@
-"Vilket tal ska stå i stället för $x$?\n\n${\\Large\\frac{2}{7}}=\\Large\\frac{10}{x}$"

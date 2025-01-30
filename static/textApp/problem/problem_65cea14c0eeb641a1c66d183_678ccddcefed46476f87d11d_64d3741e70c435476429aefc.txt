@@ -1,1 +1,0 @@
-"Lös ekvationen\n\n3 · x = 21"

@@ -1,0 +1,1 @@
+"Talen i en talföljd räknas fram med uttrycket $5n - 6$ där $n = 1$, $n = 2$ och så vidare. Vilket nummer i talföljden har talet $94$?"

@@ -1,0 +1,1 @@
+"Alexander läser två böcker under ett sommarlov. Den första boken har 258 sidor. Den andra boken har 437 sidor. \nHur många sidor har Alexander totalt läst under sommarlovet?"

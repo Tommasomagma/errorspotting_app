@@ -1,1 +1,0 @@
-"Beräkna utan att använda miniräknare.\n\n10 % av 4 000 km"

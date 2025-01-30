@@ -1,1 +1,0 @@
-"I formeln för cirkelns omkrets $O = 2 \\cdot  \\pi \\cdot r$ kan man lösa ut radien $r$. Vilken av formlerna gäller då?\n\n$\\quad$**A.**$\\;$ $r={\\Large\\frac{2 \\ \\cdot \\ \\pi}{O}}$\n\n$\\quad$**B.**$\\;$ $r={\\Large\\frac{O}{2\\ \\cdot \\ \\pi}}$\n\n$\\quad$**C.**$\\;$ $r={\\Large\\frac{1}{2 \\ \\cdot \\ \\pi \\ \\cdot \\ O}}$"

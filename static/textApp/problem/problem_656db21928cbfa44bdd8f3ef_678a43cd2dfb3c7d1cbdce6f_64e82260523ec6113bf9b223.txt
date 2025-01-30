@@ -1,1 +1,0 @@
-"Du flyger från Stockholm till New York. Du ser på en skärm att planet rör sig  4 cm per minut över en karta. Kaptenen har berättat att ni flyger i 1200 km/h. Avståndet mellan städerna är 6300 km.\n\nHur många mm skulle bilden av planet rör sig på en minut på den kartan? Avrunda till hela mm."

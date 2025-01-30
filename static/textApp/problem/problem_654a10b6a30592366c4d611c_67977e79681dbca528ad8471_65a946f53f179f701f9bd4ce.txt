@@ -1,0 +1,1 @@
+"Beräkna och svara i bråkform.\n\n${\\Large\\frac{6}{5}}-{\\Large\\frac{2}{5}}=$"

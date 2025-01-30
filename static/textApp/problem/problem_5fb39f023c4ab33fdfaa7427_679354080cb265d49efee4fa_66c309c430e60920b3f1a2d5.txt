@@ -1,0 +1,1 @@
+"En bonde ska sätta upp ett staket runt ett fält som ser ut som på bilden. \n\nHur långt staket behöver bonden sätta upp?". Problem image: Bilden visar en rättvinklig triangel med sidorna markerade som 800 meter och 600 meter.

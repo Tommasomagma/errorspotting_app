@@ -1,0 +1,1 @@
+"Hur mycket högre värde har $6$-an än $7$-an i talet $0{,}671$? Svara med differensen i decimalform."

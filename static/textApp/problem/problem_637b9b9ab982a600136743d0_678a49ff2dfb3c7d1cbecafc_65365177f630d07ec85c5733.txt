@@ -1,1 +1,0 @@
-"En modell av ett skepp är tillverkad i skala $1:100$. Modellen är $40$ cm lång. Hur långt är skeppet i verkligheten?\n\n$\\quad$ **A**.$\\;$ $40$ m\n\n$\\quad$ **B**.$\\;$ $4$ m\n\n$\\quad$ **C**.$\\;$ $400$ m"

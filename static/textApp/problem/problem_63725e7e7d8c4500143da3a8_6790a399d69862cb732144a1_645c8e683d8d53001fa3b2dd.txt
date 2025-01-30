@@ -1,1 +1,0 @@
-"På semestern har Miriam sprungit $x$ kilometer. Oliver har sprungit $13$ km längre än Miriam. Harald har sprungit dubbelt så långt som Oliver. Tillsammans har alla tre sprungit totalt $251$ km.\n\n- Skriv en ekvation. \n- Lös ekvationen och svara med hur långt Harald har sprungit."

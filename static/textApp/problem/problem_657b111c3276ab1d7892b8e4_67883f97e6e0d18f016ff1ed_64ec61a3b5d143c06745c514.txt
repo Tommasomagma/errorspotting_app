@@ -1,1 +1,0 @@
-"Beräkna cylinderns mantelyta om radien är 6 cm och höjden 20 cm.\n\nAnvänd $\\pi \\approx 3{,}14$ och avrunda svaret till hela cm$^2$.". Problem image: En illustration av en cylinder med märkta mått. Cylinderns radie (r) är markerad som 6 cm och höjden (h) är markerad som 20 cm.

@@ -1,0 +1,1 @@
+"Fred löser $6$ additionsuppgifter och $4$ subtraktionsuppgifter varje matematiklektion. \n\nHur många additions- och subtraktionsuppgifter löser Fred på $5$ matematiklektioner?"

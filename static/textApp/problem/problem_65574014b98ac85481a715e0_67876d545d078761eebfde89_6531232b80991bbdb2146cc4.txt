@@ -1,1 +1,0 @@
-"Vilket värde har siffran $6$ i talet $0{,}672$? Skriv i decimalform."

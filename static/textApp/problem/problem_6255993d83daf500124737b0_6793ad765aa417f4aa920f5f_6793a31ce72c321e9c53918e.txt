@@ -1,0 +1,1 @@
+"Bestäm värdet på $x$.". Problem image: A triangle with angles marked as 74 degrees, x degrees, and 38 degrees.

@@ -1,1 +1,0 @@
-"Fyra kompisar har $12$ godisbitar som de vill dela på. Alla vill ha lika många godisbitar.\n\nHur många godisbitar får varje kompis?"

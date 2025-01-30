@@ -1,1 +1,0 @@
-"Förenkla uttrycket $\\Large\\frac{3a^7}{12a^5}$ så långt som möjligt."

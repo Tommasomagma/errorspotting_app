@@ -1,1 +1,0 @@
-"En kohage har formen av en rektangel. Längden är $50$ meter längre än bredden. Omkretsen är $200$ meter. Hur långa är kohagens sidor? Kalla bredden för $x$.\n\nSkriv ett uttryck för omkretsen och förenkla det."

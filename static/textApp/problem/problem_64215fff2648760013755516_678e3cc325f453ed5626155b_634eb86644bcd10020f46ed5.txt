@@ -1,1 +1,0 @@
-"Hur lång tid tar det att cykla $1{,}5$ km om du i genomsnitt hinner $5$ m varje sekund?"

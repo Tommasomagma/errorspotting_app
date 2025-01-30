@@ -1,1 +1,0 @@
-"I en låda finns det $1 \\ 399$ kulor. Aziz lägger i en kula till, hur många finns det då?"

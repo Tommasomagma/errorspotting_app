@@ -1,0 +1,1 @@
+"Viktor har ett 28 dm lång presentsnöre som han ska använda för att slå in paket. Han behöver 4 dm presentsnöre för att slå in 1 paket. \n\nHur många paket kan han slå in med mängden presentsnöre han har?". Problem image: Ett inslaget paket med ett rött band.

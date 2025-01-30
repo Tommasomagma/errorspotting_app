@@ -1,0 +1,1 @@
+"Skriv bråket i decimalform. \n\n${\\Large \\frac{1}{4}} =$"

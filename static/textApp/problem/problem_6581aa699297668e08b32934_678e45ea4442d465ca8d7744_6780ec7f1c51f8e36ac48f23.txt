@@ -1,1 +1,0 @@
-"En tröja kostar 8 kr. Ett par shorts kostar också 8 kr. \n\nHur mycket kostar 4 tröjor och 2 par shorts?". Problem image: The image shows a stack of five green t-shirts and a single pair of orange shorts on hangers.

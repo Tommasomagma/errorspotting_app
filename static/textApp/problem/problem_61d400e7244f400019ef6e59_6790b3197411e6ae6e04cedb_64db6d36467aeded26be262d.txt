@@ -1,1 +1,0 @@
-"Fortsätt talföljden. \n\nVilket tal kommer sist? \n\n$64, 63, 62, \\underline{\\hspace{0.5cm}}, \\underline{\\hspace{0.5cm}}, \\underline{\\hspace{0.5cm}}$"

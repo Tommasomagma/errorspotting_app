@@ -1,0 +1,1 @@
+"Diagrammet visar hur många besökare en loppmarknad hade vid varje hel timme under dagen.\n\nUnder hur många timmar ökade antalet besökare?"

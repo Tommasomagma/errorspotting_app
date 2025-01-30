@@ -1,0 +1,1 @@
+"Rita en rektangel med omkretsen 12 cm och basen 4 cm.\n\nHur stor area har din rektangel?\n\n*Visa hur du löser uppiften.*"

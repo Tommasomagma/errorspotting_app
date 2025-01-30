@@ -1,1 +1,0 @@
-"Skriv i bråkform. \n\n$0{,}04 = $"

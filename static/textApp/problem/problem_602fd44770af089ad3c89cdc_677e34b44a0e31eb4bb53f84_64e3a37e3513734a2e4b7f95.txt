@@ -1,1 +1,0 @@
-"Lös följande uppgift. \nVisa hur du räknar. \n\n${\\Large \\frac{105}{3}}$"

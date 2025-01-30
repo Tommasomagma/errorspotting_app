@@ -1,0 +1,1 @@
+"Skriv talet i decimalform.\n\ntre fjärdedelar $ = $"

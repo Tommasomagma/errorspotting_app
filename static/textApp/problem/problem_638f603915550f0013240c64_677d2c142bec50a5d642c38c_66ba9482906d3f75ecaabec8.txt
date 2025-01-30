@@ -1,1 +1,0 @@
-"Beräkna uttryckets värde.\n\n$5(4 + 2) - 9 $"

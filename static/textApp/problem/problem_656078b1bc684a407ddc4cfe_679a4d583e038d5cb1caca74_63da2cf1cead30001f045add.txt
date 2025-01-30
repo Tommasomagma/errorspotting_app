@@ -1,0 +1,1 @@
+"Beräkna.\n\n$67+25=$". Problem image: En additionstabell med två rader och tre kolumner. Övre raden har siffrorna 6 och 7, nedre raden har symbolen plus följt av siffrorna 2 och 5. En tom ruta finns under varje siffra för att fylla i resultatet.

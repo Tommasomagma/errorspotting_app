@@ -1,1 +1,0 @@
-"Vilket prefix saknas i omvandlingen\n\n$1{,}85$ meter $= 18{,}5 \\boxed{\\phantom{}{?}}$ meter?"

@@ -1,0 +1,1 @@
+"Beräkna.\n\n$560+430+160=$". Problem image: En uppställning för addition med tre termer fördelade i en tabell med tre rader och tre kolumner. Varje term står i sin egen rad och är uppställd i ental, tiotal och hundratal med plustecken till vänster om varje ny rad.

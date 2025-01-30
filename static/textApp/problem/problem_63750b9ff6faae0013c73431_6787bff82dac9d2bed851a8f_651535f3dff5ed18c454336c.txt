@@ -1,1 +1,0 @@
-"Skriv uttrycket utan parentes.\n\n$y(y - 3x)=$"

@@ -1,1 +1,0 @@
-"Beräkna uttryckets värde.\n\n$3 \\cdot 6 + {\\Large\\frac{32}{8}} - 16 $"

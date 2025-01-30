@@ -1,1 +1,0 @@
-"Hur många $månader$ är  $ ett\\space år\\space och\\space ett\\space kvartal?$"

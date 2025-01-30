@@ -1,1 +1,0 @@
-"Vilket är det tionde talet i talföljden?\n\n$4\\ \\ \\ 6\\ \\ \\ 8\\ \\ \\  10\\ ... $"

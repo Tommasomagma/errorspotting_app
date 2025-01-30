@@ -1,1 +1,0 @@
-"Vilket tal saknas?\n\n${\\Large\\frac{2}{3}}$  av $600$ m $=$ $\\underline{\\hspace{1cm}}$"

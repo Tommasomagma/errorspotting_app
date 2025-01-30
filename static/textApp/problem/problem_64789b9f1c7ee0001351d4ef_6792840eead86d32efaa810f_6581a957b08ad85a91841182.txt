@@ -1,0 +1,1 @@
+"En flaska innehåller $3$ dl koncentrerad saft som ska spädas med $4$ gånger så mycket vatten. \n\nHur många liter färdigblandad saft kan man göra från flaskan?". Problem image: En flaska med saft.

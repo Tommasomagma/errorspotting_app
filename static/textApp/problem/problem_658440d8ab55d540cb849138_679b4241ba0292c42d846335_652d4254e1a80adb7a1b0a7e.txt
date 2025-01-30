@@ -1,0 +1,1 @@
+"Avrunda talet till tiondelar. \n\n$52{,}91 \\approx $"

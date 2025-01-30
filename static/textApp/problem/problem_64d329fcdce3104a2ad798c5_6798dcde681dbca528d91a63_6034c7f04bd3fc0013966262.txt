@@ -1,0 +1,1 @@
+"Välj följande tal i storleksordning med det minsta talet först.\n\n$0{,}60 \\hspace{0.5cm} 75$ %$\\hspace{0.5cm} {\\Large\\frac{6}{12}}\\hspace{0.5cm} {\\Large\\frac{2}{3}}$"

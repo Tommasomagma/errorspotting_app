@@ -1,1 +1,0 @@
-"Det är lika många bönor i varje ask.\n\nHur många bönor finns i en ask?". Problem image: Bilden visar tre lådor, sedan ett plusstecken, följt av några bönor, är lika med en låda och slutligen ett plusstecken följt av fler bönor representerade i en matematisk likhet.

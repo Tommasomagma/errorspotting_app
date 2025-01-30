@@ -1,1 +1,0 @@
-"Varje triangulär sida har arean 10 cm$^2$ och basen har arean 15 cm$^2$. \n\nVad är begränsningsytan för pyramiden?". Problem image: En geometrisk illustration av en pyramid med en triangulär bas. De triangulära sidorna och basen är skuggade i rosa. Storlekarna för areorna är inte angivna i bilden.

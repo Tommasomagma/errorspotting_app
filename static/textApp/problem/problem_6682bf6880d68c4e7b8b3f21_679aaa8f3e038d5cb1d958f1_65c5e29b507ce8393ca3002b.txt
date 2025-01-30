@@ -1,0 +1,1 @@
+"Välj mellan strategierna: Rita, pröva dig fram, använd tabell eller arbeta baklänges.\n\nFreja vill bli uppfinnare. Hon har 80 kr och sparar 40 kr varje månad till en experimentlåda. Lådan kostar 300 kr. Hur många månader tar det tills hon kan köpa lådan?"

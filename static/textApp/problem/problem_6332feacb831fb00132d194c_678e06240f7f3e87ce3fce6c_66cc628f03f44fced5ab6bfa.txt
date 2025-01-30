@@ -1,1 +1,0 @@
-"I en slalomtävling deltog $70$ åkare. I första åket var det $60$ % av åkarna som tog sig i mål. \n\nHur många åkare tog sig i mål?"

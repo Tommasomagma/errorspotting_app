@@ -1,1 +1,0 @@
-"Malte och Mathilda skat slå in en julklapp. Julklappen ligger i en kartong formad som ett rätblock med måtten $2 × 3 × 3$ dm. Beräkna den minsta mängd inslagningspapper som går åt."

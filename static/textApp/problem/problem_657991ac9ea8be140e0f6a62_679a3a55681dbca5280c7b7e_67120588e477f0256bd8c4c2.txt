@@ -1,0 +1,1 @@
+"Restaurangchefen Sam säljer $30$ portioner sushi för $2\\ 700$ kr.\n\nHur mycket kostar en portion sushi?". Problem image: En illustration av en sushiportion. Inga siffror eller text visas på bilden.

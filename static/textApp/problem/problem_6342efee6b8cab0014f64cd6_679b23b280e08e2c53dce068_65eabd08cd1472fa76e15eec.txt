@@ -1,0 +1,1 @@
+"På en bild i en tidning är en larv $12$ cm lång. Larven är avbildad   i skala $4 : 1$. Hur lång är larven i verkligheten? \nSvara i millimeter."
