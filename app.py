@@ -83,8 +83,8 @@ def home():
             else:
                 problem_content = "NONE"
             
-            if "Ekvation" in problem_content or "ekvation" in problem_content or "equation" in problem_content or "Solve" in problem_content or "solve" in problem_content or "Förenkla" in problem_content or "förenkla" in problem_content or "x" in problem_content:
-            #if problem_content != 'NONE':
+            #if "Ekvation" in problem_content or "ekvation" in problem_content or "equation" in problem_content or "Solve" in problem_content or "solve" in problem_content or "Förenkla" in problem_content or "förenkla" in problem_content or "x" in problem_content:
+            if problem_content != 'NONE':
                 imgFound = True
 
     # # Find the corresponding text file
