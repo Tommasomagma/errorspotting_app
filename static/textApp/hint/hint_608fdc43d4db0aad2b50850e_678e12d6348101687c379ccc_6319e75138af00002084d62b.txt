@@ -1,0 +1,1 @@
+Check if you correctly doubled x (since x is half of Nicolina's money) and then subtracted 15, instead of halving x and adding 25.

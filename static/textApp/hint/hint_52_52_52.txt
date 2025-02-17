@@ -1,0 +1,1 @@
+Kontrollera att du ska addera 100 till planteringsåret istället för att multiplicera året med 100.

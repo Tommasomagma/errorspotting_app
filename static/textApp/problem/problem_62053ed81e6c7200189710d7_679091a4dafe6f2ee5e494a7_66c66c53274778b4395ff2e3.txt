@@ -1,0 +1,1 @@
+"Visa hur du löser uppgiften och skriv svar.\n\n$64-28=$"

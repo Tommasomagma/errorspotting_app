@@ -1,0 +1,3 @@
+Ett rätblock har längden 6 dm, bredden 2 dm, och volymen 12 dm$^3$.
+
+Vad är rätblockets höjd?

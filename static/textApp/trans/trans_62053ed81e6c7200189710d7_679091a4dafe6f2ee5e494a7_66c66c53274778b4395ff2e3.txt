@@ -1,0 +1,9 @@
+\[
+\begin{array}{c}
+   \phantom{2}^1\!0 \\
+   \phantom{-}64 \\
+ -28 \\
+\hline
+   \phantom{-}26 \\
+\end{array}
+\]

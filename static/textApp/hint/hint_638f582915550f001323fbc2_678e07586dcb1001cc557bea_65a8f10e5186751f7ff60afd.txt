@@ -1,0 +1,1 @@
+Take a close look at your division step, as it seems you may have misplaced the decimal point when converting 8/40 to a decimal.

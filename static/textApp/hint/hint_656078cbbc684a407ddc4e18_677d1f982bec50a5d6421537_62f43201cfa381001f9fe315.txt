@@ -1,0 +1,1 @@
+It seems you added the two amounts rather than subtracting Hugo’s amount from Lana’s, so take another look at the operation you used.

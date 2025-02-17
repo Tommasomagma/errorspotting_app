@@ -1,0 +1,1 @@
+Great effort! Have another look to ensure you divided both the top and bottom by 4 as the problem asks.

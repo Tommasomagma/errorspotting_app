@@ -1,0 +1,1 @@
+Dubbelkolla subtraktionen i 0 − 2 och se till att använda rätt tecken.

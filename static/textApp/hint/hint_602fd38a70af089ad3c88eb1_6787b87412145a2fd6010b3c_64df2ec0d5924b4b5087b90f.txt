@@ -1,0 +1,1 @@
+Kontrollera att du bara subtraherar täljarna medan nämnaren förblir oförändrad så att du inte blandar ihop stegen i uppgiften.

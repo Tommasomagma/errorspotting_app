@@ -1,0 +1,1 @@
+Double-check your division step—make sure you're dividing 7000 by 100, not 100 by 70.

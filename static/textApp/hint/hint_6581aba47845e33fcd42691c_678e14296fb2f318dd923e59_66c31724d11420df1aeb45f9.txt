@@ -1,0 +1,1 @@
+Try re-checking your fraction simplification to ensure the numerator (colored sectors) and denominator (total sectors) are in the right order.

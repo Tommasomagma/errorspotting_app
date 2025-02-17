@@ -1,0 +1,12 @@
+\[ 
+\begin{align*}
+S_{\text{stor}} & = x + 2,5 \\
+S_{\text{sm}} & = x \\
+12(x + 2,5) + 10x & = 14 \, l \, \\
+& = 12x + 30 + 10x = 14l = \\
+& = 22x + 30 = 14l = \\
+& -30dl \quad -30dl \quad \rightarrow \\
+& = \frac{22x}{22} = \frac{-16}{22} = -0,5 \\
+& 2,5 + 0,5 = \underline{3l} \\
+\end{align*}
+\]

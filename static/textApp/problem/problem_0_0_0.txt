@@ -1,0 +1,3 @@
+Nidas har gjort $x$ mål den här säsongen. Fredrik har gjort $3$ mål färre än Nidas. Simon har gjort dubbelt så många mål som Fredrik. 
+
+Skriv ett uttryck för hur många mål Simon har gjort, och förenkla så långt som möjligt.

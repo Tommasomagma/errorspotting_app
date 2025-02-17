@@ -1,0 +1,1 @@
+"Förläng så att nämnaren blir $12$. \n\n${\\Large\\frac{2}{3}}=$"

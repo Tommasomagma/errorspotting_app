@@ -1,0 +1,1 @@
+Take another look at how you applied the percentage change instead of just multiplying the numbers—make sure you're reducing the full amount by 30% rather than calculating 3·30.

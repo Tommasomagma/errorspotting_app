@@ -1,0 +1,1 @@
+It looks like you multiplied instead of dividing to find how many groups of 3 you can make from 15 chairs.

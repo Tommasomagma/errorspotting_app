@@ -1,0 +1,1 @@
+It seems you replaced 2x with 20—double-check how you handle multiplying x in the equation.

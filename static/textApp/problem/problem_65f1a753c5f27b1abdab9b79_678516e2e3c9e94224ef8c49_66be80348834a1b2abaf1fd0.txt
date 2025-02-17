@@ -1,0 +1,1 @@
+"Om z = 4 och y = 5.\nLägg in dessa variabler z & y i ekvationen nedan och räkna ut summan = ?\n$3z\\ +\\ 5y\\ =\\ ?$"

@@ -1,0 +1,13 @@
+\[ 
+\begin{array}{c}
+   \phantom{10} \\
+   \phantom{10} \\
+   \underline{10}  \\
+   \begin{array}[b]{c}
+      \phantom{10}
+   \end{array} \\
+\end{array}
+83 \\
+\underline{-4,65} \\
+49,65 \\
+\]

@@ -1,0 +1,1 @@
+Great effort—take another look at how you distributed the negative sign over (3 - 2x) to ensure the x terms combine correctly.

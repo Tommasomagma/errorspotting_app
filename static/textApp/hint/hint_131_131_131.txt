@@ -1,0 +1,1 @@
+Great work so far—take another look at your division step; if 2x equals 18, try dividing by 2 instead of 3 to isolate x.

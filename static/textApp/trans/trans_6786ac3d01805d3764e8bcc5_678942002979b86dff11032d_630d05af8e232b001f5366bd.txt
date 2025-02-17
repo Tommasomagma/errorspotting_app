@@ -1,0 +1,12 @@
+\( 
+\begin{align*}
+A & \quad B \quad C \\
+x & \quad x+2 \quad x+3 \\
+x + x+2 + x+3 &= 71 \\
+3 \cdot x + 5 &= 71 \\
+-5 & \\
+3 \cdot x &= 66 \\
+\frac{3 \cdot x}{3} &= \frac{66}{3} \\
+x &= 22
+\end{align*}
+\)

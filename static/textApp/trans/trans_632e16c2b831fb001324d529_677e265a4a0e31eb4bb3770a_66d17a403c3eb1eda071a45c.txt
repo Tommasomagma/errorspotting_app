@@ -1,0 +1,10 @@
+\[
+\begin{aligned}
+&\left(\frac{1}{5}\right) \\
+&30 \\
+&\left(\frac{4}{5}\right) \\
+&12 \\
+&30 + 12 = 42 \\
+&\text{Svar: } 42 \\
+\end{aligned}
+\]

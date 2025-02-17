@@ -1,0 +1,1 @@
+"Sätt in rätt tecken så att det stämmer.\n\n$<$ betyder mindre än\n\n$>$ betyder större än\n\n$=$ betyder lika med\n\n$7-2\\ \\ \\underline{\\hspace{0.5cm}}\\ \\ 3\\cdot 3$"

@@ -1,0 +1,3 @@
+\[
+\frac{1 \times 3}{3 \times 3} + \frac{2}{6} = \frac{3}{6} + \frac{2}{6} = \frac{5}{6}
+\]

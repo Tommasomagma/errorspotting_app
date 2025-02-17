@@ -1,0 +1,1 @@
+Double-check your division step: dividing by 0.5 increases the value, so be sure you haven't mistakenly replaced 0.5 with 2.

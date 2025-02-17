@@ -1,0 +1,1 @@
+"Beräkna arean.". Problem image: Bilden visar en sammansatt figur bestående av en parallellogram och en triangel, placerade sida vid sida. Parallellogramens övre bas är 4 cm och dess höjd, indikerad med en stippellinje, är 6 cm. Triangeln har en bas som är 6 cm och är placerad intill parallellogramens höjd.

@@ -1,0 +1,1 @@
+"Beräkna och svara i enklaste form.\n\n$5 \\cdot {\\Large\\frac{7}{10}}$"

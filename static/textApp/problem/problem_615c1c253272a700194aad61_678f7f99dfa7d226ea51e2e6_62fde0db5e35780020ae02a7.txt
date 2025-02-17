@@ -1,0 +1,1 @@
+"Lös ekvationen. \n\n$7=31-4x$"

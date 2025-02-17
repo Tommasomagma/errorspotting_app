@@ -1,0 +1,1 @@
+Check if you meant to add the cost of the tv-game to the cost of the football games instead of subtracting one from the other before subtracting from 5000.

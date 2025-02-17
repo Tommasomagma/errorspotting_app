@@ -1,0 +1,1 @@
+It seems your subtraction or division steps might be mixed up—try re-checking how you subtract 56 from 106 and then divide the result by 2.

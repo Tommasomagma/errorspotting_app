@@ -1,0 +1,1 @@
+It looks like you added the side lengths together instead of multiplying them to compute the area—try reviewing how to form an area by multiplying dimensions!

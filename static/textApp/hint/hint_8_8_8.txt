@@ -1,0 +1,1 @@
+Remember that the area equals the product of the sides, so check if you should divide by the known side instead of subtracting it.

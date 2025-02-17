@@ -1,0 +1,1 @@
+Try reviewing how you handled the zeros in 300—make sure you haven't accidentally added an extra one when multiplying by 8.

@@ -1,0 +1,1 @@
+Great effort—check if you placed the decimal correctly in 1,41 instead of treating it as 1410 when dividing by 6.

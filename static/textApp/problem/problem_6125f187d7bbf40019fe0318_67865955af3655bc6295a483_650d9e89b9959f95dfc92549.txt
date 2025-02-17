@@ -1,0 +1,1 @@
+"Hur många kombinationer kan man göra med bokstäverna $I,D,C,O,R$ om man måste använda alla bokstäverna för varje kombination$?$"

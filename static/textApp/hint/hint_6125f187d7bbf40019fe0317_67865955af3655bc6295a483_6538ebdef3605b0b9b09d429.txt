@@ -1,0 +1,1 @@
+It looks like you used the number of tickets for one color instead of the total number of tickets, so try checking if your denominator reflects all the tickets described.

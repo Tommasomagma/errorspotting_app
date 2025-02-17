@@ -1,0 +1,1 @@
+"Lös ekvationssystemet med grafisk metod. \n\n$\\begin{cases}y=3x-1\\\\y=3-x\\end{cases}$\n\nVilket värde på $x$ löser systemet?"

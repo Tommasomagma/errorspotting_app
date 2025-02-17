@@ -1,0 +1,3 @@
+\[
+\frac{2}{3} + \frac{3}{5} = \frac{2 \cdot 5}{3 \cdot 5} + \frac{3 \cdot 3}{5 \cdot 3} = \frac{10}{15} + \frac{9}{15} = \frac{19}{15} = 1 \frac{4}{15}
+\]

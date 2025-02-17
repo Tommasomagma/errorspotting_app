@@ -1,0 +1,4 @@
+\[
+\frac{3 \times 2}{5 \times 2} = \frac{5}{10} \\
+\frac{5}{10} + \frac{1}{10} = \frac{6}{10}
+\]

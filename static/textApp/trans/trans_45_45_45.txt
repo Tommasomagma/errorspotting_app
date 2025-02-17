@@ -1,0 +1,10 @@
+\[
+\begin{array}{c}
+\phantom{1}35 \\ 
+-11 \\ 
+\hline
+\phantom{1}46
+\end{array}
+\]
+
+35 - 11 =

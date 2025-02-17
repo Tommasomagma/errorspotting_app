@@ -1,0 +1,1 @@
+Check that you've added each day's snowfall only once instead of grouping or duplicating any numbers.

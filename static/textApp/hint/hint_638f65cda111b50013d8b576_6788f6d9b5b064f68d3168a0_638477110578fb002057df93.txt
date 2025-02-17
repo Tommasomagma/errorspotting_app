@@ -1,0 +1,1 @@
+Double-check your multiplication step: when you multiply both sides by 4, make sure the division by 4 is canceled before calculating the value of x.

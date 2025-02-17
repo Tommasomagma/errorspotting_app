@@ -1,0 +1,1 @@
+Review your substitution step and make sure you computed 2 times 6 correctly instead of writing 26.

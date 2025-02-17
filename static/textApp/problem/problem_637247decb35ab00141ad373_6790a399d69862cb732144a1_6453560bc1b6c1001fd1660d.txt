@@ -1,0 +1,1 @@
+"Michel har $x$ kronor på banken. Felicia har $300$ kronor mer än Michel. Sandy har tre gånger så mycket som Felicia. Tillsammans har de $18\\ 200$ kronor.\n\n- Skriv en ekvation.\n- Lös ekvationen och svara med hur mycket Felicia har på banken."

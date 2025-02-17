@@ -1,0 +1,1 @@
+"Beräkna med överslagsräkning avrundat till heltal.\n\n${78{,}7}-{48{,}5}$"

@@ -1,0 +1,1 @@
+You correctly computed 2×6, so check if you should subtract that result from 17 instead of adding it to find the missing number.

@@ -1,0 +1,1 @@
+"Välj det tal som är störst.\n\n${\\Large \\frac{1}{4}}$ eller ${\\Large \\frac{1}{8}}$"

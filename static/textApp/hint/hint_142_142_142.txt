@@ -1,0 +1,1 @@
+Take a closer look at the step where you combined 10 and 7, and check if you instead need to subtract 7 to isolate x correctly.

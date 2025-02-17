@@ -1,0 +1,7 @@
+\[
+\begin{align*}
+&\phantom{1}400 = 4 \\
+&\phantom{1}100 \\
+&4 \cdot 100 = 400
+\end{align*}
+\]

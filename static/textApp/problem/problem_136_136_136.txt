@@ -1,0 +1,1 @@
+Lös ekvationen.\n\n${\\Large\\frac{{\\Large\\frac{x}{10}}}{{\\Large\\frac{1}{5}}}}+{\\Large\\frac{3x}{4}}=2+{\\Large\\frac{2x}{4}}$

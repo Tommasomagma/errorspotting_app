@@ -1,0 +1,1 @@
+Take a closer look at how you handled the decimal point in multiplying 1000 by 0,03, as the zeros might be arranged differently.

@@ -1,0 +1,1 @@
+Hint: Check if you’re removing the right factor and that multiplying it back gives you the original 28x - 12.

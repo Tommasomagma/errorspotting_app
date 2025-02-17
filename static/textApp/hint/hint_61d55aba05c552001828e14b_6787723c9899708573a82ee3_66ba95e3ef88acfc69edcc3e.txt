@@ -1,0 +1,1 @@
+Check if your subtraction shows the coins Nova has after giving away instead of calculating the number of coins she gives to Troj.

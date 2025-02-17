@@ -1,0 +1,1 @@
+"Välj det tal som ska stå på den tomma linjen för att uppgiften ska stämma.\n\n${\\Large\\frac{1}{2}}\\cdot\\underline{\\hspace{0.5cm}}=\\Large\\frac{3}{6}$"

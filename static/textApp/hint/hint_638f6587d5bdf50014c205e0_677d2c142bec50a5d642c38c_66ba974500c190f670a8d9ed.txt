@@ -1,0 +1,1 @@
+Double-check that you’re isolating the variable x rather than rewriting it as 4—try undoing the addition on the x side.

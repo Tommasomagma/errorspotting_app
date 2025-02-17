@@ -1,0 +1,1 @@
+Double-check that you're multiplying the height from triangle A by the scale factor, not the base length.

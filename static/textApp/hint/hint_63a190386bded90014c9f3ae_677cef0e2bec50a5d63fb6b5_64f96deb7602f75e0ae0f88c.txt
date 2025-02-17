@@ -1,0 +1,1 @@
+Double-check the step after getting x/2 = 6 to ensure you're multiplying by 2 instead of dividing again.

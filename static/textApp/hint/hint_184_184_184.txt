@@ -1,0 +1,1 @@
+Remember to check if you included the half factor when multiplying the base and height.

@@ -1,0 +1,1 @@
+"Vilket tal är $x$ om $x \\cdot 100 = 7\\ 000$?"

@@ -1,0 +1,1 @@
+Great effort—look closely at how you set up the coin count equation, ensuring you count coins (x + y = 30) rather than mixing their values with x.

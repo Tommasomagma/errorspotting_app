@@ -1,0 +1,1 @@
+Double-check how you calculated the length of one pen (100 divided by 6) and then multiplied it by 9 to ensure your arithmetic matches the steps described.

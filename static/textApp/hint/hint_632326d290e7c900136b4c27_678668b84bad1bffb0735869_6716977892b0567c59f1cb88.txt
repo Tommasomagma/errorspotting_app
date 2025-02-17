@@ -1,0 +1,1 @@
+It looks like you might have accidentally divided by the wrong number of days; check that you're dividing the total snowfall by 6.

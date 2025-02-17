@@ -1,0 +1,1 @@
+"Nova och Troj ska ha lika många mynt var. \n\nHur många mynt ska Nova ge till Troj? *Visa hur du löser uppgiften.*". Problem image: Två tecknade figurer med pratbubblor. Figuren till vänster säger 'Jag har 15 mynt.' och figuren till höger säger 'Jag har bara 9 mynt.'

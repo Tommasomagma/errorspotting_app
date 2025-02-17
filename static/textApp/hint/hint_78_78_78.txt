@@ -1,0 +1,1 @@
+Check your multiplication step—make sure you multiply 2 and 6 instead of replacing it with addition before subtracting 3.

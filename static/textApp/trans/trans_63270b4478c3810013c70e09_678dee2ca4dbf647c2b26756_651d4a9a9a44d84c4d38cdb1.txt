@@ -1,0 +1,21 @@
+\[ 
+\begin{array}{c}
+375 \\
+\times 2 \\
+\hline
+750 \\
+\end{array} \quad
+\begin{array}{c}
+175 \\
+\times 4 \\
+\hline
+800 \\
+\end{array} \\
+\quad
+\begin{array}{c}
+800 \\
++ 750 \\
+\hline
+1550 \\
+\end{array}
+\]

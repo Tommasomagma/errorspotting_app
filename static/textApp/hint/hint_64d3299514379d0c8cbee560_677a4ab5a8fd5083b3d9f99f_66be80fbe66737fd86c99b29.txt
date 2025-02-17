@@ -1,0 +1,1 @@
+Take a closer look at how you got 28 when multiplying 19 by 2—maybe the multiplication step went a bit off.

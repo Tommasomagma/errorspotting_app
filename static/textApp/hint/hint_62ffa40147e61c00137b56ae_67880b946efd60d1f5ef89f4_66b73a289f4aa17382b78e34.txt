@@ -1,0 +1,1 @@
+Take a closer look at how you went from 1300 to your answer—it seems you added an extra zero instead of dividing by 100.

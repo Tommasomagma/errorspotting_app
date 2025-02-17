@@ -1,0 +1,1 @@
+Check how many times 12 fits into 24 to ensure each division step matches the problem.

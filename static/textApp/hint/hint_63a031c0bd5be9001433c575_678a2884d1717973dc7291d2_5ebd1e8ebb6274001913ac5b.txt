@@ -1,0 +1,1 @@
+Double-check that you multiply each term from (x+2) with each term from (y+3), making sure you get a product of x and y together instead of squaring or increasing the exponent of x or y.

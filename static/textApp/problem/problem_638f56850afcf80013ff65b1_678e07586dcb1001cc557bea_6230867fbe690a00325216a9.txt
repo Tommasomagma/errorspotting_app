@@ -1,0 +1,1 @@
+"Vad ska stå i rutan?\n\n${\\Large\\frac{2}{\\boxed{\\phantom{a}}}}={\\Large\\frac{10}{15}}$"

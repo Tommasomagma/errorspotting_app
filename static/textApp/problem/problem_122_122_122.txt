@@ -1,0 +1,3 @@
+Multiplicera och förenkla uttrycket.
+
+$(x+2)(y+4)$

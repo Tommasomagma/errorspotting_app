@@ -1,0 +1,1 @@
+Double-check how you calculated the 40% remainder, since 14 may not correctly reflect what must be added to 36 when it represents 60% of the total.

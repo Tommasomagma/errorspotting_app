@@ -1,0 +1,1 @@
+Check if you should multiply by 0.6 instead of dividing by 60 to find 60% of the number.

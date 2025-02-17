@@ -1,0 +1,1 @@
+Maybe check if you divided the increase by the original 40% rather than the new value when calculating the percent change.

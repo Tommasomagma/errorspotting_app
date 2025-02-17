@@ -1,0 +1,1 @@
+Kolla gärna att du använder multiplikation istället för potens, så att bilden lägger till ett visst antal pinnar för varje figur!

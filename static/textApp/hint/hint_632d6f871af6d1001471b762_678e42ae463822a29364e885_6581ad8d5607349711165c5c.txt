@@ -1,0 +1,1 @@
+Double-check that you divided both the top and bottom by the same number that actually divides them evenly.

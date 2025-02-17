@@ -1,0 +1,1 @@
+"Lös ekvationen. \n\n$5x-(2+3x)+3=17$"

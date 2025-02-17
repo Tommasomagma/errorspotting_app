@@ -1,0 +1,1 @@
+Try rechecking the step with 6+6 to ensure it really finds the number immediately before 5.

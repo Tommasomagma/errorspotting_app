@@ -1,0 +1,3 @@
+4 \cdot 2 \cdot 2 \cdot 1 + \\
+4 \cdot 3 \cdot 2 + \\
+= 48

@@ -1,0 +1,1 @@
+Check if you arranged the snowfall amounts in order before picking the middle values.

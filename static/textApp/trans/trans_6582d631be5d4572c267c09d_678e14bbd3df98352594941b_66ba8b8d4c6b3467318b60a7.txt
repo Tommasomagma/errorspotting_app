@@ -1,0 +1,9 @@
+\[
+\begin{array}{c}
++ \phantom{-}57 \\
+\underline{+ \phantom{3}-34} \\
+\phantom{0}8 \\
+\\
+7 + 4 = 11
+\end{array}
+\]

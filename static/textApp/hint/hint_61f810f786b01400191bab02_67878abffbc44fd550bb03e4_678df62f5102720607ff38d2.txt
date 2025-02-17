@@ -1,0 +1,1 @@
+Try multiplying the number of days in a week instead of adding different numbers.

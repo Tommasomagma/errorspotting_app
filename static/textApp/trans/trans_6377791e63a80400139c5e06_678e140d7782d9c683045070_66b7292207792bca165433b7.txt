@@ -1,0 +1,7 @@
+vita: 6  
+bruna: 12  
+  
+6 + 12 = 18  
+  
+svar: Det var 18 äpplen från bör-  
+jan.

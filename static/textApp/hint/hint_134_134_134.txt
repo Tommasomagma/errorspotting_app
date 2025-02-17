@@ -1,0 +1,1 @@
+Check your multiplication in 3(x+5) to ensure you multiply both x and 5.

@@ -1,0 +1,1 @@
+Double-check if the subdivided triangles all have equal area, so you compare the grey triangle correctly to the whole.

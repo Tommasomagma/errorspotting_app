@@ -1,0 +1,1 @@
+Your work isolating x is good—double-check that your final answer doesn’t include an extra -5 but just equals the number you found.

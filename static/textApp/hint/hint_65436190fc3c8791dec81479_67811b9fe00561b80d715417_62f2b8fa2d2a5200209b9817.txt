@@ -1,0 +1,1 @@
+Hint: Try re-checking how you set 3x – 1 equal to 3 – x, as mixing up the roles of x and y may have led to your mistake.

@@ -1,0 +1,1 @@
+"Lös ekvationerna med balansmetoden.\n\n${\\Large\\frac{x}{3}}+8=32$"

@@ -1,0 +1,11 @@
+\[
+\begin{array}{c}
+\ \ \ 4 \\
+\underline{100} \approx 17 \\
+\ \ \ 26 \\
++\underline{100} \\
+\ \ \ \ 177 \\
+\ \ 151 \\
+\approx 151 \ \text{cm}
+\end{array}
+\]

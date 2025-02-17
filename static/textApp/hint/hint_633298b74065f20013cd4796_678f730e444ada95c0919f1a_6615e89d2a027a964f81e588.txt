@@ -1,0 +1,1 @@
+Double-check that you're multiplying x and y by the correct prices instead of confusing the multiplication with an exponent or the number 100.
