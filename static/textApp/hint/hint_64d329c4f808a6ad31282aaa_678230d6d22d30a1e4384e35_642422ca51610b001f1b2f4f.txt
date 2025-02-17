@@ -1,1 +1,0 @@
-Remember that percent means "out of 100"—try dividing the number by 100 to convert it into its decimal form!

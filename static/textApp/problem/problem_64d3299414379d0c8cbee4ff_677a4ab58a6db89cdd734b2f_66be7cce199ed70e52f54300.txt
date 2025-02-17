@@ -1,1 +1,0 @@
-"Jonathan har femton pennor och ger fyra till Tilda. Välj det uttryck som beskriver räknehändelsen bäst.\n\n$4-15 \\hspace{0.5cm} 4+15  \\hspace{0.5cm}15+4  \\hspace{0.5cm}15-4$"

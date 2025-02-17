@@ -1,1 +1,0 @@
-Check your subtraction when combining the L terms—make sure L - 2L⁄3 equals the constant you expected.

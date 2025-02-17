@@ -1,1 +1,0 @@
-It seems you might have used the wrong step size—check if you consistently add the same number between terms.

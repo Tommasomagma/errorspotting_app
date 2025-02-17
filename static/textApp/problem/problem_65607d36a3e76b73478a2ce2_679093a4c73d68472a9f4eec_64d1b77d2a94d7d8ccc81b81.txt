@@ -1,1 +1,0 @@
-"Lös ekvationen.\n\n$100 - 9z = 46$"

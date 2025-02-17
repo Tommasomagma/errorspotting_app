@@ -1,1 +1,0 @@
-Great effort—try checking that you're rounding to the hundreds place, not the tens place, as the problem asks.

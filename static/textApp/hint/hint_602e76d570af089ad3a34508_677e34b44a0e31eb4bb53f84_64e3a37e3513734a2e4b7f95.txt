@@ -1,1 +1,0 @@
-Good work so far—please check that you actually walked 1/3 of the square's perimeter before marking your X rather than marking it without accounting for that distance.

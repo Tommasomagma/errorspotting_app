@@ -1,1 +1,0 @@
-Check if you reduced the tens digit correctly when borrowing for the ones place.

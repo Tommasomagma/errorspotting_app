@@ -1,1 +1,0 @@
-Take another look to ensure you divided 42 exactly by 3 in your calculations.

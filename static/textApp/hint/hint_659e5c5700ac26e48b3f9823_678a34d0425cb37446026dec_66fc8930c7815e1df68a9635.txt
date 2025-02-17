@@ -1,1 +1,0 @@
-Check if you might have accidentally added an extra value in one of the positions when converting 12 to binary.

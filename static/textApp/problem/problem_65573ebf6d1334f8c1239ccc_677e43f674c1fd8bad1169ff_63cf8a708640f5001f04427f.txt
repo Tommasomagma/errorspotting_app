@@ -1,1 +1,0 @@
-"Beräkna och svara i bråkform.\n\n${\\Large\\frac{91}{100}}-{\\Large\\frac{33}{100}}=$"

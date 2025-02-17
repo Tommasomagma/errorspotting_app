@@ -1,1 +1,0 @@
-"Huvudet på en fisk är en tredjedel av fiskens hela längd. Fiskens stjärt är lika lång som huvudet och kroppen tillsammans. Kroppen är $8$ cm. Hur lång är hela fisken?"

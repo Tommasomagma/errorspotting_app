@@ -1,1 +1,0 @@
-Great effort! It looks like you might have changed the base to 1 by accident—check how dividing by 2 affects the exponent rather than the base.

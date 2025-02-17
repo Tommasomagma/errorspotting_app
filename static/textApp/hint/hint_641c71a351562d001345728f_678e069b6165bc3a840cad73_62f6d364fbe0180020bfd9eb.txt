@@ -1,1 +1,0 @@
-Remember to check that you're rounding to the hundreds place, not the tens, and base your round-off on the hundreds digit.

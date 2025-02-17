@@ -1,1 +1,0 @@
-"Summan av två tal är $0{,}95$. Det ena talet är $0{,}5$. Vilket är det andra?"

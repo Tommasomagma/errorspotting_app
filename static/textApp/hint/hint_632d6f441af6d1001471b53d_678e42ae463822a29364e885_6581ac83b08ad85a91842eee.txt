@@ -1,1 +1,0 @@
-Hint: Check your conversion of 1,5% to a decimal—make sure it matches the value needed to compare it with 0,15 correctly.

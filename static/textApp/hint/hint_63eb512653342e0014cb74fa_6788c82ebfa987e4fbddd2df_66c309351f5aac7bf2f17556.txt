@@ -1,1 +1,0 @@
-Good job trying; take another look at the multiplication of the ones digit—make sure you correctly calculate 4×8 and include any carry‐over.

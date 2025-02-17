@@ -1,1 +1,0 @@
-Double-check that you divided by 2 for the triangle’s area and used the right sides from the figure for each shape.

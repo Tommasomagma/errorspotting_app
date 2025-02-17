@@ -1,1 +1,0 @@
-Double-check that you divided the one red pair by all five pairs, not by a different total.

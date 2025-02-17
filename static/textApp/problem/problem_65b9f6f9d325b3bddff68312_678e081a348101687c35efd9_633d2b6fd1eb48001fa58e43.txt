@@ -1,1 +1,0 @@
-"Välj den enhet som fattas.\n\nEn mugg rymmer 2 $\\underline{\\hspace{0.5cm}}$."

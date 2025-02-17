@@ -1,1 +1,0 @@
-"Alla sidor på Alvas hus är lika långa. Varje dag går hennes hund minst åtta varv runt huset. \n\nOm längden på sidan av huset är $x$, hur långt går då Alvas hund som minst varje dag, uttryckt i $x$?". Problem image: En tecknad hund som ler.

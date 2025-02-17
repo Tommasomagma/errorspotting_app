@@ -1,1 +1,0 @@
-Remember to check if Nova's score really equals three times Troj's score—does 3×3 give you 8?

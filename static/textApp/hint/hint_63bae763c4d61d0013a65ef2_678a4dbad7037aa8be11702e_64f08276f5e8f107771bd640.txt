@@ -1,1 +1,0 @@
-Great work so far—have another look at how taking the midpoints halves the side lengths you use for the base and height when finding the triangle’s area.

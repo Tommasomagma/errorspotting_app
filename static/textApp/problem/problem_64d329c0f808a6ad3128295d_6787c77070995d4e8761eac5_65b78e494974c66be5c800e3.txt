@@ -1,1 +1,0 @@
-"Vilket tal kommer näst? \n\n$1\\ 327 \\hspace{0.5cm} 1\\ 317 \\hspace{0.5cm} 1\\ 307 \\hspace{0.5cm} \\underline{\\hspace{1cm}}$"

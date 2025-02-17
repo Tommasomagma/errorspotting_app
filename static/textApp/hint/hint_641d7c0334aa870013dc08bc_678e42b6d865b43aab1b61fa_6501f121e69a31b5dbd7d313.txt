@@ -1,1 +1,0 @@
-Check the operation you used to isolate x from 2500/x = 50, as it looks like the division may have been done incorrectly.

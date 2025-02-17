@@ -1,1 +1,0 @@
-Check that you used the scale only for the height (a one-dimensional measure) and didn’t accidentally square the units.

@@ -1,1 +1,0 @@
-Double-check if you accidentally calculated the average (mean) rather than finding the middle two numbers from the ordered snowfall amounts.

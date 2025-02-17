@@ -1,1 +1,0 @@
-Check that you squared both the numerator and denominator separately, as it seems the denominator may not have been multiplied by itself correctly.

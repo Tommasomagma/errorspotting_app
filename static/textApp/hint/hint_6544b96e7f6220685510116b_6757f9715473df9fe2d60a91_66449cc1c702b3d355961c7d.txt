@@ -1,1 +1,0 @@
-Remember to check if any extra amount is left when you divide, because even a little bit means you need one more bill.

@@ -1,1 +1,0 @@
-Perhaps review how you multiplied each digit of 258 by 7 and then added the partial results together.

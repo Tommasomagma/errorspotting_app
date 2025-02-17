@@ -1,1 +1,0 @@
-"Ordna alternativen från kortast till längst tid.\n\n$\\hspace{0.37cm}$**A.**$\\;$  1 dygn och 23 timmar \n\n$\\hspace{0.37cm}$**B.**$\\;$ 2 dygn och 1 timme \n\n$\\hspace{0.37cm}$**C.**$\\;$ 48 timmar\n\n$\\hspace{0.37cm}$**D.**$\\;$ 1 dygn och 27 timmar"

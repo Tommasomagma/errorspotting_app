@@ -1,1 +1,0 @@
-Double-check if you meant to calculate only the extra cost (by multiplying by 0.12) rather than the new total rent.

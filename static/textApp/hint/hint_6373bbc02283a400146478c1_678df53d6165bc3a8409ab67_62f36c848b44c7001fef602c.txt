@@ -1,1 +1,0 @@
-It looks like you calculated the total new value instead of finding the percent increase by comparing the extra amount to the original 5000.
