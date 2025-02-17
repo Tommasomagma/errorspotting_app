@@ -1,1 +1,0 @@
-"Vad är det totala antalet möjliga utfall vid ett kast med en 6-sidig tärning?"

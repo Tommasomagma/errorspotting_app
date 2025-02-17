@@ -1,0 +1,1 @@
+"Bestäm värdet på $x$.". Problem image: A pink shaded triangle with angles marked. One angle is labeled as 73 degrees, another is labeled as 58 degrees, and the third angle is labeled with 'x degrees' next to an arc, indicating it is the unknown angle to find.

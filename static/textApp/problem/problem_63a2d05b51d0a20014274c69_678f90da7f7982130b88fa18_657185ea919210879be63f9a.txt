@@ -1,1 +1,0 @@
-"Skriv det första talet i talföljden som beskrivs med formeln $y=n-3$."

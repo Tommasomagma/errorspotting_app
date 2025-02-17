@@ -1,1 +1,0 @@
-"Vad är medianen av talen $90, 20, 36$ och $44$?"

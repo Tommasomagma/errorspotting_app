@@ -1,1 +1,0 @@
-"Hur stor del av figuren är färgad?\n\n$2{,}5 \\hspace{0.5cm} 0{,}4 \\hspace{0.5cm} 0{,}6 \\hspace{0.5cm} 0{,}9$"

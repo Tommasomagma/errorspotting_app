@@ -1,1 +1,0 @@
-"Vilket tal fattas?". Problem image: Tre rosa cirklar förbundna med två svarta linjer, formar en triangel. Översta cirkeln innehåller ett frågetecken. Den vänstra cirkeln innehåller talet 6 och den högra cirkeln innehåller talet 4. Ett plus tecken finns mellan de nedre två cirklarna.

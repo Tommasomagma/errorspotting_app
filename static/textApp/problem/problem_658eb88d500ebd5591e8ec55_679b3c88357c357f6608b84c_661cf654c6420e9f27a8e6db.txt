@@ -1,1 +1,0 @@
-"Markera det största talet i paret.\n\n$3{,}413$ eller $3{,}32$?"

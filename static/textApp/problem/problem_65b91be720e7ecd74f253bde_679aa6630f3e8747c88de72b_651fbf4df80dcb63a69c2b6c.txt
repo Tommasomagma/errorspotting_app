@@ -1,1 +1,0 @@
-"Nova, Melvin och Troj har 8 fiskar tillsammans. Nova har tre fiskar. Melvin har tre fiskar. \n\nHur många fiskar har Troj?"

@@ -1,1 +1,0 @@
-"Beräkna.\n\n${\\Large\\frac{7\\ 200}{800}}=$". Problem image: Ett bråk med täljaren 7 200 där siffrorna två och noll är överstrukna, och nämnaren 800 där sifferan åtta är överstruken. Ett likhetstecken följer efter bråket.

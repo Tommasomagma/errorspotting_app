@@ -1,0 +1,11 @@
+\[ 
+\begin{array}{}
+& & 6 \\
+& \times & 24 \\
+\hline
+& & 120 \\
++ & & 24 \\
+\hline
+& & 144 \\
+\end{array}
+\]

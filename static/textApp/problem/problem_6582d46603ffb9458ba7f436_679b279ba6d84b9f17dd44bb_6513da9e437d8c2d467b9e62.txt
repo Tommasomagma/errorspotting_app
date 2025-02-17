@@ -1,1 +1,0 @@
-"Ett tuggummi kostar 4 kronor. En godis kostar 2 kronor. \n\nHur mycket kostar 3 tuggummin och 3 godisar tillsammans?". Problem image: En illustration av ett tuggummi och en godisbit, representerar kostnaden för varje.

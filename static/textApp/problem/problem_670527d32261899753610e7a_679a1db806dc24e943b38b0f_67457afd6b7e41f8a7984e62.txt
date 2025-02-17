@@ -1,1 +1,0 @@
-"Anna är 7 cm kortare än sin kamrat Tove. Anna är 147 cm. Hur lång är Tove?\n\n*Visa hur du löser uppgiften.*"

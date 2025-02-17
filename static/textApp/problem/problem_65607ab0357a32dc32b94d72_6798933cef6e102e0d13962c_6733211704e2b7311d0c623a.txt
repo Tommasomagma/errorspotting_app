@@ -1,1 +1,0 @@
-"En kvadrats omkrets är fyra gånger större än omkretsen för en liksidig triangel. Kvadratens area är 81 cm$^2$. \n\nBeräkna längden på triangelns sida."

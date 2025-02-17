@@ -1,1 +1,0 @@
-"Lös ekvationen.\n\n$7x-(2x+6)=44$"

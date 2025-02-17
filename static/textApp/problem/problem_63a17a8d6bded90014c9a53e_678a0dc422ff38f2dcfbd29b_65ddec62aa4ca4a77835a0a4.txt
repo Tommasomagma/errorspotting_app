@@ -1,0 +1,1 @@
+"Förenkla och lös ekvationen.\n\n$3(x-4)=6(4-x)$"

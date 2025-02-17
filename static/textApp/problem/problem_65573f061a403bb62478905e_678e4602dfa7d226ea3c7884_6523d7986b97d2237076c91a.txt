@@ -1,1 +1,0 @@
-"Fyra vänner bowlar. Diagrammet visar frekvensen av antalet poäng per runda.\n\nHur många poäng fick de tillsammans?". Problem image: Bilden visar ett stapeldiagram med poäng på horisontell axel från 0 till 10 och frekvens på vertikal axel från 0 till 10. Staplarna representerar frekvensen av poäng per runda i bowling.

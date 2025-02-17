@@ -1,0 +1,1 @@
+It looks like you only calculated the semicircular part—check whether you need to include the rectangle’s straight edge as well.

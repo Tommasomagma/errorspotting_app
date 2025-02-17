@@ -1,1 +1,0 @@
-"Cylindrarna är likformiga. Den mindre cylindern har volymen 9,4 m$^3$. \n\nBeräkna volymen för den större cylindern.". Problem image: Bild av två likformiga cylindrar. Den mindre cylindern har höjden 2 meter och den större cylindern har höjden 9 meter. Diameter för den mindre cylindern är 2 meter och för den större är 6 meter.

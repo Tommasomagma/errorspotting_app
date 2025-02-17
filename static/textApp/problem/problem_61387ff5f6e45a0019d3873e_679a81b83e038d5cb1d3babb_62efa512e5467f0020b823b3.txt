@@ -1,1 +1,0 @@
-"Beräkna. \n\n$2{,}4 + 1{,}36 = $". Problem image: En additionstabell med två decimaltal. Övre raden visar numret 2,4 med varje siffra i en egen cell, och den nedre raden markerad med ett plustecken visar numret 1,36 på samma sätt. En tom rad under för summan, separerad med en blå linje.

@@ -1,0 +1,1 @@
+Check that you copied Lana's bank amount correctly before subtracting.

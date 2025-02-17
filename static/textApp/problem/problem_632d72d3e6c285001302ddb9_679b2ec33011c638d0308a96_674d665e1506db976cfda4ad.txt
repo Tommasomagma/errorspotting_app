@@ -1,1 +1,0 @@
-"Beräkna $24\\cdot 13$ med uppställning."

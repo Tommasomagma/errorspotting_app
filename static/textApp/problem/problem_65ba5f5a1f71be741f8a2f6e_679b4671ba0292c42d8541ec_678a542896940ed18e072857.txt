@@ -1,1 +1,0 @@
-"Vilket uttryck passar till påståendet?\n\nTalet har hälften så många ental som hundratal."

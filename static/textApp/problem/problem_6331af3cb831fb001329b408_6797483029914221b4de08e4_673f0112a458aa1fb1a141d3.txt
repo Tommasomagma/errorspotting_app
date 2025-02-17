@@ -1,1 +1,0 @@
-"Om $a=3$ och $b=2$, vilket värde har då följande uttryck?\n\n$2a-b$"

@@ -1,1 +1,0 @@
-"Vilket uttryck passar till påståendet?\n\nTalet har fler ental än hundratal."

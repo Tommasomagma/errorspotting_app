@@ -1,1 +1,0 @@
-"En kanotklubb köper $5$ kanoter för $9\\ 000$ kr styck.\n\nHur mycket betalar klubben?"

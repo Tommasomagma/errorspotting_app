@@ -1,1 +1,0 @@
-"Samira och Kevin köper varsin strut med glasskulor.  De betalar 59 kr tillsammans. Samiras glass är en strut med tre kulor.\n\nHur många glasskulor har Kevin i sin strut? *Visa hur du löser uppgiften.*". Problem image: Bilden visar en strut och en glasskula med priset angivet för varje. Struten kostar 12 kronor och en glasskula kostar 7 kronor.

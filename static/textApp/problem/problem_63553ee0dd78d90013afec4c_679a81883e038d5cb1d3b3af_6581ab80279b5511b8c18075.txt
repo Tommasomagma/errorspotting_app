@@ -1,1 +1,0 @@
-"En livboj med formen av en cirkel har diametern $73$ cm. Hur lång omkrets har livbojen? Avrunda till tiotal centimeter."

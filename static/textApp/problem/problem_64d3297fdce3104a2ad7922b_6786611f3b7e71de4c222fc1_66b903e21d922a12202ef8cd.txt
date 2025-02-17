@@ -1,1 +1,0 @@
-"Vilket tal fattas? \n\n$63 \\hspace{0.5cm} 66 \\hspace{0.5cm} 69 \\hspace{0.5cm} \\underline{\\hspace{0.5cm}} $"

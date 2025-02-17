@@ -1,1 +1,0 @@
-"Skriv uttrycket utan parenteser och förenkla så långt som möjligt.\n\n$3x+(4x+5)=$"

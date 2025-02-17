@@ -1,0 +1,6 @@
+\[ \begin{array}{cccc}
+ & 1 \\
+ & 167 \\
++ & \underline{74} \\
+ & 221 \\
+\end{array} \]

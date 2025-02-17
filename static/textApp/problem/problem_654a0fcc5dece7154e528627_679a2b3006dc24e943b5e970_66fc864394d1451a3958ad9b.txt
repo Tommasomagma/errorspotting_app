@@ -1,1 +1,0 @@
-"Bestäm värdet av följande uttryck om $a=4$ och $b=7$.\n\n${\\Large\\frac{4a}{2}}\\cdot{\\Large\\frac{2b}{4}}$"

@@ -1,1 +1,0 @@
-"Olle har lagt tegelstenar i högar. Hur många högar med 3 tegelstenar har han lagt?". Problem image: Fem grupper av linjer som representerar tegelstenar, med varje grupp innehållande tre överlappande linjer ordnade i två lager. Varje lager visar tegelstenarnas längd och bredd.

@@ -1,1 +1,0 @@
-"Lös följande uppgift. Visa hur du räknar. \n\n$49 \\cdot  3$"

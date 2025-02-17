@@ -1,0 +1,1 @@
+Kontrollera gärna hur du kombinerade 50 km/h med 1,5 h, då de ska multipliceras istället för adderas!

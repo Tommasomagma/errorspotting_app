@@ -1,1 +1,0 @@
-"Bilda så många tresiffriga tal som möjligt med siffrorna $2$, $4$ och $6$. Hur många blir det?"

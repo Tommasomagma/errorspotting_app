@@ -1,1 +1,0 @@
-"Rita en rektangel med sidorna 2 cm och 4 cm. Anta att varje ruta i rutnätet är 1 cm.\n\nBeräkna omkretsen."

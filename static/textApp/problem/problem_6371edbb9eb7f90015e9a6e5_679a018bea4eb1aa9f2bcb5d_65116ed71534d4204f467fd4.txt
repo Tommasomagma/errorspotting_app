@@ -1,1 +1,0 @@
-"Ett år körde Peter $1\\ 720$ mil med sin bil. Nästa år körde han $15$ % kortare.\n\nHur många mil körde Peter det året?"

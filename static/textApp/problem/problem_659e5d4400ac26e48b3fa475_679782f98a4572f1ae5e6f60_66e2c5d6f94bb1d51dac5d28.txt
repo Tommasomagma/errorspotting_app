@@ -1,1 +1,0 @@
-"Rita alla diagonaler du kan i figuren. Ange antalet diagonaler.\n\n". Problem image: En enkel bild av en femhörning, en polygon med fem vinklar och fem sidor.

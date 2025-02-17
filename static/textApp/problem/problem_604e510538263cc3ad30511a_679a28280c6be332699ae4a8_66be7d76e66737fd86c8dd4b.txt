@@ -1,1 +1,0 @@
-"Vilket tal ligger mittemellan $-0{,}5$ och $-1$?"

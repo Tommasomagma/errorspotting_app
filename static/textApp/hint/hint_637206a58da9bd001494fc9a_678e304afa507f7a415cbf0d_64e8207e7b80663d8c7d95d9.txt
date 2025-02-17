@@ -1,0 +1,1 @@
+Bra försök – se över hur du använder radien, tänk på att basytan ska beräknas med r², inte bara adderas.

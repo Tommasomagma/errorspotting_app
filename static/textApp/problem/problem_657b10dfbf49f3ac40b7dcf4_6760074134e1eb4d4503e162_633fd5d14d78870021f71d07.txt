@@ -1,1 +1,0 @@
-"Bilden visar en regelbunden åttahörning. Vad är arean av den färgade triangeln? Avrunda ditt svar till en decimal.". Problem image: Bilden visar en regelbunden åttahörning med en diagonal som mäter 19 cm och varje sida av åttahörningen som mäter 7,87 cm. En triangel är utsatt och färgad i orange.

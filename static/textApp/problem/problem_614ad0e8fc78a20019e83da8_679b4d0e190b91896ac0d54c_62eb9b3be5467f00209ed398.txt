@@ -1,1 +1,0 @@
-"Vad är tre åttondelar plus fyra åttondelar? Svara i bråkform.". Problem image: Bilden visar en tallinje som börjar vid 0 och slutar vid 1. Tallinjen är indelad i åtta lika stora delar, representerade med vertikala streck och etiketterade med bråk från 1/8 upp till 7/8. En orange pil sträcker sig från 0 till 3/8 och en rosa pil fortsätter från 3/8 till 7/8.

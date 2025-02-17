@@ -1,0 +1,1 @@
+Check if you might have accidentally added the total sock count with the individual counts rather than using the given 30 in your calculation.

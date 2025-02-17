@@ -1,1 +1,0 @@
-"Visa hur du löser uppgiften.\n\n${\\Large \\frac{175}{5}} = $"

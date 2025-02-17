@@ -1,0 +1,1 @@
+Nice effort – could you verify if dividing 500 by 25 truly gives the number of attractions?

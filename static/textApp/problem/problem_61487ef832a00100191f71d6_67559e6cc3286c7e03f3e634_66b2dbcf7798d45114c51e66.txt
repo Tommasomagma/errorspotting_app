@@ -1,1 +1,0 @@
-"Hur stor andel av en vecka är helg? \n\nSkriv i bråkform."

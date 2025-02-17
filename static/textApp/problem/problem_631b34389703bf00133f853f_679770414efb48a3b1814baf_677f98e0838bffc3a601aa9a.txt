@@ -1,1 +1,0 @@
-"Beräkna med uppställning.\n\n$175\\cdot5=$"

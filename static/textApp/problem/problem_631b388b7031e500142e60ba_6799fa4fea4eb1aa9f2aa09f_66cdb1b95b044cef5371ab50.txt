@@ -1,1 +1,0 @@
-"Beräkna med överslagsräkning. Visa hur du avrundar.\n\n$611 + 285 + 97$"

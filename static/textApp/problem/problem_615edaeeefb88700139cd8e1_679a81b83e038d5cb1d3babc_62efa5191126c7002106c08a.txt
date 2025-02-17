@@ -1,1 +1,0 @@
-"Beräkna. \n\n$0{,}94 - 0{,}85=$". Problem image: Ett rutnät för subtraktion med två tal ovanför varandra. Det övre talet är 0,94 och det undre talet, som ska subtraheras, är 0,85. Rutnätet är uppdelat i kolumner för tiondelar och hundradelar.

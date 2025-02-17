@@ -1,0 +1,1 @@
+Kolla igenom dina delprodukter noga – se till att 67 multipliceras korrekt med både ental och tiotal i 18.

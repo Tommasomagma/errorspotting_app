@@ -1,0 +1,3 @@
+What value of $x$ makes this true? 
+
+$\hspace{0.37cm} 20=12+x$

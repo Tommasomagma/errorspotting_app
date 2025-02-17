@@ -1,1 +1,0 @@
-"Beräkna med överslagsräkning. \n\n$5{,}9 \\cdot 3{,}1$"

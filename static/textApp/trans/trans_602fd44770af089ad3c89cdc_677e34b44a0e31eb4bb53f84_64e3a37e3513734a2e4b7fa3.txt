@@ -1,0 +1,8 @@
+\[
+\begin{array}{c}
+\underline{105} \\
+3 \\
+\end{array}
+
+\hspace{0.5cm} 94 
+\]

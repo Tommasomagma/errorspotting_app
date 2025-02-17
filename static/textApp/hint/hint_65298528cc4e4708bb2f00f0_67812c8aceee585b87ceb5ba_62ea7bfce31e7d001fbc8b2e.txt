@@ -1,0 +1,1 @@
+Du beräknade räntan korrekt som 300×0,02, men verkar ha lagt till lånebeloppet—kolla om du bara ska ange räntan.

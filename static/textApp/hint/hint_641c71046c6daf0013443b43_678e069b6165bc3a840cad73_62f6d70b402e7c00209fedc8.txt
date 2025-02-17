@@ -1,0 +1,1 @@
+Have another look at how you divided 7000 by 100—make sure you're reducing the number by the correct amount without accidentally adding a zero.

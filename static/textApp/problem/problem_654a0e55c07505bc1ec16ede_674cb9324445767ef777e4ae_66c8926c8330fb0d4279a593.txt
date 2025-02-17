@@ -1,1 +1,0 @@
-"Oliver har 20 kr och ska köpa hockeykort som kostar 6 kr/st.\n\nHur många kort har han råd med?". Problem image: En pojke.

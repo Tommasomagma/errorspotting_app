@@ -1,0 +1,1 @@
+Take another look at how you read the minute hand's position—it might be pointing at a later minute than 07.

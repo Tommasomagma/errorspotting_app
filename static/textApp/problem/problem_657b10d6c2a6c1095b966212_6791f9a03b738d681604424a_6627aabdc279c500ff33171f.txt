@@ -1,1 +1,0 @@
-"Björn har byggt en trappa, och ska nu måla trappans båda sidoväggar. \n\nVarje steg av trappan har samma dimensioner. Vad är den totala yta som Björn behöver måla?". Problem image: En illustration av en trappa sett från sidan med angivna mått. Trappsteget är markerat med bredden 3 dm och höjden 8 dm.

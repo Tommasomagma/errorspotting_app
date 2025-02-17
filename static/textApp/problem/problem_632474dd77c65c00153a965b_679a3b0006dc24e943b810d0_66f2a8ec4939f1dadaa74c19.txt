@@ -1,1 +1,0 @@
-"Du har talet $0{,}715$. Byt plats på hundradelssiffran och entalssiffran. Vilket tal får du då?"

@@ -1,1 +1,0 @@
-"Förläng så att nämnaren blir $12$. \n\n${\\Large\\frac{1}{2}}=$"

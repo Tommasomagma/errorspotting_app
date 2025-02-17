@@ -1,1 +1,0 @@
-"Antalet stickor i figur $n$ beräknas med uttrycket $3n + 1$.\n\nHur många stickor finns det i figur 3?". Problem image: Tre geometriska figurer märkta som Figur 1, Figur 2 och Figur 3. Varje figur består av rektangulära stickor som bildar öppna rektanglar som placeras bredvid varandra i en horisontell rad. Antalet stickor ökar med två för varje efterföljande figur.

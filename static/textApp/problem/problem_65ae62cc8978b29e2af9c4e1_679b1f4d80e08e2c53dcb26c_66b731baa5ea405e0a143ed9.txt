@@ -1,1 +1,0 @@
-"På skolan finns en grupp som planerar marknaden.  De är 20 personer i gruppen och medelvärdet av deras åldrar är 12 år. Det börjar tre nya personer som är 10 år, 11 år och 15 år i gruppen.\n\nHur förändras medelvärdet? *Välj ditt svar och motivera.*"

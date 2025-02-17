@@ -1,0 +1,7 @@
+40 \\
+\overline{6} \\
+\begin{array}{c}
+412 \\
+\overline{4344} \\
+\end{array} \\
+= 672,4

@@ -1,1 +1,0 @@
-"Förkorta.\n\n${\\Large\\frac{14}{35}}$ med $7$"

@@ -1,1 +1,0 @@
-"Multiplicera och förenkla uttrycket om det går. \n\n$(x + 3)(y -4)$"

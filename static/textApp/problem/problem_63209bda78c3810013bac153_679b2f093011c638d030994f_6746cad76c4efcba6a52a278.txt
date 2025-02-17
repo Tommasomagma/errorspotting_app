@@ -1,1 +1,0 @@
-"Du har talet $0{,}347$. Vilken siffra är tiondelssiffra?"

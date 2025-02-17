@@ -1,1 +1,0 @@
-"I en låda finns det $52$ äpplen och $29$ päron. \n\nHur många frukter finns det totalt i lådan?". Problem image: En låda med ett äpple och ett päron.

@@ -1,1 +1,0 @@
-"Beräkna med uppställning.\n\n$415+77=$"

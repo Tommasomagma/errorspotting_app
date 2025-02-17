@@ -1,1 +1,0 @@
-"Vilka av formerna behöver du för att bygga föremålet?\n\n". Problem image: En tredimensionell figur som består av trianglar.

@@ -1,1 +1,0 @@
-"Hur lång tid är det mellan klockslagen? \n\n$16{:}05$ – $17{:}45$"

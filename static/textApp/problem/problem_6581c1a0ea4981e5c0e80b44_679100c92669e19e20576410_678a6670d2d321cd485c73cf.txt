@@ -1,1 +1,0 @@
-"Förhållandet mellan bredd och höjd är detsamma för bägge traktorerna. \n\nBeräkna höjden för den mindre traktorn.". Problem image: Två stiliserade bilder av traktorer. Den större traktorn har måtten 18 cm i bredd och 15 cm i höjd. Den mindre traktorn har dimensionen 12 cm i bredd och höjden är inte angiven.

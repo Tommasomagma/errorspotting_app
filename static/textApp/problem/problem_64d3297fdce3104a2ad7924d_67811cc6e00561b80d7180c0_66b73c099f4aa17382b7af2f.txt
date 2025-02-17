@@ -1,1 +1,0 @@
-"Vilket tal fattas? \n\n$54 \\hspace{0.5cm} 52 \\hspace{0.5cm} 50 \\hspace{0.5cm} \\underline{\\hspace{0.5cm}} $"

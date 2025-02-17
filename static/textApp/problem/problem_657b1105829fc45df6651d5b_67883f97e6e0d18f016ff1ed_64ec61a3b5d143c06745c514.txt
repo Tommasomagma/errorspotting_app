@@ -1,0 +1,1 @@
+"Beräkna volymen.". Problem image: En geometrisk figur som föreställer en pyramid med en kubformad bas. Basarean är markerad med B = 15 cm^2. Pyramidens höjd är markerad bredvid figuren som 6 cm.

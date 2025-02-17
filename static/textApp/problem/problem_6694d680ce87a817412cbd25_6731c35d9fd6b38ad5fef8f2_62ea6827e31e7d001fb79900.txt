@@ -1,1 +1,0 @@
-"Alex köper korv hos Franks. Hur många olika kombinationer kan han göra med en korv, ett bröd och en sallad?\n\nGrillkorv, varmkorv, sojakorv\n\nVitt bröd, fullkornsbröd\n\nGurksallad, räksallad"

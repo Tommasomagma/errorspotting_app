@@ -1,1 +1,0 @@
-"En likbent triangel har två sidor vars längd är $a$, samt en sida vars längd är fem mindre än $a$.\n\nSkriv ett uttryck för triangelns omkrets. Förenkla uttrycket så långt som möjligt."

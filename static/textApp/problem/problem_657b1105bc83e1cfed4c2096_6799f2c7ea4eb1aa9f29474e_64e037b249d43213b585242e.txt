@@ -1,1 +1,0 @@
-"Beräkna volymen.". Problem image: En illustration av en tredimensionell rektangulär låda med dimensionerna angivna. Höjden är 3 cm, bredden är 4 cm och djupet är 5 cm.

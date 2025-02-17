@@ -1,1 +1,0 @@
-"Vilket är det minsta talet?\n\n\n${0{,}159} \\hspace{0.3cm}{0{,}16} \\hspace{0.3cm}{0{,}195} \\hspace{0.3cm}{0{,}2}$"

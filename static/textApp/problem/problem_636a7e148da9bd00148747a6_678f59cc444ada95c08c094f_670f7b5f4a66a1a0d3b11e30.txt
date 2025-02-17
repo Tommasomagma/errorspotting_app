@@ -1,1 +1,0 @@
-"Antalet elever i klasserna på en skola var $28$, $27$, $22$, $21$, $24$, $23$, $19$.\n\nBestäm medianen."

@@ -1,0 +1,1 @@
+Ett tal $x$ multipliceras med 4. Produkten adderas med 5. Ett tal $x$ multipliceras med 3. Produkten adderas med 10. Vilket tal är $x$ om uträkningarna ska ha samma summa?

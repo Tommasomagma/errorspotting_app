@@ -1,1 +1,0 @@
-"Skriv längden i meter.\n\n$2{,}5$ km $=$"

@@ -1,1 +1,0 @@
-"Vilket tal ska stå i rutan?\n\n$\\Large\\frac{12}3$ $=\\boxed{?}-7$"

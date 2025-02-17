@@ -1,0 +1,5 @@
+3 \cdot \frac{x}{3} = 8 
+
+x = 8 
+
+x = 8 \cdot 3

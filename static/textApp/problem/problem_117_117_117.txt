@@ -1,0 +1,1 @@
+Beräkna värdet av uttrycket $3a-4b$, för $a=4$ och $b=-1$.

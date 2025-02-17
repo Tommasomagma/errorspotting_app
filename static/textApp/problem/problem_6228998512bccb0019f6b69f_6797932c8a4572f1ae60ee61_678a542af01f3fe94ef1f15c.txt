@@ -1,1 +1,0 @@
-"Vilken bild passar till $\\Large\\frac{1}{4}$ (en fjärdedel) ?". Problem image: Bild 1 visar en större kvadrat uppdelad i fyra mindre kvadrater, varav en är skuggad. Bild 2 visar en större kvadrat uppdelad i fyra trianglar från hörn till hörn, varav två intilliggande trianglar är skuggade.

@@ -1,1 +1,0 @@
-"Beräkna $1{,}9+88{,}2=\\space?$. Använd dig av uppställning. Visa hur du räknar!"

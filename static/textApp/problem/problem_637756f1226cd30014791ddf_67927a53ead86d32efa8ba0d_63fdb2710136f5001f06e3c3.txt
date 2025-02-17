@@ -1,1 +1,0 @@
-"Triangelns sidor är 3, 5, och 6 cm.\n\nHur stor omkrets har triangeln?". Problem image: En bild av en triangel med tre sidor av olika längder.

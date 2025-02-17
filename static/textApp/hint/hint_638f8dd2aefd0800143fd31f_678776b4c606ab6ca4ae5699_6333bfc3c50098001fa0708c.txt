@@ -1,0 +1,1 @@
+Double-check your counts by counting how many multiples of 6, 5, and 4 appear in the 60 tiles.

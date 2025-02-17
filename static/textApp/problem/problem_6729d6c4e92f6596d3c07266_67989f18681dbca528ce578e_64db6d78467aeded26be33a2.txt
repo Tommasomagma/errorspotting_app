@@ -1,1 +1,0 @@
-"Rita pengarna och räkna ut summan.\n\n52 kr $+$ 36 kr $=$"

@@ -1,1 +1,0 @@
-"Beräkna $4{,}2\\cdot4{,}7=\\space?$\n\nAnvänd dig av uppställning. Visa hur du räknar!"

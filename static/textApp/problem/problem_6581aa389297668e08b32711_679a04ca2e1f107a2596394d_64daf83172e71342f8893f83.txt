@@ -1,1 +1,0 @@
-"I en låda finns det $44$ suddgummin. Ivan tar ut $16$ suddgummin ur lådan. Hur många suddgummin finns det i lådan nu?". Problem image: Ett suddgummi.

@@ -1,1 +1,0 @@
-"Vilka omvandlingar är korrekta?\n\n$\\quad$**A.**$\\;$ $2{,}5$ ton $=$ $250$ kg\n\n$\\quad$**B.**$\\;$ $9$ hg $=$ $900$ g\n\n$\\quad$**C.**$\\;$ $300$ g $=$ $13$ kg\n\n$\\quad$**D.**$\\;$ $1{,}5$ kg $=$ $15$ hg\n\n$\\quad$**E.**$\\;$ $700$ kg $=$ $0{,}7$ ton\n\n$\\quad$**F.**$\\;$ $250$ g $=$ $0{,}25$ hg"

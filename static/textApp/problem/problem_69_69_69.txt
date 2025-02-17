@@ -1,0 +1,3 @@
+Vad är medelvärdet av talen?
+
+$1,4,2,3$ och $5$

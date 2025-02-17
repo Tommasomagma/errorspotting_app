@@ -1,0 +1,1 @@
+Perhaps check if you used the full lateral surface area formula for a cylinder, including the 2π factor with the radius.

@@ -1,0 +1,1 @@
+Check your division of 7,000 by 100 closely, as you might have mistakenly added an extra zero.

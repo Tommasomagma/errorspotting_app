@@ -1,1 +1,0 @@
-"Jim har ställt kulpåsar på vågen. Antalet kulor står på tre av påsarna. Hur många kulor är det i den fjärde? Markera ditt svar.". Problem image: En våg med fyra påsar; tre av dem är märkta med siffror. Två påsar på ena sidan av vågen och två på andra sidan.

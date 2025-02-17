@@ -1,1 +1,0 @@
-"Visa hur du löser uppgiften.\n\n$25$ % av $144$"

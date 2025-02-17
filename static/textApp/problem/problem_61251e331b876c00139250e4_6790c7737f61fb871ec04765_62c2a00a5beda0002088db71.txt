@@ -1,1 +1,0 @@
-"Linnea tar även 10 % av sina 450 kr och köper godis.  \nHur mycket pengar köpte Linnea godis för?\n\n**Svara i  $kr$**"

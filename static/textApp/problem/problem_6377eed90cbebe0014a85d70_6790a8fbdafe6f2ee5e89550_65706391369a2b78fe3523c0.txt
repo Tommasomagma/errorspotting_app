@@ -1,1 +1,0 @@
-"Förenkla uttrycket.\n\n$(5x - 1) + (3 - 4x)=$"

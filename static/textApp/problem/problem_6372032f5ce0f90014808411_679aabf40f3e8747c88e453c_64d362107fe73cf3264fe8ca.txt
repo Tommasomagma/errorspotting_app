@@ -1,1 +1,0 @@
-"Mantelytan på en cylinder har formen av en\n\n$\\quad$**A.**$\\;$ Cirkel\n\n$\\quad$**B.**$\\;$ Rektangel\n\n$\\quad$**C.**$\\;$ Cirkelsektor"

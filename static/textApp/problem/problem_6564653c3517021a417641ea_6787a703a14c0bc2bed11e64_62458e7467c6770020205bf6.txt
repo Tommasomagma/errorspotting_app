@@ -1,1 +1,0 @@
-"En sandlåda är formad som ett rätblock och rymmer 4800 liter sand. Djupet är 30 cm.\n\nHur stor basarea har sandlådan?"

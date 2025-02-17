@@ -1,1 +1,0 @@
-"Vilket tal saknas? \n\n3 timmar $=$ ? minuter"

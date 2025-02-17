@@ -1,1 +1,0 @@
-"Beräkna.\n\n${\\Large\\frac{5}{6}}-{\\Large\\frac{1}{3}}=$"

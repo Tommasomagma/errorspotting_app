@@ -1,0 +1,8 @@
+\[ 
+\begin{array}{c}
+452 \\
+\hline
+4
+\end{array}
+= 114
+\]

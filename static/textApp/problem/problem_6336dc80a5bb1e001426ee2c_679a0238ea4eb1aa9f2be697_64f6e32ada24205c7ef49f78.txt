@@ -1,1 +1,0 @@
-"En tapetrulle är $10{,}5$ m lång. \n\nHur lång bit av tapeten är kvar om du skär av $3{,}9$ m?"

@@ -1,0 +1,1 @@
+Great job adding the numbers—try checking if you also divided the total by the number of games to find the average!

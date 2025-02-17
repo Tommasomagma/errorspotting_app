@@ -189,6 +189,14 @@
                 <label for="Description">Problem description</label>
                 {{ problem_content }}
             </div>
+            <div class="card">
+                <label for="Description">Hint</label>
+                {{ hint_content }}
+            </div>
+            <div class="card">
+                <label for="Description">Transcription</label>
+                {{ trans_content }}
+            </div>
 
             <!-- Answer Content -->
             <div class="answers-container">
@@ -213,34 +221,31 @@
                         <label for="end_input">End</label>
                         <input type="text" name="end_input" id="end_input">
                     </div>
+                    <div class="input-group">
+                        <label for="hint_label">Good hint?</label>
+                        <input type="text" name="hint_label" id="hint_label">
+                    </div>
                 </div>
-
                 <div class="button-group">
                     <form action="/submit" method="POST" id="submitForm">
                         <input type="hidden" name="image_id" value="{{ image_id }}">
                         <input type="hidden" name="start_input" id="hidden_start_input">
                         <input type="hidden" name="end_input" id="hidden_end_input">
+                        <input type="hidden" name="hint_label" id="hidden_hint_label">
                         <button type="submit" onclick="setInputValues()">Submit</button>
-                    </form>
-                    <form action="/skip" method="POST">
-                        <input type="hidden" name="image_id" value="{{ image_id }}">
-                        <button type="submit">Skip</button>
-                    </form>
-                    <form action="/discard" method="POST">
-                        <input type="hidden" name="image_id" value="{{ image_id }}">
-                        <button type="submit">Discard</button>
                     </form>
                 </div>
             </div>
-            <div class="image-container-mini">
+            <!-- <div class="image-container-mini">
                 <img src="{{ image_path_ref }}" alt="Task Image">
-            </div>
+            </div> -->
         </div>
     </div>
     <script>
         function setInputValues() {
             document.getElementById('hidden_start_input').value = document.getElementById('start_input').value;
             document.getElementById('hidden_end_input').value = document.getElementById('end_input').value;
+            document.getElementById('hidden_hint_label').value = document.getElementById('hint_label').value;
         }
     </script>
 </body>

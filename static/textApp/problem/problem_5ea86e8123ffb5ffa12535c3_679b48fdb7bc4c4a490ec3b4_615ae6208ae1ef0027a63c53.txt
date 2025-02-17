@@ -1,1 +1,0 @@
-"Hur stor del av rektangeln är gul?". Problem image: En rektangel indelad i fem lika stora vertikala delar. En av dessa delar är färgad gul.

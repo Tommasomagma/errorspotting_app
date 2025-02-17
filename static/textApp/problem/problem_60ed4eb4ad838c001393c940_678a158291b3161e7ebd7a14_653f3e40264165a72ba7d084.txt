@@ -1,1 +1,0 @@
-"Lös följande uppgift. Visa hur du räknar.\n\n$\\Large \\frac {315}{7}$"

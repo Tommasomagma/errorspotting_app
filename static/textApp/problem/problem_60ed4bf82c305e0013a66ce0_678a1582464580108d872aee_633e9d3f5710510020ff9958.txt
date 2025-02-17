@@ -1,1 +1,0 @@
-"Areg köper $6$ böcker för $98\\ \\text{kr}$ styck. Hur kan han räkna ut hur mycket pengar han använder?\\\n Välj ditt svar.\n\n$\\hspace{0.37cm}$**A.**$\\;$ $6\\cdot100$ och ta bort $2$\n\n$\\hspace{0.37cm}$**B.**$\\;$ $6\\cdot100$ och ta bort $12$ \n\n$\\hspace{0.37cm}$**C.**$\\;$  $6\\cdot100$ och ta bort $6$\n\n$\\hspace{0.37cm}$**D.**$\\;$ $6\\cdot100$ och ta bort $48$"

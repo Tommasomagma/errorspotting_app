@@ -1,1 +1,0 @@
-"I vilket lotteri har du störst chans att vinna? *Förklara varför.*". Problem image: Bilden visar två grupper av lotter. Lotteri A och Lotteri B är märkta under varje grupp. Över varje grupp står det '4 vinster'. Varje lott i gruppen representeras av en bild av en lott och antalet lotter visas men är inte angivet i text.

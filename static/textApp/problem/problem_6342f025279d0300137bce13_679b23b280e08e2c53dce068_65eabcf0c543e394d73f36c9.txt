@@ -1,1 +1,0 @@
-"Vilket påstående är rätt?  \n\n$\\quad$**A.**$\\;$ En triangel kan ha en rät och två spetsiga vinklar.\n\n$\\quad$**B.**$\\;$ En triangel kan ha en rät och en trubbig vinkel.\n\n$\\quad$**C.**$\\;$ En triangel kan ha två räta vinklar."

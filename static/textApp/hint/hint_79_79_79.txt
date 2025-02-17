@@ -1,0 +1,1 @@
+Great effort—please double-check the step where you calculate 2x; remember to multiply 2 by 6 before subtracting 3.

@@ -1,1 +1,0 @@
-"Förhållandet mellan längden av två likformiga trianglars sidor är $4:7$. Den mindre triangeln har basen 8 cm och höjden 6 cm.\n\nBeräkna arean av den stora triangeln. Avrunda till hela cm$^2$."

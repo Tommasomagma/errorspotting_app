@@ -1,1 +1,0 @@
-"Skriv ett tal som ligger mellan ${\\Large\\frac{1}{4}}$ och ${\\Large\\frac{1}{2}}$. Svara i bråkform."

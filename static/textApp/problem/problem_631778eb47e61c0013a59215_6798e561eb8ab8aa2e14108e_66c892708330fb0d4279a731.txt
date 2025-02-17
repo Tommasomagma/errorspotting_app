@@ -1,1 +1,0 @@
-"Hur skrivs klockslaget med siffror? \n\nKvart i nio på kvällen"

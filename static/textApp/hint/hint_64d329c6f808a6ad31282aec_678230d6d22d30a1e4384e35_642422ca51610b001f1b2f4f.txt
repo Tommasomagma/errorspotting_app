@@ -1,0 +1,1 @@
+Double-check that the decimal points are properly aligned when adding, as a misalignment can lead to an incorrect sum.

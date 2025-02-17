@@ -1,1 +1,0 @@
-"Förenkla och lös ekvationen.\n\n$3(3x-4)=33$"

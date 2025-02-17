@@ -1,1 +1,0 @@
-"Hur många rutor är rosa i figuren?". Problem image: The image shows a grid with a combination of colored and non-colored squares. The colored squares are arranged to form a figure.

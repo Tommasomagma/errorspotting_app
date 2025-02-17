@@ -1,1 +1,0 @@
-"Beräkna med uppställning.\n\n$3\\ 005-948=$"

@@ -1,1 +1,0 @@
-"Vilken förenkling är rätt?\n\n$ {\\Large \\frac{9x}{3x}}= $"

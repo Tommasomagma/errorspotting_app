@@ -1,1 +1,0 @@
-"Vilket är det minsta talet?\n\n\n${6{,}08} \\hspace{0.3cm}{6{,}081} \\hspace{0.3cm}{6{,}81} \\hspace{0.3cm}{6{,}801}$"

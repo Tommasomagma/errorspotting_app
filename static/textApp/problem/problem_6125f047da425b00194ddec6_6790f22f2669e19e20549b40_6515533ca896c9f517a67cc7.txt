@@ -1,1 +1,0 @@
-"Lös följande ekvation: \n\n$x -18 = 2$. \n\nVad är $x?$"

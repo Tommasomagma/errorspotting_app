@@ -1,1 +1,0 @@
-"Här är två tårtor som är delade i bitar.\n\nEn av tårtorna har *störst* bitar. Måla *en* av bitarna i den tårtan.\n\nHur stor del av tårtan har du målat?"

@@ -1,1 +1,0 @@
-["$\\Large \\frac{20}{50}$","$\\Large \\frac{9}{20}$","$\\Large \\frac{2}{3}$","$\\Large \\frac{7}{10}$"]

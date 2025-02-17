@@ -1,1 +1,0 @@
-"Ett sovrum avbildas på en ritning i längdskalan $1 : 100$. Rummet är $4$ cm långt och $3$ cm brett på ritningen. Hur stor area har rummet i verkligheten?"

@@ -1,0 +1,1 @@
+It looks like you might have forgotten to divide by 100 to isolate x; try checking that step again.

@@ -1,1 +1,0 @@
-"En lekplats är rektangelformad. En sida är $16$ meter längre än den andra sidan. Hur lång är den längre sidan om omkretsen är $132$ meter? Skriv ett uttryck för sidorna och lös med en ekvation."

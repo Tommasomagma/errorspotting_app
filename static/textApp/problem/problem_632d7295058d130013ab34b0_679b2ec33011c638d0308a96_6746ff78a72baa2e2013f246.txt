@@ -1,1 +1,0 @@
-"Beräkna $14{,}6\\cdot 7$ med uppställning."

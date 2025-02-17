@@ -1,1 +1,0 @@
-"Vilket tal är störst? \n\n$3{,}213$ eller $3{,}30$"

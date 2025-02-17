@@ -1,1 +1,0 @@
-"Beräkna. Svara med så liten nämnare som möjligt.\n\n$1{\\Large\\frac{4}{5}}-{\\Large\\frac{3}{8}}+{\\Large\\frac{3}{4}}=$"

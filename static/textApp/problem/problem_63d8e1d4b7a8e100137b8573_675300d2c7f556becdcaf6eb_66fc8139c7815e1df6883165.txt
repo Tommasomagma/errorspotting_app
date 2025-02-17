@@ -1,1 +1,0 @@
-"Visa hur du löser uppgiften.\n\n$175{,}61+51{,}47=$"

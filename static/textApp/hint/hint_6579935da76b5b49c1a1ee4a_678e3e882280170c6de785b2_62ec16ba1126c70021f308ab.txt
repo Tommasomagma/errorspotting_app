@@ -1,0 +1,1 @@
+Great work so far—double-check the step where you subtract the door's area to ensure you removed the entire 2×1 meter section.

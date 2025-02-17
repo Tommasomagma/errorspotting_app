@@ -1,1 +1,0 @@
-"Vilket är talet som visas i bild? Svara i blandad form.". Problem image: Två cirkeldiagram bredvid varandra, uppdelade i sektioner. Det vänstra cirkeldiagrammet är uppdelat i sex lika stora delar där fem är färglagda. Det högra cirkeldiagrammet är även det uppdelat i sex lika stora delar där en är färglagd.

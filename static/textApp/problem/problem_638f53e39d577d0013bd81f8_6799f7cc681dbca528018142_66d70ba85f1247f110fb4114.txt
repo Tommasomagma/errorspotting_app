@@ -1,1 +1,0 @@
-"Vilket bråk är minst?\n\n${\\Large\\frac{2}{5}}$ eller ${\\Large\\frac{3}{5}}$"

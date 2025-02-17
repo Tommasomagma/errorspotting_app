@@ -1,1 +1,0 @@
-"Vilket tal ligger mitt emellan?\n\n$3$ och $-5$"

@@ -1,1 +1,0 @@
-"I mitten av december snöade det åtta dagar i streck. Så här många centimeter kom det:\n\n3 $\\hspace{0.25cm}$6 $\\hspace{0.25cm}$2 $\\hspace{0.25cm}$3 $\\hspace{0.25cm}$5 $\\hspace{0.25cm}$8 $\\hspace{0.25cm}$3 $\\hspace{0.25cm}$10\n\nBeräkna typvärde."

@@ -1,1 +1,0 @@
-"På tre provräkningar fick Jenny följande antal poäng: \n\n$13$, $20$ och $18$\n\nBeräkna medelvärdet."

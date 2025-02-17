@@ -1,1 +1,0 @@
-"Beräkna den negativa lösningen för ekvationen.\n\n$x^2-64=36$"

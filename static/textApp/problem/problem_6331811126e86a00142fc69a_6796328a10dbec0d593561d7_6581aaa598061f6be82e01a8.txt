@@ -1,1 +1,0 @@
-"Hur stor är delen?\n\n$30$ % av $1$ km"

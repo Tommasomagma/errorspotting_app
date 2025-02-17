@@ -1,1 +1,0 @@
-"Beräkna.\n\n${\\Large\\frac{8}{10}}-{\\Large\\frac{5}{10}}=$". Problem image: Bilden visar två cirklar uppdelade i tio lika stora sektorer. Första cirkeln har åtta sektorer färgade i rött och andra cirkeln har fem sektorer färgade i rött.

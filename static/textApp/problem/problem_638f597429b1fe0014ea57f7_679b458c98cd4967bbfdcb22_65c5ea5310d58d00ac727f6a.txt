@@ -1,1 +1,0 @@
-"Eleverna i klass 7a cyklar, går eller åker buss till skolan. ${\\Large\\frac{1}{3}}$ av eleverna cyklar, ${\\Large\\frac{1}{4}}$ går och $10$ åker buss. Hur många elever finns det i klass 7a?"

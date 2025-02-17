@@ -1,1 +1,0 @@
-"En nöt väger $0{,}9$ gram.\n\nHur mycket väger 5 nötter?". Problem image: En illustration av en nöt ovanför en etikett där det står '0,9 g'.

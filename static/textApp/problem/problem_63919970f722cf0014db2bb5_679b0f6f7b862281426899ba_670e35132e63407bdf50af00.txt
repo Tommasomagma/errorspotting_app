@@ -1,1 +1,0 @@
-"Ivar tänker på ett tal. Talet multipliceras med $4$ och adderas sedan med $30$. Då får han talet $110$. \n\nVilket tal tänker Ivar på? Kalla talet vi söker för $x$.\n\nSkriv en ekvation."

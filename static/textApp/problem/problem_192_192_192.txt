@@ -1,0 +1,3 @@
+Lös ekvationen.
+
+$x + 2x + 3x = 90$

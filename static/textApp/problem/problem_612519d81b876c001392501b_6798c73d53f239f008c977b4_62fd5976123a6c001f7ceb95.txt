@@ -1,1 +1,0 @@
-"Subtrahera 2 386 från 7 534. \n\nRita hur du växlar talbrickorna."

@@ -1,1 +1,0 @@
-"Byt plats på entalssiffran och hundradelssiffran i talet $0{,}875$.\n\nVilket tal får du då?"

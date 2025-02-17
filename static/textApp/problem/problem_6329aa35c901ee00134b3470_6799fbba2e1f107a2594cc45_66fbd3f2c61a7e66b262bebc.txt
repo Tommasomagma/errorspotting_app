@@ -1,1 +1,0 @@
-"Vilket tal är $x$?\n\n$\\large\\frac{9}{x}=1$"

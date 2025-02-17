@@ -1,1 +1,0 @@
-"Vera köper $4$ exemplar av sin favoritbok. En bok är till sig själv och de övriga som present till sina vänner. Böckerna är på rea och är $25$ % billigare än det ordinarie priset. Hon får presentböckerna inslagna och för det betalar hon $5$ kr per bok. Hon betalar totalt $741$ kr. \n\nVad var det ordinarie priset för en bok?"

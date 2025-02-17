@@ -1,0 +1,9 @@
+\[ 
+\begin{array}{c}
+1010 \\
+\phantom{-}503^{1}\\
+- \phantom{3}46 \\
+\hline
+\phantom{-}067 \\
+\end{array}
+\]

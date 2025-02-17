@@ -1,1 +1,0 @@
-"Lös följande uppgift. Visa hur du räknar.\n\n\n${\\Large \\frac {5}{6}} - \\Large\\frac{2}{3}$"

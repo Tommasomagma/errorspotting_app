@@ -1,1 +1,0 @@
-"En bil förbrukar 0,6 liter per mil. När bilen har en husvagn påkopplad förbrukar den 0,27 liter extra per mil. \n\nHur mycket bränsle går det åt om bilen kör 8,9 mil med husvagnen?". Problem image: En röd SUV.

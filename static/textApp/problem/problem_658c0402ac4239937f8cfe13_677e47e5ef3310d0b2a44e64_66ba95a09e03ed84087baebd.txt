@@ -1,1 +1,0 @@
-"Vilket tal fattas?". Problem image: Tre rosa cirklar anslutna med svarta linjer i ett triangelformat mönster. Övre cirkeln har numret 10, den nedre vänstra cirkeln har ett frågetecken och den nedre högra cirkeln har numret 9. En plus-symbol finns mellan de två nedre cirklarna.

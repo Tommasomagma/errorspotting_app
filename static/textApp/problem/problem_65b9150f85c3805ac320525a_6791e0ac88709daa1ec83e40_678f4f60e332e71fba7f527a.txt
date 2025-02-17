@@ -1,1 +1,0 @@
-"Troj spelar ett spel. Han har 25 poäng. Han får 17 poäng till.\n\nHur många poäng har han sammanlagt? *Gör en beräkning och skriv svar.*"

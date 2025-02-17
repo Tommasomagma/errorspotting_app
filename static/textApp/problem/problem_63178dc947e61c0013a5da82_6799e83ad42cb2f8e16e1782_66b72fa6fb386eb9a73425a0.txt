@@ -1,1 +1,0 @@
-"Pantea kastar en tärning fem gånger. Hon får följande resultat: $4$, $1$, $4$, $6$ och $5$ prickar.\n\nBeräkna medelvärdet."

@@ -1,1 +1,0 @@
-"Hur stor del av rektangeln är blå?". Problem image: Rektangeln är uppdelad i fyra lika stora delar. En av de fyra delarna är färgad blå.

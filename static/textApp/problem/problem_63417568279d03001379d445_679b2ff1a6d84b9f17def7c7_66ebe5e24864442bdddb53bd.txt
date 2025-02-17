@@ -1,1 +1,0 @@
-"En orm är $5$ cm lång på en bild. Hur lång är ormen\ni verkligheten om bilden är ritad i skala $1 : 25$?"

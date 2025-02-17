@@ -1,1 +1,0 @@
-"När jag ska koka $1$ liter soppa blandar jag vatten och pulver, $50\\%$ vatten och $50\\%$ pulver. Jag häller hälften av soppan i en skål. Hur många procent av soppan i skålen är vatten?"

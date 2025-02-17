@@ -1,1 +1,0 @@
-"Om temperaturen var $-4\\degree$C och steg med $6\\degree$C, vad blev den nya temperaturen?"

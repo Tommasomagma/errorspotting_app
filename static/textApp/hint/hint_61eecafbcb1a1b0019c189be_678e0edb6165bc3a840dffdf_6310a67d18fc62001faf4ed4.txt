@@ -1,0 +1,1 @@
+Take another look at how you counted the winning outcomes in each game—especially whether the yellow part of the wheel really represents just 25% of its sections.

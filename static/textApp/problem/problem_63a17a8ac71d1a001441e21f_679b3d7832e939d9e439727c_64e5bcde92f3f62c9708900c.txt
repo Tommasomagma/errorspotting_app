@@ -1,1 +1,0 @@
-"Förenkla och lös ekvationen.\n\n$5x-4=3x+6$"

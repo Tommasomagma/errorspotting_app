@@ -1,1 +1,0 @@
-"Amir har en flaska vatten som är fylld till ${\\Large\\frac{7}{9}}$. Sara har en likadan flaska som är fylld till ${\\Large\\frac{5}{6}}$. Sara häller över vatten i Amirs flaska tills den blir full. Hur stor andel av Saras flaska är nu fylld med vatten?"
