@@ -89,7 +89,8 @@ def home():
             else:
                 problem_content = "NONE"
             
-            if problem_content != 'NONE':
+            if 'ekvation' in problem_content or 'lös' in problem_content or 'volym' in problem_content or 'area' in problem_content or 'x' in problem_content:
+            #if problem_content != 'NONE':
                 imgFound = True
 
     correct_file = f'correct_{image_id}.txt'  # Replace the image extension with .txt
