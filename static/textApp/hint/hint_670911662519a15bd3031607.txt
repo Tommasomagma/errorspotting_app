@@ -1,0 +1,1 @@
+Kolla om du istället borde använda multiplikation i formeln, inte addition.

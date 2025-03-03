@@ -1,1 +1,0 @@
-Double-check how you turned the decimal 0,40 into a mark on the line rather than writing it as a fraction like 0/10.

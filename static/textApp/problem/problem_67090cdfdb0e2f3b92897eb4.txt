@@ -1,0 +1,1 @@
+"Varje tal är summan av de två talen under.\n\nVilket tal ska ersätta A?"

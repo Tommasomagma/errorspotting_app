@@ -1,0 +1,1 @@
+"Rakel har utvecklat ett spel. Antalet användare ökar med $25$ % varje månad. Efter tre månader har hon $8\\ 000$ användare. Hur många användare hade hon första månaden? Motivera ditt val av strategi."

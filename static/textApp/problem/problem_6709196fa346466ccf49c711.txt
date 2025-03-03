@@ -1,0 +1,1 @@
+"Amanda tjänar $12$ % mer i år än förra året. Nu tjänar hon $6\\ 075$ kr/vecka.\n\nHur mycket tjänade hon per vecka förra året? Anta att Amanda tjänade $x$ kr förra året. Avrunda till närmaste heltal."

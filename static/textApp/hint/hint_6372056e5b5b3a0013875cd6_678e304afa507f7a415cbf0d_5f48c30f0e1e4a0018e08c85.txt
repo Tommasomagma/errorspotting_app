@@ -1,1 +1,0 @@
-Du har använt rätt formel, men kolla om du glömde avrunda ditt svar till ett heltal enligt instruktionerna.

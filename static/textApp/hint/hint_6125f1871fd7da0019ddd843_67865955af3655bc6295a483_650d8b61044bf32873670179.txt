@@ -1,1 +1,0 @@
-It seems like you used the number of socks that aren’t lila or svarta—instead, check that you’re adding the counts for lila and svarta to calculate the correct probability.

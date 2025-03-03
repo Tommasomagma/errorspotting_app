@@ -1,0 +1,1 @@
+"Hur många hundradelar av figuren är färgad?". Problem image: Bilden visar en rektangulär rutnät med flera små kvadrater. Några av dessa kvadrater är färglagda i blått och andra är vita.

@@ -1,0 +1,1 @@
+"Charlie får 160 kronor i månadspeng. En månad köper hon popcorn för 15 kronor och slime för 25 kronor. Resten lägger hon i sin spargris.\n\nHur stor andel lägger hon i spargrisen? Svara i procentform.". Problem image: En bild av en spargris med en myntinkast. Myntet illustrerar pengar som sparas.

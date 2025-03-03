@@ -1,0 +1,1 @@
+Subtract the eaten blueberries from the total to see how many are left.

@@ -1,0 +1,1 @@
+"Vilket tal är $x$?\n\n${\\large \\frac{22}{2}} - 3 ⋅ x = -1$"

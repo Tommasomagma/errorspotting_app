@@ -1,0 +1,1 @@
+"Beräkna.\n\n $48 - 21=$". Problem image: En tabell indelad i två rader och tre kolumner för att visa subtraktionen av två tal. Första raden visar siffran 4 följt av 8. Andra raden visar tecknet minus och siffran 2 följt av 1, under raden med 48.

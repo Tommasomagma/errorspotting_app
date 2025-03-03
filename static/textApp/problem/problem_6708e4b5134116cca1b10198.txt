@@ -1,0 +1,1 @@
+"Tomten ska köpa 360 leksakståg för 20 kr styck och 40 nallebjörnar för 50 kr styck. För varje tionde leksakståg tomten köper, får han en nallebjörn gratis. \n\nHur mycket får tomten betala sammanlagt?". Problem image: En tomte.

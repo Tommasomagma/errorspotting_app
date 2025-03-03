@@ -1,0 +1,1 @@
+Kolla om du skulle ha delat antalet elever i sjuan med det totala antalet istället för att subtrahera.

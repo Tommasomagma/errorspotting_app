@@ -1,1 +1,0 @@
-Double-check that 1 kg means 1000 g, and ensure you multiply correctly to include all the zeros.

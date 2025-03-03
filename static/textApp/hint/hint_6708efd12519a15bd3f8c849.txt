@@ -1,0 +1,1 @@
+Remember that the radius is half of the marked line's length.

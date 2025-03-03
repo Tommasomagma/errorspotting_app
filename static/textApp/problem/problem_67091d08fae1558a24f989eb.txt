@@ -1,0 +1,1 @@
+"Avrunda termerna till hundratal och beräkna med överslagsräkning.\n\n$189+39 \\approx$"

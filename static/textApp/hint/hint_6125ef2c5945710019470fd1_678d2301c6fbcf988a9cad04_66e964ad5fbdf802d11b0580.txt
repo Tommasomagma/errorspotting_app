@@ -1,1 +1,0 @@
-Look over how many times 30 fits into 600—a quick re-check of that division step could help clarify the mistake.

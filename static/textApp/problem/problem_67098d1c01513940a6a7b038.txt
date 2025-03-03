@@ -1,0 +1,1 @@
+"En kvadrat har arean $400$ cm$^2$. Beräkna omkretsen."

@@ -1,0 +1,1 @@
+Don't forget to multiply by 1/2 when calculating the triangle's area.

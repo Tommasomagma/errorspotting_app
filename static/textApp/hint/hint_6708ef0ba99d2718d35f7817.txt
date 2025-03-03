@@ -1,0 +1,1 @@
+Tänk på att multiplicera antalet matcher med antalet mål per match för att räkna ut det totala antalet mål.

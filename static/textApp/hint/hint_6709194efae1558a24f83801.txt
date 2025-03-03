@@ -1,0 +1,1 @@
+Try checking if you should add 8 instead of subtracting it when dealing with negative heights.

@@ -1,0 +1,1 @@
+"Vilket tal är $x$?\n\n${\\large \\frac{x}{6}} = 9$\n\n$x= \\underline{\\hspace{1cm}}$"

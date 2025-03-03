@@ -1,1 +1,0 @@
-Check if you need to divide by 0.048 instead of multiplying by 4,8 in your calculation.

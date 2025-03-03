@@ -1,0 +1,1 @@
+Prova att ta bort den färgade delen från hela figuren för att hitta den orundade delen.

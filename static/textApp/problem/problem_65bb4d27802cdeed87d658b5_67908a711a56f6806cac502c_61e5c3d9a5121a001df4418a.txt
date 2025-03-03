@@ -1,1 +1,0 @@
-"Beräkna.\n\n$\\underline{\\hspace{0.5cm}}=8+9$"

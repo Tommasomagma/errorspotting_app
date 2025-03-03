@@ -1,0 +1,1 @@
+"Det ska vara lika många kängurur i båda parkerna. \nHur många kängurur måste flytta från ena parken till den andra?". Problem image: Två parkområden med kängurur. Det ena området har fler kängurur än det andra.

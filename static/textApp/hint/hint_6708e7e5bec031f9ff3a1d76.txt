@@ -1,0 +1,1 @@
+Keep going—try breaking the problem into simple steps by relating the colored area's size to what you get when you use r multiplied by itself.

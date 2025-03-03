@@ -1,0 +1,2 @@
+$\frac{\sqrt{18}\cdot \sqrt{4}}{\sqrt{8}} = 6$
+$\frac{\frac{9}{\sqrt{18}}\cdot \frac{3}{\sqrt{4}}}{\sqrt{8}}=18$

@@ -1,0 +1,1 @@
+Take another look at how you are forming each term because simply adding 2 may not fully capture the pattern of odd numbers.

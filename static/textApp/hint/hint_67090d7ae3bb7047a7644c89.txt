@@ -1,0 +1,1 @@
+Double-check if you might have missed subtracting your friend's distance from your total running distance.

@@ -1,0 +1,1 @@
+"Beräkna. Förkorta eller förläng först det ena bråket så att nämnarna blir lika. Svara i blandad form och förkorta om det går.\n\n${\\Large\\frac{2}{3}}-{\\Large\\frac{1}{6}}=$"

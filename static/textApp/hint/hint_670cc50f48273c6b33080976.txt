@@ -1,0 +1,1 @@
+Tänk på att räkna både alla möjliga tärningskast och hur många sätt just två fyror kan uppstå.

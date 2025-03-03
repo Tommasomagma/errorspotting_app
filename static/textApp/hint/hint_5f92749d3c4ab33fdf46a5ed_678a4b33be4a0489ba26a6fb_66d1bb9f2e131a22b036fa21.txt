@@ -1,1 +1,0 @@
-Check if you’ve forgotten to multiply by 2 when using the circumference formula for a full circle.

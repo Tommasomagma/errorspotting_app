@@ -1,0 +1,1 @@
+Double-check the rule for dividing powers of 2, especially how you add exponents when a negative exponent is involved.

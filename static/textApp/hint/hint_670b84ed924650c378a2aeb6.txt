@@ -1,0 +1,1 @@
+Double-check if you divided the new price by the old price instead of only subtracting them.

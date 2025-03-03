@@ -1,0 +1,1 @@
+"Jonas äter tre femtedelar av en pizza. Hur stor andel av pizzan är sedan kvar?\nSvara i decimalform."

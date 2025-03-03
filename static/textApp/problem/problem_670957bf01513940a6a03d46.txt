@@ -1,0 +1,1 @@
+"Beräkna diametern om omkretsen är $4$ m. Avrunda till en decimal."

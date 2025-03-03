@@ -1,1 +1,0 @@
-Great work on multiplying by 3 – maybe check if you correctly adjusted the constant term when isolating x.

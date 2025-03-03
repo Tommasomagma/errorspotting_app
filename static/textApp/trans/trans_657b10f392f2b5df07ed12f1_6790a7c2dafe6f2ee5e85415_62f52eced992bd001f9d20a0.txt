@@ -1,3 +1,0 @@
-\[ 
-50 = \text{radie}, \quad A = \Pi \cdot r^2 
-\]

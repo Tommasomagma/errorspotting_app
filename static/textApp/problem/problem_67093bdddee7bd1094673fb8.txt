@@ -1,0 +1,1 @@
+"Vilket tal är dubbelt så stort som det som visas i bilden?". Problem image: Bilden visar tre grupper av objekt: oranga kvadrater ordnade i block, rosa rektanglar staplade i kolumner och individuella blåa kvadrater. Varje grupp representerar ett antal.

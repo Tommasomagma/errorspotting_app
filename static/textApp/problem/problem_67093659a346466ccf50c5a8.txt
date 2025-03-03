@@ -1,0 +1,1 @@
+"En skola har $7$ grupprum. I varje grupprum finns $8$ stolar. Hur många stolar finns det i alla skolans grupprum?"

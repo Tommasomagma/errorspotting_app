@@ -1,0 +1,1 @@
+Check if you forgot to subtract the discount from the original price instead of just calculating the discount amount.

@@ -1,0 +1,1 @@
+Kolla så att du bara multiplicerar 12 cm med 250 m per cm istället för att lägga till andra tal.

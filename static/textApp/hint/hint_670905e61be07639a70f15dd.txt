@@ -1,0 +1,1 @@
+Check if you divided the number of colored parts by the total parts correctly and did the division accurately.

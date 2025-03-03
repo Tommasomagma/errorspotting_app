@@ -1,0 +1,1 @@
+"Du har talet $3\\ 456{,}78$.\n\nVilken siffra är tusentalssiffra?"

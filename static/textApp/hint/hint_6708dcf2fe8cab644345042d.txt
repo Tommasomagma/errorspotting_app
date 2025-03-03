@@ -1,0 +1,1 @@
+It looks like you might have made a mistake multiplying the number of students in each group, so double-check the multiplication for both 16×13 and 14×12.

@@ -1,1 +1,0 @@
-Take another look at whether subtracting 43 was the right operation in the step for x - 43 = 129.

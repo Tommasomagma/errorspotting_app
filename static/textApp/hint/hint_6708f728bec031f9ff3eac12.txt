@@ -1,0 +1,1 @@
+Try reducing your fraction completely by checking if the numerator and denominator share a bigger common factor.

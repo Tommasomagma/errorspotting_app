@@ -1,1 +1,0 @@
-Take a closer look at how you multiplied 11 by 6—try splitting 11 into 10 and 1 and check if the sums add up correctly.

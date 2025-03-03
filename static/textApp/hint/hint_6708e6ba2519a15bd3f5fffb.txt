@@ -1,0 +1,1 @@
+Check if you need to add the 0.200 value, as the problem might only require summing the values corresponding to the spinach leaves.

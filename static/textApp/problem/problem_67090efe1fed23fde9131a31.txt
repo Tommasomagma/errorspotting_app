@@ -1,0 +1,1 @@
+"Vad saknas för att likheten ska gälla?\n\n${\\Large\\frac{4}{9}}={\\Large\\frac{?}{27}}$"

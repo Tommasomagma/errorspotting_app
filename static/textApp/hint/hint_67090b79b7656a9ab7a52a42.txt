@@ -1,0 +1,1 @@
+Try multiplying the increases together instead of just adding them.

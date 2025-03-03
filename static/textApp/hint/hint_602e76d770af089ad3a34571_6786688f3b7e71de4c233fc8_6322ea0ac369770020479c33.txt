@@ -1,1 +1,0 @@
-Take another look at your division of 100 by 6, since rounding early there may have affected your final result.

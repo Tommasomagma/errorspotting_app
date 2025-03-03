@@ -1,1 +1,0 @@
-"Skriv uttrycket utan parentes.\n\n$a(8+2a)=$"

@@ -1,0 +1,1 @@
+"Priset på en lampa var 5 000 kr. Efter 1 år hade priset stigit med 50 %. Därefter sjönk priset 3 år på rak, med 20 % per år.\n\nVad kostade lampan efter 3 år?". Problem image: En lampa.

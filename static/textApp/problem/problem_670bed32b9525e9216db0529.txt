@@ -1,0 +1,1 @@
+"Skriv talen i decimalform.\n\ntjugonio hundradelar"

@@ -1,0 +1,1 @@
+"Beräkna kvoten av täljaren $45{,}3$ och nämnaren $3$."

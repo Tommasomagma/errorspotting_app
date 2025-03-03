@@ -1,0 +1,5 @@
+$\frac{4\cdot 4}{1\cdot 4} \cdot \frac{3}{4} = \frac{16}{4} \cdot \frac{3}{4} = \frac{48}{41} = \frac{12}{1}$
+
+$\begin{matrix} & 16 \\ \cdot & \frac{3}{4} \\ \hline & 48 \end{matrix}$
+
+$12 dm^2$

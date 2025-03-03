@@ -1,0 +1,1 @@
+"Hur många hela procent är\n\n ${\\Large\\frac{13}{77}} \\approx$"

@@ -1,0 +1,1 @@
+Double-check if you are subtracting 1 from x or subtracting x from 1 as given in the problem.

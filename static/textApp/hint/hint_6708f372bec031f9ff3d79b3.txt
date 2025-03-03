@@ -1,0 +1,1 @@
+Dubbelkolla att du räknade rätt antal utfall där tärningen visar "7 eller högre".

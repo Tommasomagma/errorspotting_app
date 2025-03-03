@@ -1,3 +1,0 @@
-En liksidig triangel har sidan $x+5$, och en kvadrat har sidan $x$. 
-
-För vilket värde på $x$ har figurerna samma omkrets?

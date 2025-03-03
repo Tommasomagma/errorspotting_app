@@ -1,0 +1,1 @@
+"Beräkna utan räknare. Svara i decimalform.\n\n${\\Large\\frac{5}{10}} - 0{,}4=$"

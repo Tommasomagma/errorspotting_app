@@ -1,0 +1,1 @@
+nan. Problem image: A right-angled triangle labeled with vertices A, O, and C. The angle at vertex O is a right angle. The angle at C is labeled 28 degrees. There is an unknown angle x degrees at vertex A.

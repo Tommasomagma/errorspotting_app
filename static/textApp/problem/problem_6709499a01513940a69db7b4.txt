@@ -1,0 +1,1 @@
+"Vilket tal är störst?\n\n\n ${\\Large \\frac{7}{9}}$ eller ${\\Large \\frac{2}{3}}$"

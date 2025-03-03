@@ -1,0 +1,1 @@
+"Summan av två tal är $200$. Det ena talet är fyra gånger så stort som det andra. Vilket är det största av de två talen?"

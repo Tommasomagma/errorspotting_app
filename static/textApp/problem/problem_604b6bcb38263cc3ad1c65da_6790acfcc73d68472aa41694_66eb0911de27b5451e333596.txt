@@ -1,1 +1,0 @@
-"Vilket är talet som visas i bild? Svara i bråkform.". Problem image: Bilden visar fyra cirklar uppdelade i lika stora sektorer. Tre av cirklarna är fyllda med orange färg och den fjärde cirkeln är ofärgad men har en orange sektor. Varje cirkel är uppdelad i åtta sektorer.

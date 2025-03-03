@@ -1,0 +1,1 @@
+Remember to check if you need to divide your result into three equal parts since the cost was for three tickets.

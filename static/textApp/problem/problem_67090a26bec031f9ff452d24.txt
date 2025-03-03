@@ -1,0 +1,1 @@
+"Skriv det tal som saknas i rutan så att likheten stämmer.\n\n${\\Large\\frac{1}{4}}+{\\Large\\frac{\\boxed{\\phantom{a}}}{8}}=1$"

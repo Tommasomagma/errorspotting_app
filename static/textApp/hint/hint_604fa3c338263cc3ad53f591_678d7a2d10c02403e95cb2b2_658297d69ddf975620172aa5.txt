@@ -1,1 +1,0 @@
-Double-check how you added the side lengths—remember that a+5 plus a+5 should simplify to an expression with 2a, not just a, before multiplying.

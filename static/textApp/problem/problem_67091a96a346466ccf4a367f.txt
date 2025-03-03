@@ -1,0 +1,1 @@
+"Rutt ska köpa 2 spikar. Spik säljs i kilopris och kostar 21 kr per kg och varje spik väger 0,002 kg. \n\nVad blir kostnaden för de två spikarna?". Problem image: En hammare och en spik.

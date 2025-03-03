@@ -1,0 +1,1 @@
+"Aziz löptränar 4 dagar i veckan. Vid varje tillfälle springer han 7 km. Vid ett tillfälle under en vecka har Aziz sprungit 23 km. \n\nVälj uttrycket som visar hur mycket Aziz har kvar att springa under den veckan.". Problem image: En pojke som joggar.

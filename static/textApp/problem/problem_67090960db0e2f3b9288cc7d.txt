@@ -1,0 +1,1 @@
+"Beräkna och svara i enklaste form.\n\n${\\Large\\frac{1}{12}} \\cdot {\\Large\\frac{6}{5}}=$"

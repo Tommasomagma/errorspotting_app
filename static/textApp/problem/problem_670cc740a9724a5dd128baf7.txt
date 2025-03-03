@@ -1,0 +1,1 @@
+"Beräkna. \n\n$1{,}1+0{,}02 = $". Problem image: Ett rutnät som visar addition av två decimaltal. Första talet är 1,1 uppdelat på två celler i rutnätet. Andra talet är 0,02 och ligger under det första talet. Varje decimal av talet har sin egen cell. Det finns en blå linje som indikerar var summan skulle noteras under.

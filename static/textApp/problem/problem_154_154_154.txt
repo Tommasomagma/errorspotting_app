@@ -1,3 +1,0 @@
-What value of $x$ makes this true?
-
-$\quad x-2.5=1$

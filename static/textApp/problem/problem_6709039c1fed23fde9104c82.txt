@@ -1,0 +1,1 @@
+"Beräkna rektangelns area.". Problem image: Bilden visar en rektangel med sidorna märkta. Ena sidan är märkt med '5 cm' och den andra sidan med '9 cm'.

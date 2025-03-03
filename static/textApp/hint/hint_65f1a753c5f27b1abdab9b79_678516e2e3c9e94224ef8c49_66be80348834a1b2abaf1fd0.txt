@@ -1,1 +1,0 @@
-Great effort—try checking how you use the substitution: don’t leave any variables behind when you multiply, but instead compute the complete number in each step!

@@ -1,0 +1,1 @@
+"Lös ekvationen. Svara i bråkform.\n\n${\\Large\\frac{14}{(3x\\ -\\ 7)\\ +\\ 3x}}=7$"

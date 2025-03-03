@@ -1,0 +1,1 @@
+"Beräkna.\n\n $23 - 15=$". Problem image: En tabell med två rader och tre kolumner används för att visa subtraktion av två tal. Övre raden innehåller siffrorna 2 och 3, under raden finns ett minustecken följt av siffrorna 1 och 5. En horisontell linje separerar talen.

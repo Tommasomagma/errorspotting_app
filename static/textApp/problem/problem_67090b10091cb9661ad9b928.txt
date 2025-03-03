@@ -1,0 +1,1 @@
+"Avståndet mellan Jupiter och jorden är $6{,}3\\cdot 10^{11}$ m. Från jorden sänds en radiosignal mot Jupiter. Radiosignalen reflekteras mot Jupiters yta och fångas upp på jorden igen $70$ min efter det att den skickades iväg från jorden.  \n\nMed vilken hastighet i kilometer per sekund rör sig radiosignalen? Svara enbart med ett tal."

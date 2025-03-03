@@ -1,0 +1,1 @@
+"Amir skulle på sin miniräknare dividera ett tal med 100, men råkade istället multiplicera med 100. Resultatet som visades var 789. \n\nVilket resultat hade visats om Amir gjort rätt?"

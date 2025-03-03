@@ -1,0 +1,1 @@
+"Carl har 14 kr. Arash har 100 gånger mer än Carl. Ludvig har tio gånger mer än Arash.\n\nHur många kronor har Ludvig?". Problem image: En spargris.

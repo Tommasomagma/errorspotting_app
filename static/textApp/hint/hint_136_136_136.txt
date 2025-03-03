@@ -1,1 +1,0 @@
-Try re-check how you simplified (x/10) divided by (1/5) to make sure you didn't accidentally subtract the x/2 that comes from that step.

@@ -1,1 +1,0 @@
-Double-check how dividing by 0.5 means multiplying by 2, and see if your step with decimals was handled correctly.

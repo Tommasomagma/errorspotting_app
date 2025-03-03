@@ -1,0 +1,1 @@
+Review the step where you wrote "2.4+1" and make sure you used the correct operations from the figure pattern.

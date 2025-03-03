@@ -1,1 +1,0 @@
-It looks like you might have only divided one part of the number—try rechecking your long division to make sure all digits of 8046 are divided by 6.

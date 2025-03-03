@@ -1,0 +1,1 @@
+"John har $5$ pennor. Ella har $2$ pennor. Melissa har $10$ pennor.\n\nHur många pennor har de tillsammans?". Problem image: En illustration av en penna.

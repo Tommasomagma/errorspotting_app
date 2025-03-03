@@ -1,0 +1,1 @@
+Check that both terms have the same exponent instead of one being fixed at -3.

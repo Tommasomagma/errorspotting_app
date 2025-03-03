@@ -1,0 +1,1 @@
+"Lös ekvationen.\n\n $2(x+1)=5-2x$\n\nRedovisa din lösning."

@@ -1,0 +1,1 @@
+"Lös ekvationen.\n\n$42 = 3(4x -2)$"

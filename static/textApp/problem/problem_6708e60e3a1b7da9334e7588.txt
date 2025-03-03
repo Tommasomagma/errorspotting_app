@@ -1,0 +1,1 @@
+"Hur mycket är den understrukna siffran värd?\n\n$\\underline{9} \\ 172$"

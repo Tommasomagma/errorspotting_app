@@ -1,0 +1,1 @@
+"En potens har värdet $1\\ 000$. Exponenten är $3$. Vilken är basen?"

@@ -1,0 +1,1 @@
+"Beräkna summan av $2{,}5$ och $4{,}03$."

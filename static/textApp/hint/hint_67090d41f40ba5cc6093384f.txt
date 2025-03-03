@@ -1,0 +1,1 @@
+Double-check the division step to see if splitting 24 into 4 equal groups might give a different number.

@@ -1,0 +1,1 @@
+"På en skola går $150$ elever. En tredjedel av eleverna går i fyran och $30$ % i femman. Resten av eleverna går i sexan.\n\nHur stor andel av eleverna går i sexan?\n\nSvara med ett bråk i enklaste form."

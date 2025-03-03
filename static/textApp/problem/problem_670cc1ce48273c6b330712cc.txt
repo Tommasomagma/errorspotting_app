@@ -1,0 +1,1 @@
+"Arvid har 10 stycken äpplen. Han äter upp  30 % av äpplena.\n\nHur många äpplen åt Arvid?". Problem image: Ett rött äpple.

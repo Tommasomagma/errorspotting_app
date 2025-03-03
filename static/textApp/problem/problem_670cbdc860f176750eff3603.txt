@@ -1,0 +1,1 @@
+"Skriv det tal som saknas i rutan så att likheten stämmer.\n\n${\\Large\\frac{1}{3}}+{\\Large\\frac{\\boxed{\\phantom{a}}}{6}}=1$"

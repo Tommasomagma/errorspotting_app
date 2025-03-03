@@ -1,1 +1,0 @@
-Hint: Take another look at your subtraction step, as 22 minus 15 may have been calculated incorrectly.

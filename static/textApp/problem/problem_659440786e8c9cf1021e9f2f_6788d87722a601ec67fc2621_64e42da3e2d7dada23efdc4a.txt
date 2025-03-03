@@ -1,1 +1,0 @@
-"Beräkna med huvudräkning.\n\n$16 + 8\\ /\\ 2=$"

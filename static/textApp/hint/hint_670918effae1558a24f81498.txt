@@ -1,0 +1,1 @@
+Check your units—when adding distances, the unit should stay meters, not become square meters.

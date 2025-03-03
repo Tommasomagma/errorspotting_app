@@ -1,0 +1,1 @@
+"Vilket tal är $x$?\n\n${\\large\\frac{46}{7}}=x$ rest $4$"

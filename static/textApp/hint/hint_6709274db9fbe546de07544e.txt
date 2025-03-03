@@ -1,0 +1,1 @@
+Remember to add both bases first before dividing by 2, so double-check how you applied the order of operations.

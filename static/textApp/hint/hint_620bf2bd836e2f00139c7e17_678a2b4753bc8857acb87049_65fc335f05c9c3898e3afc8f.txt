@@ -1,1 +1,0 @@
-Have a look at how many times 6 fits into the first group of digits in 8742—it seems a quotient digit was overestimated.

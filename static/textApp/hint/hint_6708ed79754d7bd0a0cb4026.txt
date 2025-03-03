@@ -1,0 +1,1 @@
+Check that you correctly handle each spending step, especially when subtracting the fractions of money spent.

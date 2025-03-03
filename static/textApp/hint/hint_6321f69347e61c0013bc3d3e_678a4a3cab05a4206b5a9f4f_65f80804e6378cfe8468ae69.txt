@@ -1,1 +1,0 @@
-Great try – check that you’re dividing the total snowfall by the eight days, not a fraction like 4/40.

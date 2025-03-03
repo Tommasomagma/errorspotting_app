@@ -1,0 +1,1 @@
+"Summan av två tal är $810$. Det ena är fem gånger så stort som det andra. Vilken är differensen mellan de två talen?"

@@ -1,0 +1,1 @@
+"Bea är i skogen och ser 17 kaniner. 9 kaniner springer iväg. \n\nHur många kaniner är kvar?". Problem image: En tecknad kanin.

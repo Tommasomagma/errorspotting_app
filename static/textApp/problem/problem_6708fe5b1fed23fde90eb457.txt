@@ -1,0 +1,1 @@
+nan. Problem image: Three sets of square tiles visually representing money values. The first set is a complete grid of squares, the second set is a nearly complete grid with a diagonal line through some squares, and the third set consists of a column and separate squares with diagonal lines through some of them.

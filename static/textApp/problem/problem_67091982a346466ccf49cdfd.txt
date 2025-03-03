@@ -1,0 +1,1 @@
+"En kvadrat har arean $36$ cm$^2$. Hur lång är kvadratens sida?"

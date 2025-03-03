@@ -1,0 +1,1 @@
+Try converting the total steps into distance by changing centimeters to kilometers and remember to round to a whole number.

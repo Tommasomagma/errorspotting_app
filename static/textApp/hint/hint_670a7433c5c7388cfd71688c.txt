@@ -1,0 +1,1 @@
+Double-check the multiplication of the two dice's probabilities—you might have mixed up the denominators along the way.

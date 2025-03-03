@@ -1,0 +1,1 @@
+"Vilket tal är $x$?\n\n$x+{\\Large \\frac{9}{10}}=1{,}6$"

@@ -1,0 +1,1 @@
+Try dividing the total grams by 1000 to see how many whole kilograms there are and what stays as extra grams.

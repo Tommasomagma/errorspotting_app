@@ -1,0 +1,1 @@
+Försök multiplicera antalet elever i varje årskurs med hur många klasser det finns och sedan addera de två talen.

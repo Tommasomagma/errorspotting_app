@@ -1,0 +1,1 @@
+"Summan av ett positivt heltal och ett negativt heltal är $-2$.\n\nVälj de tre talkombinationerna som stämmer med påståendet."

@@ -1,0 +1,1 @@
+"I ett motionsspår finns tre slingor: röd (2,5 km), gul (5 km) och grön (7,6 km). Hermina springer både den gula och gröna slingan, medan hennes kompis går den röda. Hur mycket längre har Hermina sprungit än vad hennes kompis har gått?". Problem image: En person som springer.

@@ -1,1 +1,0 @@
-Double-check the step where you isolated h—make sure you divide the volume by (length × width) instead of dividing (length × width) by the volume.

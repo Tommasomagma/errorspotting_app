@@ -1,0 +1,1 @@
+Try revisiting the step where you isolate x, as your arithmetic might have mixed up the subtraction of 1.

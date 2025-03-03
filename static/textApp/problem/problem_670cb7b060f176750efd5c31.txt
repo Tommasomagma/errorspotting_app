@@ -1,0 +1,1 @@
+"Ett rep är  $8{,}5$ m långt. Hur lång bit av repet är kvar om man klipper av $0{,}5$ m?"

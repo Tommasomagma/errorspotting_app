@@ -1,1 +1,0 @@
-Take another look at how you set up Sandy's amount and combine it with the others—make sure you correctly distribute the multiplication over addition.

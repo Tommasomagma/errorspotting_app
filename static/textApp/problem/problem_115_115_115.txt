@@ -1,3 +1,0 @@
-En produkt kostar 100 kr innan priset höjs med $10\ \%$. Därefter sänks priset med $10\ \%$.
-
-Vad kostar produkten då?

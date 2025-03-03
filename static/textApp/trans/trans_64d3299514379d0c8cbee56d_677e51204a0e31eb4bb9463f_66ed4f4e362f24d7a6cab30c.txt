@@ -1,8 +1,0 @@
-\[
-\begin{array}{c}
- 2 \\
-\hline
-125 \\
-\end{array}
-\div 5 = 035
-\]

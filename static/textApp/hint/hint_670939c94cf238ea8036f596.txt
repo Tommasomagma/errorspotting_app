@@ -1,0 +1,1 @@
+Try to count how many cubes there are and think about how each cube contributes to the total volume.

@@ -1,0 +1,1 @@
+Remember that each number is the square of its position, so try squaring the position number for the 10th spot!

@@ -1,0 +1,1 @@
+Tänk på att hitta den största gemensamma faktorn som delar både 210 och 300 utan resten.

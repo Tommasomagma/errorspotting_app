@@ -1,0 +1,1 @@
+Double-check how you isolate x instead of using the product from 3·x as the final answer.

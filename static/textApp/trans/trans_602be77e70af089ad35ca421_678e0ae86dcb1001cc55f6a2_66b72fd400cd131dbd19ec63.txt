@@ -1,6 +1,0 @@
-\( \begin{array}{c} 
-403 \\ 
--167 \\ 
-\hline
-146 
-\end{array} \)

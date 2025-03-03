@@ -1,0 +1,1 @@
+Check if you multiplied 3 by all classes, since one class had a different number of sick students.

@@ -1,0 +1,1 @@
+"Hur stor yta är vit?". Problem image: Bilden visar en rektangel med en rosa triangel inuti. Rektangelns längd är 6 centimeter och bredden är 2 centimeter. Triangeln täcker en del av rektangeln.

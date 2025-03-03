@@ -1,0 +1,1 @@
+"Beräkna arean.". Problem image: Bilden visar en sammansatt figur bestående av 3 olika delar: en rektangel, en kvadrat och en triangel. Rektangeln har måtten 4 dm för höjden och 5 dm för bredden. Kvadraten är 3 dm på varje sida. Triangeln har en bas som är samma som kvadratens sida, och höjden är 4 dm.

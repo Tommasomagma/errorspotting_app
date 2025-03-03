@@ -1,0 +1,1 @@
+Check if you correctly found 51% of the total tickets by subtracting the winning percentage before multiplying.

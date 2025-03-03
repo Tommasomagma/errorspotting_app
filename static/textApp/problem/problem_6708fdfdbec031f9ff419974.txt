@@ -1,0 +1,1 @@
+"Erik har $5$ stycken par byxor. Ett av hans par är röda. \n\nHur stor andel av Eriks byxor är röda? Svara i decimalform."

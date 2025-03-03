@@ -1,1 +1,0 @@
-Great work so far—check if multiplying 49 by 2 before taking the square root fits with how the area of a square is calculated.

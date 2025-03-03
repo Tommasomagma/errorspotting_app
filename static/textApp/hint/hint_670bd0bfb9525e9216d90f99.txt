@@ -1,0 +1,1 @@
+Try counting every outer edge of the shape and remember each step is 2 cm.

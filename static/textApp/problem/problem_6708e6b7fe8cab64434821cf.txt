@@ -1,0 +1,1 @@
+"Isa jobbar i en klädbutik. En dag var sambandet mellan antalet sålda t-shirts, $t$, och antalet sålda byxor, $b$, följande. \n\n$t+3=\\large\\frac{b}{2}$\n\nHur många par byxor såldes om Isa sålde 35 t-shirts den dagen?". Problem image: Ett par byxor.

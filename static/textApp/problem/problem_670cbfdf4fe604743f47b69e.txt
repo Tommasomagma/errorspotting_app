@@ -1,0 +1,1 @@
+"Hur stor andel av figuren är färgad? Svara i decimalform.". Problem image: Ett rektangulärt rutnät bestående av två rader och sex kolumner, där varje cell i rutnätet representerar en lika stor del av figuren. Majoriteten av cellerna är färgade i rosa, med undantag för en cell som är ofärgad.

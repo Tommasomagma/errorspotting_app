@@ -1,0 +1,1 @@
+Remember to add 0.25 and 1 first, then divide the sum by 2 to get the middle number.

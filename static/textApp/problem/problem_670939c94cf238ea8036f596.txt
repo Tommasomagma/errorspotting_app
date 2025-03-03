@@ -1,0 +1,1 @@
+nan. Problem image: A structure composed of several connected cubes, with each cube having an equal volume.

@@ -1,0 +1,1 @@
+"Avrunda $695$ till närmaste hundratal och $9{,}1$ till närmaste heltal, utför sedan överslagsräkningen.\n\n$695\\cdot9{,}1 \\approx$"

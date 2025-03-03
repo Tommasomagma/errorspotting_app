@@ -1,0 +1,1 @@
+"Vilken är MGN för bråken? \n\n$\\Large \\frac{5}{8}$ och $\\Large \\frac{3}{4}$"

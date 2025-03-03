@@ -1,0 +1,1 @@
+Maybe check if each full spin was measured correctly according to the problem description.

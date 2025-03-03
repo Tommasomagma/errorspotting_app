@@ -1,0 +1,1 @@
+"Vid en \"första hjälpen\"-utbildning finns det 24 lärare, 16 flygvärdinnor och 36 livräddare.\n\nDeltagarna ska delas in i grupper med lika många lärare, flygvärdinnor och livräddare i varje grupp. Varje grupp ska haha färre än 20 deltagare.\n\nVad är antalet grupper som deltagarna kan delas in i?"

@@ -1,0 +1,1 @@
+Convert the percent to a decimal and multiply by 6000—maybe you'll notice if a small mistake was made!

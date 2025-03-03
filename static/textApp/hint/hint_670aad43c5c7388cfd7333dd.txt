@@ -1,0 +1,1 @@
+Remember to check how you calculate each triangle's area by using half the product of the base and height.

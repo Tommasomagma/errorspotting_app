@@ -1,0 +1,1 @@
+"Beräkna och svara i enklaste form.\n\n$\\Large\\frac{x}{7}$ $\\bigg/$ ${\\Large\\frac{1}{3}}=$"

@@ -1,0 +1,1 @@
+"Elias behöver bygga ihop en kartonglåda. Lådan behöver ha samma volym som ett klot med en begränsningsarea på $252$ dm$^2$. Vilken sidlängd ska kartonglådan ha om den är formad som en kub? Svara med en decimal.". Problem image: Bilden visar en öppen kartonglåda formad som en kub.

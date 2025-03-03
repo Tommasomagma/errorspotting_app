@@ -1,1 +1,0 @@
-It looks like you subtracted 11 instead of subtracting 5; try re-checking which term should be moved to isolate x.

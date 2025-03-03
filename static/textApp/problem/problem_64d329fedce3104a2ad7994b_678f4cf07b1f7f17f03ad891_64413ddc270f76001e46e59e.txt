@@ -1,1 +1,0 @@
-"Visa hur du löser uppgiften.\n\n$352\\cdot {\\Large\\frac{3}{4}}=$"

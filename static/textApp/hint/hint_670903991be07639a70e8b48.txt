@@ -1,0 +1,1 @@
+Take a look at how you turned 70% into a number—make sure you use its decimal value rather than 7.

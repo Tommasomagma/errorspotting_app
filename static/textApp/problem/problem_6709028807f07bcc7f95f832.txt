@@ -1,0 +1,1 @@
+"Vilket tal ska stå i stället för symbolen?\n\n\n$25=\\boxed?-25$"

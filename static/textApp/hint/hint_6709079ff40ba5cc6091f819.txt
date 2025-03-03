@@ -1,0 +1,1 @@
+Try multiplying the number of teams by how many players are in one team to see how many players there are in total!

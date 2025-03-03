@@ -1,1 +1,0 @@
-Great work so far—try revisiting your step when you added 2 to both sides to see if the total was computed correctly.

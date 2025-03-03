@@ -1,3 +1,0 @@
-Lös ekvationen.
-
-$8 = {\Large\frac{5x}{3}} - 7$

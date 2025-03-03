@@ -1,0 +1,1 @@
+"Avståndet mellan jorden och Jupiter är $6{,}3 \\cdot 10^{11}$ m. Hur lång tid tar det för solljuset som reflekterats mot Jupiter att nå jorden? Ljusets hastighet är $3 \\cdot 10^8$ m/s. Svara i minuter."

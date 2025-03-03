@@ -1,0 +1,1 @@
+"Rätta den felaktiga omvandlingen och svara i bråkform.\n\n$1{\\Large\\frac{3}{7}}={\\Large\\frac{13}{7}}$"

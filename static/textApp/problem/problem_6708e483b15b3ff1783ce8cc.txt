@@ -1,0 +1,1 @@
+"Beräkna. \n\n$6{,}8 - 2{,}3=$". Problem image: Bilden visar en uppställning av subtraktion med två tal. Talfältet är uppdelat i en tabell med två rader och två kolumner, separerade av ett horisontellt blått streck. I den övre raden finns talen 6,8 och i den nedre raden under strecket finns talen 2,3.

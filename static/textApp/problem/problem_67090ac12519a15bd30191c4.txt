@@ -1,0 +1,1 @@
+"Fyra tjejer springer stafett. Hanna springer först. Hennes tid är $x$ minuter. Elins springer $2$ minuter snabbare än Hanna. Louise springer på samma tid som Elin. Daniela springer $5$ minuter långsammare än Hanna. \n\nSkriv ett uttryck för den sammanlagda tiden för stafettlaget och förenkla det så långt som möjligt."

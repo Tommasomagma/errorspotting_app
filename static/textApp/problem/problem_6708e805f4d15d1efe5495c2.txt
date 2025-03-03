@@ -1,0 +1,1 @@
+"Beräkna.\n\n$40+36+3=$". Problem image: En tabell för addition med två kolumner och fyra rader. Första raden innehåller siffrorna 4 och 0. Andra raden har ett plustecken följt av siffrorna 3 och 6. Tredje raden har ett plustecken följt av siffran 3 placerad i den högra kolumnen. Fjärde raden är tom och markerad med en horisontell linje längst ner.

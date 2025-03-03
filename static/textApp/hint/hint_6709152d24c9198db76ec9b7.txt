@@ -1,0 +1,1 @@
+Check if you correctly placed y in the equation x - y = 17, making sure you add instead of subtract.

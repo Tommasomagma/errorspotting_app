@@ -1,1 +1,0 @@
-Hint: Review how you handled the -8 term and make sure you add it to both sides to isolate 5x correctly.

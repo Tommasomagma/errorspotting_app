@@ -1,0 +1,1 @@
+Pröva att räkna "baklänges" från 15 med steglängden 2 för att hitta det första talet.

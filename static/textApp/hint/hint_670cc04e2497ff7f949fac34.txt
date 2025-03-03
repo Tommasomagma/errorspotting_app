@@ -1,0 +1,1 @@
+Make sure to add the decimals first before rounding the numbers.

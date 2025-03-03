@@ -1,0 +1,1 @@
+Try computing both areas by multiplying the measurements and then subtract one from the other to see the change.

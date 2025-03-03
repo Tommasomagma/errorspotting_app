@@ -1,0 +1,1 @@
+Check the order by first comparing the whole numbers, then looking at each decimal digit carefully.

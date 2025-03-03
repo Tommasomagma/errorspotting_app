@@ -1,1 +1,0 @@
-Great effort—check that you’re multiplying by the correct number of sides, not 7, when finding the square's perimeter.

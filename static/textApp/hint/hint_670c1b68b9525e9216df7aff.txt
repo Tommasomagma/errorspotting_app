@@ -1,0 +1,1 @@
+Fundera på hur du kan få fram antalet elever som inte är med i sjuan genom att ta bort de 23 från 100.

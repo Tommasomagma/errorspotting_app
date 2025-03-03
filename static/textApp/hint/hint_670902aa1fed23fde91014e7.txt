@@ -1,0 +1,1 @@
+Take another look at how you calculated the change relative to the starting price rather than multiplying the original price by 2.

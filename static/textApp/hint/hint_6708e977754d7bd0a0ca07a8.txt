@@ -1,0 +1,1 @@
+Fundera på vilken ordning som inte går att åstadkomma med bara ett enda byte av två kort.

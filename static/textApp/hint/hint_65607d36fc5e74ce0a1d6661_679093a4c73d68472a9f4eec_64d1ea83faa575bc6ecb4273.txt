@@ -1,1 +1,0 @@
-Great job isolating the fraction; now check if canceling 5 directly is right when x is still part of a fraction with 3, and see if multiplying by 3 might help.

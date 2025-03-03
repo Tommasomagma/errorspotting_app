@@ -1,0 +1,1 @@
+Make sure to distribute the 4 to both x and 6 so that every term inside the parentheses is multiplied correctly.

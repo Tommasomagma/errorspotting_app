@@ -1,0 +1,1 @@
+Remember to check if you accidentally divided the area in half by using the diagonal, as it splits the rectangle but doesn't change its total area.

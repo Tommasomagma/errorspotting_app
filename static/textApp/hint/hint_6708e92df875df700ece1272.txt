@@ -1,0 +1,1 @@
+Remember that the whole circle's edge comes from multiplying the radius by 2 and then by pi.

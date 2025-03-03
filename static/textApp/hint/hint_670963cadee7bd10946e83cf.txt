@@ -1,0 +1,1 @@
+Check your multiplication step—make sure that when you compute 9 times 3, your answer matches the expected product.

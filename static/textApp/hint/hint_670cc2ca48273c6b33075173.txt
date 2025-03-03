@@ -1,0 +1,1 @@
+Double-check how you handled the multiplication and division steps in the scale conversion, as it looks like an extra division may have been applied.

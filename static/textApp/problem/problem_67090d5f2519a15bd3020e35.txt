@@ -1,0 +1,1 @@
+"I en tävling i längdhopp gjorde Ibrahim fem godkända hopp. Längderna var: \n\n- $315$ cm\n- $340$ cm\n- $312$ cm\n- $335$ cm\n- $348$ cm\n\nBeräkna medelvärdet."

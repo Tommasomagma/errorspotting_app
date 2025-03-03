@@ -1,0 +1,1 @@
+"Erik har $325$ svenska frimärken och $247$ utländska frimärken. \n\nHur många frimärken har han sammanlagt?"

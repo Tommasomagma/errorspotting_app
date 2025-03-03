@@ -1,0 +1,1 @@
+Remember to check that you multiply the price by the number of items bought before adding.

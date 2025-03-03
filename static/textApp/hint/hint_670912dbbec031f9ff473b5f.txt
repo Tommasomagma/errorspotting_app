@@ -1,0 +1,1 @@
+Try using the formula for a circle's circumference (2 × π × r) with the moon's distance to find the solution.

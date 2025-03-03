@@ -1,0 +1,1 @@
+"Differensen mellan två tal $x$ och $y$ är 18, där $x$ är större än $y$. Summan av $x$ och $y$ är 100. \n\nVilket tal är $x$?"

@@ -1,0 +1,1 @@
+"Matilda ska cykla en sträcka som är $18$ km lång. \n\nNär Matilda cyklat en tredjedel av sträckan stannar hon och köper en glass. Hur stor andel av sträckan har Matilda kvar att cykla?"

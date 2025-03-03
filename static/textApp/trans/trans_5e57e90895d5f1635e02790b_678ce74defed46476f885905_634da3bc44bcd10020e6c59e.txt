@@ -1,7 +1,0 @@
-\( \begin{array}{c} 
- & 1 \\
- & 67 \\ 
-+ & 86 \\ 
-\hline
- & 253 
-\end{array} \)

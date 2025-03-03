@@ -1,1 +1,0 @@
-Take another look at your division step—make sure that when you divide 12 by 2, you use the right arithmetic result.

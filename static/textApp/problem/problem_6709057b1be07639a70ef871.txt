@@ -1,0 +1,1 @@
+"På en månad går Ludvig till och från skolan 23 dagar. Sträckan mellan hemmet och skolan är 4 km. \n\nHur långt går han totalt?". Problem image: En enkel illustration av en rutt mellan ett hus och en plats markerad med en röd punkt som representerar skolan. Rutten är böjd och inte till skala.

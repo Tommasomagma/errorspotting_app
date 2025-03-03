@@ -1,0 +1,1 @@
+"Vilket tal ska stå istället för 🐻? \n\n$971, 981, 991,$ 🐻, 😄, 😎"

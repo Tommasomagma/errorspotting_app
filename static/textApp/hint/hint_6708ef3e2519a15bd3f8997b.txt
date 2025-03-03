@@ -1,0 +1,1 @@
+Try counting the distance for a round trip each day and then multiplying by the total days.

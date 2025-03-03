@@ -1,0 +1,1 @@
+"Beräkna och svara i bråkform.\n\n$\\Large\\frac{5}{4}$ $\\cdot$ $\\Large\\frac{3}{7}$ $=$"

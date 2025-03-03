@@ -1,0 +1,1 @@
+nan. Problem image: A large square with a side labeled 100 inches, containing four white rectangles arranged from corner to corner creating an X shape with orange shaded regions between them. Each rectangle has labeled dimensions of 36 inches by 10 inches.

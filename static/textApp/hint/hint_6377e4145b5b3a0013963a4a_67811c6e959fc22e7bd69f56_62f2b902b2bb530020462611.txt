@@ -1,1 +1,0 @@
-It looks like you might have missed changing the sign on the b term when subtracting the second expression—try rechecking how the negative sign applies to each term.

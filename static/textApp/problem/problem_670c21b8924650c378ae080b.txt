@@ -1,0 +1,1 @@
+"Summan av två tal är $1\\ 309$. Det ena talet är sex gånger så stort som det andra. Vilken är differensen mellan de två talen?"

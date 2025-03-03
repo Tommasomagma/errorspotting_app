@@ -1,0 +1,1 @@
+"Hur många fyrsiffriga tal finns det där hälften av talet är delbart med 2, en tredjedel av talet är delbart med 3 och en femtedel av talet är delbart med 5?"

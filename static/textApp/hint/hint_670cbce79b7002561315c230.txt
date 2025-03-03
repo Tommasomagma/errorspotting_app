@@ -1,0 +1,1 @@
+Double-check how you isolate x by subtracting 1/4 from 1 without adding extra numbers.

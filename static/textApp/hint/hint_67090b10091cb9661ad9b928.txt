@@ -1,0 +1,1 @@
+Think about converting the 70 minutes into seconds and then dividing the total travel distance by that time to find the speed.

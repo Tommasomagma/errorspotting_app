@@ -1,1 +1,0 @@
-Check whether you've correctly used only the rectangle's dimensions to form the triangle without introducing an extra multiplication factor.

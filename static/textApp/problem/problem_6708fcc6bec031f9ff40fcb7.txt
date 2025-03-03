@@ -1,0 +1,1 @@
+"Avrunda till två decimaler\n\n5,689"

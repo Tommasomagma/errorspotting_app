@@ -1,1 +1,0 @@
-Check your step where you multiplied and subtracted 100—see if you should just subtract the original percentage from the new one.

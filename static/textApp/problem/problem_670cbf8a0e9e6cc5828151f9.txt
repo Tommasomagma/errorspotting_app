@@ -1,0 +1,1 @@
+"Vad blir kvoten av följande uppgifter? Svara i decimalform.\n\n64,4/7"

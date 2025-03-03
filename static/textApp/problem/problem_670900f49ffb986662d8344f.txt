@@ -1,0 +1,1 @@
+"Hur lång tid tar det att köra $26$ mil med en medelhastighet på $80$ km/h?"

@@ -1,0 +1,1 @@
+"**Problemlösning** \n\nGreta ska plantera $5$ buskar. Det ska vara $12$ meter mellan första och sista busken. Hur långt blir avståndet mellan varje buske i meter?"

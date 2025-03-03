@@ -1,0 +1,1 @@
+"En skalenlig modell av Golden gate bron är 13,7 cm lång. I verkligheten är bron $2\\ 740$ m lång. Det längsta spannet på den riktiga bron är $1\\ 280$ meter. \n\nHur långt är spannet i modellen? Svara i centimeter och avrunda till en decimal.". Problem image: En skalenlig modell av en bro.

@@ -1,3 +1,0 @@
-What value of $x$ makes this true? 
-
-$\quad 7+x=10$

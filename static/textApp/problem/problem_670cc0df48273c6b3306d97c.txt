@@ -1,0 +1,1 @@
+"Vilket tal är $x$?\n\n$48 = x \\cdot 6$"

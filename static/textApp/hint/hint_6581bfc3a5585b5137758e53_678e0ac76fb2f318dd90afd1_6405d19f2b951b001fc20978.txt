@@ -1,1 +1,0 @@
-Maybe revisit whether multiplying the perimeter by the path width fully captures the extra area in the four corners.

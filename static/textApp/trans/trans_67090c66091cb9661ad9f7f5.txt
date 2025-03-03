@@ -1,0 +1,9 @@
+$\begin{array}{|c|c|c|}
+\hline
+5 & 4 & 3 \\
+\hline
+-1 & 9 & 9 \\
+\hline
+3 & 5 & 4 \\
+\hline
+\end{array}$

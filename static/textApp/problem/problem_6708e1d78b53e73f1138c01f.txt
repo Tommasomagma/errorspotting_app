@@ -1,0 +1,1 @@
+"Tabellen visar hur många personer som bor i fem olika orter. \n\nHur många personer bor sammanlagt i orterna Irsta, Katrinedal och Målilla?". Problem image: En tabell med två kolumner och en rubrikrad. Första kolumnens rubrik är 'Ort' och listar fem orter. Andra kolumnens rubrik är 'Antal personer' och visar uppgifter bredvid varje ort.

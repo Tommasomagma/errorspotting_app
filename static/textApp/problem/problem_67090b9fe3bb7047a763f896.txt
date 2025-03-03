@@ -1,0 +1,1 @@
+"Skriv talet i grundpotensform.\n\n$640\\ 000$"

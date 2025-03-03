@@ -1,0 +1,1 @@
+"Vilket värdet skulle uttrycket $(3+9)/(3-2)$ få om alla parenteser togs bort?"

@@ -1,0 +1,1 @@
+Double-check your digit alignment in the multiplication to ensure you're not adding extra zeros by mistake.

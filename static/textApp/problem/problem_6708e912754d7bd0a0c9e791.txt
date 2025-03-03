@@ -1,0 +1,1 @@
+"Ett tal avrundas till 9,8.\n\nOm talet som avrundades hade två decimaler, vilket är det största möjliga talet?"

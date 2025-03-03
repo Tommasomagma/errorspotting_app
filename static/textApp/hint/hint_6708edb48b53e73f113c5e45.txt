@@ -1,0 +1,1 @@
+Try multiplying the total number of visits by the price per ticket and check if you have all the correct zeros.

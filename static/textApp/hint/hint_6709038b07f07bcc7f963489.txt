@@ -1,0 +1,1 @@
+Check how many decimal points you should have in your multiplication result.

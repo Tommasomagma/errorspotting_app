@@ -1,0 +1,1 @@
+"**Klubben**\n\nEn skolklubb har $50$ medlemmar. De går i klass $4$, $5$ eller $6$.\n\n$15$ går i klass $4$.\n\n$15$ går i klass $6$.\n\n$7$ är pojkar i klass $4$.\n\n$8$ är pojkar i klass $5$.\n\n$29$ är flickor.\n\nHur många flickor i klubben går i klass $6$?"

@@ -1,0 +1,1 @@
+nan. Problem image: A 2 by 2 grid representing polynomial terms. The top row contains 'x' and '3'. The bottom left entry is '3'. The first column shows 'x', with the second row entry being 'x^2'. The second column shows '3x' on top and 'c' highlighted in pink at the bottom.

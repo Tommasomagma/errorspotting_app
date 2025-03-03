@@ -1,0 +1,1 @@
+Remember to check if you need to divide by 2 when calculating the triangle's area.

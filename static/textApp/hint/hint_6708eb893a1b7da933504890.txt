@@ -1,0 +1,1 @@
+Review how you compute each person's caps using multiplication or division instead of subtraction.

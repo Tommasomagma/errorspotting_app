@@ -1,0 +1,1 @@
+Remember to carefully keep the sign of the constant term when removing the parentheses.

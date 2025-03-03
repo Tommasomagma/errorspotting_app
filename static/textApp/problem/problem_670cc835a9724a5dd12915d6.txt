@@ -1,0 +1,1 @@
+"Vad är differensen mellan det femtonde talet i talföljden och det fjortonde?\n\n${-19}, \\hspace{0.1cm} {-14}, \\hspace{0.1cm} {-9}, \\hspace{0.1cm} \\underline{\\hspace{0.5cm}}$"

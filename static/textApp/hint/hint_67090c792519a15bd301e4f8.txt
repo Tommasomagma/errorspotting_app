@@ -1,0 +1,1 @@
+Try adding the ones, tens, and hundreds columns one by one, making sure to carry over if needed.

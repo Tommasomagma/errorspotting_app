@@ -1,0 +1,1 @@
+Double-check if you only need to compare the numbers instead of subtracting them from each other.

@@ -1,1 +1,0 @@
-It looks like your borrowing might be off—try checking how you adjusted the digits before subtracting the ones column.

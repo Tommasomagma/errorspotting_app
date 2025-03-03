@@ -1,0 +1,1 @@
+"Välj mellan strategierna *Rita*, *Pröva dig fram*, *Använd tabell*, *Räkna baklänges* eller *Använd ekvation*. \n\nTed, Jen och Hanna har med sig vatten till träningen. Ted har dubbelt så mycket vatten som Jen. Hanna har lika mycket som Ted och Jen har tillsammans. Alla tre har sammanlagt 4,2 liter vatten. Hur mycket har Hanna?"

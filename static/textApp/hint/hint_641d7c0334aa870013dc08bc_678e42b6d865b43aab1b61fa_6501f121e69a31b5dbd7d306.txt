@@ -1,1 +1,0 @@
-Double-check how many times 50 fits into 2500—you might have made a small arithmetic mistake with the division!

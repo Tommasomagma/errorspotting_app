@@ -1,0 +1,1 @@
+"Skriv det tal som saknas.\n\n$x=7$\n\n$y=?$\n\n$x+y=13$"

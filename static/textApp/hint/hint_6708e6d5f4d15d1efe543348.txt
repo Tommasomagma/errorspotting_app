@@ -1,0 +1,1 @@
+Think of it like removing a small stack from a taller stack and then counting what remains.

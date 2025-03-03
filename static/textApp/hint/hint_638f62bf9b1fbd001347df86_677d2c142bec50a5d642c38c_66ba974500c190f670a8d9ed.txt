@@ -1,1 +1,0 @@
-Double-check that you're multiplying 2 with the result of (8–4) and not mistakenly multiplying 2 by 8.

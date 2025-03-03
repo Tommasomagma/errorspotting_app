@@ -1,0 +1,1 @@
+"Beräkna och svara i bråkform. \n\n$ {\\Large \\frac{19}{100}} + {\\Large \\frac{26}{100}} =$"

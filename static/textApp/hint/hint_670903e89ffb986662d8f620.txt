@@ -1,0 +1,1 @@
+Check if you correctly set up the multiplication of 3 by the cost per kg rather than using a fixed number.

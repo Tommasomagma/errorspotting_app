@@ -1,0 +1,1 @@
+Remember to check if you need one less cut than the number of parts per rope, as cutting five sections means making four cuts each.

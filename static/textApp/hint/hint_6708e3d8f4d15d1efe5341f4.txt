@@ -1,0 +1,1 @@
+Check if you multiplied all matches by the average goals per match, as the numbers in your steps seem to misrepresent that calculation.

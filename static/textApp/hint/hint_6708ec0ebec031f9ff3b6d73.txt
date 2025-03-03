@@ -1,0 +1,1 @@
+Try comparing the amount of the raise to the original salary to see how much extra, per hundred, is added.

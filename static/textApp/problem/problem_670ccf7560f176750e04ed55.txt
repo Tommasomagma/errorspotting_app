@@ -1,0 +1,1 @@
+"Oscar har $4$ äpplen. Han får $3$ äpplen till. \n\nHur många äpplen har Oscar totalt?"

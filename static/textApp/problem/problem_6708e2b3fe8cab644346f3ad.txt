@@ -1,0 +1,1 @@
+"Ett gymkort kostar 4950 kr. Under en kampanj får man 12% rabatt.\n\nHur mycket kostar kortet under kampanjen?"

@@ -1,0 +1,1 @@
+"Storleksordna talen med det minsta talet först."

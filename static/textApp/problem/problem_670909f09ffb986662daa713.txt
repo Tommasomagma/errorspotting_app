@@ -1,0 +1,1 @@
+"Skriv det tal som saknas.\n\n$x=?$\n\n$y=4$\n\n$2x+y=18$"

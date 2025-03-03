@@ -1,0 +1,1 @@
+Try using the rectangle's perimeter formula with the known side to find the length of the other short side.

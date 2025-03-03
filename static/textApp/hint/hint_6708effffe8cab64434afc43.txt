@@ -1,0 +1,1 @@
+Take another look at the multiplication in the binomial, especially how you get the x-term, to make sure every term is combined correctly.

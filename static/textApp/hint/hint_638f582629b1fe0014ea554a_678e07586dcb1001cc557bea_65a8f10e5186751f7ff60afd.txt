@@ -1,1 +1,0 @@
-Recheck your division of 2 by 8—something in that calculation may have led you to 0,4 instead of the proper decimal.

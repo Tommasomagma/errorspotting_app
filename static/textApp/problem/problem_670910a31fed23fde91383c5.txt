@@ -1,0 +1,1 @@
+"Beräkna. \n\n$2{,}42 + 1{,}33 = $". Problem image: En tabell för addition med tre kolumner och två rader där varje cell visar en siffra. Första raden innehåller talen 2,42 uppdelat i varje cell. Andra raden visar plus-tecknet följt av talen 1,33 uppdelat i varje cell. En horisontell linje finns under den andra raden.

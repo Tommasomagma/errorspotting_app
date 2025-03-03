@@ -1,0 +1,1 @@
+"Beräkna.\n\n$892+511=$". Problem image: En additionsuppställning i tabellform med tre kolumner. Översta raden innehåller talen 8, 9 och 2. Under dessa tal finner du ett plustecken och talen 5, 1 och 1. Under detta finns en tom rad avsedd för svaret, avgränsad av ett blått streck.

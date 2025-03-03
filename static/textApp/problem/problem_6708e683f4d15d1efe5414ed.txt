@@ -1,0 +1,1 @@
+"Beräkna.\n\n$522+365=$". Problem image: En additionstabell med två siffror som ska adderas. Översta raden visar siffrorna 5, 2, 2 och på raden under visas siffrorna 3, 6, 5. Ett plus-tecken till vänster indikerar att dessa två tal ska adderas.

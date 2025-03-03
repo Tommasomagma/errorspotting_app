@@ -1,0 +1,1 @@
+"$2{\\Large \\frac{3}{4}} - 1{\\Large \\frac{2}{4}}=$\n\nSvara i blandad form."

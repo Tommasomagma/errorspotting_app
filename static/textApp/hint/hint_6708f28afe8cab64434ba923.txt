@@ -1,0 +1,1 @@
+Carefully check that you only used the three given sides and then found the unknown side by subtracting their total from the full perimeter.

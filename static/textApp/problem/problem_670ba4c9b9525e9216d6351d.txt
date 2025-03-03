@@ -1,0 +1,1 @@
+"En gräsmatta har formen av en rektangel. En sida är 12 meter och en annan är 20 meter. Emma går ett varv runt gräsmattan. \n\nHur långt går Emma?"

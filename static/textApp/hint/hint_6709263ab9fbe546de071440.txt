@@ -1,0 +1,1 @@
+Check your use of the trapezoid area formula to be sure you divided the sum of the bases by 2 before multiplying by the height.

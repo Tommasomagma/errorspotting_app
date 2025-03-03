@@ -1,0 +1,1 @@
+"Hur lång är den gula sträckan?". Problem image: Bilden visar tre horisontella sträckor med pilspetsar åt båda hållen. Den övre sträckan är blå och märkt med talet 32. Den mellersta sträckan är rosa och märkt med talet 21. Den nedersta sträckan är gul och märkt med en X.

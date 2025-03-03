@@ -1,0 +1,1 @@
+Check if you added 72 for all 7 days instead of just adding it twice.

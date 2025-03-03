@@ -1,0 +1,1 @@
+"Beräkna.\n\n$(-0{,}5) \\cdot \\left( 2+(-3)-{\\Large\\frac{-0,4}{0,2}}\\right)=$"

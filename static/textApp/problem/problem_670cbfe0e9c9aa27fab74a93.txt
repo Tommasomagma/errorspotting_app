@@ -1,0 +1,1 @@
+"Leo ska åka hemifrån 45 minuter innan utflyktsdagen börjar.  Utflyktsdagen börjar kl. $08.20$. Hur dags åker han hemifrån?\n\n*Visa hur du löser uppgiften.*". Problem image: En pojke med ryggsäck.

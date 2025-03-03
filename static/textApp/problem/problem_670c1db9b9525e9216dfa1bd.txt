@@ -1,0 +1,1 @@
+"Beräkna och svara i enklaste bråkform.\n\n${\\Large\\frac{29}{96}}-{\\Large\\frac{13}{96}}=$"

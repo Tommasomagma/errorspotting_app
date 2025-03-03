@@ -1,1 +1,0 @@
-Good work on the steps so far; now, take another look at how you divided 32 by 8 and compare it to the original expression.

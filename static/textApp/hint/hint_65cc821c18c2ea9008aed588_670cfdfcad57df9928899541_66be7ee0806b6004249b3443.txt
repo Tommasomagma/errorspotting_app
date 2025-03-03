@@ -1,1 +1,0 @@
-Try checking if you correctly canceled a common factor before dividing the numbers.

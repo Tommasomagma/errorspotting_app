@@ -1,0 +1,1 @@
+"Avrunda till tusendelar och svara i tiondels procent.\n\n$0{,}2358 \\approx$"

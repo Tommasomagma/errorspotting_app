@@ -1,0 +1,8 @@
+(9 5
+4 2
+
+9.2=18
+4.5=20
+Vet inte
+hur jag kan
+förklara

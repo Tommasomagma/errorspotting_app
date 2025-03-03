@@ -1,0 +1,1 @@
+"Leo och Maja spelar ett spel. Maja har 187 poäng. Leo har 29 poäng fler än Maja.\n\nHur många poäng har de tillsammans? *Visa hur du löser uppgiften.*"

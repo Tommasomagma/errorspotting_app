@@ -1,0 +1,1 @@
+Remember to square the tent's radius and then multiply by pi to find the area of the circle.

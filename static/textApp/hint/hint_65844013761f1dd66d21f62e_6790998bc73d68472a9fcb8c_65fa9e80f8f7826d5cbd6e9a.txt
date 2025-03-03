@@ -1,1 +1,0 @@
-It seems you combined the temperatures—try checking if subtracting the morning reading from the afternoon reading gives the temperature change.

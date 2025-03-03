@@ -1,0 +1,1 @@
+Check if you've made the fractions have the same bottom number before adding them.

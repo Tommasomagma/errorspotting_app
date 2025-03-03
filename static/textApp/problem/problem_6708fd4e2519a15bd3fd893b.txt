@@ -1,0 +1,1 @@
+"En morgon hade Lova feber. Hennes temperatur var $38{,}9 \\degree \\text{C}$. På kvällen hade temperaturen sjunkit med $0{,}7 \\degree \\text{C}$.\n\nVilken var hennes temperatur då?"

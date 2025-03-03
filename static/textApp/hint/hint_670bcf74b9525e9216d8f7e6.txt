@@ -1,0 +1,1 @@
+Check your multiplication step to ensure you correctly calculate the total cost from the price per kilogram and the weight.

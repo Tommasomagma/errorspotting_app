@@ -1,0 +1,1 @@
+Try subtracting the numbers of apple, cherry, and pear trees from the total to see how many plum trees remain!

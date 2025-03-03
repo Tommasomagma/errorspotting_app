@@ -1,0 +1,1 @@
+"Beräkna.\n\n$45+34=$". Problem image: En tabell indelad i tre kolumner och två rader används för att visa additionen av två tvåsiffriga tal. Den övre raden innehåller siffrorna 4 och 5, medan den undre raden innehåller ett plus-tecken följt av siffrorna 3 och 4. En horisontell linje går under den undre raden.

@@ -1,0 +1,1 @@
+"Under en fotbollssäsong på 20 matcher gjordes mellan 0 och 4 mål per match. I 5 matcher gjordes 0 mål, i 2 matcher gjordes 1 mål, i 10 matcher gjordes 2 mål, i 1 match gjordes 3 mål och i resten av matcherna gjordes 4 mål.\n\nVad ska stå istället för C?"

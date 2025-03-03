@@ -1,0 +1,1 @@
+Take another look at the step where you combined 12,1 and 7 to make sure you used division instead of multiplication.

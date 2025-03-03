@@ -1,1 +1,0 @@
-Great effort—try checking if you need to subtract 31 from both sides to isolate x instead of adding 7.

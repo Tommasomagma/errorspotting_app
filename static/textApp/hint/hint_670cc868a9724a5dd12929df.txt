@@ -1,0 +1,1 @@
+Try multiplying the step-change by 99 and then add it to the first number to see the pattern.

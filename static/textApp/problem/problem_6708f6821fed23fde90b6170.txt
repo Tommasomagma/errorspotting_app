@@ -1,0 +1,1 @@
+"Vad är omkretsen för en cirkel med diametern 100 cm? Använd $\\pi\\approx 3{,}14$."

@@ -1,0 +1,1 @@
+"Antalet elever i en skola var $380$ stycken. Inflyttning gjorde att antalet steg med $5$ %. \n\nBeräkna det nya antalet elever."

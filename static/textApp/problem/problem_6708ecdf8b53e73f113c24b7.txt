@@ -1,0 +1,1 @@
+"Beräkna.\n\n$71-59=$". Problem image: En matris med två rader och tre kolumner som visar en subtraktionsuppgift med talen 71 och 59 där varje siffra är placerad i en egen cell.

@@ -1,0 +1,1 @@
+"En burk läsk innehåller 250 milliliter och kostar 10 kronor.\n\nVad kostar läsken per liter?"

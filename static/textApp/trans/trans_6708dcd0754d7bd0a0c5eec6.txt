@@ -1,0 +1,2 @@
+$\frac{1 \cdot 2}{3 \cdot 2} = \frac{2}{6} \frac{4}{12}$
+$\frac{1 \cdot 2}{6 \cdot 2} = \frac{2}{12}$

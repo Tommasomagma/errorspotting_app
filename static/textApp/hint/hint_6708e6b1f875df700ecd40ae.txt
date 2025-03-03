@@ -1,0 +1,1 @@
+Look carefully at the cubes that have one face hidden and count only those with exactly four painted sides.

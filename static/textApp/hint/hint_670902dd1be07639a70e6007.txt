@@ -1,0 +1,1 @@
+Try setting up a simple equation knowing that hits plus misses equal 30.

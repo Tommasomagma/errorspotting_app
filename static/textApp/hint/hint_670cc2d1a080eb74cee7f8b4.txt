@@ -1,0 +1,1 @@
+Double-check whether you should divide by the original number of students instead of the new total when calculating the percentage increase.

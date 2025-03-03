@@ -1,0 +1,1 @@
+"Leo ska måla huset. Varje dag hinner han som mest måla $\\Large \\frac{3}{11}$ av huset. \n\nHur många dagar behöver Leo minst måla för att bli klar?". Problem image: Ett enkelt hus.

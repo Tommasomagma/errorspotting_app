@@ -1,0 +1,1 @@
+"Lundaskolan är en liten F-$5$ skola där $77$ elever går i klasserna F-$2$. I trean, fyran och femman går det totalt $114$ elever. Hur många elever finns det sammanlagt på skolan?"

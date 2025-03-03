@@ -1,0 +1,1 @@
+Double-check the subtraction step to ensure you didn't accidentally add an extra digit when subtracting 670 from 1000.

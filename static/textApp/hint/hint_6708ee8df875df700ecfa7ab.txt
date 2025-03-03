@@ -1,0 +1,1 @@
+Check if the digit after the second decimal point is 5 or more to decide whether to round up.

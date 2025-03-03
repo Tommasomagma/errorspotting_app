@@ -1,1 +1,0 @@
-Double-check if you should multiply or divide the picture's length by the scale factor.

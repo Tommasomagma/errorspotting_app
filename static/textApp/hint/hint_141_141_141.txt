@@ -1,1 +1,0 @@
-Double-check your division step, as 12 divided by 3 might have been calculated incorrectly.

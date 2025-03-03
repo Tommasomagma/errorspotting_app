@@ -1,0 +1,1 @@
+"Bestäm värdet av följande uttryck om $a=4$ och $b=7$.\n\n$8a-\\Large\\frac{3b}{7}$"

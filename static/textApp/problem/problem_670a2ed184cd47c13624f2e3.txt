@@ -1,0 +1,1 @@
+"I en kulpåse ligger $6$ vita och $4$ blå kulor. Du drar en vit kula ur kulpåsen. Sedan drar du en kula till utan att lägga tillbaka den första kulan.\n\nHur stor är sannolikheten att du nu får en blå kula? Svara i bråkform."

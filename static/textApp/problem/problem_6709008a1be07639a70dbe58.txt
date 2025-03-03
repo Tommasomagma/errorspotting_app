@@ -1,0 +1,1 @@
+"Hur många procent är\n\n$17$ av $45$\n\nSvara med en decimal."

@@ -1,1 +1,0 @@
-Check if you’ve added the apples eaten by both horses, not just the doubled amount, when finding the original total.

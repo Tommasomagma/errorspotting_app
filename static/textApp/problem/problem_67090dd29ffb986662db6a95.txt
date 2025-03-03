@@ -1,0 +1,1 @@
+"Beräkna.\n \n $342 - 305 =$". Problem image: En tabell med tre kolumner och två rader används för att visa en subtraktionsprocess. Översta raden innehåller siffrorna '3', '4' och '2'. Understa raden innehåller siffrorna '3', '0' och '5'. Raderna är separerade med en horisontell linje och det finns ett minustecken till vänster om den första kolumnen i den nedre raden.

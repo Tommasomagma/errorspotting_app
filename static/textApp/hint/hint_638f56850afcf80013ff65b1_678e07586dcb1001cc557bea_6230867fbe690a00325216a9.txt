@@ -1,1 +1,0 @@
-Nice work so far—try rechecking the step where you replaced the unknown: make sure you form 2 divided by the number (not multiplying by 2) as the problem shows.

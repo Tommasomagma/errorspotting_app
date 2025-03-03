@@ -1,0 +1,1 @@
+"Förenkla uttrycken.\n\n3x·5+5·6x"

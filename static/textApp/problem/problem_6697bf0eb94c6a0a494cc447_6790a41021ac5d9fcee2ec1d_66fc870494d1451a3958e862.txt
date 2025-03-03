@@ -1,1 +1,0 @@
-"En snigel kryper uppför ett träd som är sex meter högt. Varje dag kryper snigeln upp två meter. Varje natt glider den ner en meter. Den börjar krypa på en lördag. \n\nVilken dag har snigeln nått toppen av trädet?"

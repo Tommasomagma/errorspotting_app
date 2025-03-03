@@ -1,0 +1,1 @@
+"**Problemlösning**\n\nEva tänker på ett primtal. Hon subtraherar talet med $3$ och dividerar med $4$. Hon får då talet $5$. Vilket tal tänker hon på?"

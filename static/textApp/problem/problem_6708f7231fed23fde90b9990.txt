@@ -1,0 +1,1 @@
+"Faktorisera uttrycket så långt som möjligt.\n\n$16-x^2=$"

@@ -1,0 +1,1 @@
+"Vilket tal är $x$?\n\n$\\large\\frac{25}{25}=x$"

@@ -1,0 +1,1 @@
+"Den sammansatta figuren består av två olika sorters kvadrater. Beräkna arean.". Problem image: Bilden visar en sammansatt figur som består av en stor central kvadrat med sida som mäter 5 cm, och fyra mindre kvadrater som ansluter till varje sida av den stora kvadraten. De mindre kvadraterna har sidor som mäter 3 cm.

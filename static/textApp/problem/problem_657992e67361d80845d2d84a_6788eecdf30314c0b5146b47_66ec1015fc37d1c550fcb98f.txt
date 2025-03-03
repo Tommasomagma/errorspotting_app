@@ -1,1 +1,0 @@
-"En liksidig triangel har sidan ${\\Large\\frac{1}{6}}x$. Skriv ett uttryck för omkretsen och beräkna hur många längdenheter omkretsen är då $x = 4$."

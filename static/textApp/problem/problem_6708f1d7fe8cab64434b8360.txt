@@ -1,0 +1,1 @@
+"På en roadtrip visar bilens instrumentbräda 38 mil tills tanken är tom. Bilen förbrukar 0,7 liter per mil. Hur mycket bensin är kvar i tanken?". Problem image: En bild av en instrumentbräda som visar en mätare med olika sektioner färgade i gul, grön, rosa och orange. Mätaren är en indikator för bränslenivå och visar en pil pekandes mot en punkt på mätaren.

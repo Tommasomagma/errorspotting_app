@@ -1,0 +1,1 @@
+Check that each digit was lined up correctly and subtracted in the right order.

@@ -1,0 +1,1 @@
+nan. Problem image: A quadrilateral with one pair of parallel sides. The lengths are marked as follows: one pair of parallel sides are both 4 cm, the other two sides are 5 cm and 3 cm respectively. A dashed line indicates a height from one of the parallel sides, measured at 4 cm.

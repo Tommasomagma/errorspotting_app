@@ -1,0 +1,1 @@
+"Vad ska stå istället för frågetecknet?\n\n**Andelen:** ${\\Large\\frac{1}{3}}$\n\n**Det hela:** $600$ kr\n\n**Delen:** ?"

@@ -1,0 +1,1 @@
+"Beräkna.\n\n$434+245=$". Problem image: En tabell uppdelad i tre kolumner och två rader där den första raden representerar ett tre-siffrigt tal och den andra raden ett annat tre-siffrigt tal med additionstecken till vänster. Under de två raderna finns en blå linje som indikerar var resultatet av additionen skulle skrivas.

@@ -1,1 +1,0 @@
-Remember to multiply every term by 4 so that both the x-term and the constant are scaled equally.

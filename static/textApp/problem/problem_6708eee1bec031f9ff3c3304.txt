@@ -1,0 +1,1 @@
+"Du har talet $0{,}734$. Vilket värde har siffran $4$ i talet?"

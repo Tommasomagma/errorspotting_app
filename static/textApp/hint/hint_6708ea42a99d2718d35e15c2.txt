@@ -1,0 +1,1 @@
+Tänk på att räkna ut antalet underkända genom att ta skillnaden mellan totalt antal prov och godkända, och dela sedan den skillnaden med det totala antal prov.

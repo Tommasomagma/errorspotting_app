@@ -1,1 +1,0 @@
-"Lös ekvationen.\n\n$30-3x=x+6$"

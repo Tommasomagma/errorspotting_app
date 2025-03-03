@@ -1,0 +1,1 @@
+Try splitting the line into equal parts and see which part matches point T.

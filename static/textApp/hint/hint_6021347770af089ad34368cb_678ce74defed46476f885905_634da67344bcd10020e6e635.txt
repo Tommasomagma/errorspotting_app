@@ -1,1 +1,0 @@
-Double-check that you added the carried number only once in the hundreds column.

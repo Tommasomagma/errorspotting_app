@@ -1,0 +1,1 @@
+"Bromssträckan i meter för en bil kan beräknas med uttrycket $0{,}3 \\cdot v + 0{,}01  v^2$, där $v$ är hastigheten i km/h. \n\nHur lång blir bromssträckan om bilen kör 100 km/h?". Problem image: En sko som bromsar mot en bromspedal.

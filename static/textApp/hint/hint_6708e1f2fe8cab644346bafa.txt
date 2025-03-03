@@ -1,0 +1,1 @@
+Check if subtracting one matches what the problem asks you to do.

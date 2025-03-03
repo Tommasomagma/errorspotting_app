@@ -1,0 +1,1 @@
+Look again at which numbers always have a repeating or terminating decimal form to spot which one doesn’t belong.

@@ -1,1 +1,0 @@
-"Lös ekvationen.\n\n${\\Large\\frac{3(2x\\ +\\ 6)}{2}}=-6$"

@@ -1,0 +1,1 @@
+Check your decimal conversions to see if each fraction was correctly compared to 1/2 and 3/4.

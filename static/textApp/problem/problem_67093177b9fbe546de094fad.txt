@@ -1,0 +1,1 @@
+nan. Problem image: The table has two columns with headers 'Name' and 'Points'. There are six rows, each with a name and corresponding points.

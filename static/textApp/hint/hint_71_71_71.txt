@@ -1,1 +1,0 @@
-Bra jobbat, men dubbelkolla att du plockade ut mittvärdet i ordningen istället för att räkna ut medelvärdet.

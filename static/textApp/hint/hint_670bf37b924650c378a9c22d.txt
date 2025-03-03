@@ -1,0 +1,1 @@
+Check that each binary digit represents a whole number without decimals, and make sure you include all the required power of two values in your sum.

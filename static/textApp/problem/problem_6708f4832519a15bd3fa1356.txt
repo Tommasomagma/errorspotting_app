@@ -1,0 +1,1 @@
+"Hur lång är hypotenusan? Avrunda till en decimal.". Problem image: En rätvinklig triangel med sidorna markerade som 6 cm och 10 cm. Triangelns hypotenusa är den sida som inte är markerad och sträcker sig mellan triangelns två icke-rätvinkliga hörn.

@@ -1,0 +1,1 @@
+Try setting the two sums equal to each other and then solving step by step to find the number.

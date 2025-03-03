@@ -1,0 +1,1 @@
+Double-check how you convert the number of adults into a percentage by dividing by the total visitors and then multiplying by 100.

@@ -1,5 +1,0 @@
-5 \cdot 3 = 15
-
-15 \cdot 4 = 60
-
-Svar: 60 muffins

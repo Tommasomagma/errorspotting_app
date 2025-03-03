@@ -1,0 +1,1 @@
+Make sure you round every number to the nearest hundred before adding them together.

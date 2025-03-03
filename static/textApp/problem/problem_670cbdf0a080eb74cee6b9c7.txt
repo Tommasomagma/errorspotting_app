@@ -1,0 +1,1 @@
+"En jordgubbe kostar $6$kr. Ett blåbär kostar också $6$kr. \n\nHur mycket kostar 5 jordgubbar och 4 blåbär?". Problem image: A strawberry and a blueberry.

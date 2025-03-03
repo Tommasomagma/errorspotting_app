@@ -1,0 +1,1 @@
+Try dividing the grid into four equal parts and see how many squares need to be shaded.

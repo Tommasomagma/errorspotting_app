@@ -1,0 +1,1 @@
+"Gör ett faktorträd och dela upp talet $27$ i primtalsfaktorer. Ringa in primtalsfaktorerna. \n\nSvara med summan av primtalen."

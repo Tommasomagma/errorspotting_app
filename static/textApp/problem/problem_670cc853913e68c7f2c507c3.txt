@@ -1,0 +1,1 @@
+"På ett tåg finns det $34$ passagerare. Vid nästa station kliver $15$ passagerare av. Hur många passagerare finns det på tåget nu?". Problem image: Ett tåg.

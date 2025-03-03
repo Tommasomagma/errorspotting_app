@@ -1,1 +1,0 @@
-Check if adding percentages from separate groups is the right approach, since each 40% is already a ratio relative to its own group.

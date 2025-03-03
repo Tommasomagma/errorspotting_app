@@ -1,0 +1,1 @@
+Check the addition of the two prices again to make sure you're subtracting the right total from 6000.

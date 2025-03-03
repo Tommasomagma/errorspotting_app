@@ -1,0 +1,1 @@
+Remember to separate the numbers instead of putting them together, so check if you accidentally wrote 20 and 47 as one big number.

@@ -1,0 +1,1 @@
+"Telefonen är avbildad i skala $1:2$. Hur hög är den i verkligheten?". Problem image: Bilden visar en mobiltelefon bredvid en linjal. Skalan på linjalen är i centimeter och telefonen är avbildad i skalan 1:2.

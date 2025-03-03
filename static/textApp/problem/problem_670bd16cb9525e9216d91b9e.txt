@@ -1,0 +1,1 @@
+"Ali hoppade $325$ cm i längdhopp.\n\nAdam hoppade $27$ cm kortare än Ali. Hur långt hoppade Adam?"

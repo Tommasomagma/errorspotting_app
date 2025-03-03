@@ -1,0 +1,3 @@
+$2^3=\frac{2^2 \cdot 2^x}{2^{-1}}=8=\frac{4 \cdot 2^x}{\frac{1}{2}}=8 \cdot 0,5 = \frac{4 \cdot 2^x}{0,5} = 4 \cdot 2^x = \frac{4 \cdot 2^x}{\frac{2}{0,5}}$
+
+$= 4 - 4 = 2^x = \frac{4}{4} = \frac{4}{4} = 2^x = 1 = 2^x = 1 = 1$

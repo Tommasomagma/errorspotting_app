@@ -1,1 +1,0 @@
-Carefully check if you’re multiplying by 60% to find a part of 120 instead of subtracting 60% from it.

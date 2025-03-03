@@ -1,0 +1,4 @@
+$4x(y+3)+x(1-y)$
+$4xy+12+x-x\cdot y$
+$yxy+x+y$
+$5xy+xy$

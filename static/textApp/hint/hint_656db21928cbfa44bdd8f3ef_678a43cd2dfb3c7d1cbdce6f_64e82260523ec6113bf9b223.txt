@@ -1,1 +1,0 @@
-It seems you may have mixed up your unit conversions—try rechecking how you converted kilometers into the map’s units to make sure every step matches the scale given.

@@ -1,0 +1,1 @@
+Check if you correctly used (n–1) when multiplying the common difference.

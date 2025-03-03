@@ -1,0 +1,1 @@
+"Byarna $A$, $B$, $C$ och $D$ ligger (inte nödvändigtvis i den ordningen) längs en rak väg. Avståndet mellan $A$ och $C$ är $75$ km, avståndet mellan $B$ och $D$ är $45$ km och avståndet mellan $B$ och $C$ är $20$ km. \n\nVilket av följande avstånd kan det inte vara mellan $A$ och $D$?"

@@ -1,0 +1,1 @@
+Remember to check if you need to take the square root instead of squaring 64 and dividing by 4.

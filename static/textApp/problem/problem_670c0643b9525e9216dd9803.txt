@@ -1,0 +1,1 @@
+"I en påse ligger $3$ röda, $4$ gröna och $5$ blå kulor. Du drar en kula ur påsen.\n\nBestäm sannolikheten att dra en kula som inte är grön. Svara i bråkform."

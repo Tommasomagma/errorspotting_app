@@ -1,0 +1,1 @@
+"I en kanna finns det $1{,}8$ liter saft. Alexandra, Nathalie och Amos delar lika på saften.\n\nHur mycket får var och en? Svara i liter."

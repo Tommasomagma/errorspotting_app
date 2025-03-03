@@ -1,8 +1,0 @@
-\( 
-\begin{array}{c}
-\phantom{-}64 \\
--28 \\
-\hline
-\phantom{-}84 \\
-\end{array}
-\)

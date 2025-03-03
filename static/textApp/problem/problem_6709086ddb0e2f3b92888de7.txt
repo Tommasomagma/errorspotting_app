@@ -1,0 +1,1 @@
+"En piltavla har diametern $7$ dm. \n\nBeräkna arean. Använd $\\pi \\approx 3{,}14$ och svara med en decimal.". Problem image: En cirkelformad piltavla med en pil i centrum. Piltavlan har en diameter på 7 dm. Använd $\pi \approx 3{,}14$ för att beräkna ytan.

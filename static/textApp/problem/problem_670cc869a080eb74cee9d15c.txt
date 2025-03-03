@@ -1,0 +1,1 @@
+"På en skola finns det 7 klasser. En dag var 3 elever i varje klass sjuka, förutom i 4A där 6 elever var sjuka. \n\nHur många elever var sjuka den dagen totalt?"

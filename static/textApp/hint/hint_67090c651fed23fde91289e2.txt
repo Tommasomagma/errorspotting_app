@@ -1,0 +1,1 @@
+Prova att runda av 6,7 och 52,2 till enklare tal för att se om din uppskattade produkt känns rimlig.

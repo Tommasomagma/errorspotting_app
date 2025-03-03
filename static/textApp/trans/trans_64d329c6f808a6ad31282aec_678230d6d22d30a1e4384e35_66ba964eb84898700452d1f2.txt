@@ -1,8 +1,0 @@
-\( \begin{array}{c} 
- 0 \\
-+ \\
- 7 \\
-\hline
-1 \\
-24 \\
-\end{array} \)

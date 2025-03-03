@@ -1,0 +1,1 @@
+Check how you solve for x in multiplication by ensuring you divide both sides, instead of just copying the factor.

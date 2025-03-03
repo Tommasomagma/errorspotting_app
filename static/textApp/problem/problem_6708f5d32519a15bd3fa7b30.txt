@@ -1,0 +1,1 @@
+"Beräkna med räknare och avrunda svaret till två decimaler.\n\n${\\Large\\frac{96}{17}} \\approx$"

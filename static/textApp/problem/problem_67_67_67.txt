@@ -1,3 +1,0 @@
-Vilket tal är $x$?
-
-$x+{\Large\frac{1}{4}}=1$

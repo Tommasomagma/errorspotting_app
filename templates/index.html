@@ -38,6 +38,10 @@
         .left-column {
             flex: 1;
             min-width: 300px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 1rem;
         }
 
         .right-column {
@@ -180,6 +184,9 @@
             <!-- Image Display -->
             <div class="image-container">
                 <img src="{{ image_path }}" alt="Task Image">
+            </div>
+            <div class="image-container">
+                <img src="{{ image_path_ref }}" alt="Task Image">
             </div>
         </div>
 

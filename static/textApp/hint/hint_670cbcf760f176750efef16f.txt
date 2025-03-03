@@ -1,0 +1,1 @@
+It looks like you might have added numbers instead of multiplying when finding 30% of the whole, so try checking that step again.

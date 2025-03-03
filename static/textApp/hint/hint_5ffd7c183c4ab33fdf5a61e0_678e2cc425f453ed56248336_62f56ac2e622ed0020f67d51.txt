@@ -1,1 +1,0 @@
-Double-check whether you've split the queue evenly around Tea's position since being in the middle means the numbers on both sides should match.

@@ -1,1 +1,0 @@
-Take another look at your subtraction step, as subtracting 9 from 15,3 should result in a smaller number than 14,4.

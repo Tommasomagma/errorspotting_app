@@ -1,0 +1,1 @@
+"Hur många gånger större är arean av B jämfört med A? \n\nSvara i decimalform.". Problem image: Två rektanglar bredvid varandra. Den vänstra rektangeln markerad med 'A' har sidorna etiketterade med '2'. Den högra rektangeln markerad med 'B' har den korta sidan etiketterad med '2' och den långa sidan etiketterad med '3'.

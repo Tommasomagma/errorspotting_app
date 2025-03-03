@@ -1,0 +1,1 @@
+Arrange the scores from smallest to biggest and then pick the number that lies in the middle of your list.

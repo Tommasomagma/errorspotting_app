@@ -1,0 +1,1 @@
+"Ett bildäck har diametern $0{,}5$ m. Beräkna omkretsen av bildäcket. Avrunda till en decimal."

@@ -1,0 +1,1 @@
+Count how each number in the sequence grows from the last one using the position number in the sequence without simply adding a constant.

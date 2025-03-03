@@ -1,0 +1,1 @@
+"Talen i en talföljd kan beräknas med uttrycket $4n-7$.\n\nVilket nummer har talet 313?"

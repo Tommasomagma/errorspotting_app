@@ -1,0 +1,1 @@
+"Beräkna. \n\n$1{,}32 - 0{,}32=$". Problem image: En tabell som visar subtraktion av decimaltal. Översta raden visar talet 1,32 uppdelat i tre kolumner för varje siffra. Raden under visar 0,32 på samma sätt, förberett för subtraktion. En horisontell linje finns under de två raderna.

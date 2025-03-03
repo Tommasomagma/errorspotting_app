@@ -1,1 +1,0 @@
-Kolla gärna om du använde rätt formel – area beräknas med en sida gånger sig själv, inte genom att lägga ihop alla sidor.

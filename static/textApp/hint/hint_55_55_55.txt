@@ -1,1 +1,0 @@
-Take a moment to review the pattern you used—does adding 10 match the differences between 15, 20, and 25 as given?

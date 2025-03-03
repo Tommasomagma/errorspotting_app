@@ -1,1 +1,0 @@
-Check how you converted 0,25 to a fraction, as it may not be equal to 1/5 as used in your solution.

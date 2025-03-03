@@ -1,0 +1,1 @@
+Tänk på att hitta en siffra att multiplicera med som gör att både övre och nedre talet visar siffran 4!

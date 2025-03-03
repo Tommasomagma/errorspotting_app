@@ -1,0 +1,1 @@
+It looks like your multiplication step might not have correctly counted all the colored blocks compared to the total, so please double-check that part.

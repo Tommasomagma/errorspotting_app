@@ -1,0 +1,1 @@
+It seems you computed the area by multiplying the sides instead of adding them to find the perimeter.

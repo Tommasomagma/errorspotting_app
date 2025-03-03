@@ -1,1 +1,0 @@
-Remember that squaring a number means multiplying it by itself, not just adding it to itself.

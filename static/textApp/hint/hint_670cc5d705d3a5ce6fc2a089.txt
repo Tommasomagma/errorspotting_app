@@ -1,0 +1,1 @@
+Try switching the positions of some digits to see if you can build a number even closer to 30,000.

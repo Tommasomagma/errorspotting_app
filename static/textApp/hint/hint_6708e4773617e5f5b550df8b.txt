@@ -1,0 +1,1 @@
+Prova att dela antalet gröna äpplen med totalt antal äpplen för att se hur stor andel de är!

@@ -1,0 +1,1 @@
+"Beräkna och svara i enklaste bråkform.\n\n${\\Large\\frac{9}{5}} \\cdot {\\Large\\frac{5}{18}}=$"

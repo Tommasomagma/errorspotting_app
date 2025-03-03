@@ -1,0 +1,1 @@
+Try splitting both lines into equal pieces and notice which one gives you bigger pieces.

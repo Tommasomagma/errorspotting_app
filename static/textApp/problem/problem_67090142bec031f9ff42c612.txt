@@ -1,0 +1,1 @@
+"Beräkna.\n\n${\\Large \\frac{3}{6}}+ {\\Large \\frac{2}{6}}=$". Problem image: Två cirkeldiagram bredvid varandra. Båda diagrammen är uppdelade i sex lika stora sektorer. Till vänster är tre av sektorerna färglagda och till höger är två sektorer färglagda.

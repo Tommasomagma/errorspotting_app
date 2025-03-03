@@ -1,1 +1,0 @@
-Check if you added both the ones and tens correctly and included the carry correctly when combining the numbers.

@@ -1,0 +1,1 @@
+"Amanda har $400$ kr på sitt konto. Hon köper en biobiljett för ${\\Large\\frac{3}{10}}$ av pengarna. \n\nHur stor andel av pengarna har Amanda kvar?\n\nSvara i bråkform."

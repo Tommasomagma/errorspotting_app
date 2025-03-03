@@ -1,0 +1,1 @@
+Remember that the perimeter is twice the sum of one long and one short side, so try adding those together and then doubling the result.

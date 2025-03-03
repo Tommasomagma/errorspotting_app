@@ -1,0 +1,1 @@
+"Priset per kilogram följer tabellen. Hur mycket måste man betala per kilogram om man köper 3,9 kg bananer?". Problem image: Tabellen visar priset per kilogram för bananer i olika viktklasser. Varje rad indikerar en viktklass och motsvarande pris per kilogram i kronor. Viktklasserna är: 0-2 kg, 2-4 kg, 4-6 kg och 6-10 kg.

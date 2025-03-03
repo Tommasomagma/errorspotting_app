@@ -1,0 +1,1 @@
+"Skriv ett uttryck för antalet blåa cirklar som krävs för $n$ rosa cirklar.". Problem image: Bild av blåa och rosa cirklar ordnade i grupper. Varje grupp visar en rosa cirkel omgiven av blåa cirklar.

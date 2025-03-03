@@ -1,0 +1,1 @@
+Try rechecking how you've set up your addition—make sure you're adding just the pets' weights, not including the number of pets themselves.

@@ -1,0 +1,1 @@
+Convert both plant heights to the same unit before comparing them!

@@ -1,1 +1,0 @@
-Great effort—try reviewing how you removed -2 from the left side to ensure you added it correctly when isolating x.

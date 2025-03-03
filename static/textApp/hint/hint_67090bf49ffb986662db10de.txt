@@ -1,0 +1,1 @@
+Check the rule for multiplying powers with the same base and make sure you're adding the exponents in the correct order.

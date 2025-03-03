@@ -1,0 +1,1 @@
+Pröva att räkna ut ett slags "mittpunkt" mellan de två givna punkterna.

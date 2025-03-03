@@ -1,4 +1,0 @@
-\[
-\frac{226,08}{3,14} = 72 = r^2 \quad \sqrt{72} \\
-\frac{72}{2} = 36 \times 36 \times \pi
-\]

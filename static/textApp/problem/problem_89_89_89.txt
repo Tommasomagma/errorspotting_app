@@ -1,3 +1,0 @@
-Vilket tal fattas?
-
-$ \underline{\hspace{0.5cm}}+ 2 ⋅ 6 = 17$

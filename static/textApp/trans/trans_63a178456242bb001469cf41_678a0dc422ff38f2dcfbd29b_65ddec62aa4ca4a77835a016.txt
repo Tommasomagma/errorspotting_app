@@ -1,8 +1,0 @@
-\[
-\frac{x}{4} + 2 = 5 \\
--2 \quad \,\, -2 \\
-\quad \frac{x}{4} \quad =3 \\
-3 \cdot \\
-\frac{x}{4} \quad 3 \cdot 4 \\
-12 \quad 12
-\]

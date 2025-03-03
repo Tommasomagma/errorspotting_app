@@ -1,0 +1,1 @@
+Revisit the part where you compare the new total fee to last year's by calculating each year's revenue separately before finding the extra amount.

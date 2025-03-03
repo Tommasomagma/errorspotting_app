@@ -1,0 +1,1 @@
+Take another look at how you use division to find what percentage 15 is of 50 instead of subtracting the numbers.

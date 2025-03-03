@@ -1,2 +1,0 @@
-\[ 6 \times 2 \times h = 12 \]
-\[ h = \frac{6 \times 2}{12} = 2 \]

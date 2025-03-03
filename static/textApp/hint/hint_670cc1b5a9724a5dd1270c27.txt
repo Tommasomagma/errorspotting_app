@@ -1,0 +1,1 @@
+Consider how much the numbers grow from one to the next and add that same amount until you reach the final number.

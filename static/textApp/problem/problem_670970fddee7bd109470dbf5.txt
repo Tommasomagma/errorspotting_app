@@ -1,0 +1,1 @@
+"Med hänsyn tagen till alla punkter som finns på cirkeln, vad är det största $y$-värdet någon av de har? Ange endast värdet i ditt svar."

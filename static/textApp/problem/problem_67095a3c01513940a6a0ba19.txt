@@ -1,0 +1,1 @@
+nan. Problem image: A table with two columns. The first column header is 'Day' with rows listing days Monday through Sunday. The second column header is 'Rain (mm)' with rows containing numerical values next to each day.

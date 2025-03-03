@@ -1,0 +1,1 @@
+"Beräkna medelvärdet för de nedanstående talen. \n\n\n$1,3,5,8$\n\nSvara i decimalform."

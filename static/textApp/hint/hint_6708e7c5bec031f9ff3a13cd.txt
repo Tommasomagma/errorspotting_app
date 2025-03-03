@@ -1,0 +1,1 @@
+Check that each step in your solution keeps the answer in the same form as the problem asks for.

@@ -1,0 +1,1 @@
+"En vetenskapsman undersökte arean av en rektangelformad glaciär. År 2010 uppmättes basen till $0{,}3\\cdot10^3$ km och bredden till $0{,}1\\cdot10^3$ km. Tio år senare var basen $0{,}28\\cdot10^3$ km och bredden $0{,}09\\cdot10^3$ km.\n\nMed hur många kvadratkilometer hade glaciärens sida minskat mellan de två tillfällena?"

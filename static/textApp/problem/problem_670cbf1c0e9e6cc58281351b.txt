@@ -1,0 +1,1 @@
+"På skolgården finns det $19$ flickor och $12$ pojkar. De vill dela in sig i sex lika stora lag och alla ska få vara med.\n\nHur många fler barn måste det komma för att det ska gå?"

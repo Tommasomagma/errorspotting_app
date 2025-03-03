@@ -1,0 +1,1 @@
+"Omkretsen för figuren i bild är 18 cm. Hur lång är den okända sidan?". Problem image: A trapezoid shape with one side labeled 5 cm at the bottom, two sides labeled 3 cm on the left and right, and the top side marked with a question mark to indicate the missing length.

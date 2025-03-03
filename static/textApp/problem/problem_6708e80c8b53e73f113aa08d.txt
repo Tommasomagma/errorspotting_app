@@ -1,0 +1,1 @@
+"Hur stor andel av figuren är färgad?". Problem image: Bilden visar en rektangulär figur indelad i nio mindre rektanglar där vissa är färglagda. Figuren är indelad så att den liknar ett rutnät med tre kolumner och tre rader. Färglagda rektanglar finns i den mellersta kolumnen och i mitten av den nedersta raden.

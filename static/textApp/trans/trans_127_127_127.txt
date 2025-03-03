@@ -1,6 +1,0 @@
-\[
-\frac{x}{3} - \frac{x}{4} = 6 \\
-\times 4 \quad + \, 3 \quad \times 4 \times 3 \\
-\frac{4x - 3x}{12} = 6 \times 12 \\
-x = 6 \times 12 \times 12 = 6000
-\]

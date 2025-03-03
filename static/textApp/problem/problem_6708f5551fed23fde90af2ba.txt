@@ -1,0 +1,1 @@
+"Alma kastar en tärning. Resultatet för varje kast är: $4, 4, 2, 2, 1, 6$\n\nVad är medianen?". Problem image: Två tärningar visas med prickar som representerar siffrorna fyra och tre.

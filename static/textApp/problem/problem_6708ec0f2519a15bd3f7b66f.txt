@@ -1,0 +1,1 @@
+"Hur många procent är $14$ grisar av $39$ grisar? Avrunda till hela procent."

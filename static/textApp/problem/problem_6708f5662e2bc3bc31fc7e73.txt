@@ -1,0 +1,1 @@
+"Summan av två tal är $9\\ 999$. Det ena talet är $1\\ 499$ mindre än det andra. \n\nVilket är det minsta talet?"

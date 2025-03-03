@@ -1,0 +1,1 @@
+Remember to check that you add both the hours and minutes correctly when combining 1 hour and 30 minutes to the starting time.

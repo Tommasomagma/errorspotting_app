@@ -1,0 +1,1 @@
+It looks like the arithmetic for finding the halfway point might be off—double-check how you set up your division by 2.

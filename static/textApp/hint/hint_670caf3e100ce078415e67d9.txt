@@ -1,0 +1,1 @@
+Check how you isolate x by multiplying both sides by 100, not by simply moving the decimal.

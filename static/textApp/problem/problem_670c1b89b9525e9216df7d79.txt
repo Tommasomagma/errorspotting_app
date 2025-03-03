@@ -1,0 +1,1 @@
+"En skiva till ett Playstation-spel snurrar med medelhastigheten $1{,}3$ m/s när den startar. Skivans diameter är $12$ cm. Hur många varv per minut snurrar skivan då? Avrunda till tiotal."

@@ -1,1 +1,0 @@
-Remember to check if you needed to divide your product by 2 since the diagonal splits the rectangle into two equal triangles.

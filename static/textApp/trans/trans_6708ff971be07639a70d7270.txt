@@ -1,0 +1,1 @@
+$\begin{array}{cccc} & \stackrel{7}{\cancel{8}} & \stackrel{10}{\cancel{0}} & 5 & 0 \\ - & 1 & 1 & 0 & 0 \\ \hline & 6 & 9 & 5 & 0 \end{array}$

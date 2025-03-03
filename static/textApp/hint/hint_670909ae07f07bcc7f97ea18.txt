@@ -1,0 +1,1 @@
+Add all the board lengths together and then round your answer to the nearest ten.

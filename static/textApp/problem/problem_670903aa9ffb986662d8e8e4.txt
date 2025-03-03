@@ -1,0 +1,1 @@
+"Vilket tal fattas? \n\n$5,\\ 4,\\ 3,\\ 2, \\ \\underline{\\hspace{0.5cm}} $"

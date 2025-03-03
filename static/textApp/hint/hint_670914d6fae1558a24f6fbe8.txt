@@ -1,0 +1,1 @@
+Remember to multiply each digit by the correct power of 2 and add them together!

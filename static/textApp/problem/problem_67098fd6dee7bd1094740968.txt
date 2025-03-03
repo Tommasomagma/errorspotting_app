@@ -1,0 +1,1 @@
+nan. Problem image: A horizontal number line with 0 on the left end and 1 on the right end. Point X is marked on the line between 0 and 1.

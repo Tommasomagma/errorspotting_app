@@ -1,0 +1,1 @@
+Have a closer look at how you multiplied each wall's dimensions and subtracted the door area, making sure every measurement was used correctly.

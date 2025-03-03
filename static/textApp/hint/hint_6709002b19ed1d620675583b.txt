@@ -1,0 +1,1 @@
+Tänk på att siffrans värde bestäms av vilken plats den har i talet!

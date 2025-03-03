@@ -1,0 +1,1 @@
+Remember to multiply the number of panels in each row by the number of rows when finding the total.

@@ -1,0 +1,1 @@
+"Priset per kilogram följer tabellen. Hur mycket kostar det att köpa 5 kg bananer?". Problem image: Tabellen visar pris per kilogram för bananer i olika viktkategorier. Det finns fyra kategorier: 0 - 2 kg, 2 - 4 kg, 4 - 6 kg och 6 - 10 kg, med motsvarande priser per kilogram uppdelade i kolumner bredvid.

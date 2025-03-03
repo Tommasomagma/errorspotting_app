@@ -1,0 +1,1 @@
+"Du har talet $8\\ 236$. Låt entalssiffran och hundratalssiffran byta plats i talet. Vilket tal får du då?"

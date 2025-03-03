@@ -1,0 +1,1 @@
+"Vilka tal har samma värde?\n\n${\\Large\\frac{2}{3}}\\hspace{0.5cm}0{,}75\\hspace{0.5cm}34$ %$\\hspace{0.5cm}0{,}34\\hspace{0.5cm}85$ %"

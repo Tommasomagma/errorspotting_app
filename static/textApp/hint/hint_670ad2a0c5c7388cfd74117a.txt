@@ -1,0 +1,1 @@
+Add the given match counts and subtract the sum from 20 to find the missing number of matches.

@@ -1,0 +1,1 @@
+"Bilden visar en speciell tärning med positiva heltal på alla sidor. Om man multiplicerar talen på motstående sidor får man alltid samma svar. \n\nVilken är den minsta möjliga summan av de sex talen på tärningen?". Problem image: En bild av en tärning med siffrorna 70, 15 och 5 synliga på tre av dess sidor.

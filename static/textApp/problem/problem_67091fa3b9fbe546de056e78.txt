@@ -1,0 +1,1 @@
+"En ring har en utvändig radie som är 14 mm. Vad är ringens omkrets? Använd $\\pi \\approx 3{,}14$ och svara i hela millimeter.". Problem image: Bilden visar en enkel illustration av en ring. Ringens utvändiga radie är angiven som 14 mm. Inga andra dimensioner eller siffror visas.

@@ -1,0 +1,1 @@
+"På Adems skola går det 100 elever. 23 av dem går i sjuan.\n\nHur många procent av eleverna går **inte** i sjuan?"

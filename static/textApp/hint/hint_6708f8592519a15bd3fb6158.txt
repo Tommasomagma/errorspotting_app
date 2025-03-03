@@ -1,0 +1,1 @@
+Check if you set up the fraction by dividing the daily amount by the total weight instead of subtracting numbers.

@@ -1,1 +1,0 @@
-It looks like you divided by 100 twice—have a closer look to see if your conversion already gave you the decimal form without an extra division.

@@ -1,1 +1,0 @@
-Check if you accidentally divided by 18 instead of subtracting 18 from y when finding the change.

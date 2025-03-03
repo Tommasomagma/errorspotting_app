@@ -1,0 +1,1 @@
+Perhaps review how each odd number is formed by doubling and then adjusting, instead of by merely adding one.

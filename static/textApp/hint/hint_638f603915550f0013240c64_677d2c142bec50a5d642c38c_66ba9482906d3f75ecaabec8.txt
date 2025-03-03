@@ -1,1 +1,0 @@
-Double-check the step where you calculated 5(6) to make sure you multiplied 5 by 6 instead of subtracting numbers.

@@ -1,0 +1,1 @@
+Check how dividing by 4 affects the size and exponent when you combine the terms.

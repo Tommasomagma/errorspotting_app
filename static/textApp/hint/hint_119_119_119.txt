@@ -1,1 +1,0 @@
-Try double-checking how you distributed the negative sign over (x - 3) to make sure both terms change their signs.

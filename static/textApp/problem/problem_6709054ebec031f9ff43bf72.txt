@@ -1,0 +1,1 @@
+"Lös ekvationen.\n\n$8x+3=51$"

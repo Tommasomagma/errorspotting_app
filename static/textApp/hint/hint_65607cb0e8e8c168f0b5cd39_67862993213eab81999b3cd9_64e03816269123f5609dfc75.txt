@@ -1,1 +1,0 @@
-Great job working through the problem—try checking if your multiplication is written in the standard form (using 2x instead of x.2) to match the intended expression.

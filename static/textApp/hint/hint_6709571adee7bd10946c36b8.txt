@@ -1,0 +1,1 @@
+Check how many equal groups can be made without any left over.

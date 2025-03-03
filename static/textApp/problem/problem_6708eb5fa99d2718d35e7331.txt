@@ -1,0 +1,1 @@
+"${\\Large\\frac{\\sqrt{64}}{\\sqrt{16}}}-{\\Large\\frac{\\sqrt{100}}{\\sqrt{25}}}+4^2=$"

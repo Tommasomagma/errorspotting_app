@@ -1,0 +1,1 @@
+Try adding all the jump distances together and then divide by five.

@@ -1,0 +1,1 @@
+Think about how each number is made by multiplying the one before it by the same number.

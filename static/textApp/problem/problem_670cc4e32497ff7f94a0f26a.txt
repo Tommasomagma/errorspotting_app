@@ -1,0 +1,1 @@
+"I ett klassrum finns det $35$ bänkar. Läraren tar bort $14$ av bänkarna från klassrummet. Hur många bänkar finns det nu i klassrummet?". Problem image: Bilden visar en illustration av ett klassrum sett från framsidan. Det finns en stor grön tavla framtill och flera rader av bänkar. Bänkarna är representerade genom enkla rektangulära block.

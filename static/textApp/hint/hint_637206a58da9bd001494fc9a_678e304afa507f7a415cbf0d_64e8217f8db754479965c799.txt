@@ -1,1 +1,0 @@
-Kontrollera om du beräknat basytan rätt – kom ihåg att kvadrera radien och multiplicera med π innan du multiplicerar med höjden.

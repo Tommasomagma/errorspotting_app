@@ -1,0 +1,1 @@
+"Ett rep är $53$ dm långt. Irma klipper av $3\\ 300$ mm av repet. \n\nHur många meter långt är repet nu?". Problem image: Ett tomt bildområde.

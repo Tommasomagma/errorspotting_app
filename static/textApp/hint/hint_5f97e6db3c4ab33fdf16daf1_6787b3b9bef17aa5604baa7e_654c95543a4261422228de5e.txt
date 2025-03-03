@@ -1,1 +1,0 @@
-Try rechecking if you've used multiplication for independent choices instead of adding and subtracting values from the tree diagram.

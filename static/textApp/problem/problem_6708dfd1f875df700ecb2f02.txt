@@ -1,0 +1,1 @@
+"På ett tivoli finns en berg- och dalbana. Om det är fullt i alla vagnar kan $28$ personer samtidigt åka i banan. \n\n\nHur många vagnar finns det, om det kan sitta $4$ personer i varje vagn?"

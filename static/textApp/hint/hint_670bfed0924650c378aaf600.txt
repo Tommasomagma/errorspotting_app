@@ -1,0 +1,1 @@
+Try counting the colored squares and comparing that number with the total squares in the grid.

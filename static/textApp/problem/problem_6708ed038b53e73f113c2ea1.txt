@@ -1,0 +1,1 @@
+"Nina har fem stycken mellanstadieklasser. Tre av dem är åk 5 och i dessa går det 12 personer i respektive klass. De övriga två är åk 4 och i dessa går det 14 elever per klass. \n\nHur många elever har Nina totalt?". Problem image: Två barn i skoluniform.

@@ -1,0 +1,1 @@
+nan. Problem image: A subtraction problem displayed in a column format, with two numbers each placed in individual cells of a table. The top number is 5159, and below it with a subtraction sign is the number 2463. The numbers are aligned in four columns, each representing a place value from thousands to ones, separated by a horizontal line at the bottom.

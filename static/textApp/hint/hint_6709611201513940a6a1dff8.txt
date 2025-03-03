@@ -1,0 +1,1 @@
+Kontrollera att du multiplicerar längd och bredd med 2 istället för att kvadrera dem när du beräknar omkretsen.

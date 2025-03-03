@@ -1,7 +1,0 @@
-\[
-\begin{align*}
-\frac{x}{3} & - 4 = 2 \\
-& +4 \\
-\frac{3x}{3} & = \frac{6}{3} \\
-\end{align*}
-\]

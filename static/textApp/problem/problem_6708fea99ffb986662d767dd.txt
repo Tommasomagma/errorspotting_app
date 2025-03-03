@@ -1,0 +1,1 @@
+"Skriv det tal som saknas.\n\n$x=10$\n\n$y=?$\n\n$x-2y=2$"

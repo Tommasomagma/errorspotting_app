@@ -1,1 +1,0 @@
-Double-check that you subtracted both 2a and 3 when removing the parentheses.

@@ -1,1 +1,0 @@
-Double-check whether you should be dividing by 2 instead of 4 when using the triangle’s area formula.

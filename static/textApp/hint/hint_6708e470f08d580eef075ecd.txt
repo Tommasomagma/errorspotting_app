@@ -1,0 +1,1 @@
+Tänk på att varje meter har 100 centimeter, så multiplicera antalet meter med 100!

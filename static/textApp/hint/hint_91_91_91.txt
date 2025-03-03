@@ -1,1 +1,0 @@
-Think about whether you multiplied the base cost by each day instead of adding it just once.

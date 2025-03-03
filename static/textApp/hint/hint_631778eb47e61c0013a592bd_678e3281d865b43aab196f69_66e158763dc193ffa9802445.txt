@@ -1,1 +1,0 @@
-Check if you divided the sum by the total number of matches rather than by 2.

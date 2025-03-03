@@ -1,0 +1,1 @@
+"Vilken är den minsta gemensamma nämnaren, MGN, till bråken ${\\Large\\frac{5}{7}}$ och ${\\Large\\frac{1}{4}}$?"

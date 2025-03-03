@@ -1,0 +1,1 @@
+"Differensen mellan två tal är 663. Det ena talet är fyra gånger så stort som det andra. \n\nVad är summan av de två talen?". Problem image: En person som tänker.

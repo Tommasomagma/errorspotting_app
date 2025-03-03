@@ -1,0 +1,1 @@
+Take another look at how you used the 45 km and 20 km distances to find AD, as something might be off with that calculation.

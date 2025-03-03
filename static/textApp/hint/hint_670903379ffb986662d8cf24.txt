@@ -1,0 +1,1 @@
+Remember to add both the soda price and the pant fee before multiplying for all bottles.

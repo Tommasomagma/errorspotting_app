@@ -1,1 +1,0 @@
-"Ravi ska välja en tröja och ett par byxor. Han har 3 byxor och tillsammans med hans tröjor kan han skapa 6 kombinationer. \n\nHur många tröjor har han i garderoben?". Problem image: Bilden visar en ikon av en tröja och en ikon av ett par byxor. De är representationer för klädesplagg och används för att illustrera kombinationsmöjligheterna.

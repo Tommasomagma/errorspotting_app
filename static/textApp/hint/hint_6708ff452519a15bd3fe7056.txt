@@ -1,0 +1,1 @@
+Double-check how you plugged in n = 2 and computed the value step-by-step.

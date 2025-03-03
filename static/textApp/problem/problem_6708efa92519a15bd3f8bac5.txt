@@ -1,0 +1,1 @@
+"Figuren består av tio lika stora block. Du vill färga 40 % av den. Hur många block behöver du färglägga?". Problem image: Rektangulär figur indelad i tio lika stora rektangulära block. Figuren är märkt med 100 % längs dess bredd.

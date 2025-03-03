@@ -1,0 +1,1 @@
+"Vilket tal saknas?\n\n\n$3\\ 850 - \\ \\underline{\\hspace{1cm}}\\ = 3\\ 550$"

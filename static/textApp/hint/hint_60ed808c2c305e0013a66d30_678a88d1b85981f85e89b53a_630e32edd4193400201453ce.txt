@@ -1,1 +1,0 @@
-Great work on setting up the method—now check your subtraction step closely, as a small arithmetic slip when subtracting 326 from 3260 might be the cause of the error.

@@ -1,0 +1,1 @@
+Check your percentage conversion step—try using 40/100 instead of dividing by 2 to see if that fixes your calculation.

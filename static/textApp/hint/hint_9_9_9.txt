@@ -1,1 +1,0 @@
-Dubbelkolla hur du relaterade Simonas och Nicolinas belopp; eftersom Simonas x kr är hälften av Nicolinas bör du använda 2x istället för x/2.

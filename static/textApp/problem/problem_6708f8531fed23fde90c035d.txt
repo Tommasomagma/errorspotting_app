@@ -1,0 +1,1 @@
+"Vad ska stå istället för $x$?\n\n$(x + 4) ⋅ 6 = 36$"

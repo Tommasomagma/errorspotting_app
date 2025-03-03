@@ -1,0 +1,1 @@
+"En bunt med hundralappar är $1$ dm tjock.\n\nEn hundralapp är $5\\cdot 10^{-5}$ m tjock. Hur mycket är bunten med hundralappar värd?"

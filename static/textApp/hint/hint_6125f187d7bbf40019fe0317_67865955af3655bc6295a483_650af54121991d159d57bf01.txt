@@ -1,1 +1,0 @@
-Check if you set up the fraction with the number of winning outcomes over the total outcomes instead of dividing 100 by 4.

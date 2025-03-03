@@ -1,0 +1,1 @@
+"Michelle är $x$ år gammal. Skriv ett uttryck för någon som är hälften så gammal som Michelle."

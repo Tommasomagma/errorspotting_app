@@ -1,7 +1,0 @@
-\[ \begin{array}{c} 
-\phantom{0}6 \\ 
-+5 \\ 
-\hline 
-13 \\
-\end{array} \]
-8 \quad \quad 9 \quad \quad 6

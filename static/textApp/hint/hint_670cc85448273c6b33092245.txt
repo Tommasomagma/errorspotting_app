@@ -1,0 +1,1 @@
+Think about how many blue circles go around each pink one and check if there are any extra blue circles that are always needed.

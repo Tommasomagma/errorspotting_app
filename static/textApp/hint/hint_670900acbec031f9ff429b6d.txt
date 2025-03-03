@@ -1,0 +1,1 @@
+Check if you applied each percent decrease to the price you had after the previous discount.

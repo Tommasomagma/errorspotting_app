@@ -1,0 +1,1 @@
+It looks like you might be dividing by 10 instead of the total number of squares, so check your numbers again!

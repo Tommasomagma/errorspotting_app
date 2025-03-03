@@ -1,0 +1,1 @@
+"Vilken siffra ska stå istället för $x$? \n\n7698 + 1$x$99 = 8797"

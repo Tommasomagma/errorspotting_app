@@ -1,0 +1,1 @@
+"Avrunda $319$ till närmaste tiotal och $3{,}95$ till närmaste heltal, utför sedan överslagsräkningen.\n\n${\\Large\\frac{319}{3,95}}\\approx$"

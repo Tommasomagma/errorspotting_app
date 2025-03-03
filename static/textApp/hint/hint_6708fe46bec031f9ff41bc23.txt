@@ -1,0 +1,1 @@
+Try multiplying the school days by 2 to count both trips and then by the one-way distance.

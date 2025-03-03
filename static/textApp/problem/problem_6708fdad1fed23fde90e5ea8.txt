@@ -1,0 +1,1 @@
+"Beräkna omkretsen av en pool med diametern $8$ m. Avrunda till hela meter."

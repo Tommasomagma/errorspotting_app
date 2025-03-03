@@ -1,1 +1,0 @@
-Double-check the number you are dividing; it looks like you might have used 8,27 instead of 18,27.

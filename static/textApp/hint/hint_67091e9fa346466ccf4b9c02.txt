@@ -1,0 +1,1 @@
+The product of your two numbers must equal 35, so try dividing 35 by one of your guesses to see what you get!

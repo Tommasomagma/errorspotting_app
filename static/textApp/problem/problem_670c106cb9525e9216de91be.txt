@@ -1,0 +1,1 @@
+"Beräkna.\n\n$417+40=$". Problem image: En tabell med två rader och tre kolumner som visar addition av två tal. Första raden innehåller siffrorna 4, 1 och 7. Andra raden visar ett plus-tecken och siffrorna 4 och 0 under de motsvarande siffrorna ovan.

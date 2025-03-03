@@ -1,0 +1,1 @@
+Remember to multiply your result by 100 when converting it to a percentage.

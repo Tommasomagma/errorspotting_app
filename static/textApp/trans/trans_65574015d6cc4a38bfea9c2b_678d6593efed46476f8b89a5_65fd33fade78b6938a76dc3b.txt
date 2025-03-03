@@ -1,9 +1,0 @@
-\[
-\begin{array}{c}
-  \phantom{1}9\phantom{16} \\
-  1\phantom{6}\phantom{7} \\
--287 \\
-\hline
-  129
-\end{array}
-\]

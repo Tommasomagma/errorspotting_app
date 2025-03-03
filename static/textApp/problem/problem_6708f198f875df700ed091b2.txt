@@ -1,0 +1,1 @@
+"Sida $a$ är 4 cm och sida $b$ är 3 cm. \n\nHur lång är sida $c$?". Problem image: En rätvinklig triangel där ena kateten är märkt med 'a', den andra kateten med 'b', och hypotenusan med 'c'. Sidorna 'a' och 'b' har längder angivna: 4 cm för 'a' och 3 cm för 'b'.

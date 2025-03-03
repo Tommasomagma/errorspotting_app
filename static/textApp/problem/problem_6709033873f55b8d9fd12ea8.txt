@@ -1,0 +1,1 @@
+"Anna köper 12 godisbitar, Björn köper 32 och Cecilia köper 24. \n\nHur många har de köpt tillsammans?". Problem image: Bilden visar tre olika godisbitar. Varje godis representerar olika mängder men inga specifika antal nämns.

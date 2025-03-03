@@ -1,0 +1,1 @@
+Check that you multiplied both the numerator and denominator by the same number as described in the problem.

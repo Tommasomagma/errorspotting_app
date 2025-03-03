@@ -1,0 +1,1 @@
+"Beräkna. \n\n$2{,}3 - 0{,}3 = $". Problem image: Två stapeldiagram bredvid varandra bestående av orangea kvadrater, där den första stapeln är högre än den andra. Bredvid dessa finns tre rosa kvadrater med en diagonal linje genom dem, vilket indikerar en subtraktion.

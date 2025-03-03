@@ -1,0 +1,1 @@
+Check the step after calculating 12 ÷ 3, and make sure to divide the remaining candies by 2 instead of stopping there.

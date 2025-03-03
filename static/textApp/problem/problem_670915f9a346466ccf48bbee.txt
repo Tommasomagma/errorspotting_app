@@ -1,0 +1,1 @@
+"Markera i koordinatsystemet punkterna $(4, -3)$, $(4, 1)$, $(-2, -3)$ och $(-2, 1)$. Dra linjer mellan punkterna. Beräkna arean av figuren. Varje ruta är $1$ cm."

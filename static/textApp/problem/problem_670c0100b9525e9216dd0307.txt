@@ -1,0 +1,1 @@
+"I en kulpåse ligger $6$ vita och $4$ blå kulor. Du stoppar ner handen och tar upp en kula.\n\nHur stor är sannolikheten att du får upp en blå kula?"

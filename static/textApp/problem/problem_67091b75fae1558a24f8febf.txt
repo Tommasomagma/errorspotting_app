@@ -1,0 +1,1 @@
+"Astrid köper 5 pizzor och betalar 500 kr. Hon får tillbaka 140 kr. Två av pizzorna kostar 5 kr mer än de övriga, som alla kostar lika mycket.\n\nVad kostar en dyr pizza?". Problem image: Bilden visar en stiliserad representation av en pizza.

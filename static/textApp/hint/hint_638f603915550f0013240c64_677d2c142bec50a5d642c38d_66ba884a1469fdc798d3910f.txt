@@ -1,1 +1,0 @@
-Great effort on adding 4 + 2; now check that you multiply 5 with the entire sum (4 + 2) rather than just 4.

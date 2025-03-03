@@ -1,1 +1,0 @@
-Double-check the step where you removed the –7 from 6x—did you accidentally subtract instead of adding 7 to both sides?

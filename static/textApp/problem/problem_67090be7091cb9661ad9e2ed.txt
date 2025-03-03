@@ -1,0 +1,1 @@
+"Sally köper $x$ st lussebullar för $10$ kr styck och $y$ st pepparkakshjärtan för $8$ kr styck. Teckna ett uttryck för hur mycket Sally ska betala. Svara utan enhet."

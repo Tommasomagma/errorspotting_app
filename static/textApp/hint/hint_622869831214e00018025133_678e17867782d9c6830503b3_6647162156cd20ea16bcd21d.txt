@@ -1,1 +1,0 @@
-Double-check your division: if 18×2 is the product, dividing it by 3 should give a number larger than 3.

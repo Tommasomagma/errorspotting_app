@@ -1,0 +1,1 @@
+nan. Problem image: A table with two columns and five rows. The header row reads 'Number of Tickets' and 'Number of Games.' The first column lists numbers incrementally from four to ten, and the second column lists numbers incrementally from sixteen to forty.

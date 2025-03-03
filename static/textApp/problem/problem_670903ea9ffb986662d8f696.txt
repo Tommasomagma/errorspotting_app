@@ -1,0 +1,1 @@
+"Beräkna arean för en cirkel med diametern 8 m. Använd $\\pi \\approx 3{,}14$."

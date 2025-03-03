@@ -1,1 +1,0 @@
-"En linjär funktion beskrivs med formeln $y = 3x - 2$. \n\nBeräkna värdet på $y$ om $x=4$."

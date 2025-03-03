@@ -1,0 +1,1 @@
+Try reviewing if you should be subtracting the rounded costs from 1000 instead of adding them up.

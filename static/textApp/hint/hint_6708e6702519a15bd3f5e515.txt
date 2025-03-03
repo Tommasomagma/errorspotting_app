@@ -1,0 +1,1 @@
+Check that each column is subtracted correctly and remember to borrow if needed.

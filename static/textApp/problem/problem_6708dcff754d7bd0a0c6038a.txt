@@ -1,0 +1,1 @@
+"I en basketmatch hade det lag som förlorade $77$ poäng. \n\nLaget som vann hade $35$ poäng mer. Hur många poäng hade laget som vann?"

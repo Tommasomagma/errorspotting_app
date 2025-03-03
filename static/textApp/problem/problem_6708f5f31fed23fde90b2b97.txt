@@ -1,0 +1,1 @@
+"Beräkna.\n\n$42+29=$". Problem image: En tabell indelad i tre kolumner och fyra rader där de två övre raderna visar siffrorna 4 och 2 i den första raden, och symbolen '+' samt siffrorna 2 och 9 i den andra raden. De undre två raderna är tomma med en blå horisontell linje som avgränsar dem från de övre raderna.

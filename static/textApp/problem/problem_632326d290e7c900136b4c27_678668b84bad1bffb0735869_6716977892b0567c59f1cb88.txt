@@ -1,1 +1,0 @@
-"Under december snöade det sex dagar. Det föll:\n\n 50 mm$\\hspace{0.25cm}$ 30 mm$\\hspace{0.25cm}$ 30 mm$\\hspace{0.25cm}$ 40 mm$\\hspace{0.25cm}$ 60 mm$\\hspace{0.25cm}$ 30 mm\n\nBeräkna medelvärdet."

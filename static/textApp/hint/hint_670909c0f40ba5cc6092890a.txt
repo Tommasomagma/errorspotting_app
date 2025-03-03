@@ -1,0 +1,1 @@
+Remember that each 1 in 1001001 stands for a value given by a power of 2—add them up carefully!

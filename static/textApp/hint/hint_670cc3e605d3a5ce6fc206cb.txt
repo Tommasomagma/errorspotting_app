@@ -1,0 +1,1 @@
+Check the digits after the decimal point to see which number is actually a bit larger.

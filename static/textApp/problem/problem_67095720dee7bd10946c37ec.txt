@@ -1,0 +1,1 @@
+"I en klass finns $24$ elever. $10$ av dem är tjejer och resten är killar. \n\nHur många är killar?". Problem image: En lärare framför en klassrum.

@@ -1,0 +1,1 @@
+"Av de $25$ eleverna i 6A är det ${\\Large \\frac{2}{5}}$ som åker skolbuss till skolan.\n\nHur många elever åker skolbuss?"

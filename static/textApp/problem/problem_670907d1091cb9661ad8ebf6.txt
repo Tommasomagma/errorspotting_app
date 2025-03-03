@@ -1,0 +1,1 @@
+"Bestäm figurens area i areaenheter. Svara enbart med talet.". Problem image: Bilden visar ett koordinatsystem med prickar placerade i ett jämnt mönster. En fyrkantig figur är ritad mellan prickarna och en ruta markerad med '1 ae' representerar en areaenhet.

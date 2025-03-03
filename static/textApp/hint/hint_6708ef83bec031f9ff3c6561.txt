@@ -1,0 +1,1 @@
+Try counting the colored square and dividing it by the total squares to get a number in decimals.

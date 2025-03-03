@@ -1,1 +1,0 @@
-Check that you add all six rolls and then divide by 6, not by 2.

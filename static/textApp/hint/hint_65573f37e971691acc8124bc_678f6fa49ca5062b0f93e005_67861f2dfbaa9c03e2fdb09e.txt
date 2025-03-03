@@ -1,1 +1,0 @@
-Great effort adding the numbers—now check if you might have missed the step where you divide the total by the count of numbers to find the average.

@@ -1,0 +1,1 @@
+Kolla om du istället borde dividera det nya priset med det gamla priset istället för att räkna ut en procentuell skillnad.

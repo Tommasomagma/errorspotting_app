@@ -1,0 +1,1 @@
+"I en kortlek finns det $52$ kort. Lika många spader, ruter, klöver och hjärter. Du drar ett kort i en blandad kortlek.\n\nHur stor är sannolikheten att kortet är ett spaderkort?"

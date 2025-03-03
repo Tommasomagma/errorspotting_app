@@ -1,0 +1,1 @@
+"Hur stor andel av figuren är färgad? Svara i bråkform.". Problem image: En likbent triangel indelad i två trianglar av en linje från toppen till basen. En av de mindre trianglarna är färgad.

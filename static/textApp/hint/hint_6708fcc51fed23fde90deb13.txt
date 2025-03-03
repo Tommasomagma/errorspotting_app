@@ -1,0 +1,1 @@
+Maybe double-check if you need to divide 360 by 3 instead of using an extra multiplication.

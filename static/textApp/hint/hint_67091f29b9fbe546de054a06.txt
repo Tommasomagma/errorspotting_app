@@ -1,0 +1,1 @@
+Think about testing each candidate number to see if it meets both divisibility conditions with 7 and a prime greater than 7.

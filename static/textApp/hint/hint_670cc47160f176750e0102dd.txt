@@ -1,0 +1,1 @@
+Check if you correctly calculated the interest for six months instead of subtracting 250 from 25000.

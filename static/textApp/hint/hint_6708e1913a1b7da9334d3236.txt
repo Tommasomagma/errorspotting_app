@@ -1,0 +1,1 @@
+Remember to divide the total number of students by the number of groups to see how many are in each group.

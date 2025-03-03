@@ -1,0 +1,1 @@
+Double-check if you intended to add the spinner times instead of subtracting them when finding the average.

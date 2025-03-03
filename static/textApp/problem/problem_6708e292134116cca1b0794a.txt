@@ -1,0 +1,1 @@
+"Beräkna värdet av uttrycket om $x = 10$ och $y = 4$.\n\n$20 - (x + y)=$"

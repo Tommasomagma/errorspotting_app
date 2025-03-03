@@ -1,0 +1,1 @@
+Try adding the tens and ones in their own columns, then put the results together.

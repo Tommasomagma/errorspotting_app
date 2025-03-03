@@ -15,10 +15,10 @@ def get_db_connection():
 conn = get_db_connection()
 with conn.cursor() as cur:
     cur.execute("""
-        CREATE TABLE IF NOT EXISTS hint_es_data (
+        CREATE TABLE IF NOT EXISTS main_db (
             id SERIAL PRIMARY KEY,
             imgId TEXT,
-            input TEXT,
+            es_label TEXT,
             hint_label TEXT
         )
     """)
@@ -52,9 +52,9 @@ def home():
     # Get all imgId values from the database
     conn = get_db_connection()
     with conn.cursor() as cur:
-        cur.execute("SELECT imgId FROM hint_es_data")
+        cur.execute("SELECT imgId FROM main_db")
         existing_ids = [row[0] for row in cur.fetchall()]
-        cur.execute("SELECT imgId FROM hint_es_data")
+        cur.execute("SELECT imgId FROM main_db")
         for row in cur.fetchall():
             existing_ids.append(row[0])
     conn.close()
@@ -69,14 +69,13 @@ def home():
 
         # Select a random image
         selected_image_folder = random.choice(image_files)
-        selected_image = next(f for f in os.listdir(os.path.join(app.config['IMAGE_FOLDER'], selected_image_folder)) if f.startswith('image'))
-        #ref_image = next(f for f in os.listdir(os.path.join(app.config['IMAGE_FOLDER'], selected_image_folder)) if f.startswith('ref'))
+        selected_image = next(f for f in os.listdir(os.path.join(app.config['IMAGE_FOLDER'], selected_image_folder)) if f.startswith('image_ES'))
+        ref_image = next(f for f in os.listdir(os.path.join(app.config['IMAGE_FOLDER'], selected_image_folder)) if f.startswith('ref'))
 
         image_id = selected_image.rsplit('.', 1)[0]
         # Remove 'image_' prefix from the image ID if it exists
-        if image_id.startswith('image_'):
-            # image_id = image_id.split('_')[2]+'_'+image_id.split('_')[3]+'_'+image_id.split('_')[4]
-            image_id = image_id.split('_')[1]+'_'+image_id.split('_')[2]+'_'+image_id.split('_')[3]
+        if image_id.startswith('image_ES'):
+            image_id = image_id.split('_')[-1]
         
         if image_id not in existing_ids:
             # Find the corresponding text file
@@ -89,11 +88,8 @@ def home():
             else:
                 problem_content = "NONE"
             
-            if 'ekvation' in problem_content or 'volym' in problem_content or 'area' in problem_content or 'x' in problem_content:
-            #if problem_content != 'NONE':
+            if problem_content != 'NONE':
                 imgFound = True
-
-    print(selected_image)
 
     correct_file = f'correct_{image_id}.txt'  # Replace the image extension with .txt
     correct_path = os.path.join(app.config['CORRECT_FOLDER'], correct_file)
@@ -144,7 +140,7 @@ def home():
     # Pass the selected image, text content, and image_id to the template
     return render_template('index.html', 
                            image_path=url_for('static', filename=f'imagesApp/{image_id}/{selected_image}'), 
-                           #image_path_ref=url_for('static', filename=f'imagesApp/{image_id}/{ref_image}'), 
+                           image_path_ref=url_for('static', filename=f'imagesApp/{image_id}/{ref_image}'), 
                            problem_content=problem_content,
                            correct_content=correct_content,
                            answer_content=answer_content,
@@ -161,12 +157,12 @@ def handle_user_input():
     image_id = request.form.get('image_id', '')
 
     # Combine them into one string for storage in the single 'input' column
-    final_input = f'{start_input}/{end_input}'
+    es_label = f'{start_input}/{end_input}'
 
     conn = get_db_connection()
     with conn.cursor() as cur:
         # Insert into whichever table you are actually using (user_inputs or user_inputs_test)
-        cur.execute("INSERT INTO hint_es_data (input, hint_label, imgId) VALUES (%s, %s, %s)", (final_input, hint_label, image_id))
+        cur.execute("INSERT INTO main_db (es_label, hint_label, imgId) VALUES (%s, %s, %s)", (es_label, hint_label, image_id))
         conn.commit()
 
     conn.close()
@@ -185,7 +181,7 @@ def skip_user_input():
     conn = get_db_connection()
     with conn.cursor() as cur:
         # Insert into whichever table you are actually using (user_inputs or user_inputs_test)
-        cur.execute("INSERT INTO hint_es_data (input, imgId) VALUES (%s, %s)", (final_input, image_id))
+        cur.execute("INSERT INTO main_db (input, imgId) VALUES (%s, %s)", (final_input, image_id))
         conn.commit()
 
     conn.close()
@@ -202,7 +198,7 @@ def discard_user_input():
     conn = get_db_connection()
     with conn.cursor() as cur:
         # Insert into whichever table you are actually using (user_inputs or user_inputs_test)
-        cur.execute("INSERT INTO hint_es_data (input, imgId) VALUES (%s, %s)", (final_input, image_id))
+        cur.execute("INSERT INTO main_db (es_label, imgId) VALUES (%s, %s)", (final_input, image_id))
         conn.commit()
 
     conn.close()
@@ -226,7 +222,7 @@ def upload_image():
 def view_inputs():
     conn = get_db_connection()
     with conn.cursor() as cur:
-        cur.execute("SELECT * FROM hint_es_data")
+        cur.execute("SELECT * FROM main_db")
         inputs = cur.fetchall()
     conn.close()
     return render_template('view_inputs.html', inputs=inputs)

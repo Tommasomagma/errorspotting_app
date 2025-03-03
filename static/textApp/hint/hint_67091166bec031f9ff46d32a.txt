@@ -1,0 +1,1 @@
+Check if you meant to divide 1 by 0.04 instead of multiplying 0.04 by 100.

@@ -1,1 +1,0 @@
-It looks like you set 14 as 100%—try using the total number of animals (14 + 11) as your base instead.

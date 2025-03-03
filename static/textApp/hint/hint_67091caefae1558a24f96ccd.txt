@@ -1,0 +1,1 @@
+Try converting all the numbers to the same form to see which one is the biggest.

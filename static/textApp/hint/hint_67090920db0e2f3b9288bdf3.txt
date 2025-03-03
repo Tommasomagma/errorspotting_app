@@ -1,0 +1,1 @@
+Try rounding both numbers first and then see which whole number the result gets really close to.

@@ -1,1 +1,0 @@
-Kolla gärna så att du avrundade 8,2 korrekt enligt problemet, det verkar som att talet blev fel.

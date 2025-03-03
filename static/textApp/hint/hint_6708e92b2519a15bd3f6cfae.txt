@@ -1,0 +1,1 @@
+Take another look at setting up the equation, because subtracting x/6 from 1 isn't the right way to solve 1 = x/6.

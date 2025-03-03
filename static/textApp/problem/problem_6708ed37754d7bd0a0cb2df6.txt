@@ -1,0 +1,1 @@
+"Nadja använder ${\\Large\\frac{1}{3}}$ av sin månadspeng till att köpa en ridhjälm. Av pengarna som är kvar använder hon ​${\\Large\\frac{2}{5}}$ till att köpa en väska.\n\nHur stor andel av månadspengen har Nadja använt?"

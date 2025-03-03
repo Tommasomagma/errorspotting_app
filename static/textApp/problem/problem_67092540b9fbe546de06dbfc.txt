@@ -1,0 +1,1 @@
+"Skriv det tal som fattas på linjen.\n\n$(-3) + \\underline{\\hspace{1.5cm}} = (-5) $"

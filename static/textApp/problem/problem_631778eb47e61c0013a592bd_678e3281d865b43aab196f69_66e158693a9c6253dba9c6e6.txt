@@ -1,1 +1,0 @@
-"Emma gjorde mål för sitt handbollslag fyra matcher i följd. Så här många mål gjorde Emma:\n\n$7$, $5$, $2$, $2$. \n\nBeräkna medelvärdet."

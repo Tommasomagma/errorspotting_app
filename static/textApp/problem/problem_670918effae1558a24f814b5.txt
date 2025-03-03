@@ -1,0 +1,1 @@
+"Välj *alla* bråk, som är större än $\\Large\\frac{1}{4}$ men mindre än $\\Large\\frac{1}{2}$."

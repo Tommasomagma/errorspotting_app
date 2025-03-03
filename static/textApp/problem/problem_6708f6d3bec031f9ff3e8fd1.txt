@@ -1,0 +1,1 @@
+"Beräkna och svara i enklaste form. \n\n${\\Large \\frac{5}{6}}  {\\Large /} {\\Large \\frac{1}{3}} = $"

@@ -1,0 +1,1 @@
+"Skriv det tal som saknas.\n\n$x=5$\n\n$y=3$\n\n$x+y=?$"

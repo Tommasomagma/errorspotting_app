@@ -1,0 +1,1 @@
+Tänk på att bryta ner 21 helt enkelt i två primtalsfaktorer och se vilken av dem som är störst.

@@ -1,0 +1,1 @@
+Count the uncolored triangles and see how they compare to the total number of triangles.

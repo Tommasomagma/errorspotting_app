@@ -1,0 +1,1 @@
+Maybe re-check how each new row adds more than just a fixed number of dots, instead of only subtracting a constant, to capture the full pattern.

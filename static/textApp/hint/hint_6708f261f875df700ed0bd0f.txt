@@ -1,0 +1,1 @@
+Remember to convert measurements so both heights are in the same unit before you compare them!

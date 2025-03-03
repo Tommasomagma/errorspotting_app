@@ -1,0 +1,1 @@
+Hint: Double-check if you divided by the right number when calculating the percent increase.

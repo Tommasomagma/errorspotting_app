@@ -1,0 +1,1 @@
+"Beräkna.\n\n$943-9=$". Problem image: En uppställning för subtraktion där översta raden visar siffrorna 9, 4, 3 och nedersta raden under en blå linje visar siffran 9 som ska dras ifrån.

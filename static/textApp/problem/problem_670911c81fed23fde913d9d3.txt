@@ -1,0 +1,1 @@
+"Hur många tiondels procent är \n\n${\\Large\\frac{7}{93}} \\approx $"

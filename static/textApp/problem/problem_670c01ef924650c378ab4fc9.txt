@@ -1,0 +1,1 @@
+"Vad är omkretsen för en cirkel med radien 1 cm? Använd $\\pi \\approx 3{,}14$.". Problem image: En enkel illustration av en cirkel. Inuti cirkeln finns en linje från mitten till cirkelns kant, märkt med '1 cm' som representerar cirkelns radie.

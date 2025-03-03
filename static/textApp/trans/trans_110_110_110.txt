@@ -1,3 +1,0 @@
-x \times x = 49
-
-x = \sqrt{49 \times 2} = 10

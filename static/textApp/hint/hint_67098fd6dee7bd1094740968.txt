@@ -1,0 +1,1 @@
+Imagine splitting the line into equal parts and counting how many parts reach point X—keep trying!

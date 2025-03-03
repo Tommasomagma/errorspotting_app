@@ -1,0 +1,1 @@
+"En dag ankom $314$ tåg till stationen. Det var $298$ tåg som kom i tid. Hur många procent av tågen var försenade? Svara i hela procent."

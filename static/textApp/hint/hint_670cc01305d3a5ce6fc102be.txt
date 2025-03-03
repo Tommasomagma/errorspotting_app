@@ -1,0 +1,1 @@
+Remember to divide the discount by the original price, not the other way around.

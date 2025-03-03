@@ -1,2 +1,0 @@
-3 \cdot 3 = 9
-9 \cdot x = x

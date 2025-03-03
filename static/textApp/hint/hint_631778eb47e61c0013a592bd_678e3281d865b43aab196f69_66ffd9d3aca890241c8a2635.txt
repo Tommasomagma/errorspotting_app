@@ -1,1 +1,0 @@
-Check your division step carefully, because dividing the sum by 4 should give a different result than 2.

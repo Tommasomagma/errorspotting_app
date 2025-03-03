@@ -1,1 +1,0 @@
-Double-check how the negative sign affects multiplication, as numbers with different signs should give a negative result.

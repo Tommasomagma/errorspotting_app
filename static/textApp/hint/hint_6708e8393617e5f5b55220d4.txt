@@ -1,0 +1,1 @@
+Försök att addera antalet från varje by för att få det totala antalet.

@@ -1,4 +1,0 @@
-x \cdot 2 = 6 - 2 \\
-x \cdot 2 = 4 \\
-\frac{x \cdot 2}{2} = \frac{4}{2} \\
-x = 2

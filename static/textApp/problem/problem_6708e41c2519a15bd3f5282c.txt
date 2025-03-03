@@ -1,0 +1,1 @@
+"Skriv uttrycket i förenklad potensform. \n\n$ x^{6} \\cdot y^{-2} \\cdot x^{-4} \\cdot y^{-3}$"

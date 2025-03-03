@@ -1,0 +1,1 @@
+"Vilket är talet som visas i bild? Svara i bråkform.". Problem image: Två cirkeldiagram. Det första diagrammet är indelat i fyra sektioner. Det andra diagrammet visar en fjärdedel utanför en stiplad cirkel.

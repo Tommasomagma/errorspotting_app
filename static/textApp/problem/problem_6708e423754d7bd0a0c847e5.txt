@@ -1,0 +1,1 @@
+"Beräkna.\n \n $ 657 - 22 =$". Problem image: En uppställning för subtraktion med tre siffror överst och två siffror underst. Varje siffra är placerad i ett eget fält i en tabell med tre kolumner och två rader.

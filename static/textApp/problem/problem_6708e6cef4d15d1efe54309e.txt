@@ -1,0 +1,1 @@
+"Hur stor andel av hela cirkeln utgör **en** av de två mindre bitarna?". Problem image: En cirkel indelad i tre delar med olika färger. Den övre halvan av cirkeln är en färg och de två nedre delarna är delade i mitten med varsin unik färg.

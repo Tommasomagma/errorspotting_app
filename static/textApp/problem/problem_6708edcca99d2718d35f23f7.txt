@@ -1,0 +1,1 @@
+"Albin och Yousef är i affären. Albin köper en energibar för 12 kronor och 3 hg lösgodis för 27 kr. Yousef köper bara lösgodis, men dubbelt så mycket som Albin. \n\nVad blir deras gemensamma kostnad?"

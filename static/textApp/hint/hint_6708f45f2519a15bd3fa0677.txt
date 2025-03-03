@@ -1,0 +1,1 @@
+Remember that 80% means a number out of 100, so try dividing both the top and bottom by the same number to make it simpler.

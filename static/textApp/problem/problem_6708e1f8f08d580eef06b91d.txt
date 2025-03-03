@@ -1,0 +1,1 @@
+"Beräkna och svara i grundpotensform.\n\n${\\Large\\frac{6 \\ \\cdot\\ 10^8}{3 \\ \\cdot\\  10^5}}=$"

@@ -1,0 +1,1 @@
+"Vilket tal är minst? \n\n$0{,}1 \\hspace{0.5cm} {\\Large \\frac{1}{4}}\\hspace{0.5cm}0{,}109\\hspace{0.5cm}{\\Large \\frac{1}{5}} \\hspace{0.5cm} 0{,}099$"

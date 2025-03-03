@@ -1,1 +1,0 @@
-Double-check your addition step where you computed 35+7 to make sure it matches what you need to solve for x.

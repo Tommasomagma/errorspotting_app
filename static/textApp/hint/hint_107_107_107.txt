@@ -1,1 +1,0 @@
-Take a closer look at how you applied the rule for multiplying powers with the same base in your solution.

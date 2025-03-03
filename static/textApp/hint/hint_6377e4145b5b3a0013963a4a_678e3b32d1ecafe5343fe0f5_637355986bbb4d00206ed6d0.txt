@@ -1,1 +1,0 @@
-Double-check how you distributed -3 over 2a and -4b, especially ensuring you don’t mix the a term with a b term.

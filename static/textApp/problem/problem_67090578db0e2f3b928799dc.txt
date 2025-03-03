@@ -1,0 +1,1 @@
+"Hur stor andel är färgad? Svara i procentform.". Problem image: En rektangel uppdelad i fyra lika stora delar där den första delen är ifylld med färg.

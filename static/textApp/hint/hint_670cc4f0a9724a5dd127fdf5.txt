@@ -1,0 +1,1 @@
+Double-check if you subtracted both the red and blue candies correctly from the total candy count.

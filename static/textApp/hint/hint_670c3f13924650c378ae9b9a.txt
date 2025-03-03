@@ -1,0 +1,1 @@
+Double-check your multiplication to ensure you're multiplying 380 by 1.05 correctly without appending extra digits.

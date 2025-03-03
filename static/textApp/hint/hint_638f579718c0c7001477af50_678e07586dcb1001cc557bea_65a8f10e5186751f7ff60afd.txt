@@ -1,1 +1,0 @@
-It seems like you subtracted the fractions by taking the top and bottom numbers separately—try using a common denominator instead.

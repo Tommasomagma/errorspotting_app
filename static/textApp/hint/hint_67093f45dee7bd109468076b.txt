@@ -1,0 +1,1 @@
+Check if you added both packs of 20 spikar, not just one, when calculating the total.

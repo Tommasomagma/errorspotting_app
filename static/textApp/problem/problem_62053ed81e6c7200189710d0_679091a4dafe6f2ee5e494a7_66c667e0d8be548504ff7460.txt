@@ -1,1 +1,0 @@
-"Beräkna. \n\n${\\Large{\\frac{14}{2}}}=\\underline{\\hspace{0.5cm}}$"

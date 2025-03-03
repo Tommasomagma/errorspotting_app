@@ -1,1 +1,0 @@
-Double-check your sum of the liquid volumes to ensure you correctly combined 1 liter, 6 liters, and 5 dl before calculating the percentage.

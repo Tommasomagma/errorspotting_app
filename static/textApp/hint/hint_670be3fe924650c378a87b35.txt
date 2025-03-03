@@ -1,0 +1,1 @@
+Try adding 0.2 and 0.35, and then dividing by 2 to see what number you get in the middle.

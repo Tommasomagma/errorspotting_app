@@ -1,0 +1,1 @@
+"**Bandy**\n\nNågra lag spelade bandy. Varje lag spelade en gång var mot de andra lagen. \n\nHur många matcher spelades om det var fyra lag?"

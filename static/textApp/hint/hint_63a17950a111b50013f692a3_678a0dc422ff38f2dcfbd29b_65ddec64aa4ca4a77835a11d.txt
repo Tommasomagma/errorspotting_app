@@ -1,1 +1,0 @@
-Double-check that you changed the sign of every term inside the parentheses when you removed them.

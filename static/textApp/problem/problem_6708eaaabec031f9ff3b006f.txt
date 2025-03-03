@@ -1,0 +1,1 @@
+"Vilket tal är $x$?\n\n${\\large\\frac{2}{8}}+{\\large\\frac{1}{8}}+x=1$"

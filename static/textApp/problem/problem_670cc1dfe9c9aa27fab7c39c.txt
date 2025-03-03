@@ -1,0 +1,1 @@
+"En tröja kostar 319 kr.\n\nHur mycket kostar det om man köper 2 tröjor?". Problem image: En blå tröja.

@@ -1,0 +1,1 @@
+Remember to divide the total number of students by the number of teams instead of adding them.

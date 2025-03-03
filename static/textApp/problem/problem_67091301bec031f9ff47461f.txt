@@ -1,0 +1,1 @@
+"En kvadrats diagonal är 80 dm. Beräkna kvadratens area i kvadratdecimeter."

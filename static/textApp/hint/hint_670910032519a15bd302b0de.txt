@@ -1,0 +1,1 @@
+Double-check that you divided the total weight by the number of bills rather than the number of bills by the total weight.

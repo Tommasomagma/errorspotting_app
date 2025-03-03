@@ -1,0 +1,1 @@
+"Med ett kreditkort kan man (upp till en viss gräns) handla trots att man inte har pengar på kortet. Gör man detta får man negativ balans. Ali har 455 kr på kortet och köper en tågbiljett för 599 kr, och lunch för 75 kr. \n\nVad har Ali för balans på sitt kort efter sina köp? Svara endast med talet."

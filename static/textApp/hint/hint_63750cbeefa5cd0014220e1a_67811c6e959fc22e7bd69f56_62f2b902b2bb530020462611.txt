@@ -1,1 +1,0 @@
-Remember to only combine terms that have the exact same power of x—check how you handled the x and x² parts.

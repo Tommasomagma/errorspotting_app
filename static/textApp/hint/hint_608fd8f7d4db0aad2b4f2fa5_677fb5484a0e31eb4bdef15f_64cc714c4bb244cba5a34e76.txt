@@ -1,1 +1,0 @@
-Review the step where you set x + 3 equal to 3x—remember that “3 years older” means you add 3 to x, not multiply x by 3.

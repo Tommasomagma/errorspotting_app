@@ -1,0 +1,1 @@
+"Beräkna. \n\n$5{,}3 - 4=$". Problem image: Bilden visar ett schema uppdelat i fyra rutor som bildar ett större kvadrat. I den översta vänstra rutan står siffran 5, i den översta högra rutan står siffran 3. Under dessa finns två rutor där den vänstra innehåller ett minustecken och den högra siffran 4. En horisontell blå linje separerar de övre siffrorna från den nedre siffran.

@@ -1,0 +1,1 @@
+"Gräsklipparen är 4 cm lång i bilden och är ritad i skala $1:25$. Hur många meter är den i verkligheten?". Problem image: En illustration av en gräsklippare med texten 'Skala 1:25' och en pil som visar längden som är 4 cm.

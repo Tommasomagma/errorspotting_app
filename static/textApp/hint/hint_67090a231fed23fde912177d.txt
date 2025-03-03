@@ -1,0 +1,1 @@
+Take a closer look at how you handled dividing by 2⁻¹, especially the step where dividing by 0.5 should instead multiply the numerator by 2.

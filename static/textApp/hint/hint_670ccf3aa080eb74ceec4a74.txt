@@ -1,0 +1,1 @@
+Check if you multiplied the full price by 0.4 correctly before subtracting so your number reflects 40% of the original cost.

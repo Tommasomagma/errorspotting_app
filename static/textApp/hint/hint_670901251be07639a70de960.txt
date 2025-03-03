@@ -1,0 +1,1 @@
+Try multiplying by the same negative number as you move from one term to the next and see if your sign stays as expected.

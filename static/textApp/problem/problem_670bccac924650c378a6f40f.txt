@@ -1,0 +1,1 @@
+"Förenkla.\n\n${\\Large\\frac{x^{10}\\ \\cdot\\  y^8}{y^2\\ \\cdot\\  x^3}}=$"

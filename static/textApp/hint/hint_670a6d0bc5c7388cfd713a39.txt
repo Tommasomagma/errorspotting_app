@@ -1,0 +1,1 @@
+Review the step where you isolate the missing number to ensure you added 6 correctly.

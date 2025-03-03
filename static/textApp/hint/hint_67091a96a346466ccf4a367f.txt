@@ -1,0 +1,1 @@
+Make sure that you multiply the nail’s weight by the number of nails before applying the price per kilo, as a slipped decimal or extra division might have thrown off your calculation.

@@ -1,0 +1,1 @@
+Maybe check if you correctly multiplied Lina's 2 km for both trips and the number of school days.

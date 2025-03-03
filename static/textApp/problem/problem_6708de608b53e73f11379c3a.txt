@@ -1,0 +1,1 @@
+"Hur många procent är $47$ mm av $825$ mm? Avrunda till tiondels procent."

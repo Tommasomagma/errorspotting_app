@@ -1,0 +1,1 @@
+"Talen i en talföljd kan beräknas med uttrycket $4 + 3 \\cdot n$ där $n = 1$, $n = 2$ och så vidare. Vilket är det femte talet i talföljden?"

@@ -1,0 +1,1 @@
+"På en en karta med skalan $1:1\\ 000$ är avståndet mellan Albins och Beas hus 20 centimeter. \n\nHur många meter är det mellan Albin och Beas hus i verkligheten?". Problem image: Bilden visar en stiliserad karta med en markerad punkt. Skalan på kartan är angiven som 1:1 000.

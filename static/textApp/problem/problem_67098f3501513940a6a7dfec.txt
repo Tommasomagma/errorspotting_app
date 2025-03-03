@@ -1,0 +1,1 @@
+nan. Problem image: A diagram of a cuboid with labeled dimensions. The length is labeled as 3 cm, the width as 2 cm, and the height as 3 cm. The lines depicting the height are dashed, indicating they are the edges behind the visible faces.

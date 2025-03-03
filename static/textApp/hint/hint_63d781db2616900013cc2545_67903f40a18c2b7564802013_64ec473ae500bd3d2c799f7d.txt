@@ -1,1 +1,0 @@
-Double-check how you handled the decimal 0,2—it looks like you might have treated it as 2 by mistake.

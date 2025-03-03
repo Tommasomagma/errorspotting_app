@@ -1,0 +1,1 @@
+"Vad ska stå i luckan?\n\n$\\color{#505050}\\Large 20+\\underline{\\ \\ \\ \\ \\ }=27$"

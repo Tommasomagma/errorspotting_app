@@ -1,0 +1,1 @@
+"En rektangel har en area som är 35 cm$^2$ och en bas som är 5 cm. \n\nVad är rektangelns höjd?"

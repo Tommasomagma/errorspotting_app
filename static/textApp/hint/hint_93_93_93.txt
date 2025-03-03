@@ -1,1 +1,0 @@
-Check if you accidentally added 4 and 15 instead of multiplying 4 by 15 to calculate the cost of the bullar.

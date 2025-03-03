@@ -1,0 +1,1 @@
+"Beräkna den färgade figurens area.". Problem image: Ett rektangel på 9 cm i bredd och 6 cm i höjd, med en överkant som bildar en spetsig vinkel genom rektangelns mitt och en fjärdedel av en mindre rektangel utsnitt i varje hörn på bottenkanten. Bilden visar också en streckad linje från den spetsiga vinkeln till bottenkanten.

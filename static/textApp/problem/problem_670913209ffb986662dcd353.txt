@@ -1,0 +1,1 @@
+"Skriv bråket med så liten nämnare som möjligt.\n\n${\\Large\\frac{10}{12}}=$"

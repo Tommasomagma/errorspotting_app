@@ -1,0 +1,1 @@
+"I ett akvarium finns $1\\ 000$ fiskar. Hur många finns det om jag ökar antalet med $50\\ \\%$? Välj ditt svar."

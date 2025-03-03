@@ -1,0 +1,1 @@
+Double-check the counting of ways to pick one ball of each color using the numbers given in the problem.

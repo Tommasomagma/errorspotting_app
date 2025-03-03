@@ -1,2 +1,0 @@
-A = \pi \cdot d \\
-3,14 \cdot 4

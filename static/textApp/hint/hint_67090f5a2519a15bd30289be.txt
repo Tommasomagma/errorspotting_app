@@ -1,0 +1,1 @@
+Try dividing 19 by 2 and keep track of the remainders to build the binary number correctly.

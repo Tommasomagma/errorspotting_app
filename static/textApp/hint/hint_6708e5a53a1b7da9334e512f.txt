@@ -1,0 +1,1 @@
+Check if you counted the number of complete squares along each side correctly before multiplying them.

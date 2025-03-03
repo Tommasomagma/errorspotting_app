@@ -1,0 +1,1 @@
+"Linda använder 2 apelsiner för att göra ett glas apelsinjuice. Hon gör 4 glas juice per dag. \n\nHur många apelsiner använder Linda för att göra juice under två dagar?". Problem image: Ett glas apelsinjuice med ett sugrör och en apelsin bredvid.

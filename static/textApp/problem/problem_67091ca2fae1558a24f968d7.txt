@@ -1,0 +1,1 @@
+"Avrunda $123$ till närmaste tiotal och $4{,}1$ till närmaste heltal, utför sedan överslagsräkningen.\n\n${\\Large\\frac{123}{4,1}}\\approx$"

@@ -1,0 +1,1 @@
+"I en trädgård finns $10$ äppelträd vilket är lika med en fjärdedel av alla träd. Av alla träden i trädgården är $0{,}4$ körsbärsträd och en femtedel är päronträd.\n\nDe övriga träden är plommonträd. Hur många plommonträd finns det?"

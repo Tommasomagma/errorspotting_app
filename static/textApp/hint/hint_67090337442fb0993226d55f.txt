@@ -1,0 +1,1 @@
+Try breaking the multiplication into simpler parts and rounding the numbers to see if your result comes a little higher.

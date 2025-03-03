@@ -1,0 +1,1 @@
+"Beräkna. \n\n$4{,}4 -2{,}5=$". Problem image: Bilden visar en tabell uppdelad i fyra rutor. I de övre två rutorna står siffrorna 4,4 och i de nedre står siffrorna 2,5 med ett minustecken till vänster om dem. Det finns en blå linje under de nedre rutorna som markerar operationslinjen för subtraktion.

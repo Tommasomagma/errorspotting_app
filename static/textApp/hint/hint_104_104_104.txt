@@ -1,1 +1,0 @@
-Take another look at how negative numbers multiply—multiplying a negative by a positive should result in a negative number!

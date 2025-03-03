@@ -1,0 +1,1 @@
+Tänk på att om du multiplicerar det visade talet med 20 istället för att dela, kan du steg för steg rätta felet.

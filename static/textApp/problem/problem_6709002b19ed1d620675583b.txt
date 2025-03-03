@@ -1,0 +1,1 @@
+"Vilket värde har siffran $4$ i talet?\n\n$1\\ 478$"

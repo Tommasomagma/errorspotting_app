@@ -1,7 +1,0 @@
-0.1 \frac{x}{\frac{1}{5}} - \frac{x}{2} + \frac{3x}{4} = 2 + \frac{2x}{4}
-
-2x + 3x = \frac{5x}{4} - 2 + \frac{2x}{4}
-
-\frac{5x}{4} + 2 = \frac{2x}{4}
-
-\frac{5x}{4}

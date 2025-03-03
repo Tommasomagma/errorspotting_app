@@ -1,0 +1,1 @@
+Maybe check if you added the extra loan after subtracting the paid amount instead of subtracting it again.

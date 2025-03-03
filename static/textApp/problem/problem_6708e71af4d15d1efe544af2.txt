@@ -1,0 +1,1 @@
+"Välj de två uttryck som representerar antalet små rutor i rutnätet.". Problem image: A rectangular grid divided into smaller squares, with multiple columns and rows.

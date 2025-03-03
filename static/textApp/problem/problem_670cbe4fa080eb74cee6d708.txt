@@ -1,0 +1,1 @@
+"Beräkna. \n\n$ 8\\ 132 + 1\\ 526 =$". Problem image: En additionstabell med två rader. I den övre raden står siffrorna 8, 1, 3 och 2. I den undre raden, precis under, står siffrorna 1, 5, 2 och 6. Ovanför den undre raden finns ett plus-tecken som markerar addition. En horisontell linje finns under den undre radens siffror.

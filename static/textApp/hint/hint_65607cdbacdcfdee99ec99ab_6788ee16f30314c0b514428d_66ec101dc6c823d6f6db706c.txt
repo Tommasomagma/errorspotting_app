@@ -1,1 +1,0 @@
-Maybe re‐check how you computed 6x and 4x when x = 5, as a small error in those multiplications can throw off your entire answer.

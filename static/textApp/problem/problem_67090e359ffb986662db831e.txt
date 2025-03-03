@@ -1,0 +1,1 @@
+"Hur många procent är $45$ kr av $915$ kr? Avrunda till tiondels procent."

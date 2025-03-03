@@ -1,0 +1,1 @@
+"Fortsätt talföljden.\n\nVad är det åttonde talet i talföljden?\n\n$1{,}07\\hspace{0.5cm}1{,}05\\hspace{0.5cm}1{,}03\\hspace{0.5cm}\\dots$"

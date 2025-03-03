@@ -1,0 +1,1 @@
+"Hur långt är det mellan punkterna $(-3,2)$ och $(5,7)$ i ett koordinatsystem? Avrunda till en decimal."

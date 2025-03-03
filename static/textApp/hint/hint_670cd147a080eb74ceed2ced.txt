@@ -1,0 +1,1 @@
+Take a closer look at how you compared the percent numbers, especially the conversion from 0,34, to ensure you're matching the numbers correctly.

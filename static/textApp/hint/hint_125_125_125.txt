@@ -1,1 +1,0 @@
-Double-check the step where you isolate x—make sure you divide by 6 after adding instead of multiplying by 6.

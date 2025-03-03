@@ -1,1 +1,0 @@
-Remember to double-check the rule that multiplying by the number that makes every value disappear changes the whole expression, not just one factor.

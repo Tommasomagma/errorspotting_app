@@ -1,1 +1,0 @@
-Take another look to ensure you multiply 2 by (a-4) instead of adding 2 after subtracting 4.

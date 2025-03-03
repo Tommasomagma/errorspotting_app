@@ -1,0 +1,1 @@
+nan. Problem image: A bar model with two stacked bars. The bottom bar is labeled 'Original price' and represents 100%. The top bar is labeled 'New price' and is connected to a label '% markup' above it.

@@ -1,0 +1,1 @@
+Check if you correctly multiplied 6 by 1/3 before subtracting it from 6.

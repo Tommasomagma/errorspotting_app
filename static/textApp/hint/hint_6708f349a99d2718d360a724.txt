@@ -1,0 +1,1 @@
+Kolla så att punkten används för multiplikation och inte ger intrycket av en decimal, så att du verkligen räknar a gånger a.

@@ -1,1 +1,0 @@
-Remember to check the order of operations inside the parentheses; make sure you multiply before you add.

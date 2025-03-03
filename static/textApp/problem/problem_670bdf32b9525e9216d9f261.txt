@@ -1,0 +1,1 @@
+"Beräkna.\n\n$ {\\Large \\frac{\\sqrt{18}\\ \\cdot \\ \\sqrt{4}}{\\sqrt{8}}}=$"

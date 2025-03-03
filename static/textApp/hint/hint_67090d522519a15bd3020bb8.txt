@@ -1,0 +1,1 @@
+Prova att dela hela ytan i lika många små delar och se hur många av dem som blir färgade!

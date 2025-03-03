@@ -1,0 +1,1 @@
+nan. Problem image: A subtraction problem is set up in a column format with five boxes on the top row and five boxes on the bottom row. Each box contains a single digit, and a horizontal line separates the bottom row from a blank row beneath it where the answer would be placed.

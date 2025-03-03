@@ -1,1 +1,0 @@
-Take a closer look at how you set up your fraction—make sure you’re dividing the number of odd faces directly by the total number of faces on the die without an extra division step.

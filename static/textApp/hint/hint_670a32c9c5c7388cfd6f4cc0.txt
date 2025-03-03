@@ -1,0 +1,1 @@
+It looks like you might have mixed up the way to count the outcomes for two dice—try reviewing how many outcomes each die can show compared to what the problem asks for.

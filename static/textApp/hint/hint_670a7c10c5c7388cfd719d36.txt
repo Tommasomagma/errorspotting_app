@@ -1,0 +1,1 @@
+Check if you applied the rent percentage to the remaining salary after tax rather than subtracting directly from the tax fraction.

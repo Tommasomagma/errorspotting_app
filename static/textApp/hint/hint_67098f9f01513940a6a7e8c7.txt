@@ -1,0 +1,1 @@
+Try multiplying the number of cubes in the height, length, and width together to see what you get.

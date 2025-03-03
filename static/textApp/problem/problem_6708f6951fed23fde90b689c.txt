@@ -1,0 +1,1 @@
+"Vad ska stå istället för frågetecknet?\n\n**Andelen:** ${\\Large\\frac{3}{4}}$\n\n**Det hela:** $200$ fåglar\n\n**Delen:** ? fåglar"

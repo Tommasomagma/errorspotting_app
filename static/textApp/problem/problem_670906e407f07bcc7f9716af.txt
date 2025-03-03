@@ -1,0 +1,1 @@
+"Vilket tal ska stå istället för frågetecknet?\n\n$\\Large\\frac{?}{5}$ $=$ $3\\Large\\frac{1}{5}$"

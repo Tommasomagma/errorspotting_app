@@ -1,0 +1,1 @@
+"Samuel plockar $12$ apelsiner från varje apelsinträd. Han har $3$ apelsinträd.\n\nHur många apelsiner plockade han sammanlagt?". Problem image: En apelsin.

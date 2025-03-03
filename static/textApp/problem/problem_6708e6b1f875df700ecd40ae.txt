@@ -1,0 +1,1 @@
+"Oskar limmar ihop 10 kuber till ett bygge,som ser ut som på bilden. Sen målar han hela bygget, undersidan också. \nHur många kuber är målade på exakt 4 sidor?". Problem image: En förenklad 3D-ritning av kuber som är arrangerade för att bilda en större struktur. Strukturen är L-formad sett uppifrån. Varje kub är ritad med synliga linjer för att representera kanterna.

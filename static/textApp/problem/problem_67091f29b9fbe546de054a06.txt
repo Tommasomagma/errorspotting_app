@@ -1,0 +1,1 @@
+"Ett tal består av två olika siffror. Talet är delbart med 7 och ett annat primtal, som är större än sju. Vilket är det största talet det skulle kunna vara talet?"

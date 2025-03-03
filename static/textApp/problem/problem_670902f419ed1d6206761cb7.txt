@@ -1,0 +1,1 @@
+"Vilket svar är bäst?\n\n${9{,}1} + {4{,}8} \\approx $"

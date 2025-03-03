@@ -1,0 +1,1 @@
+"Skriv sju hundradelar med siffror i decimalform."

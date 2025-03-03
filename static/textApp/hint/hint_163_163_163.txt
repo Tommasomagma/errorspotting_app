@@ -1,1 +1,0 @@
-Remember to use the 0.2 factor on your value for X to find the smallest angle instead of reporting X directly.

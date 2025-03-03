@@ -1,0 +1,1 @@
+"Vilket tal fattas?\n\n${\\Large\\frac{1}{5}}$ av $ \\ \\underline{\\hspace{1cm}}=12$"

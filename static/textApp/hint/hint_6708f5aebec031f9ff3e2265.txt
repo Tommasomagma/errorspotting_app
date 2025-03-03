@@ -1,0 +1,1 @@
+Have a look at how many numbers on the die are 7 or greater and ensure you divide by the total number of outcomes.

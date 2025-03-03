@@ -1,0 +1,1 @@
+"Ett tal $x$ multipliceras med 4. Produkten adderas med 5. \n\nEtt tal $x$ multipliceras med 3. Produkten adderas med 10. \n\nVilket tal är $x$ om uträkningarna ska ha samma summa?"

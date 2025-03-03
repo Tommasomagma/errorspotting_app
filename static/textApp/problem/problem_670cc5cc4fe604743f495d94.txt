@@ -1,0 +1,1 @@
+"Vilket tal är $x$? \n\n${\\Large \\frac{54}{x}} =6$"

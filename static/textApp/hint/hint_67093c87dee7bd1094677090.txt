@@ -1,0 +1,1 @@
+Try finding the difference in the x-values and y-values first and then use the distance formula like a right triangle.

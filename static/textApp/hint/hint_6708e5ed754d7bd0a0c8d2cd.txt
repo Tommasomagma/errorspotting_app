@@ -1,0 +1,1 @@
+Subtract the on-time trains from all the trains and then figure out what percent that number is of the total.

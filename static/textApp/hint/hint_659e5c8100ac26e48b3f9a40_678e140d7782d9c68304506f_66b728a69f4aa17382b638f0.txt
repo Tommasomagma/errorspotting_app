@@ -1,1 +1,0 @@
-You multiplied 4 by 6 to get 24, so double-check if you should be dividing 24 by 6 to find the number of cartons.

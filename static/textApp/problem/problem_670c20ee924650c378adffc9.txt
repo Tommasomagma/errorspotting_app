@@ -1,0 +1,1 @@
+"En djupfryst köttbit med temperaturen $-15\\degree$C placeras i en mikrovågsugn. I mikron ökar köttbitens temperatur linjärt, med $2$ grader per $4$ minuter. Vad är köttbitens temperatur efter att den varit inne i $14$ minuter?". Problem image: En förpackad köttbit.

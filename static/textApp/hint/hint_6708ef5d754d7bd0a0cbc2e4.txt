@@ -1,0 +1,1 @@
+Try subtracting the number of pages William has read from the total number of pages in the book.

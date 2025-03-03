@@ -1,0 +1,1 @@
+"Lös ekvationen.\n\n$6x-(x-2)=3x+11-x$"

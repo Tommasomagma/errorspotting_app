@@ -1,1 +1,0 @@
-Kolla om du fått med att bågen bara utgör halva omkretsen av en cirkel, så att du inte räknar med hela cirkelns omkrets.

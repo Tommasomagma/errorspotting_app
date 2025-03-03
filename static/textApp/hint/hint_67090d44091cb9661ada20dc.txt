@@ -1,0 +1,1 @@
+Fundera på hur många gånger du måste flytta decimalen för att återge talets storlek korrekt.

@@ -1,1 +1,0 @@
-"Skriv talet som saknas så att likheten stämmer.\n\n$3 \\cdot 4 - 5 = 3 \\cdot \\underline{\\hspace{0.5cm}} - 8$"

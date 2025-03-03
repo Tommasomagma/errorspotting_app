@@ -1,0 +1,1 @@
+"Förenkla uttrycket.\n\n$2-x+4-2x$". Problem image: Bilden visar en visuell representation av uttrycket. Det finns två grupper separerade av mellanrum. I den första gruppen finns fyra gula kvadrater markerade med siffran 1 och en blå rektangel markerad med '-x'. I den andra gruppen finns fyra gula kvadrater markerade med siffran 1 och två blå rektanglar markerade med '-x'.

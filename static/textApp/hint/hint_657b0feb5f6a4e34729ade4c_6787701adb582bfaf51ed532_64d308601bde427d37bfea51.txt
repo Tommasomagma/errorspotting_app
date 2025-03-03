@@ -1,1 +1,0 @@
-Maybe you subtracted the temperature drop too many times—check that you only subtract 0.5°C for each five-minute period.

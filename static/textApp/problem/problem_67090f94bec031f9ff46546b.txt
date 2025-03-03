@@ -1,0 +1,1 @@
+"Vivi förbereder ett rektangulärt utrymme för sina kycklingar. Varje kyckling behöver minst 3 kvadratmeter. Ena sidan av utrymmet är 8 meter och den andra sidan kan förlängas efter behov. Vivi har 40 kycklingar. \n\nVad är den minsta möjliga längden på den andra sidan av utrymmet?"

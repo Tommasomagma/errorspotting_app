@@ -1,1 +1,0 @@
-"Skriv det rätta talet istället för \"$?$\".\\\n${\\Large\\frac{?}{8}}= 8$"

@@ -1,0 +1,1 @@
+"Beräkna.\n \n $821 - 161=$". Problem image: En tabell uppdelad i tre kolumner och två rader. Övre raden har siffrorna åtta, två och ett från vänster till höger. Nedre raden har symbolen för subtraktion följt av siffrorna ett, sex och ett. En horisontell linje under tabellen markerar var resultatet ska skrivas.

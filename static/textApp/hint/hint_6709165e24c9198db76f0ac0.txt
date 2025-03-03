@@ -1,0 +1,1 @@
+It looks like you might have added the numbers correctly but forgot to divide by 5 to get the average.

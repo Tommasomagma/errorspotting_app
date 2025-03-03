@@ -1,0 +1,1 @@
+"Centraleuropas högsta berg, Mont Blanc, är $4\\ 810$ m högt. Nordens högsta berg, Galdhöpiggen, är $2\\ 340$ m lägre. Afrikas högsta berg, Kilimanjaro, är $3\\ 450$ m högre än Galdhöpiggen. Världens högsta berg, Mount Everest, är $8\\ 850$ m.\n\nHur mycket högre är Mount Everest än Kilimanjaro?"

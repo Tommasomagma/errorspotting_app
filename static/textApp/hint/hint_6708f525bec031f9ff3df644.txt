@@ -1,0 +1,1 @@
+Think about whether you factored out the entire common factor from both parts of the expression.

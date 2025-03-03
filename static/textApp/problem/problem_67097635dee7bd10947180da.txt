@@ -1,0 +1,1 @@
+"Magnus och Miriam vill bygga en mur längs ena sidan av deras trädgård. De använder sig av murblock som är $20$ × $20$ × $30$ cm. Muren ska vara $60$ cm hög. \n\nHur lång mur kan de bygga med $240$ murblock?"

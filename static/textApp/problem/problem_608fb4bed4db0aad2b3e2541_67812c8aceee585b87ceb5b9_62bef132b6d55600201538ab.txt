@@ -1,1 +1,0 @@
-"Bestäm värdet av uttrycket $2x - 5$ om $x = 8$."

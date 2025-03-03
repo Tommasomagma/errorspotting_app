@@ -1,0 +1,1 @@
+Try multiplying the one-way distance by 2 for each day and then adding that for all 23 days.

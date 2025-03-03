@@ -1,0 +1,1 @@
+Remember to compare the actual values of all the numbers, not just convert fractions separately, to find the smallest one.

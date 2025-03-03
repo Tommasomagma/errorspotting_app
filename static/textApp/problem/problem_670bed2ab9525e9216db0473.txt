@@ -1,0 +1,1 @@
+"Beräkna.\n \n $374 - 73 =$". Problem image: En tabell med tre kolumner och två rader för att visa subtraktion av tretal. Översta raden innehåller siffrorna 3, 7, 4 och den nedre raden innehåller siffrorna 7, 3, med ett minustecken till vänster och en horisontell linje under.

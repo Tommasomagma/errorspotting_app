@@ -1,7 +1,0 @@
-0,3 \text{ cm} = 3 \text{ mm} \\
-12 \text{ cm} \\
-? \\
-4:1 \\
-\downarrow \\
-3 \text{ mm} \\
-3 \cdot 4 = 12

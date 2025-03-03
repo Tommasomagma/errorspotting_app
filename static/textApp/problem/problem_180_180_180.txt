@@ -1,3 +1,0 @@
-Lös ekvationen. 
-
-$x \cdot 2 - 2 = 6$

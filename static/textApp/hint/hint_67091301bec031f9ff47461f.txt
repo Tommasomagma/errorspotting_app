@@ -1,0 +1,1 @@
+Double-check that you correctly apply the formula for a square's area using the side from the diagonal, making sure not to mix dimensions when squaring.

@@ -1,0 +1,1 @@
+Double-check that you subtract the forest, cultivated, and meadow areas from 600 to get the number of hectares, not a fraction of it.

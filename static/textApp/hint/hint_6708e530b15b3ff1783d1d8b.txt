@@ -1,0 +1,1 @@
+Prova att dela bönorna lika så att varje ask får samma antal.

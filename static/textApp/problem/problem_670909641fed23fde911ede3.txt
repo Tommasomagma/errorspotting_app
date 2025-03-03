@@ -1,0 +1,1 @@
+"$1 {\\hspace{0.25cm}}  3{\\hspace{0.25cm}} 5{\\hspace{0.25cm}} 7{\\hspace{0.25cm}} 9 ...$ Vilket av uttrycken visar hur talen i talföljden kan räknas fram?"

@@ -1,0 +1,1 @@
+Double-check how you handle the negative sign in your exponent when you take the logarithm.

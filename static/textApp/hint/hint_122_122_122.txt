@@ -1,1 +1,0 @@
-It looks like you accidentally replaced y with x in one of the multiplications—double-check that you use both variables correctly.

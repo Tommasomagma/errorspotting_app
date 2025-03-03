@@ -1,0 +1,1 @@
+nan. Problem image: A three-column addition table with two rows of numbers to be added. Each column is separated into individual cells, with the top row showing the digits of 419 and the bottom row showing the digits of 737. There is a blue horizontal line below the second row indicating where the sum should be written.

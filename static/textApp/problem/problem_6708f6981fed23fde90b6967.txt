@@ -1,0 +1,1 @@
+"3 stycken konstgjorda blommor har $x$ blad vardera. Nils river bort 2 blad från respektive blomma. Då har blommorna tillsammans 36 blad. \n\nBestäm $x$.". Problem image: Bilden visar en konstgjord blomma med många blad och en gul mitt.

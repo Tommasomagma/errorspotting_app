@@ -1,0 +1,1 @@
+"Subtract the following:\n\n$\\Large\\ \\ \\  5.121$  \n$\\underline{\\Large-2.112}$  \n$\\Large\\boxed{\\ \\ \\ ?\\ \\ \\ }$"

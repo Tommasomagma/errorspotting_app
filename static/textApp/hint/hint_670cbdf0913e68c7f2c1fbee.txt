@@ -1,0 +1,1 @@
+Remember that cutting one rope into five equal parts means making four cuts, so think about doing this for each rope.

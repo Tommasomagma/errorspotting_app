@@ -1,0 +1,1 @@
+Double-check the triangle's angle sum and ensure that you set up the equation correctly using the 90° angle instead of combining x with 35° and 45°.

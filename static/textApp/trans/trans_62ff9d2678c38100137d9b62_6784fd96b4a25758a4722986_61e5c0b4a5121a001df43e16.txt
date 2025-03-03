@@ -1,9 +1,0 @@
-\[
-\begin{array}{c}
-  \phantom{1}10 \\
- \phantom{x}728 \\
--75 \\
-\hline
-73 \\
-\end{array}
-\]

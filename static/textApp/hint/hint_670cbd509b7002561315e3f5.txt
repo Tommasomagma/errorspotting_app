@@ -1,0 +1,1 @@
+Try rounding one or both numbers to nearby simple numbers for an easier multiplication.

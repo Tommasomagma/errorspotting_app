@@ -1,0 +1,1 @@
+"Skriv talet med lämpligt prefix.\n\n$600$ g $=$"

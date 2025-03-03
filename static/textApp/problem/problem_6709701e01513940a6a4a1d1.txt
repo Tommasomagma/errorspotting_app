@@ -1,0 +1,1 @@
+"Mio har 20 kr och ska köpa tuggummi som kostar 6 kr/st.\n\nHur mycket får han i växel om han köper så många tuggummin som möjligt?". Problem image: Två tuggummin framför gröna löv.

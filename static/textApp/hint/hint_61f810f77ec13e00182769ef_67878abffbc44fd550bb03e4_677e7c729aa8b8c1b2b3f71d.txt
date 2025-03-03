@@ -1,1 +1,0 @@
-Double-check how you converted each minute into seconds and added them up, as your breakdown of 10 minutes seems off.

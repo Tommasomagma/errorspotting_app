@@ -1,0 +1,1 @@
+Remember to add the currency unit "kr" to your final answer, as every step should match the problem's details.

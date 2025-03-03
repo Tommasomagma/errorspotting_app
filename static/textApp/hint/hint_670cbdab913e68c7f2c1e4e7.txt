@@ -1,0 +1,1 @@
+Look closely at the step where you subtracted numbers, as adding the side lengths would match the problem's requirements better.

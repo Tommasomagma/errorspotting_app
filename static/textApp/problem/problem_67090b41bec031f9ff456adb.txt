@@ -1,0 +1,1 @@
+"Avrunda till tusendelar.\n\n${\\Large\\frac{\\sqrt{6{,}25} \\ + \\ \\sqrt{2}}{5}} \\approx $"

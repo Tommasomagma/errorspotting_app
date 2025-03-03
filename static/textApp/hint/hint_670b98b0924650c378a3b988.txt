@@ -1,0 +1,1 @@
+Make sure you subtract the original percentage from the new percentage instead of reversing the order.

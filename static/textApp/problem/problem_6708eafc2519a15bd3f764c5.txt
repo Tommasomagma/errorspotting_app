@@ -1,0 +1,1 @@
+"**Problemlösning**\n\nLina har en påse med kulor. Hälften är röda, en tredjedel är gula och resten är blå. Hon har $5$ blå kulor.\n\nHur många kulor finns det i påsen?"

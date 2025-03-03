@@ -1,0 +1,1 @@
+"Förläng bråket så att nämnaren blir $18$. \n\n ${\\Large \\frac{2}{9}} =$"

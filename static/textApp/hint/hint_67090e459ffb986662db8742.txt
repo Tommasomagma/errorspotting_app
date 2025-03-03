@@ -1,0 +1,1 @@
+Double-check how much is taken away compared to the total salary, and see which part that is in terms of a percent.

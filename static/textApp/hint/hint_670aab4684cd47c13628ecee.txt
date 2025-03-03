@@ -1,0 +1,1 @@
+Double-check the operation you used to isolate x, making sure you subtract correctly instead of adding.

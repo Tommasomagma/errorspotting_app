@@ -1,0 +1,1 @@
+Tänk på att hitta det största talet som delar både 210 och 300 utan att lämna någon rest.

@@ -1,0 +1,1 @@
+Check how you applied the percentage change factor to 350, and see if multiplying directly might work better.

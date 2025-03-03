@@ -1,0 +1,1 @@
+"Alexa har en segelbåt. Seglet har en triangulär form, är 4,5 meter högt och har en bas som är 5 meter. \n\nVad är arean av seglet?". Problem image: Bilden visar en segelbåt med ett segel i form av en rätvinklig triangel. Höjden på seglet är markerad som 4,5 meter och basen är markerad som 5 meter.

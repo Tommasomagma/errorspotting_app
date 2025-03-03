@@ -1,0 +1,1 @@
+"Beräkna.\n \n $543 - 199 =$". Problem image: En bild som visar en subtraktionsuppställning i en tabellform med tre kolumner. Överst i varje kolumn står siffrorna 5, 4 och 3. Under dem, separerade av en horisontell linje, står siffrorna 1, 9 och 9.

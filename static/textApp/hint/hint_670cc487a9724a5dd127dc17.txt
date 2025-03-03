@@ -1,0 +1,1 @@
+Subtract the lost coins from the total coins to see how many remain.

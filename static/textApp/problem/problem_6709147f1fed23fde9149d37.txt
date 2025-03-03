@@ -1,0 +1,1 @@
+"Skriv det tal som saknas.\n\n$x=5$\n\n$y=?$\n\n$3x-y=13$"

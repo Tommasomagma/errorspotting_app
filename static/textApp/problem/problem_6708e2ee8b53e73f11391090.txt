@@ -1,0 +1,1 @@
+"Ett golfhål har diametern $3{,}44$ cm. Vad är hålets omkrets? Använd $\\pi \\approx 3{,}14$ och svara i hela centimeter.". Problem image: En illustration av ett golfhål med en boll som ligger nära hålet och siffran ett i övre högra hörnet.

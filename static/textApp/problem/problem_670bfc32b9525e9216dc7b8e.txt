@@ -1,0 +1,1 @@
+"Sträckan som Irma har sprungit kan beräknas med formeln $s=v \\cdot t$. Där $s$ är sträckan i kilometer Irma har sprungit med medelhastigheten $v$ km/h på tiden $t$ timmar. \n\nBeräkna sträckan i **meter** som Irma sprang om $v=12$ km/h och $t=33$ minuter.". Problem image: En person som springer.

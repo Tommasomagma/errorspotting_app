@@ -1,0 +1,1 @@
+Try reviewing the difference between multiplying two numbers and multiplying a number by itself several times.

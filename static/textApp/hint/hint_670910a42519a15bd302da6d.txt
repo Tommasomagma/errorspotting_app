@@ -1,0 +1,1 @@
+Kontrollera att du bara ger svaret som en siffra, utan några extra bokstäver.

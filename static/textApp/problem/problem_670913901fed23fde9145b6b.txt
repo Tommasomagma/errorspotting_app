@@ -1,0 +1,1 @@
+"Anton ska baka $5$ bröd. Det behövs ​${\\Large\\frac{3}{4}}$​ dl mjöl till varje bröd.\n\nHur mycket mjöl behöver Anton?"

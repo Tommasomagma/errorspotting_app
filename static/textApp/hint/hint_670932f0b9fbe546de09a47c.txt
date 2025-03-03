@@ -1,0 +1,1 @@
+Try multiplying 87 by 4 carefully, since that will give you the correct calculation for x.

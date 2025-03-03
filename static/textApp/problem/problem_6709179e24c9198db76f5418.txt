@@ -1,0 +1,1 @@
+"$2{\\Large \\frac{1}{7}} - 1{\\Large \\frac{5}{7}} =$\n\nSvara i blandad form."

@@ -1,0 +1,1 @@
+Check that after adding the numbers you divide by the number of values you added.

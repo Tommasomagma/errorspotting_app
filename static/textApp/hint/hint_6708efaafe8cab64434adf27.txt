@@ -1,0 +1,1 @@
+Hint: Check if you added both the trip to school and back for each day.

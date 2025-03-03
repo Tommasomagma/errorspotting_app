@@ -1,0 +1,1 @@
+Take another look at how you divide the difference by the original price to find the percent removed.

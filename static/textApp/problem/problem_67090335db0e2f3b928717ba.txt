@@ -1,0 +1,1 @@
+"Vad är summan av de fem första talen i talföljden?\n\n$1{,}2 \\hspace{0.5cm} 1{,}7  \\hspace{0.5cm} 2{,}7  \\hspace{0.5cm} 4{,}7 \\hspace{0.5cm}  \\ldots$"

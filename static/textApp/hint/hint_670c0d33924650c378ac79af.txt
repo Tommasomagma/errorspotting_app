@@ -1,0 +1,1 @@
+Remember to find the number exactly in the middle by calculating the average of both numbers.

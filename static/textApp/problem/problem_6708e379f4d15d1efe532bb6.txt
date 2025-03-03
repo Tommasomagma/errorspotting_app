@@ -1,0 +1,1 @@
+"En termometer visar -3,7°C. Vad visar termometern, om...\n\nTemperaturen sjunker med 5°C? Svara utan enhet, endast med ett tal."

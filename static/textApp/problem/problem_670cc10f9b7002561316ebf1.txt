@@ -1,0 +1,1 @@
+"I en låda finns $4$ verktyg. Hur många verktyg finns det i $5$ lådor?". Problem image: Bilden visar en verktygslåda med olika verktyg som representerar en låda i matematikfrågan.

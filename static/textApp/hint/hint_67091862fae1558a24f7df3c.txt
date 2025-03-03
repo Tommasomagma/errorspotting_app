@@ -1,0 +1,1 @@
+Check that you convert 3% into the correct decimal before multiplying by 700.

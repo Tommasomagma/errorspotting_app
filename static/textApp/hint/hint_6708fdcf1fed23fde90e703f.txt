@@ -1,0 +1,1 @@
+Check if you can divide both the top and the bottom by the same number to simplify your fraction further.

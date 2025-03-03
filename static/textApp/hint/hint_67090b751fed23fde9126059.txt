@@ -1,0 +1,1 @@
+It seems you may have reversed the subtraction, so try subtracting 18 from the total amount instead.

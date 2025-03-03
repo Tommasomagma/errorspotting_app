@@ -1,1 +1,0 @@
-Double-check the multiplication of the decimal part; make sure you're multiplying 6 by 0,4 correctly and not treating 0,4 as 4.

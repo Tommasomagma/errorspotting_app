@@ -1,0 +1,1 @@
+Check if you accidentally did an extra multiplication at the end instead of stopping after you subtracted the white areas.

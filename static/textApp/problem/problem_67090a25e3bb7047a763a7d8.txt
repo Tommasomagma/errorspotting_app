@@ -1,0 +1,1 @@
+"Vad ska stå i rutan för att likheten ska gälla?\n\n$60x + 50 = 10(\\ \\boxed{\\phantom{a}}+5)$"

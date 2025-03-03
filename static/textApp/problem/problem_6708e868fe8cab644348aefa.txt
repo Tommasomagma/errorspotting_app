@@ -1,0 +1,1 @@
+"Skriv det tal som är $100$ mindre än $2\\ 050$."

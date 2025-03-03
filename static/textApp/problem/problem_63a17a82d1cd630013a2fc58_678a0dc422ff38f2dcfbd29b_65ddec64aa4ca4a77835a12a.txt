@@ -1,1 +1,0 @@
-"Förenkla och lös ekvationen.\n\n$4x-(3-2x)=21$"

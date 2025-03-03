@@ -1,0 +1,1 @@
+Double-check that after evaluating 1 - x you correctly isolated x instead of using the result directly for x.

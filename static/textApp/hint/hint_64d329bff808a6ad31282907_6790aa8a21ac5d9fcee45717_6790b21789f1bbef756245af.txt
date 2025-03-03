@@ -1,1 +1,0 @@
-Good job trying, but check the step where you subtracted 7 from 1—make sure you handle that part of the subtraction correctly.

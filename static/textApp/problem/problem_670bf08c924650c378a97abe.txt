@@ -1,0 +1,1 @@
+"Vad ska stå i rutan för att likheten ska gälla?\n\n$2(\\boxed{\\phantom{a}}- 4) = 18x - 8$"

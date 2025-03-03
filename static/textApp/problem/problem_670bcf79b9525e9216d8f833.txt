@@ -1,0 +1,1 @@
+"Omkretsen på en femhörning med lika långa sidor är 145 cm.  Hur lång är en sida? \n\n*Visa hur du löser uppgiften*". Problem image: En regelbunden femhörning i grönt där varje sida är markerad med ett 'x'. Överst står det '[cm]' för att ange att måtten är i centimeter.

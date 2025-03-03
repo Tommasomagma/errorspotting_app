@@ -1,0 +1,1 @@
+Testa att byta plats på siffran längst till höger med den tredje siffran i talet.

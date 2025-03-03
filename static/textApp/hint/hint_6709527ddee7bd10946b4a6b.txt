@@ -1,0 +1,1 @@
+Remember to add the two bases together before multiplying by the height in your formula.

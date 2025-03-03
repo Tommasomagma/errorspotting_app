@@ -1,0 +1,1 @@
+Try counting the colored cells and compare them to the total number to see what small fraction you get.

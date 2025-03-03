@@ -1,0 +1,1 @@
+Double-check which price to use as your base when dividing the difference.

@@ -1,0 +1,1 @@
+"Välj de tal som är delbara med $2$. \n\n$26 \\hspace{0.5cm} 47 \\hspace{0.5cm} 93  \\hspace{0.5cm} 139  \\hspace{0.5cm} 246  \\hspace{0.5cm} 328 \\hspace{0.5cm} 1\\ 500$"

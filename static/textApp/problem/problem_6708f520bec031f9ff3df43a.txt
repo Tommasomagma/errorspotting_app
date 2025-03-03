@@ -1,0 +1,1 @@
+"Fyra fotbollslag spelar en turnering. Alla lag spelar mot varandra exakt en gång. För varje match gäller att det vinnande laget får tre poäng och förlorarna noll poäng. Blir det oavgjort får lagen en poäng vardera. \nVilken av de följande sammanlagda poängen kan ett lag inte ha, efter att alla matcher har spelats?"

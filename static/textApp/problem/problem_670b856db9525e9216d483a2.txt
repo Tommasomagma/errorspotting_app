@@ -1,0 +1,1 @@
+"En funktion beskrivs med formeln $y=3x-7$.\n\nBestäm $y$ när $x=\\large\\frac{7}{3}$."

@@ -1,0 +1,1 @@
+Remember to include every side of the square when calculating its perimeter.

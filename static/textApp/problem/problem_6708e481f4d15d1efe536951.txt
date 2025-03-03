@@ -1,0 +1,1 @@
+"Beräkna.\n\n $ 35 - 13=$". Problem image: En subtraktionsproblem i en vertikal form visas. Två tal är uppställda ovanför varandra med det större talet överst och en subtraktionslinje nedanför.

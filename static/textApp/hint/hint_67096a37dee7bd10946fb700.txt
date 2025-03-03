@@ -1,0 +1,1 @@
+Try checking how you turned the line's steepness into a multiplication instead of using the rise over run ratio correctly.
