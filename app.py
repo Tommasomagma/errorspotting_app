@@ -88,15 +88,18 @@ def home():
             else:
                 problem_content = "NONE"
 
-        # Read the text content (if the file exists)
-        if os.path.exists(trans_path):
-            with open(trans_path, 'r') as f:
-                trans_content = f.read()
-        else:
-            trans_content = "NONE"
-            
-        if 'nan. Problem image' not in problem_content and trans_content != 'X':
-            imgFound = True
+            trans_file = f'trans_{image_id}.txt'  # Replace the image extension with .txt
+            trans_path = os.path.join(app.config['TRANS_FOLDER'], trans_file)
+
+            # Read the text content (if the file exists)
+            if os.path.exists(trans_path):
+                with open(trans_path, 'r') as f:
+                    trans_content = f.read()
+            else:
+                trans_content = "NONE"
+                
+            if 'nan. Problem image' not in problem_content and trans_content != 'X':
+                imgFound = True
 
     correct_file = f'correct_{image_id}.txt'  # Replace the image extension with .txt
     correct_path = os.path.join(app.config['CORRECT_FOLDER'], correct_file)
@@ -106,9 +109,6 @@ def home():
 
     hint_file = f'hint_{image_id}.txt'  # Replace the image extension with .txt
     hint_path = os.path.join(app.config['HINT_FOLDER'], hint_file)
-
-    trans_file = f'trans_{image_id}.txt'  # Replace the image extension with .txt
-    trans_path = os.path.join(app.config['TRANS_FOLDER'], trans_file)
 
     # Read the text content (if the file exists)
     if os.path.exists(correct_path):
@@ -130,13 +130,6 @@ def home():
             hint_content = f.read()
     else:
         hint_content = "NONE"
-
-    # Read the text content (if the file exists)
-    if os.path.exists(trans_path):
-        with open(trans_path, 'r') as f:
-            trans_content = f.read()
-    else:
-        trans_content = "NONE"
 
     problem_content = problem_content.replace("\\n", "").replace("\\quad", "").replace("$", "")
     if len(problem_content) == 0:
