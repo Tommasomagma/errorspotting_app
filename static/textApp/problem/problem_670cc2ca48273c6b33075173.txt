@@ -1,1 +1,0 @@
-"Bilen är 6 cm lång i bilden och är avbildad i skala $1:60$. Hur lång är den i verkligheten? Avrunda till tiondels meter.". Problem image: En illustration av en bil med texten 'Skala 1:60' ovanför. Bilden visar att bilen är 6 cm lång enligt denna skala.

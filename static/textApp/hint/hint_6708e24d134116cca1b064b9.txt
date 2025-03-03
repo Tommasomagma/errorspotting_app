@@ -1,1 +1,0 @@
-Double-check the decimal value of each fraction to ensure it falls strictly between 0.5 and 0.75.

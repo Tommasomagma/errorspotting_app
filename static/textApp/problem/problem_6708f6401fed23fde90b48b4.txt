@@ -1,1 +1,0 @@
-"Dela upp talet i primtalsfaktorer. Börja med att göra ett faktorträd. Svara med summan av primtalen.\n\n$30$"

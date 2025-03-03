@@ -1,1 +1,0 @@
-Take a close look at your multiplication with the decimal; 0.5 times 100 might not be 500.

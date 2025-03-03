@@ -1,1 +1,0 @@
-"Skriv det tal som saknas.\n\n$x=6$\n\n$y=3$\n\n$x-2y=?$"

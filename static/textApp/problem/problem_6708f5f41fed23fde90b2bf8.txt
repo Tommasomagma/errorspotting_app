@@ -1,1 +1,0 @@
-"En rektangel har längden $3x^4$ och bredden $8x^5$. \n\nVad är arean?". Problem image: En rektangel. Längden är betecknad med '3x^4' och bredden med '8x^5'.

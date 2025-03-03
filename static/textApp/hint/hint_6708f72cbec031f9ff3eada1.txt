@@ -1,1 +1,0 @@
-Double-check the way you multiplied 'a' by 2, as it looks like you might have confused it with raising 'a' to a power.

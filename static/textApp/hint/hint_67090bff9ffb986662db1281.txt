@@ -1,1 +1,0 @@
-Remember to compare the new price to the old by dividing, not just subtracting.

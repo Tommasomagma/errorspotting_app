@@ -1,1 +1,0 @@
-Count how many stars are blue and then compare that number to the total amount of stars.

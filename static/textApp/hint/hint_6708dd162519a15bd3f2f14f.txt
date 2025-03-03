@@ -1,1 +1,0 @@
-Double-check that when you calculate an area, you need to use square units, not just the number.

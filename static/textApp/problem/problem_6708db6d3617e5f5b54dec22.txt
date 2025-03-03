@@ -1,1 +1,0 @@
-"Vilken siffra är exponenten i $3^5$?"

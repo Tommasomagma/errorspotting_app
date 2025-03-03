@@ -1,1 +1,0 @@
-Draw the numbers on a number line and see which one lies furthest to the right.

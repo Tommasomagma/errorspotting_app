@@ -1,1 +1,0 @@
-Draw the simple factor tree for 27 and add the prime numbers you find!

@@ -1,1 +1,0 @@
-"Rita en kvadrat med sidan $4$ cm och beräkna arean."

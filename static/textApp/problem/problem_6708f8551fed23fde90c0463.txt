@@ -1,1 +1,0 @@
-"Multiplicera in i parentesen och förenkla uttrycket.\n\n$  x+5(2+2x)-5  =$"

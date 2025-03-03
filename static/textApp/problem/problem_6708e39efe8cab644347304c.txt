@@ -1,1 +1,0 @@
-"**Cykeltur**\n\nDet brukar ta $12$ min för Per att cykla till skolan som ligger $2$ km bort. \n\nHur lång tid tar det då för Per att cykla till sin kompis som bor $4{,}5$ km bort?"

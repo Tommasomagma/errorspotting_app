@@ -1,1 +1,0 @@
-"Avrunda till tiotal och beräkna med överslagsräkning.\n\n$79+32+119 \\approx$"

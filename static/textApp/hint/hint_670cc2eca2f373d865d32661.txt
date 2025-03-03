@@ -1,1 +1,0 @@
-Perhaps you could revisit comparing fraction sizes to ensure they are arranged from the smallest to the largest correctly.

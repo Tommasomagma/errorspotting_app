@@ -1,1 +1,0 @@
-Double-check whether you’re reporting the number of blocks to color or the percentage you've worked with.

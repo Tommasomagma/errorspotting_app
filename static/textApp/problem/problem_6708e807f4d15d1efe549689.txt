@@ -1,1 +1,0 @@
-"Vilket tal kommer näst? \n\n$102 \\hspace{0.5cm} 101 \\hspace{0.5cm} 100 \\hspace{0.5cm} \\underline{\\hspace{1cm}}$"

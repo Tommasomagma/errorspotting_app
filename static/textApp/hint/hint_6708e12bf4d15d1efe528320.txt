@@ -1,1 +1,0 @@
-Look closely at how you subtracted the exact prices of the games from the starting amount.

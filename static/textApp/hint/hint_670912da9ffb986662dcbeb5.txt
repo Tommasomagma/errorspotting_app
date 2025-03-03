@@ -1,1 +1,0 @@
-Dubbelkolla att du multiplicerar de två underliggande blockens värden noga, särskilt när du arbetar med negativa tal.

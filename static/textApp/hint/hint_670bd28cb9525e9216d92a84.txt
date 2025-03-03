@@ -1,1 +1,0 @@
-Double-check how you handled multiplying by 2 after adding 35 and 3, making sure no extra exponent or operation got included.

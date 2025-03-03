@@ -1,1 +1,0 @@
-"Vilket alternativ är ungefär lika stor som produkten?  \n\n$4{,}8 \\cdot 9{,}1$"

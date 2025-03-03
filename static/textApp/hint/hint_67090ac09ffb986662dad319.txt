@@ -1,1 +1,0 @@
-Try multiplying both sides by x to remove the fraction and see what number makes 42 evenly split by 6.

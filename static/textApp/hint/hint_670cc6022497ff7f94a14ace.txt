@@ -1,1 +1,0 @@
-Dubbelkolla att du bara lägger ihop de små primtal du hittar i ditt faktorträd.

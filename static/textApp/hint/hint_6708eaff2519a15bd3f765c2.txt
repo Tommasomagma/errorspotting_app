@@ -1,1 +1,0 @@
-Remember that rounding changes the number to the nearest ten instead of subtracting a value.

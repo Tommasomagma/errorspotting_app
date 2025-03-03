@@ -1,1 +1,0 @@
-Try rounding each number to make the addition easier and then see if your answer gets closer.

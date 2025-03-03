@@ -1,1 +1,0 @@
-"Avrunda termerna till heltal och beräkna med överslagsräkning.\n\n$7{,}8+3{,}9 \\approx$"

@@ -1,1 +1,0 @@
-"Skriv talet i det binära talsystemet.\n\n$30$"

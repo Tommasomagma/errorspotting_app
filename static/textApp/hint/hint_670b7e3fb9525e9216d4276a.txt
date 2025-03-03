@@ -1,1 +1,0 @@
-Take another look at how you're handling the subtraction of 0,7kg from 4kg before adding the weights together.

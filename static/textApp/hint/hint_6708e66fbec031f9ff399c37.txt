@@ -1,1 +1,0 @@
-Check if you correctly divided the rectangle's area when calculating the triangle’s area.

@@ -1,1 +1,0 @@
-"Beräkna den negativa lösningen för ekvationen.\n\n${\\Large\\frac{x^2}{3}}-21=6$"

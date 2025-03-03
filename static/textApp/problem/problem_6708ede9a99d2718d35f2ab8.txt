@@ -1,1 +1,0 @@
-"Beräkna.\n\n$124+48=$". Problem image: En additionstabell med tre kolumner och två rader. Övre raden visar talen 1, 2 och 4. Nedre raden visar plus-tecknet följt av talen 4 och 8. Det finns en tom cell under siffra 1 och en blå linje under hela tabellen.

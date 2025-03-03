@@ -1,1 +1,0 @@
-Double-check that each pair has one positive and one negative number.

@@ -1,1 +1,0 @@
-Take another look at how you divided the total by the number of times instead of subtracting to see if that step was done correctly.

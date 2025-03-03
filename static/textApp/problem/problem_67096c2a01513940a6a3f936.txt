@@ -1,1 +1,0 @@
-"Summan av två tal är 100. Det ena talet är fyra gånger så stort som det andra. \n\nSkriv det mindre talet."

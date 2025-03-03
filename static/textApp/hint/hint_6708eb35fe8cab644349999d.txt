@@ -1,1 +1,0 @@
-Double-check how you found the height: remember you need to add 9 to one third of the base before computing the area.

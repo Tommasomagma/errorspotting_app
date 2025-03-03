@@ -1,1 +1,0 @@
-Check your discount calculation step to ensure you correctly multiplied 4950 by 0.12 rather than subtracting numbers in an unusual way.

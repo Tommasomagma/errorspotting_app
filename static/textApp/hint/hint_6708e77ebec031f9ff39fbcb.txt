@@ -1,1 +1,0 @@
-Take another look at how you substitute n into the formula and multiply before adding to ensure the operations are done in the right order.

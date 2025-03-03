@@ -1,1 +1,0 @@
-"Hur många procent är\n\n15 kr av 50 kr $= {\\Large\\frac{15}{50}}={\\Large\\frac{15\\ \\cdot\\ 2}{50\\ \\cdot\\ 2}}=$"

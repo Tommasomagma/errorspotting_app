@@ -1,1 +1,0 @@
-"I en skål finns det 10 godisbitar. Mia äter två bitar. Damon äter tre bitar och Leo äter resten. \n\nHur stor andel av godisbitarna äter Leo?"

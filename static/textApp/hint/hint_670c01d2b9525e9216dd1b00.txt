@@ -1,1 +1,0 @@
-Double-check how you set up "80% less than"—make sure you're subtracting 80% from the middle angle rather than multiplying by 0.8.

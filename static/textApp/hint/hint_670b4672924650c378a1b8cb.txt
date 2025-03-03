@@ -1,1 +1,0 @@
-Try multiplying the number of rectangles in each row and see how they work together!

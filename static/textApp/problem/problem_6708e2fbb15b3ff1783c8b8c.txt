@@ -1,1 +1,0 @@
-"Cyanobakterier är oftast större än andra bakterier och kan ha en diameter på $6 \\cdot 10^{-5}$ m.\n\nHur lång blir en rad med en miljon cyanobakterier? (en miljon $= 10^6$)"

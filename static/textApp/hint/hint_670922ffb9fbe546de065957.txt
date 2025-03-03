@@ -1,1 +1,0 @@
-Have you considered using the trapezoid area formula with the given edges and height?

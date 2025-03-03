@@ -1,1 +1,0 @@
-"Beräkna.\n\n$86+12=$". Problem image: En platsvärdestabell för addition med två tal. Översta raden visar siffrorna 8 och 6 under kolumnerna för tiotal och ental. Den andra raden visar ett plustecken och siffrorna 1 och 2 under kolumnerna för tiotal och ental. En tom rad finns under för svaret.

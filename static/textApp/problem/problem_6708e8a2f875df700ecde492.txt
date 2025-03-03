@@ -1,1 +1,0 @@
-"Beräkna tringelns area.". Problem image: En rätvinklig triangel där den lodräta sidan är märkt med 6,5 m och den vågräta sidan med 4 m.

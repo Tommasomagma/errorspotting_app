@@ -1,1 +1,0 @@
-Check if you divided by 100 correctly without changing the sign, since a division should not make the number negative.

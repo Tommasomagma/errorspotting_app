@@ -1,1 +1,0 @@
-Double-check the rounding step when converting the fraction to a percent.

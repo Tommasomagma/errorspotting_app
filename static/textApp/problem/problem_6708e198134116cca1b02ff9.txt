@@ -1,1 +1,0 @@
-"Beräkna kvoten av $48$ och $8$."

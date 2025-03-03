@@ -1,1 +1,0 @@
-Take a closer look at your division step to ensure you divided the 31,50 evenly by 3.

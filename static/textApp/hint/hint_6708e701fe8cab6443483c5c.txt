@@ -1,1 +1,0 @@
-Don't forget to double the sum of the sides when calculating the perimeter of a rectangle.

@@ -1,1 +1,0 @@
-Check if you correctly multiplied the number of rotations by the tire’s full circumference before doing any division.

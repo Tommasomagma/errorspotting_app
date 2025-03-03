@@ -1,1 +1,0 @@
-Take another look at your first step—make sure you multiply x and y, not add them.

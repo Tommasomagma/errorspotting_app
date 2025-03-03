@@ -1,1 +1,0 @@
-"Förenkla uttrycket och beräkna värdet om $x = 2$.\n\n$  (4x-1)+3x =$"

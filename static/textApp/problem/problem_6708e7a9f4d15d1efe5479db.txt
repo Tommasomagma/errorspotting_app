@@ -1,1 +1,0 @@
-"Berken har $1$ liter och $2$ dl äppeljuice i en kanna. \n\nHur många glas kan han fylla om vardera glas rymmer $3$ dl?". Problem image: En tecknad bild av en mugg med sugrör och ett äpple bredvid den. Inga siffror eller mätningar visas.

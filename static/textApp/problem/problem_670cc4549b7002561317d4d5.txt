@@ -1,1 +1,0 @@
-"Rikard säljer $2$ glassar. Senare säljer Rikard $12$ glassar till. Därefter säljer han ytterligare $4$ glassar.\n  \nHur många glassar säljer Rikard totalt?". Problem image: An ice cream truck with a vendor serving a child and another child holding an ice cream.

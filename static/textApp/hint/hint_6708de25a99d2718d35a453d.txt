@@ -1,1 +1,0 @@
-Try multiplying both the top and bottom by 100 to make the denominator a whole number.

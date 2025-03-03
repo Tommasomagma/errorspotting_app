@@ -1,1 +1,0 @@
-Compare the digits after the comma to see which one is larger.

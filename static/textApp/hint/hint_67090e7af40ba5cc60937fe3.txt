@@ -1,1 +1,0 @@
-Double-check that you add all the prime factors from the tree, not just the first one.

@@ -1,1 +1,0 @@
-Double-check if subtracting 55 directly from 2010 fits the birthday timing in the problem.

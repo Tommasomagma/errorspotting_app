@@ -1,1 +1,0 @@
-Tänk på att när en kula tas ut ändras det totala antalet kulor, så räkna om antalet blå noggrant!

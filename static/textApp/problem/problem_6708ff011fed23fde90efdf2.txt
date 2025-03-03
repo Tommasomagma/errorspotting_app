@@ -1,1 +1,0 @@
-"Bestäm vinkelsumman $x + y + z$.". Problem image: Två skärande räta linjer med en cirkel i skärningspunkten. Tre vinklar är markerade vid skärningspunkten: vinkel x på den nedre linjen, vinkel y inuti cirkeln och vinkel z på den övre linjen. En vinkel på 42 grader är markerad intill vinkel x.

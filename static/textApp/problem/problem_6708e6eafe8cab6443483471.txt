@@ -1,1 +1,0 @@
-"Ljusets hastighet är $3\\cdot 10^5$ km/s. Hur långt hinner ljuset på $5$ min?\n\nSvara i kilometer och i grundpotensform."

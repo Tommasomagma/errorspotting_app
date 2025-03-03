@@ -1,1 +1,0 @@
-"En term är 150 och den andra termen är 60. \n\nBeräkna summan."

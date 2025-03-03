@@ -1,1 +1,0 @@
-Carefully re-read the problem to ensure you're dividing the total time given by the correct number of balloons.

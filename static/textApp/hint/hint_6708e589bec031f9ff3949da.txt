@@ -1,1 +1,0 @@
-Try drawing the factor tree of 60 and add only the numbers that are prime.

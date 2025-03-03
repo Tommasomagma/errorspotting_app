@@ -1,1 +1,0 @@
-Check if you subtracted the total cost from the original 1000 instead of just using the cost sum as your final answer.

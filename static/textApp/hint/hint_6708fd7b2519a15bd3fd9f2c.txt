@@ -1,1 +1,0 @@
-Double-check that you subtracted the correct value (one thousandth, or 0.001) from 0.830.

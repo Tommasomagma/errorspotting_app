@@ -1,1 +1,0 @@
-Double-check that you convert your fraction to a proper decimal format with a decimal marker instead of an integer.

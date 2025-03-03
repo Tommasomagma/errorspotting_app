@@ -1,1 +1,0 @@
-Testa att först addera alla de små vikt-tal, och sedan runda av ditt svar till en decimal.

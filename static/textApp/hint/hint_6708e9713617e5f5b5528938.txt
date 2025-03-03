@@ -1,1 +1,0 @@
-Try subtracting the eaten fraction from the whole pizza instead of just converting it to a decimal.

@@ -1,1 +1,0 @@
-Remember to check if you should divide 1.6 by 0.4 instead of subtracting 0.4 from 1.6 in your calculation.

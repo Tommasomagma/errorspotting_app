@@ -1,1 +1,0 @@
-"Skriv i enheten kvadratdecimeter.\n\n$0{,}8$ m$^2$"

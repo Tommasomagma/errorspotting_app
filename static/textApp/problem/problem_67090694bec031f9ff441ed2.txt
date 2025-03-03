@@ -1,1 +1,0 @@
-"Elin, Frida och Arvid gör pärlhalsband. I Elins halsband finns $x$ pärlor. Frida har $5$ pärlor fler än Elin. Arvid har $4$ pärlor färre än Elin. \n\nSkriv ett uttryck för hur många pärlor Arvid har."

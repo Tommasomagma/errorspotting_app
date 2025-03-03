@@ -1,1 +1,0 @@
-Look at how the triangle is split into equal parts and see which part is colored!

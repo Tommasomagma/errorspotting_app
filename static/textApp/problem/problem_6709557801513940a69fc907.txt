@@ -1,1 +1,0 @@
-"Simone har ett rep som är $660$ cm. Hon ska klippa det i lika långa bitar. \n\nHur lång blir varje bit om hon gör två klipp?"

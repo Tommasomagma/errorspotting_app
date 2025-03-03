@@ -1,1 +1,0 @@
-Check if you are subtracting the bird's eaten cherries from the tree's total correctly.

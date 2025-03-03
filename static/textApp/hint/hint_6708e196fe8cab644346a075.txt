@@ -1,1 +1,0 @@
-Remember to make sure you're calculating for both days, not just one.

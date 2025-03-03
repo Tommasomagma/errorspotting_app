@@ -1,1 +1,0 @@
-nan. Problem image: The image shows a three-dimensional object made up of smaller cubes. The object is a cube itself composed of these smaller cubes arranged in a pattern that is 2 cubes long, 2 cubes wide, and 2 cubes high. Each side of the larger cube is labeled with the number 2, indicating the dimensions in units.

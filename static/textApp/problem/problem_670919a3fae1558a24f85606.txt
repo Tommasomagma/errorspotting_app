@@ -1,1 +1,0 @@
-"Beräkna. Förläng först båda bråken så att de får lika nämnare.\n\n ${\\Large \\frac{{\\Large \\frac{5}{6}}}{{\\Large \\frac{4}{9}}}} = $"

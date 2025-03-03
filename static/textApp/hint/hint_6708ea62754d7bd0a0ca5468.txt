@@ -1,1 +1,0 @@
-Check if you used the correct measurements for base and height when multiplying, instead of mixing in extra numbers.

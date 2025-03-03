@@ -1,1 +1,0 @@
-"Avrunda till heltal.\n\n$62{,}7$"

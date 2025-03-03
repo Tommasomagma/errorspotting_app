@@ -1,1 +1,0 @@
-"Beräkna och svara i blandad, enklaste form.\n\n$7{\\Large\\frac{3}{7}}-3{\\Large\\frac{5}{7}}=$"

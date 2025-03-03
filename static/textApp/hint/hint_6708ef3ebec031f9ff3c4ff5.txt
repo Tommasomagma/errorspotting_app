@@ -1,1 +1,0 @@
-Try checking if subtracting 43 exactly captures "en tiondel mindre" than 430.

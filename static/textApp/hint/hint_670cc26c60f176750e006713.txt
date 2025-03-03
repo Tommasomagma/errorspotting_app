@@ -1,1 +1,0 @@
-Double-check if subtracting 30 is the right operation to pick out the digit in the tens place.

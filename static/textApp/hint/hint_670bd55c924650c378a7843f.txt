@@ -1,1 +1,0 @@
-Try dividing one of the y-values by its matching x-value to see how the numbers relate.

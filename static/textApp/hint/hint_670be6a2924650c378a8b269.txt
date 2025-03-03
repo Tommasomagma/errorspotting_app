@@ -1,1 +1,0 @@
-Recheck whether you are dividing the number of medal winners by 8 instead of using 8/100 in your calculation.

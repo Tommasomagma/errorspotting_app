@@ -1,1 +1,0 @@
-Try dividing 30 by 42 and then rounding your result to a whole number percentage.

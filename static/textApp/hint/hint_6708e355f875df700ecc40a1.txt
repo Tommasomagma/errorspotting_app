@@ -1,1 +1,0 @@
-Notice that 30 rounds to 30, so check how your choice of x matches the rounding rule.

@@ -1,1 +1,0 @@
-"Kate är $8$ år och hennes mamma är $28$ år. Summan av mammans och mormoderns åldrar är $81$ år.\n\nHur gammal var mormor när Kate föddes?"

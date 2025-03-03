@@ -1,1 +1,0 @@
-"Jacob köper ett kilogram äpplen för $18$ kr.\nTeckna ett uttryck för hur mycket han får tillbaka på $x$ kr. Svara utan enhet."

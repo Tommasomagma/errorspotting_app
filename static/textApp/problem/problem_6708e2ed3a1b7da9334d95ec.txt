@@ -1,1 +1,0 @@
-"Beräkna och svara i decimalform.\n\n$1-{\\large\\frac{2}{5}}-{\\large\\frac{1}{4}}$"

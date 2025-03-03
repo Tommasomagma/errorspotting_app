@@ -1,1 +1,0 @@
-"Skriv triangelns area som ett förenklat uttryck.". Problem image: Bilden visar en rätvinklig triangel. Triangelns höjd är markerad med talet 12 och basen är markerad med uttrycket 18a + 13b. Det finns en rektangel vid höjdens fot, vilket indikerar att detta är en rät vinkel.

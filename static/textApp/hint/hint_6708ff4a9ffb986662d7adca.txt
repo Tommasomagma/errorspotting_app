@@ -1,1 +1,0 @@
-Double-check how you calculated the area of the walkway—make sure you subtract the garden’s area from the larger square's area instead of just multiplying by 4.

@@ -1,1 +1,0 @@
-Make sure you use the correct decimal point, not commas, when writing your final answer.

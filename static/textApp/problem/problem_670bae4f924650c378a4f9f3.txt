@@ -1,1 +1,0 @@
-"Rickard har lånat $x$ böcker på biblioteket. Simon har lånat $3$ böcker färre.\n\nSkriv ett uttryck för hur många böcker Simon har lånat."

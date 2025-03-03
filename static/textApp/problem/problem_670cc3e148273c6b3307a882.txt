@@ -1,1 +1,0 @@
-"Beräkna.\n\n$784+15=$". Problem image: Ett rutnät för addition med tre kolumner och två rader. Översta raden visar siffrorna 7, 8 och 4, och den undre raden visar ett plustecken, 1 och 5. En blå linje markerar slutet av talen.

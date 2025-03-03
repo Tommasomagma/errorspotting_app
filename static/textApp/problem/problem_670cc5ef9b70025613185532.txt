@@ -1,1 +1,0 @@
-"Leona har $100$ kr. Hon köper ett par strumpor för $10$ kr och en tröja. Efter det har hon $10$ kr kvar. \n\nHur mycket kostade tröjan?". Problem image: En rosa tröja.

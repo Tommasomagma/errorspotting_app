@@ -1,1 +1,0 @@
-"Beräkna kvoten av $12\\ 000$ och $400$ och addera med produkten av $700$ och $7$."

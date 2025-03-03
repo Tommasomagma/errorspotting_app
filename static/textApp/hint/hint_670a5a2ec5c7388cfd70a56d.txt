@@ -1,1 +1,0 @@
-Maybe review how the scale works; consider dividing by 700 instead of multiplying.

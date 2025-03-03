@@ -1,1 +1,0 @@
-Double-check how you moved 0,7 to the other side, as the subtraction step seems off.

@@ -1,1 +1,0 @@
-"Skriv bråken med samma nämnare och beräkna.\n\n${\\Large\\frac{2}{3}}-{\\Large\\frac{1}{6}}=$"

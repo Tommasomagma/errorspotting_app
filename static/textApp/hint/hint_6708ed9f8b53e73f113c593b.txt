@@ -1,1 +1,0 @@
-Think about whether you should be dividing the numbers instead of subtracting them to compare the books' lengths.

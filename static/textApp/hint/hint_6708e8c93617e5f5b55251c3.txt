@@ -1,1 +1,0 @@
-Your multiplication steps look good, so please re-check your final digit writing to see if an extra 1 was added by mistake.

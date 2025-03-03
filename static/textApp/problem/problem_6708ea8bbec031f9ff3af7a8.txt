@@ -1,1 +1,0 @@
-"Hur mycket är \n\n$25$ % av $120$ kg"

@@ -1,1 +1,0 @@
-"Beräkna. Förkorta svaret och skriv i blandad form om möjligt. \n\n${ \\Large \\frac{9}{16}} \\cdot { \\Large \\frac{8}{33}} \\cdot  { \\Large \\frac{11}{15}} = $"

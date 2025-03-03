@@ -1,1 +1,0 @@
-It looks like you divided by 2 too many times—check if that step correctly shows finding 75% of 400.

@@ -1,1 +1,0 @@
-"Beräkna och skriv svaret i blandad form. \n\n${\\Large\\frac{3}{8}}+{\\Large\\frac{1}{2}}+{\\Large\\frac{3}{4}}$"

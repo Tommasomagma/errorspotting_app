@@ -1,1 +1,0 @@
-"En ljusstake kostar 879 kronor. Alexandra köper 9 stycken ljusstakar och betalar med femhundralappar.\n\nHur många femhundralappar behöver hon använda?". Problem image: En ljusstake.

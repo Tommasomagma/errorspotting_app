@@ -1,1 +1,0 @@
-Remember to find the distance between the values by subtracting the smaller from the bigger one in the decimal part.

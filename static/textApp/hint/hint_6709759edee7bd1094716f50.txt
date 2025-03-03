@@ -1,1 +1,0 @@
-Check that the numbers you multiplied match the values in the problem description.

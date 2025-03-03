@@ -1,1 +1,0 @@
-Double-check if you used the right number of friends when finding the total cookies made.

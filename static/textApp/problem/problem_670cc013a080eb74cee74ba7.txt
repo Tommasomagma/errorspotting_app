@@ -1,1 +1,0 @@
-"Figuren är en rektangel med sidorna 3 och 6 centimeter. Rektangeln har en diagonal som delar den i två lika bitar.\n\nVad är arean av rektangeln?". Problem image: Bilden visar en rektangel med en höjd på 6 centimeter och en bredd på 3 centimeter. En diagonal är ritad från det övre vänstra hörnet till det nedre högra hörnet, och delar rektangeln i två lika stora trianglar.

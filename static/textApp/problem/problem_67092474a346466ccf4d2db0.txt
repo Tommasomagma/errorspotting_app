@@ -1,1 +1,0 @@
-"Till skolturnering delar 72 elever upp sig i lag.\n\nHur många elever blir det i varje lag om det ska vara 4 lag?"

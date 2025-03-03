@@ -1,1 +1,0 @@
-"Multiplicera in i parentesen.\n\n$  9(x-3)   =$"

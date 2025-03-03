@@ -1,1 +1,0 @@
-"Genom att förenkla kan vi göra multiplikation av bråk mycket lättare.\n\n$\\begin{gathered}\n\\color{#505050}{\\textsf{Beräkna}}\n\\\\\n\\color{#505050}{\\frac{5}{8}\\cdot \\frac{8}{9} =}\n\\\\\n\\end{gathered}$"

@@ -1,1 +1,0 @@
-"Vilken är den minsta gemensamma nämnaren, MGN, till bråken ${\\Large\\frac{1}{20}}$ och ${\\Large\\frac{3}{4}}$?"

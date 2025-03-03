@@ -1,1 +1,0 @@
-Double-check your division step, as it seems you made a mistake when dividing 2400 by 80.

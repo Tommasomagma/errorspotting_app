@@ -1,1 +1,0 @@
-Check the order of subtraction to make sure you're taking 100 and then subtracting the costs.

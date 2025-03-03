@@ -1,1 +1,0 @@
-Remember to check if your factor tree shows two of the same prime numbers being added together.

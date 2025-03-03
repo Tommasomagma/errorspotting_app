@@ -1,1 +1,0 @@
-"Beräkna den positiva lösningen för ekvationen.\n\n${\\Large\\frac{3x^2}{2}}-1=23$"

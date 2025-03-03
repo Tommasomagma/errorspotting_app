@@ -1,1 +1,0 @@
-"Hur stor del av rektangeln är färgad?\n\nVälj det tal som beskriver det bäst.". Problem image: En rektangel delad i två sektioner. Den större sektionen till vänster är färgad och den mindre sektionen till höger är ofärgad.

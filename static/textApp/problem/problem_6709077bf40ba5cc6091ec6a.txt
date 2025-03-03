@@ -1,1 +1,0 @@
-"Hur många hela procent är\n\n ${\\Large\\frac{79}{69}} \\approx$"

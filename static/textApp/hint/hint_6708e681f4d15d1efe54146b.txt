@@ -1,1 +1,0 @@
-Check that you used the full number given in the problem for the numerator instead of a smaller number.

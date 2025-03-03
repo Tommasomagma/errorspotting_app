@@ -1,1 +1,0 @@
-Check if you have subtracted all the prices instead of adding them by mistake.

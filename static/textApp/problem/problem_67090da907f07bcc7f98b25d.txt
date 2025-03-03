@@ -1,1 +1,0 @@
-"Skriv talet i decimalform. \n\nen hel och fem tiondelar"

@@ -1,1 +1,0 @@
-"Avgör genom överslagsräkning vilket närmevärde som är bäst.\n\n$652/8{,}2$"

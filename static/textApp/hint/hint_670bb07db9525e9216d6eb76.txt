@@ -1,1 +1,0 @@
-Check if you managed the subtraction sign correctly when moving numbers to isolate x.

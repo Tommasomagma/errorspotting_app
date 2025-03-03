@@ -1,1 +1,0 @@
-Double-check if you multiplied all parts of the formula by 2 before rounding, so that every multiplication was done correctly.

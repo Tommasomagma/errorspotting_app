@@ -1,1 +1,0 @@
-Double-check the multiplication for the largest square to ensure you're squaring its side length correctly.

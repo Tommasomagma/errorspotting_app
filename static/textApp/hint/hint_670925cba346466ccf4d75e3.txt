@@ -1,1 +1,0 @@
-Remember to multiply the height by half the sum of the two bases and check your units!

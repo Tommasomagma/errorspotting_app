@@ -1,1 +1,0 @@
-"Hur stor area har rektangeln?\n\n*Visa hur du löser uppgiften*". Problem image: En rektangel med sidorna markerade. Längden är 4 cm och höjden är 6 cm. Enheterna är angivna i centimeter.

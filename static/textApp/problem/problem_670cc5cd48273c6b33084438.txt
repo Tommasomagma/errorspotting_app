@@ -1,1 +1,0 @@
-"Visa hur du löser uppgiften.\n\n${\\Large\\frac{4}{6}}-{\\Large\\frac{1}{3}}=$"

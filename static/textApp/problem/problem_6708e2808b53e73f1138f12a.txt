@@ -1,1 +1,0 @@
-"Avrunda talet $538{,}2$ till heltal."

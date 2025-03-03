@@ -1,1 +1,0 @@
-"Vilket tal står $x$ för?\n\n${\\sqrt{3x\\ -\\ 5}}=11$"

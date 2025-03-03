@@ -1,1 +1,0 @@
-"Utveckla och förenkla.\n\n$(x-5)^2=$"

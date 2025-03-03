@@ -1,1 +1,0 @@
-"Skriv ned din lösning och visa hur du tänker.\n\nAlbin sprang 1450 meter. Bea sprang 5 gånger så långt som Albin.\n\n**Hur långt sprang Bea?**"

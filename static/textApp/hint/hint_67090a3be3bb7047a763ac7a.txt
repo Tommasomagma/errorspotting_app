@@ -1,1 +1,0 @@
-Recheck your division calculation to see if 32 divided by 8 really gives the number you need.

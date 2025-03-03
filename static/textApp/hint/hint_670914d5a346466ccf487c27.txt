@@ -1,1 +1,0 @@
-Double-check the basic multiplication fact for 5 multiplied by your number, as it appears there might be a miscalculation.

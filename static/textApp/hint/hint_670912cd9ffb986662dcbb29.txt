@@ -1,1 +1,0 @@
-Check that you divide the whole amount by the number of pieces, not just part of the digits.

@@ -1,1 +1,0 @@
-Check if you are doing the multiplication before the addition as the rules of order of operations require.

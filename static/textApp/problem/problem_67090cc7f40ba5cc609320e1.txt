@@ -1,1 +1,0 @@
-"Stina är född den $12$ februari. Pelle är $7$ dagar yngre. Vilket datum är Pelle född?"

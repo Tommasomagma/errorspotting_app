@@ -1,1 +1,0 @@
-Check that the number in front is between 1 and 10.

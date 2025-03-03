@@ -1,1 +1,0 @@
-Take another look at how you convert 65/45 to a percentage—make sure you multiply by 100 before rounding.

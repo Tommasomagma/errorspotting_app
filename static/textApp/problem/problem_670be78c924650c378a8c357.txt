@@ -1,1 +1,0 @@
-"Polisen kontrollerade $57$ mopeder. Av dem var $14$ trimmade.\n\nHur stor andel av mopederna var trimmade? Avrunda till hela procent."

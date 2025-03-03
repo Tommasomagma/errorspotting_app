@@ -1,1 +1,0 @@
-Have another look at how you use the triangle area formula, especially the division by 2.

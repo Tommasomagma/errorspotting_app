@@ -1,1 +1,0 @@
-"Agnes köpte $2$ pumpor. Den ena vägde $4$ kg. Den andra vägde $0{,}7$ kg mindre. \n\nHur mycket vägde de båda pumporna sammanlagt?"

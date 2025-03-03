@@ -1,1 +1,0 @@
-Check if you multiplied the 1% result by 7 to reach 7% correctly.

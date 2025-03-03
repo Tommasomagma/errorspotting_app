@@ -1,1 +1,0 @@
-Double-check the subtraction of the numerators, as a small slip there can lead to a different result.

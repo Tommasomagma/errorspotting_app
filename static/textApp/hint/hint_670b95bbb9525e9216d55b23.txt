@@ -1,1 +1,0 @@
-Remember to check that dividing by 2 leaves no remainder for each number, so numbers like 47 should be left out.

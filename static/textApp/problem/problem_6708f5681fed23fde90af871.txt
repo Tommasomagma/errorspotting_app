@@ -1,1 +1,0 @@
-"Storleksordna talen från den minsta till det största talet.\n\n$2{,}1 \\quad1{,}999 \\quad2{,}01\\quad2{,}11\\quad 2{,}09$"

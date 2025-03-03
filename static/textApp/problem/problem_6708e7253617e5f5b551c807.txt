@@ -1,1 +1,0 @@
-"En rektangel har sidorna $5$ m och $12$ m. Bestäm längden av diagonalen.". Problem image: Bilden visar en rektangel. Det finns en streckad linje som går på diagonalen från ett hörn till det motsatta hörnet.

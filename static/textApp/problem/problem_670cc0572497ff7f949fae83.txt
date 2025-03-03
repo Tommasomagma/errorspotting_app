@@ -1,1 +1,0 @@
-"Hur skrivs vikten i kilogram och gram?\n\n$8\\ 157$ g"

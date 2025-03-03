@@ -1,1 +1,0 @@
-"Avrunda termerna till tiotal och beräkna med överslagsräkning.\n\n$23+29 \\approx$"

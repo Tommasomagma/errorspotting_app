@@ -1,1 +1,0 @@
-Double-check whether you're adding a fixed number each year or multiplying by 1.20 to reflect a 20% increase.

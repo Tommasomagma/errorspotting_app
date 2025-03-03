@@ -1,1 +1,0 @@
-Maybe check your multiplication step since your fraction should equal 7.6 when dividing by 10.

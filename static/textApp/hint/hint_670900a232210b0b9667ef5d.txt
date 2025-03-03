@@ -1,1 +1,0 @@
-Remember to multiply by 10 instead of dividing when isolating x.

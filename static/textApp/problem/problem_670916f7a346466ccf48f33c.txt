@@ -1,1 +1,0 @@
-"Beräkna. \n\n$7{,}6 - 3{,}9=$". Problem image: Bilden visar en uppställning av subtraktion med två tal, 7,6 och 3,9, organiserade i en tabell med två rader och tre kolumner. Överst finns talet 7,6 med siffrorna i separata kolumner, och nedanför är talet 3,9 placerat på samma sätt. En horisontell linje under talen indikerar var resultatet av subtraktionen ska skrivas.

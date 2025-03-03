@@ -1,1 +1,0 @@
-"Vad är rektangelns omkrets om alla rutor har sidlängden 1 cm?". Problem image: A rectangle composed of square boxes on a grid. Each side of the boxes measures 1 inch.

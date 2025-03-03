@@ -1,1 +1,0 @@
-Try rechecking if adding 55 to 100 correctly shows how a percent increase works or if using a multiplication factor might be more appropriate.

@@ -1,1 +1,0 @@
-Revisa om multiplicaste el número de naranjas por cada vaso y luego lo aplicaste a ambos días en lugar de solamente aplicar un factor.

@@ -1,1 +1,0 @@
-"En boll har volymen 110 dm$^3$. En annan boll har en radie som är 5 gånger längre.\n\nHur många gånger större volym har den andra bollen?"

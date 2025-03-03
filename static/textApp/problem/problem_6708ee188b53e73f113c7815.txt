@@ -1,1 +1,0 @@
-"En trädgård har $22$ träd. Trädgårdsmästaren planterar ytterligare $11$ träd. \n\nHur många träd finns det totalt i trädgården?". Problem image: En planta och en spade i jorden.

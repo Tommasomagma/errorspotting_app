@@ -1,1 +1,0 @@
-"Avgör vilket uttryck som är störst. \n\n${\\Large\\frac{33{,}8}{0{,}1}}$ eller $3\\ 380 \\cdot 0{,}01$"

@@ -1,1 +1,0 @@
-"Fortsätt talföljden.\n\nVad är det åttonde talet i talföljden?\n\n$1{,}9\\hspace{0.5cm}2{,}2\\hspace{0.5cm}2{,}5\\hspace{0.5cm}\\dots$"

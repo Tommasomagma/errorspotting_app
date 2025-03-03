@@ -1,1 +1,0 @@
-Take a closer look to ensure that you're only adding the two numbers directly beneath each number exactly as described.

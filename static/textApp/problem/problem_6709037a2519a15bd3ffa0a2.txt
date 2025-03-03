@@ -1,1 +1,0 @@
-"Vilket svar är bäst?\n\n$1\\ 208 - 897 \\approx $"

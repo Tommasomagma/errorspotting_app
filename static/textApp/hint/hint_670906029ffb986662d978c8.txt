@@ -1,1 +1,0 @@
-Double-check your final answer to make sure you didn't mistakenly include the extra division by 5.

@@ -1,1 +1,0 @@
-Double-check the digit in the thousand’s spot by counting from the left in the number.

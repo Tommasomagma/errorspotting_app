@@ -1,1 +1,0 @@
-Check that you are subtracting the cut-off length from the total rope, not the other way around.

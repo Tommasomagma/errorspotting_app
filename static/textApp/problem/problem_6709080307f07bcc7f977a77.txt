@@ -1,1 +1,0 @@
-"Vilken lösning har ekvationen ${\\Large\\frac{x}{10}}=10$?"

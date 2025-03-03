@@ -1,1 +1,0 @@
-"Beräkna. \n\n${\\Large\\frac{4}{6}}-{\\Large\\frac{2}{6}}=$". Problem image: Två cirklar uppdelade i sex lika stora sektorer. Till vänster, fyra sektorer är färgade rosa. Till höger, två sektorer är färgade rosa.

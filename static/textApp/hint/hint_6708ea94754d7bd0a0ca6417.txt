@@ -1,1 +1,0 @@
-Check if you started with the right number of liters as given in the problem.

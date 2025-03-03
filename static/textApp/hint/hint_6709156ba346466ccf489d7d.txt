@@ -1,1 +1,0 @@
-Double-check if you're using the 80% decrease as a multiplication factor (20% of the middle angle) instead of subtracting a number.

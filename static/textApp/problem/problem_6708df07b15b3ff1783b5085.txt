@@ -1,1 +1,0 @@
-"Vilket tal är minst?\n\n$ 326, \\hspace{0.2cm} 291, \\hspace{0.2cm} 319, \\hspace{0.2cm} 239$"

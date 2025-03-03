@@ -1,1 +1,0 @@
-Check if adding 2.5 and 8 matches the number that the problem asked for.

@@ -1,1 +1,0 @@
-"Bakterier förökar sig genom delning. Antag att du får i dig en bakterie $09.00$ och att bakterierna delar sig var tjugonde minut. \n\nHur många bakterier har du då i dig när klockan är $14.00$? Avrunda till tusental."

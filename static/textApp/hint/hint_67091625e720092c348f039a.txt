@@ -1,1 +1,0 @@
-Look again at how volume is computed—try finding out why multiplying the number of faces by 4 might not give the size of the cube.

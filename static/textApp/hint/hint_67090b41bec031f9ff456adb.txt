@@ -1,1 +1,0 @@
-Check if rounding the square roots too early affected your division—try calculating fully before rounding.

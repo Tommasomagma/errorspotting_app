@@ -1,1 +1,0 @@
-"Vilket tal är $x$?\n\n\n${x - {\\Large\\frac{4}{5}} = {\\Large\\frac{4}{5}}}$\n\nSvara i blandad form."

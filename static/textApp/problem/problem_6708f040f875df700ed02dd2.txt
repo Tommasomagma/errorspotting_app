@@ -1,1 +1,0 @@
-"Alla block är lika stora. \n\nHur stor andel av figuren är färgad? Svara i procentform.". Problem image: En rektangulär figur uppdelad i lika stora block med en hel längd markerad som 100 %. Några av blocken är ifärgsatta.

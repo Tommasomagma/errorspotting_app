@@ -1,1 +1,0 @@
-Try multiplying the cost of one package by the number of packages to find the total.

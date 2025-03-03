@@ -1,1 +1,0 @@
-Prova att dela antalet färgade rektanglar med det totala antalet rektanglar och omvandla kvoten till en decimal.

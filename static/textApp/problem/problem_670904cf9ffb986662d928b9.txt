@@ -1,1 +1,0 @@
-"Välj talen i storleksordning med det största talet först.\n\n$1{,}0 \\hspace{0.5cm} 0{,}05 \\hspace{0.5cm}  0{,}99 \\hspace{0.5cm}  1{,}1 \\hspace{0.5cm}  1{,}01 \\hspace{0.5cm}  0{,}89$"

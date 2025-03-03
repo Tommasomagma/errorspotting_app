@@ -1,1 +1,0 @@
-Make sure you convert centimeters to meters correctly after multiplying by the scale factor.

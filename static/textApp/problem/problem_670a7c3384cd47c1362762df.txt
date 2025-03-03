@@ -1,1 +1,0 @@
-"En dator kostar 8 400 kr utan moms. Man får också betala 25 % moms.\n\nHur mycket kostar datorn när momsen är inräknad?". Problem image: Enkel ikon av en stängd bärbar dator.

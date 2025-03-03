@@ -1,1 +1,0 @@
-"Eleverna på en skola ska välja aktiviteter till elevens val. \n\nDet går 18 elever i klass A. Fem väljer bollsport, tio väljer bild, och tre väljer musik. \n\nDet går 20 elever i klass B. Sex väljer bollsport, fem väljer bild, och nio väljer musik.\n\nVad är förhållandet mellan antalet elever som valde bollsport och antalet elever som valde bild?"

@@ -1,1 +1,0 @@
-Check if you used the correct rule for calculating a triangle's area, and remember to divide the product of the base and height by 2.

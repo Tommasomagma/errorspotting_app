@@ -1,1 +1,0 @@
-"Vilket tal fattas?". Problem image: En sekvens av tal skrivna i ökande ordning med ett frågetecken för att representera det saknade talet.

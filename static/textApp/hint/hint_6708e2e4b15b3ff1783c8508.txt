@@ -1,1 +1,0 @@
-Check how you handled the carry from the ones column when adding the tens and hundreds.

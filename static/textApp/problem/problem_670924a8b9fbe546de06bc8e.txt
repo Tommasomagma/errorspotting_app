@@ -1,1 +1,0 @@
-"Write this calculation as a numerical expression. Do not evaluate the expression.\n\n***multiply 3 by 7, then add 2***"

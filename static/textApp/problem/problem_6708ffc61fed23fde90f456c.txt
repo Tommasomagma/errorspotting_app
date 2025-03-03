@@ -1,1 +1,0 @@
-"Vilket tal kommer närmast före?\n\n$1\\ 100$"

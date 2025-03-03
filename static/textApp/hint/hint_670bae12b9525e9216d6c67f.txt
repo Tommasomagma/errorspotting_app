@@ -1,1 +1,0 @@
-Make sure you add 10 after dividing x by 2, not inside the division.

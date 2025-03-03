@@ -1,1 +1,0 @@
-"Skriv ett förenklat uttryck för rektangelns omkrets.". Problem image: En orange rektangel med längden betecknad som 6x och bredden betecknad som 2x.

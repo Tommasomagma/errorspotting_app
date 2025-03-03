@@ -1,1 +1,0 @@
-"Räkna med överslagsräkning.\n\n$376 + 645 \\approx$"

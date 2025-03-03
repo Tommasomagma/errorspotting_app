@@ -1,1 +1,0 @@
-"Det finns $18$ röda godisar, $12$ gröna godisar och blåa godisar. Totalt finns det $42$ godisar. \n\nHur många godisar är blåa?". Problem image: En röd godispåse.

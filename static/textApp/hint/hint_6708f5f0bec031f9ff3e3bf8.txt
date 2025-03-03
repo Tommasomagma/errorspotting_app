@@ -1,1 +1,0 @@
-Try checking whether you divided correctly instead of multiplying the numbers.

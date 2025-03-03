@@ -1,1 +1,0 @@
-Maybe check that you subtract every digit in its correct column since it looks like a digit might have been dropped.

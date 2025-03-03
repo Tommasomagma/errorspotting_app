@@ -1,1 +1,0 @@
-Try listing the factors of both numbers and see which is the biggest one they share.

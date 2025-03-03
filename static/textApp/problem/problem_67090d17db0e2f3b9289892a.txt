@@ -1,1 +1,0 @@
-"50 paket delas lika mellan 6 barn.\n\nHur många paket får varje barn?". Problem image: En hand som håller ett paket.

@@ -1,1 +1,0 @@
-Look closely at how you isolate x; instead of replacing x with 31, try multiplying both sides by 6 to see if that leads you to the right value.

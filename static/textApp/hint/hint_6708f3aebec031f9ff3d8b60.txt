@@ -1,1 +1,0 @@
-Double-check that you only subtracted the quotient (900 ÷ 30) from 8000 × 4 and not an extra 900.

@@ -1,1 +1,0 @@
-Double-check how you convert "hundradelar" into a number, since 600 may not be the right value to use.

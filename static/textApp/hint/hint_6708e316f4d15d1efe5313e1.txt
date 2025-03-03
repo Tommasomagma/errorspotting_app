@@ -1,1 +1,0 @@
-Check your multiplication with 4, as 4 × 7 should be re-evaluated to match 2 × 42.

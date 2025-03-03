@@ -1,1 +1,0 @@
-Take a closer look at how you applied the exponent to 10 in your subtraction step.

@@ -1,1 +1,0 @@
-"Beräkna.\n\n$642+179=$". Problem image: En additionstabell med två tal som ska adderas. Översta raden visar siffrorna 6, 4 och 2. Nedre raden visar ett plustecken och siffrorna 1, 7 och 9.

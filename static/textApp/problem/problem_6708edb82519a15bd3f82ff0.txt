@@ -1,1 +1,0 @@
-"En påse med 2 kg mjöl kostar 24 kr. En påse med 400 g mandelmjöl kostar 64 kr.\n\nHur mycket mer kostar mandelmjölet per kilogram?". Problem image: Två poser, en större med mjöl och en mindre med mandelmjöl.

@@ -1,1 +1,0 @@
-Maybe check if multiplying both denominators was really needed, or if one denominator could already serve as the common one.

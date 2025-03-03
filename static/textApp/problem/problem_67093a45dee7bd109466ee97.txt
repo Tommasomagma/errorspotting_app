@@ -1,1 +1,0 @@
-"Skriv längden som saknas i centimeter.\n\n$75$ cm + $\\underline{\\hspace{1cm}} =$ 1 m"

@@ -1,1 +1,0 @@
-Look closely at the steps used to isolate x, and check if you applied the right operation from the original equation.

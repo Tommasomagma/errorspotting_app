@@ -1,1 +1,0 @@
-Try subtracting each river's shorter length from the longer one and round carefully to see what you get.

@@ -1,1 +1,0 @@
-"Hur stor andel av figuren är färgad? Svara i decimalform.". Problem image: Ett rutnät bestående av totalt 100 mindre kvadrater där en del är färgade och resten är ofärgade. Rutnätet är uppdelat i färgade kvadrater åt vänster och ofärgade kvadrater åt höger.

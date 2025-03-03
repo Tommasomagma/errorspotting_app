@@ -1,1 +1,0 @@
-"Skriv talet med siffror.\n\nfem hundratal, tre ental, fem tiondelar och sex hundradelar"

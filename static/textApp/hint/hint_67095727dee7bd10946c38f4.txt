@@ -1,1 +1,0 @@
-Remember to divide the total pages by the total minutes to see how many pages are printed in one minute.

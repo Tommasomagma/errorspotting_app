@@ -1,1 +1,0 @@
-Double-check if you should subtract the two parts of the arrow's length instead of dividing 32 by 2.

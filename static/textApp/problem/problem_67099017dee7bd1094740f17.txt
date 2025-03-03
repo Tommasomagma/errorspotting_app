@@ -1,1 +1,0 @@
-"Nova, Troj och Eric kastar boll. Bilden visar Novas kast.\n\nHur många poäng får Nova?". Problem image: Bilden visar en prickskyttetavla med tre ringar där den yttersta ringen är blå, den mellersta vita och den inre ringen är gul. Varje ring har en poängsumma: den blå 1 poäng, den vita 10 poäng och den gula 100 poäng. Det finns bollar placerade på de olika ringarna.

@@ -1,1 +1,0 @@
-"Ahmet hittar en bild på en giraff  som är i skala $1:175$. På bilden är giraffen 3 cm lång.  Hur många meter är giraffen i verkligheten?". Problem image: En tecknad giraff.

@@ -1,1 +1,0 @@
-"Vilket tal ligger mitt emellan $1{,}2$ och $1{,}7$?"

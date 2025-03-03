@@ -1,1 +1,0 @@
-"Skriv arean för rektangeln med ett förenklat uttryck.". Problem image: Bilden visar en rektangel. På rektangelns övre sida finns uttrycket 11 + 13x och på den vänstra sidan står siffran 8.

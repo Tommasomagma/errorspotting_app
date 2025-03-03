@@ -1,1 +1,0 @@
-"Förenkla uttrycken.\n\n(5x-3)-(3x-6)"

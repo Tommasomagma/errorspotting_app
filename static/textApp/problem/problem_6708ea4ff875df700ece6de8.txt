@@ -1,1 +1,0 @@
-"Ali har $2{,}5$ km till skolan. Efter $10$ min har han gått en femtedel av sträckan. Räkna ut hur långt Ali har kvar till skolan."

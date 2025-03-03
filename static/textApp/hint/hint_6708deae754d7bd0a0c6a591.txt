@@ -1,1 +1,0 @@
-Remember to express the distance left as a part of the whole trip instead of just subtracting kilometers.

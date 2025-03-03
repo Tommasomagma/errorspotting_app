@@ -1,1 +1,0 @@
-Double-check how you split 810 into parts with a ratio of 1 and 5, making sure to divide by 6, not 2.

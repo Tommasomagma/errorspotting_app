@@ -1,1 +1,0 @@
-"${\\Large \\frac{2}{3}} + {\\Large \\frac{2}{3}}=$\n\nSvara i blandad form."

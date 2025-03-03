@@ -1,1 +1,0 @@
-"Avrunda talen till heltal och beräkna. \n\n$467{,}6+199{,}5+238{,}3 \\approx$"

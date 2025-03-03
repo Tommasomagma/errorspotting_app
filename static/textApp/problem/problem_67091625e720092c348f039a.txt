@@ -1,1 +1,0 @@
-"Varje liten kub har en sidlängd som är 1 cm. Bestäm volymen av den stora kuben i bilden.". Problem image: The image shows a large cube made up of smaller cubes with visible outlines, each with a side length of 1 centimeter.

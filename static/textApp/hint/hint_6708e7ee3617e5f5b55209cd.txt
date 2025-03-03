@@ -1,1 +1,0 @@
-Maybe you meant to subtract the costs from the starting amount instead of just adding them.

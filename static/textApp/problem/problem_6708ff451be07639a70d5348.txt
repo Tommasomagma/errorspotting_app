@@ -1,1 +1,0 @@
-"Alice och Robin säljer biljetter till utställningen. På lördagen säljer de 86 biljetter och på söndagen säljer de 79 biljetter. En biljett kostar 30 kr. \n\nHur mycket pengar får de in sammanlagt? *Visa hur du löser uppgiften.*". Problem image: Två barn som säljer biljetter.

@@ -1,1 +1,0 @@
-"Avgör genom överslagsräkning vilket svar som är bäst.\n\n$47{,}2+91{,}5+52{,}2 \\approx$"

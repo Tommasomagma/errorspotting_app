@@ -1,1 +1,0 @@
-"Ola kan cykla $21$ km på en timma.\n\nHur långt kan Ola då cykla på tre timmar?"

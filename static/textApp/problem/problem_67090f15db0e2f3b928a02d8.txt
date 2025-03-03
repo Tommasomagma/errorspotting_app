@@ -1,1 +1,0 @@
-"Beräkna differensen av $56$ och $7$."

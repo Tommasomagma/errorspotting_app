@@ -1,1 +1,0 @@
-Tänk efter hur decimaltecknet påverkar siffrorna när du multiplicerar, så att du får den rätta storleken på talet.

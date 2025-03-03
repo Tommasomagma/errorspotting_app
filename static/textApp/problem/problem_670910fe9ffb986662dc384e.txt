@@ -1,1 +1,0 @@
-"Hur stor andel av figuren är färgad? Svara i enklaste form.". Problem image: En rektangel uppdelad i sex lika stora mindre rektanglar. Två av de sex rektanglarna är färgade.

@@ -1,1 +1,0 @@
-"Beräkna. Börja med att förlänga den ena nämnaren.\n\n${\\Large\\frac{1}{4}}+{\\Large\\frac{3}{8}}=$"

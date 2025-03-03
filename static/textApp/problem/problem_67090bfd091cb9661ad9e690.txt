@@ -1,1 +1,0 @@
-"Vilket tal fattas?". Problem image: Två horisontella rektanglar uppdelade i sektioner. Den övre rektangeln har ett tal 5,7 och den undre rektangeln är uppdelad i två kvadrater; den första kvadraten visar talet 1,1 och den andra kvadraten har ett frågetecken.

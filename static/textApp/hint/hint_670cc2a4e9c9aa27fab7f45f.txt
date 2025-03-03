@@ -1,1 +1,0 @@
-Check if you multiplied the denominators instead of finding the smallest common one.

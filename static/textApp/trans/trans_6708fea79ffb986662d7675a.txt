@@ -1,2 +1,0 @@
-$\frac{1}{10}=5\frac{1}{5}=2,5$
-s.var $\frac{1}{10}$ är störst

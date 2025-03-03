@@ -1,1 +1,0 @@
-"Vad ska det stå istället för $x$?\n\nPriset höjs med $5$ %.\n\n$x \\cdot 120$ kr $=$ nytt pris"

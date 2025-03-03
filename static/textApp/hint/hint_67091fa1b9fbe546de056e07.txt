@@ -1,1 +1,0 @@
-Look closely at the distance from 550,000 to the far right and see how many similar steps you need to fully cover that gap.

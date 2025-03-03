@@ -1,1 +1,0 @@
-Try checking if you used the scale factor correctly by multiplying the drawing length and then converting to meters.

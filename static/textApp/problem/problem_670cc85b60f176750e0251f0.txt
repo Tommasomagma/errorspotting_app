@@ -1,1 +1,0 @@
-"Vilket tal fattas?\n\n13 tiondelar - 6 tiondelar $=\\underline{\\hspace{0.5cm}}$ tiondelar"

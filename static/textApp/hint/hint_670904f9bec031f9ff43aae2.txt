@@ -1,1 +1,0 @@
-Double-check your division of 22.5 by 2 to ensure you didn't round it incorrectly.

@@ -1,1 +1,0 @@
-Kolla om du egentligen skulle runda talet till närmaste tiotal istället för att dela det med tio.

@@ -1,1 +1,0 @@
-"Lös ekvationen. Svara i bråkform.\n\n${\\Large\\frac{2}{3}}={\\Large\\frac{6}{3}}-{\\Large\\frac{6x}{4}}$"

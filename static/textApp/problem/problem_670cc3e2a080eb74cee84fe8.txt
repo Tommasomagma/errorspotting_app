@@ -1,1 +1,0 @@
-"Bilden visar en frekvenstabell och ett diagram över antalet sålda frukter i en matbutik.\n\nFyll i diagrammet och tabellen med antalet kiwis som såldes. \n\nVad ska stå istället för frågetecknet?"

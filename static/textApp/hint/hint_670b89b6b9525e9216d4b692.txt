@@ -1,1 +1,0 @@
-Check the sign when multiplying the constant term in the parentheses.

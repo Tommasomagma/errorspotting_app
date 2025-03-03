@@ -1,1 +1,0 @@
-It looks like your table might be off by one week—check if you started counting from the right week.

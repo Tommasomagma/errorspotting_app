@@ -1,1 +1,0 @@
-Check if you divided the total sum by the right number of values.

@@ -1,1 +1,0 @@
-Double-check how you set up the fraction—try dividing 50 by the total number of children instead of using 0.5.

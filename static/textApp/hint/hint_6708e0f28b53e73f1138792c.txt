@@ -1,1 +1,0 @@
-Double-check how you find the smallest number that both denominators divide into evenly.

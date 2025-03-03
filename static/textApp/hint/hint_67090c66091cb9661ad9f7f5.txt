@@ -1,1 +1,0 @@
-Check your borrowing in the tens and ones columns to make sure each digit is subtracted correctly.

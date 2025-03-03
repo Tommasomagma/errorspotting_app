@@ -1,1 +1,0 @@
-Take a closer look at how you swapped the digits, ensuring that only the unit and hundred digits change places as the problem asks.

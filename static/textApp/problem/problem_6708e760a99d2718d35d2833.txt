@@ -1,1 +1,0 @@
-"Vilken är den minsta gemensamma nämnaren till bråken?\n\n ${\\Large \\frac{1}{6}}$ och ${\\Large \\frac{1}{4}}$"

@@ -1,1 +1,0 @@
-Double-check that you are multiplying the number of weeks by the weekly hours, not altering the order of operations.

@@ -1,1 +1,0 @@
-"Hur bred skulle rektangeln bli om den ritas av i skalan $1:5$?". Problem image: En enkel illustration av en rektangel med bredden märkt som 200 cm.

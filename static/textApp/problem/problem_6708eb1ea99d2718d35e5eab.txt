@@ -1,1 +1,0 @@
-"Beräkna. Svara i blandad form.\n\n$4\\Large\\frac{1}{4}$ $-$ $2\\Large\\frac{2}{4}$ $=$"

@@ -1,1 +1,0 @@
-Double-check that you’re identifying only the digit in the tenths place, not formatting it as a decimal number.

@@ -1,1 +1,0 @@
-Think about whether you should average the two numbers instead of simply subtracting one from the other.

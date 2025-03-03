@@ -1,1 +1,0 @@
-"Beräkna figurens area. Svara med två decimaler.". Problem image: Bilden visar en geometrisk figur bestående av en halvcirkel och en kvadrat som sitter ihop längs en av sina sidor. Halvcirkelns diameter är lika med kvadratens sida. En pil pekar på kvadratens sida och anger dess längd till 2,5 cm.

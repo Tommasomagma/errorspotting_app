@@ -1,1 +1,0 @@
-"Vilken potens är störst?\n\n$2^3$ $\\hspace{0.37cm}$  $-2^4$ $\\hspace{0.37cm}$ $(-2)^4$ $\\hspace{0.37cm}$ $(-2)^5$"

@@ -1,1 +1,0 @@
-"Beräkna summan av termerna 147 och 95."

@@ -1,1 +1,0 @@
-"Vilket tal är minst?\n\n${\\Large\\frac{2}{5}}$ eller ${\\Large\\frac{7}{15}}$"

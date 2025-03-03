@@ -1,1 +1,0 @@
-"Hur många år var din mamma när du föddes? När Andreas ställde den frågan till sina kompisar fick han svaren: $22$, $34$, $17$, $41$, $26$, $37$, $23$, $33$. Bestäm medianen. Avrunda till hela år."

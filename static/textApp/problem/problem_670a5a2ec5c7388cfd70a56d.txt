@@ -1,1 +1,0 @@
-"Den längsta sidan av skolgården på Annas skola är 56 m lång. Ritningen är gjord i skala $1:700$.\n\nHur många centimeter är skolgårdens längsta sida på ritningen?". Problem image: En ritning av en skola.

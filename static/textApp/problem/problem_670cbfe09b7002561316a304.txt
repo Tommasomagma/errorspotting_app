@@ -1,1 +1,0 @@
-"Marco köper ett par byxor för $346$ kr och en skjorta för $179$ kr.\n\nHur mycket kostar det tillsammans?"

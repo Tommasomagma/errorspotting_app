@@ -1,1 +1,0 @@
-"Bilden visar en förkortning av ett bråk. \n\nVilket tal har bråket förkortats med?". Problem image: Två kvadratiska rutnät representerar bråk. Det första rutnätet är uppdelat i mindre kvadrater, några är färgade. Det andra rutnätet, efter pilen, har färre och större kvadrater, med vissa färgade på samma sätt.

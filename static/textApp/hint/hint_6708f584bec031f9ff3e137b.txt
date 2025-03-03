@@ -1,1 +1,0 @@
-Tänk på att tiotalssiffran visar hur många tiotal talet har, så prova att multiplicera den siffran med tio.

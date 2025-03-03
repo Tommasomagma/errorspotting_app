@@ -1,1 +1,0 @@
-Double-check your factor tree and make sure you're adding only the numbers that have no other divisors than 1 and themselves!

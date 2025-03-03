@@ -1,1 +1,0 @@
-"En penna kostar 5 kronor och en låda färg kostar 5 kronor. \n\nHur mycket kostar 6 pennor och 4 lådor färg?". Problem image: A box of colored pencils and a paint palette with a brush.

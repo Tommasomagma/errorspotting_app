@@ -1,1 +1,0 @@
-"Arean av en triangel kan beskrivas med uttrycket $24x - 96 \\ $. Triangelns bas är 12 längdenheter.\n\nOm triangelns bas och höjd är samma, vilket värde har då $x$?"

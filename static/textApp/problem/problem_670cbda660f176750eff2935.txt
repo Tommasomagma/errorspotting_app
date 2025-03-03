@@ -1,1 +1,0 @@
-"En höstdag visar termometern $3\\degree$C. Teckna ett uttryck för hur många grader termometern visar om temperaturen sjunker $9\\degree$C.\n\nVilken blir temperaturen?"

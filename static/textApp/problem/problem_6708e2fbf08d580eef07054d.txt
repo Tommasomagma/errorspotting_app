@@ -1,1 +1,0 @@
-"Teckna ett uttryck för hur många prickar det finns i figur $n$.". Problem image: Tre figurer mÃ¤rkta som Figur 1, Figur 2 och Figur 3. Varje figur visar en grupp av orangea prickar arrangerade i rader och kolumner. Antalet rader Ã¶kar med varje figur.

@@ -1,1 +1,0 @@
-Remember, the fraction is made by dividing the number of colored pieces by the total number of pieces.

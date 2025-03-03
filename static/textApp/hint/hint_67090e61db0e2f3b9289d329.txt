@@ -1,1 +1,0 @@
-Try rounding each number to a nearby whole number to get a simple estimate of the product.

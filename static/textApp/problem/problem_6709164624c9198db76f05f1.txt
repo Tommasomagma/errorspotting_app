@@ -1,1 +1,0 @@
-"Beräkna arean av en rektangel som har basen 4 dm och höjden $\\Large\\frac{3}{4}$ dm."

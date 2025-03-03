@@ -1,1 +1,0 @@
-Double-check that you include the square unit for area and use the division by two when calculating the triangle's area.

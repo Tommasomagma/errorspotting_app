@@ -1,1 +1,0 @@
-Make sure you check your multiplication steps, especially how 4 times 4 is calculated.

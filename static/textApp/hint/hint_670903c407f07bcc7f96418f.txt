@@ -1,1 +1,0 @@
-Take a closer look at how you combine the numbers when calculating area, making sure to multiply the length by the width instead of adding them.

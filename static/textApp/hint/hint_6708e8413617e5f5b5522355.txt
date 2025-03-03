@@ -1,1 +1,0 @@
-Double-check your multiplication step, as multiplying 9 by 43 should give a much larger number than 6.

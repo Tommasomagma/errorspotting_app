@@ -1,1 +1,0 @@
-Double-check that you multiplied the fixed side (8) with both the constant and the variable parts of the other side, not just the variable part.

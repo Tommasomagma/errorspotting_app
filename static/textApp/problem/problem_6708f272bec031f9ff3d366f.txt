@@ -1,1 +1,0 @@
-"En gård har tre hästhagar. I varje hage finns det $30$ hästar. \n\nHur många hästar finns det totalt i hagarna?". Problem image: En häst.

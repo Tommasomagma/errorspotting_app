@@ -1,1 +1,0 @@
-"Använd siffrorna $2, 5, 3, 9$ och $6$ och skriv ett tal som är delbart med $4$."

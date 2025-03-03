@@ -1,1 +1,0 @@
-"Korgarna innehåller $6, 11, 9, 10, 14, 7, 13$ och 10 äpplen. \n\nVad är medianen?". Problem image: Ett rött äpple.

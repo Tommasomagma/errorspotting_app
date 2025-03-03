@@ -1,1 +1,0 @@
-"Förenkla uttrycket så långt som möjligt. \n\n$4x+3+8y-3x+2-3y=$"

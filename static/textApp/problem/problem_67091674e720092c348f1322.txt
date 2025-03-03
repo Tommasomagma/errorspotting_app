@@ -1,1 +1,0 @@
-"Beräkna och svara i bråkform.\n\n$1{\\Large\\frac{3}{5}}-{\\Large \\frac{4}{5}}=$"

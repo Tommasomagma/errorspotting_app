@@ -1,1 +1,0 @@
-Try using multiplication instead of subtraction, as each bowl holds 5 fruits.

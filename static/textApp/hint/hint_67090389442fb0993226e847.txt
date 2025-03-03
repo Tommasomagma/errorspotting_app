@@ -1,1 +1,0 @@
-Take a closer look at how you managed the exponents when dividing and subtracting, as that step seems to be where the error occurred.

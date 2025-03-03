@@ -1,1 +1,0 @@
-nan. Problem image: Three rows of ten pink squares each, aligned horizontally. The rows are labeled 10, 20, 30 on the right side, corresponding to each row.

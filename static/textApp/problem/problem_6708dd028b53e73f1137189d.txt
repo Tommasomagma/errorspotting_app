@@ -1,1 +1,0 @@
-"Ali har läst $36$ sidor i en bok. Han läser $18$ sidor till i samma bok. \n\nHur många sidor har Ali läst totalt?". Problem image: En person som läser en bok.

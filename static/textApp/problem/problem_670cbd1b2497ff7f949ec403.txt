@@ -1,1 +1,0 @@
-"Lena tänker på en talföljd. \n\n- Det första talet är 30. \n- Det andra talet är 3 större än det första, och mönstret fortsätter på samma sätt\n\nVilket är det femte talet i följden?"

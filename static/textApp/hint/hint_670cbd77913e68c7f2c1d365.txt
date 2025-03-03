@@ -1,1 +1,0 @@
-It looks like you subtracted the two prices instead of dividing them to compare their differences.

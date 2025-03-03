@@ -1,1 +1,0 @@
-"En kanin äter $6$ morötter på morgonen och $12$ morötter på eftermiddagen. \n\nHur många morötter äter kaninen under dagen?". Problem image: En kanin som håller en morot.

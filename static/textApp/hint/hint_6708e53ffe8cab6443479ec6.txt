@@ -1,1 +1,0 @@
-Double-check the step where you add 14 to your sum of 25 and 42—you might have added incorrectly.

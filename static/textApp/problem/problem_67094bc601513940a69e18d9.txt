@@ -1,1 +1,0 @@
-"Beräkna med uppställning. Kontrollera om ditt svar är rimligt.\n\n$13\\cdot54=$"

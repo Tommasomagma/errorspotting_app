@@ -1,1 +1,0 @@
-"En flock fåglar flyger i formen av en triangel. Totalt har flocken 6 rader, men bara 3 av raderna syns i bild. Hur många fåglar är det totalt i flocken?". Problem image: Bilden visar en formation av fåglar i en triangel med tre synliga rader.

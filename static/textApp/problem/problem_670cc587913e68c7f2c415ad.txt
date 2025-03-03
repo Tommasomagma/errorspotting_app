@@ -1,1 +1,0 @@
-"Avrunda termerna till heltal och beräkna med överslagsräkning.\n\n$9{,}25-2{,}18=$"

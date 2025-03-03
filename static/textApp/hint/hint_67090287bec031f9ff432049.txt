@@ -1,1 +1,0 @@
-It looks like the multiplication and handling of the decimal might have been mixed up—try rechecking that step.

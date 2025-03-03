@@ -1,1 +1,0 @@
-Check that you correctly used each power of two from 16 down to 1 when breaking 30 into parts.

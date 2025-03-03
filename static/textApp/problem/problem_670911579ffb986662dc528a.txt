@@ -1,1 +1,0 @@
-"Vilket av följande tal är det bästa närmevärdet till $\\Large\\frac{13}{0{,}432}$?"

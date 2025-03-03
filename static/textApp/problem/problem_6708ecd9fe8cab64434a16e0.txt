@@ -1,1 +1,0 @@
-"Skriv det binära talet $101111$ som ett naturligt tal."

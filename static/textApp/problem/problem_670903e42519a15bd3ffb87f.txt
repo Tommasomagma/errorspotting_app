@@ -1,1 +1,0 @@
-"Skriv det tal som saknas.\n\n$x=?$\n\n$y=1$\n\n$3x+2y=14$"

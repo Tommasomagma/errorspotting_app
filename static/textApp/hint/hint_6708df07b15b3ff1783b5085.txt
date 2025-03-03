@@ -1,1 +1,0 @@
-Try comparing each digit from left to right to see which number is the smallest.

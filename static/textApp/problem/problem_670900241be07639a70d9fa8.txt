@@ -1,1 +1,0 @@
-"I varje skål finns $5$ frukter. Hur många frukter finns det i $3$ skålar?". Problem image: Bilden visar en skål med flera frukter. Skålen används för att representera antalet frukter som kan finnas i en skål. Det specificeras inte vilka eller hur många typer av frukter som finns.

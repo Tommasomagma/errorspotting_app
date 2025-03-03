@@ -1,1 +1,0 @@
-Try adding each number in order and see how the total grows with every step.

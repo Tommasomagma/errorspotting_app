@@ -1,1 +1,0 @@
-"Dela upp talet i två faktorer. Vilka två tal passar som faktorer så att likheten gäller?\n\n$35=\\ \\underline{\\hspace{1cm}}  \\cdot \\ \\underline{\\hspace{1cm}} $"

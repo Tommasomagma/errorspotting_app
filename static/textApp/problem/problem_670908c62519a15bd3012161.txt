@@ -1,1 +1,0 @@
-"$1\\hspace{0.5cm} 10\\hspace{0.5cm} \\underline{\\hspace{1cm}} \\hspace{0.5cm}1\\ 000\\hspace{0.5cm} 10\\ 000$"

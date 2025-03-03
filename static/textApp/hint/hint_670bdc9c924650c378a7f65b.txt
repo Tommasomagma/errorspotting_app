@@ -1,1 +1,0 @@
-Prova att lägga till 3 varje gång och räkna ut talen ett i taget.

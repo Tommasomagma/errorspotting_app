@@ -1,1 +1,0 @@
-Have a closer look at your addition steps, especially how you handled the carry when adding the ones digit.

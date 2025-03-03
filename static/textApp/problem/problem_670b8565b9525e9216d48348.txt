@@ -1,1 +1,0 @@
-"Samira och Leo ska handla godis till alla elever i klassen. Det är 30 elever i klassen. Varje elev ska få en påse med 1,5 hg godis.\n\nHur många kilogram godis ska de köpa? *Visa hur du löser uppgiften.*"

@@ -1,1 +1,0 @@
-Double-check the numbers you are adding to make sure you're using the individual side lengths correctly.

@@ -1,1 +1,0 @@
-"**Gem**\n\nHanna har $30$ gem. De är av plast eller metall och antingen röda eller blå.\n\n$18$ gem är av plast.\n\n$6$ röda gem är av metall.\n\n$8$ plastgem är blå.\n\nHur många gem är blå?"

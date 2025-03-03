@@ -1,1 +1,0 @@
-"Vilket tal kommer näst? \n\n$1\\ 025 \\hspace{0.5cm} 1\\ 015 \\hspace{0.5cm} 1\\ 005 \\hspace{0.5cm} \\underline{\\hspace{1cm}}$"

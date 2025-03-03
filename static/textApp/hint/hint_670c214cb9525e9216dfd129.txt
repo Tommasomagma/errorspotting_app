@@ -1,1 +1,0 @@
-Take a closer look at how you turned 32 into 16 and see if each arithmetic step followed the right rule.

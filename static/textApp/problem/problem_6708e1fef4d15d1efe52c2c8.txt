@@ -1,1 +1,0 @@
-"Den yttre delen av hjulet på Wilmas enhjuling har radien 32 cm. Wilma trampar så att hjulet snurrar ett helt varv. \n\nHur många hela meter har Wilma cyklat? Använd $\\pi \\approx 3{,}14$.". Problem image: En bild av en enhjuling. Hjulet har en radien angiven som 32 cm.

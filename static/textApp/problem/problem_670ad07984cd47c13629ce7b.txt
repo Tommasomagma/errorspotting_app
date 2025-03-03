@@ -1,1 +1,0 @@
-"En rektangel har arean $24x+9$. Den ena sidan är 3. \n\nTeckna ett uttryck för den andra sidan."

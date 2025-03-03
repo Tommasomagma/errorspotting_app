@@ -1,1 +1,0 @@
-"Bilden visar en tårta som är delad i lika stora delar. Två personer har tagit varsin bit. \n\nHur stor andel av tårtan finns kvar?". Problem image: En tårta som är indelad i åtta lika stora delar. Två av dessa delar är utmarkerade för att visa att de är tagna.

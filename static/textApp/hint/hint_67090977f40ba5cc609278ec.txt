@@ -1,1 +1,0 @@
-Check if you applied the operations in the correct order so that all of the numerator is divided by 2.

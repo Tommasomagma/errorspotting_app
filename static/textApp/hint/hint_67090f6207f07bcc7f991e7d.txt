@@ -1,1 +1,0 @@
-Räkna hur många av de sex kvadraterna som är färgade och dela det antalet med hela figuren.

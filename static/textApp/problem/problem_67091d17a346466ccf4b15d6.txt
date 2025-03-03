@@ -1,1 +1,0 @@
-"Diagrammet visar längden av 6 vänner. \n\nVad är medianlängden?". Problem image: Det är ett stapeldiagram med längder på y-axeln som går från 154 till 178 cm och namn på sex vänner på x-axeln: Anders, Bertil, Charlie, David, Eric, Felix. Varje vän har en stapel som representerar deras längd.

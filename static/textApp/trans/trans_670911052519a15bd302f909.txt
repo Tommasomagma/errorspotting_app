@@ -1,3 +1,0 @@
-0,4kg=4hg=50st
-150kr/kg
-$\frac{0,4\cdot150kr}{50st}$

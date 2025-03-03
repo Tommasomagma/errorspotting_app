@@ -1,1 +1,0 @@
-"Vilket tal fattas? \n\n90, 85, $\\underline{\\hspace{0.5cm}}$, 75"

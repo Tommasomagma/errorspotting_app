@@ -1,1 +1,0 @@
-Take a closer look at how you subtract the ones digit, especially checking if you correctly borrowed from the next digit.

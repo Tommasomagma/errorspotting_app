@@ -1,1 +1,0 @@
-"En kvadrat med sidlängden $x$ har area 64. \n\nVad är $x$?". Problem image: En bild av en kvadrat med sidlängden betecknad med $x$. I mitten av kvadraten står det 'Area = 64'. Sidorna är markerade med linjer för att ange längden $x$.

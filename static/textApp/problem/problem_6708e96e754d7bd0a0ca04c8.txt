@@ -1,1 +1,0 @@
-"Hur stor är vinkeln $v$?". Problem image: Två linjer bildar en vinkel markerad med $v$. En av linjerna är horisontell och den andra linjen är sned och skär den horisontella linjen. Vinkeln mellan den horisontella linjen och den sneda linjen är markerad med 153°.

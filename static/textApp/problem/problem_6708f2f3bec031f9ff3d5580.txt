@@ -1,1 +1,0 @@
-"Elsas stegräknare visar att hon har gått $8\\ 322$ steg på en dag. Hur långt har hon gått, om hennes genomsnittliga steglängd är $60$ cm? Avrunda till hela kilometer."

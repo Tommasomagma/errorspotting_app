@@ -1,1 +1,0 @@
-"Vad är differensen mellan det hundrade talet i talföljden och det nittionionde?\n\n$12, \\hspace{0.1cm} 8, \\hspace{0.1cm} 4, \\hspace{0.1cm} \\underline{\\hspace{0.5cm}}$"

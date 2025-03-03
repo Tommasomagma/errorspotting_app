@@ -1,1 +1,0 @@
-Double-check that you're dividing the top number by the bottom number instead of rearranging the digits.

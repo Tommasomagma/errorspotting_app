@@ -1,1 +1,0 @@
-Double-check that you added the two soccer game prices correctly before subtracting from 5000.

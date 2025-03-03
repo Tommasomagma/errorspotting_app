@@ -1,1 +1,0 @@
-"På bilskroten finns $9$ motorcyklar och $17$ bilar. \n\nHur många fler bilar än motorcyklar är det? *Visa din beräkning.*"

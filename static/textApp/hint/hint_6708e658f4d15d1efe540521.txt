@@ -1,1 +1,0 @@
-Prova att skriva längden som bredden plus 3,5 cm och använd omkretsen för att hitta bredden innan du räknar ut arean.

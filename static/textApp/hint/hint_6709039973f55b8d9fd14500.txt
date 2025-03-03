@@ -1,1 +1,0 @@
-Check if your numbers match exactly with the amounts given in the problem.

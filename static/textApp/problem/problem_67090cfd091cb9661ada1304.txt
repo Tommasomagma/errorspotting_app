@@ -1,1 +1,0 @@
-"Omkretsen för figuren är 18 cm. Hur lång är den okända sidan?". Problem image: Bilden visar en geometrisk figur som liknar en upp-och-nervänd trapezoid. Den övre sidan är markerad med en frågetecken för att indikera att det är den okända sidan. Korta sidor är etiketterade med 3 cm och den nedre längre sidan är etiketterad med 5 cm.

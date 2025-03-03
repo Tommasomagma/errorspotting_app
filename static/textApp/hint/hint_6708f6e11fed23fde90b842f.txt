@@ -1,1 +1,0 @@
-Double-check that your number in front has to be between 1 and 10, so try moving the decimal point if needed!

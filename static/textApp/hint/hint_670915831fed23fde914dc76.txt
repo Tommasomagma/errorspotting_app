@@ -1,1 +1,0 @@
-Check your multiplication with the negative number to make sure the sign is handled correctly.

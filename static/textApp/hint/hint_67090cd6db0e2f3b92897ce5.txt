@@ -1,1 +1,0 @@
-Prova att multiplicera antalet spikar och skruvar med 7 och sedan lägga ihop dem!

@@ -1,1 +1,0 @@
-"Bestäm figurens omkrets. Använd $\\pi \\approx 3{,}14$ och avrunda till en tiondels centimeter.". Problem image: En halvcirkel som är ansluten till en rektangel. Halvcirkelns radie är 3 cm. Inga vinklar eller andra dimensioner anges.

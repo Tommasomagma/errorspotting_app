@@ -1,1 +1,0 @@
-"Vilket tal ligger mitt emellan  $1/4$ och $1$?"

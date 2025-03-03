@@ -1,1 +1,0 @@
-Find the side length by taking the square root of the area and then multiply by four to get the perimeter!

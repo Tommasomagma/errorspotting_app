@@ -1,1 +1,0 @@
-Double-check your setup: make sure you write the equation as 3200 = 80 × x instead of having x in the denominator.

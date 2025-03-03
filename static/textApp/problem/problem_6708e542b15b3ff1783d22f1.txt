@@ -1,1 +1,0 @@
-"Skriv ett uttryck för längden av den svarta pilen.". Problem image: Bilden visar två linjer representarade av pilar. Den övre pilen är blå och markerad med siffran 32. Den undre pilen är svart som övergår i rosa mot höger ände och märkt med '2x' nära spetsen.

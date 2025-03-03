@@ -1,1 +1,0 @@
-"Ett tal divideras med 8. Kvoten blir 9 och resten blir 7. \n\nVilket är talet?"

@@ -1,1 +1,0 @@
-Double-check that you didn't drop any decimal parts when you rounded the numbers before multiplying.

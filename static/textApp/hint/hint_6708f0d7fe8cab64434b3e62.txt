@@ -1,1 +1,0 @@
-Check if you canceled the zeros correctly when changing meters to kilometers.

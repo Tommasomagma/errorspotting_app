@@ -1,1 +1,0 @@
-Remember to check your units carefully—multiplying three lengths should give a volume in cubic units, not an area.

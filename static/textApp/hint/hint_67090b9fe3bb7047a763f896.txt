@@ -1,1 +1,0 @@
-Try moving the decimal one more spot for each extra power of ten.

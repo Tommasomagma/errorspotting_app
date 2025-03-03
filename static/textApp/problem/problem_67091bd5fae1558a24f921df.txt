@@ -1,1 +1,0 @@
-"Beräkna triangelns area.". Problem image: En rätvinklig triangel med basen märkt som 7 m och höjden märkt som 3,5 m.

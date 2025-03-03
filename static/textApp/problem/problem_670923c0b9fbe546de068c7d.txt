@@ -1,1 +1,0 @@
-"Beräkna radien om diametern är $628$ m."

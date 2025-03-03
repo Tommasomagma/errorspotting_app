@@ -1,1 +1,0 @@
-"Lös följande uppgift. Visa hur du räknar. \n\n$ {\\Large \\frac{7}{8}} - {\\Large \\frac{3}{4}}$"

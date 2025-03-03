@@ -1,1 +1,0 @@
-Review how you computed the 12% discount of 4950 and check that you subtracted that amount instead of adding or misplacing the multiplication step.

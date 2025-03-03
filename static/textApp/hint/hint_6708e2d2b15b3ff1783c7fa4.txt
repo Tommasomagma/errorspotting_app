@@ -1,1 +1,0 @@
-Double-check the multiplication of 900 and 9, as it seems to be computed incorrectly.

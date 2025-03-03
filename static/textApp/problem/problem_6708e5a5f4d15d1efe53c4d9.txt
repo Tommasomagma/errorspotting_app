@@ -1,1 +1,0 @@
-"Skriv ett uttryck för månghörningens omkrets.". Problem image: En månghörning med fem sidor där tre sidor är märkta med siffran 6 och de två övriga sidorna är märkta med x och y.

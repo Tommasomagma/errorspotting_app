@@ -1,1 +1,0 @@
-Check if you divided the total fruits equally into four groups instead of subtracting from 172.

@@ -1,1 +1,0 @@
-"Alina läser en bok som är $300$ sidor lång. Isak läser en bok som är $900$ sidor lång.\n\nHur många gånger längre är Isaks bok än Alinas bok?". Problem image: En flicka som läser en bok på en soffa.

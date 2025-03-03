@@ -1,1 +1,0 @@
-"Välj rätt tecken mellan talen, $<$ eller $>$.\n\n$53{,}75+50   \\ \\underline{\\hspace{1cm}} \\ 100$"

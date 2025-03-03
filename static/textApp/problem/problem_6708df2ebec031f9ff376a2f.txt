@@ -1,1 +1,0 @@
-"Ali läser en bok och är på sidan 143. Han läser 18 sidor på måndagen och 13 sidor på tisdagen.\n\nPå vilken sida är Ali på nu?". Problem image: En pojke som läser en bok på en soffa.

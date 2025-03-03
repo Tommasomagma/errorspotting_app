@@ -1,1 +1,0 @@
-"Minutvisaren på en klocka är 1,6 cm lång. Hur långt har den yttersta spetsen rört sig när 45 minuter passerat? Använd $\\pi \\approx 3{,}14$ och svara med en decimal.". Problem image: En illustration av en klocka. Minutvisaren är framhävd och 1,6 cm lång.

@@ -1,1 +1,0 @@
-Double-check how you replace x with 5 and multiply before adding to find y.

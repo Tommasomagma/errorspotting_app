@@ -1,1 +1,0 @@
-Fundera på hur du kan räkna ut priset per kilogram och sedan använda det för att beräkna kostnaden för 5 kg.

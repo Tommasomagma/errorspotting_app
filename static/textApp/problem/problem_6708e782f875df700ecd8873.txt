@@ -1,1 +1,0 @@
-"Tre kartonger väger $3{,}44$ kg, $5{,}14$ kg och $2{,}97$ kg.\n\nVad hade den totala vikten på kartongerna varit om varje vikt hade avrundats till en decimal innan de adderas?"

@@ -1,1 +1,0 @@
-"Avrunda till en decimal.\n\n$19{,}072 \\approx$"

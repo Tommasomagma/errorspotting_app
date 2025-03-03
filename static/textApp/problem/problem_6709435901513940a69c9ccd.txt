@@ -1,1 +1,0 @@
-nan. Problem image: A Cartesian coordinate system with x and y axes ranging from -2 to 11 on the x-axis and -6 to 2 on the y-axis. A straight line goes through the grid, ascending from left to right.

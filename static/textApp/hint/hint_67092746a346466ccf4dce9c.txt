@@ -1,1 +1,0 @@
-Double-check that you multiplied the panels in each row and column instead of raising a number to a power.

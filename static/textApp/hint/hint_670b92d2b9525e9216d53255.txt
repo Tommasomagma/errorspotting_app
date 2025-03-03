@@ -1,1 +1,0 @@
-Try looking at how much each number grows from the previous one and keep adding that same amount.

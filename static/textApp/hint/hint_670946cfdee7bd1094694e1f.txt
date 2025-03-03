@@ -1,1 +1,0 @@
-Double-check the division step to make sure you're calculating 15 divided by 3 correctly.

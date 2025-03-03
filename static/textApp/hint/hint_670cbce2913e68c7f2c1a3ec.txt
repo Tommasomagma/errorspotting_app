@@ -1,1 +1,0 @@
-Break down the trip into the distance per minute and then multiply by 15.

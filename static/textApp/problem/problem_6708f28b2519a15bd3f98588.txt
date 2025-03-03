@@ -1,1 +1,0 @@
-"Förenkla uttrycken.\n\n4·3x+5x+3"

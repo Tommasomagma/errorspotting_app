@@ -1,1 +1,0 @@
-Try splitting 160 into groups of 40 to see how many groups you get.

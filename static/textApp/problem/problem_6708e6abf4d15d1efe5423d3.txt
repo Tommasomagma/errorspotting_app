@@ -1,1 +1,0 @@
-"\n\nFyll i rätt tal så att alla tal i raden blir lika stora. Vad ska stå istället för $B$?\n\n${\\Large\\frac{2}{3}} = {\\Large \\frac{4}{6}} = {\\Large \\frac{A}{15}} = {\\Large \\frac{B}{18}}$"

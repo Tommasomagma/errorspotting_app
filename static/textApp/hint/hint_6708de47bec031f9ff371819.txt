@@ -1,1 +1,0 @@
-Double-check if you should multiply the fee per walk by 4 instead of adding extra money.

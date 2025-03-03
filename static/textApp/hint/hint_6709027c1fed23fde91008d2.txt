@@ -1,1 +1,0 @@
-Make sure you add one year to both ages before you compare them, as the problem asks for their ages in one year.

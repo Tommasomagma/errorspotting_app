@@ -1,1 +1,0 @@
-"Vilket tal på tallinjen är $\\Large \\frac{1}{4}$ större än $\\Large \\frac{1}{5}$?"

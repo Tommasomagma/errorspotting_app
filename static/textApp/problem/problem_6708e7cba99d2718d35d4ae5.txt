@@ -1,1 +1,0 @@
-"Subtract the following:\n\n$\\Large\\ \\ \\  5.121$  \n$\\underline{\\Large-2.112}$  \n$\\Large\\boxed{\\ \\ \\ ?\\ \\ \\ }$". Problem image: A subtraction problem is set out in a vertical format inside a table. The minuend 5.126 is on the top row, and the subtrahend 2.112 is on the bottom row, aligned by decimal places. A horizontal line separates the two numbers.

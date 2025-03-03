@@ -1,1 +1,0 @@
-"Hur stor andel av figuren är färgad? Svara i decimalform.". Problem image: Rektangel indelad i åtta mindre lika stora rektanglar arrangerade i två rader med fyra i varje rad. Fyra av de mindre rektanglarna är färglagda.

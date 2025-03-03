@@ -1,1 +1,0 @@
-Check that you use the correct terms from the problem, especially in the height expression, to avoid mixing up x and y.

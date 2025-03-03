@@ -1,1 +1,0 @@
-"Lös ekvationen. Svara i bråkform.\n\n ${\\Large\\frac{4x}{3}}+{\\Large\\frac{x}{2}}=1-{\\Large\\frac{3x}{2}}$"

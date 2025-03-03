@@ -1,1 +1,0 @@
-"Pia har fångat tre fiskar som väger $3{,}44$ kg, $5{,}14$ kg och $2{,}97$ kg.\n\nHur mycket väger fiskarna tillsammans? Avrunda till en decimal.". Problem image: En stiliserad bild av en fisk.

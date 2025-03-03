@@ -1,1 +1,0 @@
-Remember to swap only the one's and hundred's digits correctly before finding the difference between the two numbers.

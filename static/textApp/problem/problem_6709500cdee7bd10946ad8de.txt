@@ -1,1 +1,0 @@
-nan. Problem image: A grid representing the standard multiplication algorithm with the multiplicand 35 on top and the multiplier 75 on the side. There are partially filled-in numbers with empty boxes to complete the algorithm.

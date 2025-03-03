@@ -1,1 +1,0 @@
-nan. Problem image: Två kolumner med geometriska former. I första kolumnen: ett rosa cirkelformat objekt överst, sedan ett orange triangelformat objekt, och sist ett blått kvadratformat objekt med ett frågetecken inuti. I andra kolumnen: ett identiskt rosa cirkelformat objekt överst, sedan ett identiskt orange triangelformat objekt, och sist ett annat blått kvadratformat objekt.

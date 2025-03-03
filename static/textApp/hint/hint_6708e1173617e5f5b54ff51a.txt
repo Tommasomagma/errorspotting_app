@@ -1,1 +1,0 @@
-Check if you used the correct total amount when dividing into 10 equal parts.

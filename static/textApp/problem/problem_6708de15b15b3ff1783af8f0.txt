@@ -1,1 +1,0 @@
-"Mihai adderar $4^{15}$ och $8^{10}$ och får som svar ett tal som är potens av $2$. \n\nVilket är talet?"

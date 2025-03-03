@@ -1,1 +1,0 @@
-"Ett objekt färdas i en rak bana med en konstant hastighet av $\\sqrt{54}$ meter per sekund, under totalt $\\sqrt{24}$ sekunder. Hur långt rör sig objektet under denna tid?"

@@ -1,2 +1,0 @@
-$\begin{array}{c} 400\\ 320\end{array}\Big\rbrace 80$
-$\frac{80}{400}$ $\Big(\begin{smallmatrix}0,1\\ ,2\end{smallmatrix}\Big)$

@@ -1,1 +1,0 @@
-Remember to check if you're dividing by 6 instead of subtracting 6, as the problem asks you to divide x by 6 to get 9.

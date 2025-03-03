@@ -1,1 +1,0 @@
-nan. Problem image: A coordinate grid with x and y axes labeled. The x-axis runs horizontally, and the y-axis runs vertically. Two points are marked: Point P is on the left side of the y-axis, and another point is located on the right side of the y-axis at the same vertical height as Point P.

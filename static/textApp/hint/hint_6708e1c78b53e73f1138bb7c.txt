@@ -1,1 +1,0 @@
-It looks like a multiplication step might have been done incorrectly—check your calculations when multiplying 267 by the number of days.

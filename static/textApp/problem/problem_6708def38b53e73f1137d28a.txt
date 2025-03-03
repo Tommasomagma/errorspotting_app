@@ -1,1 +1,0 @@
-"Beräkna.\n\n$626+38=$". Problem image: Platsvärdesdiagram med två tal där det översta talet består av siffrorna 6, 2 och 6, och det nedersta talet består av siffrorna 3 och 8. Additionstecknet finns till vänster om siffrorna.

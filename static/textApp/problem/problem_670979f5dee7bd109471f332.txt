@@ -1,1 +1,0 @@
-"Vilket tal är $x$?\n\n${\\Large\\frac{x}{9}}=3$"

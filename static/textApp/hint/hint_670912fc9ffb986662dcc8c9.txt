@@ -1,1 +1,0 @@
-Check if you started with the full expression before dividing by 8.

@@ -1,1 +1,0 @@
-"Du har talet ${0{,}8}$. Multiplicera talet med $3$. Addera produkten med ${0{,}3}$. Dividera summan med ${9}$. Vilken är kvoten? Skriv svaret i bråkform."

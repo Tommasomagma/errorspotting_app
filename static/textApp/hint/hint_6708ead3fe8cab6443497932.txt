@@ -1,1 +1,0 @@
-Double-check that you multiplied both numbers together instead of leaving one out.

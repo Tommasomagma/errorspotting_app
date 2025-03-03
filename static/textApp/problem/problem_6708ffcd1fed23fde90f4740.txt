@@ -1,1 +1,0 @@
-"Antalet invånare i en stad ökar med $20$ % varje år. Efter hur många år har stadens invånarantal fördubblats? Svara med en decimal."

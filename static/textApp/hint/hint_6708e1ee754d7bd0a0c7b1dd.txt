@@ -1,1 +1,0 @@
-Dubbelkolla antalet siffror du behåller innan decimalen när du sätter upp talet i potensform.

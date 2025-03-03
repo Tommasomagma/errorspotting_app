@@ -1,1 +1,0 @@
-Take a careful look at how you combined the rectangle's width and length in your equation to ensure all operations match the problem's description.

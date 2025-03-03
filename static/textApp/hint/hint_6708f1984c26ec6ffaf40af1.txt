@@ -1,1 +1,0 @@
-Check if you used the right total number of sectors when setting up your fraction.

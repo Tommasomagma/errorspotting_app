@@ -1,1 +1,0 @@
-"Stenkulor säljs i paket om $5$, $10$ eller $25$ kulor. Tom har köpt $95$ stenkulor.\n\nVilket är det minsta antal paket Tom kan ha köpt?"

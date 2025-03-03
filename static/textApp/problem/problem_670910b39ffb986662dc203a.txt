@@ -1,1 +1,0 @@
-"Beräkna.\n\n${\\Large\\frac{2\\ 000}{20}}=$". Problem image: Ett bråk med täljaren 2000 och nämnaren 20. En streck är dragen mellan täljaren och nämnaren. Bråket är lika med ett tomt utrymme för svaret.

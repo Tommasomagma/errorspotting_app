@@ -1,1 +1,0 @@
-"Beräkna diametern om omkretsen är $10$ m. Avrunda till en decimal."

@@ -1,1 +1,0 @@
-"Lös ekvationen.\n\n$3\\cdot10^{x}\\cdot4\\cdot10^2=120$"

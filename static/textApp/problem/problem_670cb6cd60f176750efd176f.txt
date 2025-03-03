@@ -1,1 +1,0 @@
-"Björn säljer honung. En liten burk kostar $15$ kr mindre än en stor burk. En dag säljer han $4$ stora och $4$ små burkar för sammanlagt $420$ kr.\n\nHur mycket kostar en stor burk honung?"

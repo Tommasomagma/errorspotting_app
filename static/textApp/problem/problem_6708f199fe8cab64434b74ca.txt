@@ -1,1 +1,0 @@
-"Lisa är 10 år, Nadja är 12 år, Christian är 11 år, Fia är 13 år, Mitra är 13 år och Jan är 13 år.\n\nBeräkna medelåldern."

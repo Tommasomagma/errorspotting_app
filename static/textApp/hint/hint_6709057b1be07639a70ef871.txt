@@ -1,1 +1,0 @@
-Prova att räkna ut hur långt han går varje dag och sedan multiplicera det med antalet dagar.

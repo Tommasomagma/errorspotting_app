@@ -1,1 +1,0 @@
-Try multiplying the weight of one can by the total number of cans to see if you get the full weight.

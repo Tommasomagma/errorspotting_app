@@ -1,1 +1,0 @@
-"En stor skål innehåller $25$ liter vatten. Varje dag försvinner $3$ liter vatten och varje natt hälls $2$ liter på. Efter vilken dag är skålen tom? Svara enbart med talet."

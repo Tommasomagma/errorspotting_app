@@ -1,1 +1,0 @@
-Remember to divide the first number by the second and then multiply by 100 to see how many percent it is!

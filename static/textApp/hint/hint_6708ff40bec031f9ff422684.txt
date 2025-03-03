@@ -1,1 +1,0 @@
-Double-check how you subtract the total number of red and blue candies from the overall total to find the number of green candies.

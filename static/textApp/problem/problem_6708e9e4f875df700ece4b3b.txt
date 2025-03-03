@@ -1,1 +1,0 @@
-"Vilken är den $12$:e termen i den aritmetiska talföljden?\n\n$12,5,-2,...$"

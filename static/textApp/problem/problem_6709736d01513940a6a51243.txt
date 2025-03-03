@@ -1,1 +1,0 @@
-"Beräkna.\n\n $41 - 12=$". Problem image: En uppställning för subtraktion med två tal. Överst står talet 41 och under, med en blå linje mellan, står talet 12. Siffrorna är placerade i ett rutnät.

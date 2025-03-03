@@ -1,1 +1,0 @@
-"Beräkna.\n \n $ 481 - 297 =$". Problem image: En uppställning av subtraktion i en tabell med tre kolumner. Översta raden visar siffrorna 4, 8, 1. Nedre raden, under ett minustecken och en horisontell linje, visar siffrorna 2, 9, 7.

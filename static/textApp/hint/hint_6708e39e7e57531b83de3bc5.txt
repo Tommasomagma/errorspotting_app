@@ -1,1 +1,0 @@
-It looks like the division step might be off—take another look at how you divided 25 by 2.

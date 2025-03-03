@@ -1,1 +1,0 @@
-"Beräkna. Förläng bråket så att nämnaren blir ett heltal. \n\n${\\Large \\frac{3{,}2}{0{,}04  }}= $"

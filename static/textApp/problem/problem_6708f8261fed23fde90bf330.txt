@@ -1,1 +1,0 @@
-"Svara i samma enhet som uppgiften presenteras i. Beräkna vad 100% är om...\n\n1 % är 0,5 kg?"

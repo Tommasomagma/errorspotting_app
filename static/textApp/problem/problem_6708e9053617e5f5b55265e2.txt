@@ -1,1 +1,0 @@
-"Vilket tal är $x$?\n\n${\\Large\\frac{8^4}{8^x}}=8$"

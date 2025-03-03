@@ -1,1 +1,0 @@
-"Hur stor andel av cirkeln är färgad? Svara i enklaste form.". Problem image: En cirkel uppdelad i totalt åtta lika stora sektorer, varav några sektorer är färgade.

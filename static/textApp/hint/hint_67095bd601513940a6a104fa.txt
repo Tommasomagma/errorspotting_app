@@ -1,1 +1,0 @@
-Recheck the count of the shapes around the center to see if every piece is included exactly once.

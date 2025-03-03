@@ -1,1 +1,0 @@
-Try checking if you computed the cost per liter first before subtracting, since the subtraction should be done on the cost for one liter, not the whole jar.

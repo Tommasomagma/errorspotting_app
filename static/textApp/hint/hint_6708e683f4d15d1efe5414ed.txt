@@ -1,1 +1,0 @@
-Check if you added each column correctly and carried over when the sum was more than 9.

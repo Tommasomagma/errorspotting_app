@@ -1,1 +1,0 @@
-"Beräkna värdet av uttrycket $3x + 2$ om $x=8$."

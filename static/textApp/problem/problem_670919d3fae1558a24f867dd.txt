@@ -1,1 +1,0 @@
-"Anja har en tusenlapp att handla presenter för. Hon köper en present för 303 kr, en för 297 kr och en för 196 kr. \n\nUngefär hur mycket pengar har hon kvar avrundat till hundratal?". Problem image: En present med en rosett.

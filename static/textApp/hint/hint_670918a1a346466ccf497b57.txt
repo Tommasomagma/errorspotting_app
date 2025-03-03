@@ -1,1 +1,0 @@
-Check your steps when subtracting the ticket cost from the total money, as it seems the subtraction might not have been done correctly.

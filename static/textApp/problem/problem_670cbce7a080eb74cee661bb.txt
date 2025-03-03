@@ -1,1 +1,0 @@
-"En cirkel har klippts i tre bitar. Hur stor andel av cirkeln är inte rosa?". Problem image: En bild som visar en cirkel uppdelad i tre lika stora sektorer, varav en är färglagd i rosa, en i blått och en i orange.

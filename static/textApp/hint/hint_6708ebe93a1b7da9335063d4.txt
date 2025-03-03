@@ -1,1 +1,0 @@
-Take a closer look at how each number in your solution matches the parts of the grid you are working with.

@@ -1,1 +1,0 @@
-Make sure to divide 14 by 123 instead of dividing 123 by 100 before multiplying by 14.

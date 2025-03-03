@@ -1,1 +1,0 @@
-"Beräkna och välj svaret i grundpotensform.\n\n${\\Large\\frac{7{,}5\\ \\cdot\\  10^7}{3\\ \\cdot\\ 10^2}}=$"

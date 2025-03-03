@@ -1,1 +1,0 @@
-"Noah har $513$ gram köttfärs. Varje hamburgare ska ha $95$ gram köttfärs. \n\nHur många hamburgare räcker köttfärsen till? Avrunda till ett heltal.". Problem image: En tecknad hamburgare.

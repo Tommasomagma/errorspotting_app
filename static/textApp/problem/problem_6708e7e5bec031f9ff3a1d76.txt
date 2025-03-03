@@ -1,1 +1,0 @@
-"Skriv ett uttryck för hur stor area som är färglagd uttryckt i $r$.". Problem image: En bild visar en kvadrat med en cirkel inskriven i sig. En del av cirkeln är färglagd. Radien i cirkeln är markerad med 'r' och sträcker sig från mitten till cirkelns kant.

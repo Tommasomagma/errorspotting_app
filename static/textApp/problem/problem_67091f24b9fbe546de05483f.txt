@@ -1,1 +1,0 @@
-"$\\begin{gathered}\n\\begin{aligned}\n&\\color{#505050}\\textsf{Use the distributive property}\\\\\n&\\color{#505050}\\textsf{to complete this equation.}\\\\\n&\\color{#505050}\\large 5\\times9=5\\times(8+\\underline{\\ \\ \\ \\ })\\\\\n\\end{aligned}\n\\end{gathered}$"

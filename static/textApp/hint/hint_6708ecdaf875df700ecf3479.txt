@@ -1,1 +1,0 @@
-Think about what happens when you roll the dice one more time than the number of different faces it has.

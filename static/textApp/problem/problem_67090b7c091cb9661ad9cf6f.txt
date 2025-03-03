@@ -1,1 +1,0 @@
-"Rita och beräkna arean av en rektangel med sidorna $3$ cm och $4$ cm."

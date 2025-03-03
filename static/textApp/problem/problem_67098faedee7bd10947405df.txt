@@ -1,1 +1,0 @@
-nan. Problem image: A horizontal number line is displayed with 0 at the left end and 1 at the right end. Point T is marked on the number line between 0 and 1.

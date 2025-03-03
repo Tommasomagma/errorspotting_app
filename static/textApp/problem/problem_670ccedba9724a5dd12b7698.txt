@@ -1,1 +1,0 @@
-"Rätta den felaktiga omvandlingen och svara i blandad form.\n\n${\\Large\\frac{21}{4}}=2{\\Large\\frac{1}{4}}$"

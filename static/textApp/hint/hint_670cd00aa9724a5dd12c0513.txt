@@ -1,1 +1,0 @@
-Dubbelkolla att båda frågetecknen ersätts med samma negativa tal.

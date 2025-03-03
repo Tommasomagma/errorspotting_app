@@ -1,1 +1,0 @@
-"Beräkna. \n\n$5\\ 478 + 4\\ 220 =$". Problem image: En tabell för addition med två rader och fyra kolumner. Översta raden innehåller siffrorna 5, 4, 7, 8 från vänster till höger. Nedersta raden, markerad med ett plustecken, innehåller siffrorna 4, 2, 2, 0. En horisontell linje går under nedersta raden.

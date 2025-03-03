@@ -1,1 +1,0 @@
-"Lös ekvationen.\n\n$(4x-50)^2=100$\n\nVilken är den minsta lösningen?"

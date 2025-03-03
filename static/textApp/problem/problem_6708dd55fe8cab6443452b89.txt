@@ -1,1 +1,0 @@
-"Beräkna.\n\n$500-5=$". Problem image: En tabell med tre kolumner och två rader för att visa subtraktion med siffrorna 5, 0, 0 ovanför och siffrorna 5 under. En blå linje markerar slutet av talen.

@@ -1,1 +1,0 @@
-"$\\begin{gathered}\n\\color{#505050}{\\textsf{We can also write rates as fractions}}\n\\\\\n\\color{#505050}{\\textsf{So for example 3 to 1 can be }\\frac{3}{1}}\n\\\\\n\\end{gathered}$"

@@ -1,1 +1,0 @@
-"Vilken uppskattning är bäst?\n\n$789-587+192 \\approx$"

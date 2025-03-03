@@ -1,1 +1,0 @@
-"Beräkna produkten av faktorerna $7$ och $3{,}9$."

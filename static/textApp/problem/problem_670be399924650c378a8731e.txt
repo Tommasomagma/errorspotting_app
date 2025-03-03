@@ -1,1 +1,0 @@
-"Räkna ut medelvärdet för talföljden:\n\n$10,20,35,40$\n\nSvara i decimalform."

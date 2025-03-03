@@ -1,1 +1,0 @@
-"I början av ett år lånar Christian $50\\ 000$ kr till fast ränta. Efter ett år har lånet vuxit till $52\\ 600$ kr. \n\nHur stor har räntesatsen varit? Svara i procent med en decimal.". Problem image: Två staplar med mynt och en symbol för procent.

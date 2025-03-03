@@ -1,1 +1,0 @@
-Carefully check that your final digits match what you obtained when you multiplied 6 by 9.

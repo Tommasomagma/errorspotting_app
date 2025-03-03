@@ -1,1 +1,0 @@
-"Lina bor $2$ kilometer från skolan. Hon cyklar till och från skolan varje skoldag. \n\nHur många km cyklar Lina under en skolvecka?". Problem image: En flicka som cyklar.

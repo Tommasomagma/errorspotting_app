@@ -1,1 +1,0 @@
-Make sure you’re rounding each number correctly—check if you rounded 687 to 700 and 223 to 200.

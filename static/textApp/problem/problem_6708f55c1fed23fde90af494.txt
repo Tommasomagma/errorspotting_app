@@ -1,1 +1,0 @@
-"I en skål ligger $8$ röda och $4$ gula plommon. Utan att titta tar William ett plommon.\n\nHur stor är sannolikheten att det är ett rött plommon?\n\nSvara med ett bråk i enklaste form."

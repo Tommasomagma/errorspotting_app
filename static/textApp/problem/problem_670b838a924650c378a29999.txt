@@ -1,1 +1,0 @@
-"Beräkna.\n\n${\\Large \\frac{2}{7}}+ {\\Large \\frac{1}{7}}=$". Problem image: Två cirkeldiagram sidan om varandra separerade av ett plustecken. Det första diagrammet har sju lika stora sektorer varav två är ifyllda med färg. Det andra diagrammet har även det sju lika stora sektorer, varav en är ifylld med färg.

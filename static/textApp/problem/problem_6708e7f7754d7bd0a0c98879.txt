@@ -1,1 +1,0 @@
-"Beräkna.\n\n$354+37=$". Problem image: En additionstabell med två tal som ska adderas. Det större talet är uppdelat i hundratal, tiotal och ental, uppradat vertikalt. Under det större talet finns det mindre talet skrivet på samma sätt med ett plustecken till vänster. Det finns en tom rad nedanför för summan.

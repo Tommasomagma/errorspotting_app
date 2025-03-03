@@ -1,1 +1,0 @@
-Double-check that the number you picked really is the bigger one when you compare its value to the other number in the problem.

@@ -1,1 +1,0 @@
-Double-check how you squared the side of the middle square—you might have added instead of multiplying the length by itself.

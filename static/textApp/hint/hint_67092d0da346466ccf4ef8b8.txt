@@ -1,1 +1,0 @@
-Double-check how you converted the extra amount to a percentage to make sure no extra zeros were added.

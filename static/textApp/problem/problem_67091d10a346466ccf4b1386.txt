@@ -1,1 +1,0 @@
-"Hur mycket pengar visas i bilden?\n\n$20+20=$". Problem image: Två tjugo-kronorssedlar bredvid ett plustecken.

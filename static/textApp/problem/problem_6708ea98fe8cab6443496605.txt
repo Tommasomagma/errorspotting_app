@@ -1,1 +1,0 @@
-"Beräkna.\n\n$77+57=$". Problem image: Bilden visar en placeringsvärdestabell för addition. Varje kolumn representerar ett siffervärde. Tabellen är indelad i två rader där den övre raden innehåller numren 7 och 7 och den undre raden ett plustecken följt av numren 5 och 7. Raderna är separerade av en horisontell linje som inte är ifylld.

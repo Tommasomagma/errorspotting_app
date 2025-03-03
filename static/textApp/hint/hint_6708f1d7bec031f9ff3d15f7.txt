@@ -1,1 +1,0 @@
-Testa att dela upp antalet pizzor så att varje person får en lika stor bit utan något över!

@@ -1,1 +1,0 @@
-nan. Problem image: The image shows a tape diagram with two rows. The top row is labeled 'number of cats' and consists of 4 equal-sized blue rectangles. The bottom row is labeled 'number of dogs' and consists of 5 equal-sized tan rectangles.

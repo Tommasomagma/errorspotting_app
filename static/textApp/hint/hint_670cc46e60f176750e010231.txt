@@ -1,1 +1,0 @@
-Try finding the largest number that divides both 210 and 300 evenly.

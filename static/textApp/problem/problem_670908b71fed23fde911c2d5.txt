@@ -1,1 +1,0 @@
-"Skriv med siffrorna $6, 0, 1$ och $9$ ett så stort tal som möjligt i grundpotensform."

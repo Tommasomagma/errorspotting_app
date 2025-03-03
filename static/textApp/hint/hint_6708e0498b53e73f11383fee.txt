@@ -1,1 +1,0 @@
-Have you noticed that each number is made by multiplying the previous one by the same number?

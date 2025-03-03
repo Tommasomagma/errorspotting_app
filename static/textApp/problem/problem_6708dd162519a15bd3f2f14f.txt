@@ -1,1 +1,0 @@
-"I bilden visas en pool, med sidlängder angivna i meter. Vad är polens area?". Problem image: En rektangulär pool med sidlängderna angivna i rotuttryck. Ena sidlängden är 2 multiplicerat med kvadratroten ur 50, och den andra är 3 multiplicerat med kvadratroten ur 8.

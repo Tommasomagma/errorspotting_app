@@ -1,1 +1,0 @@
-Review your addition steps, especially how you handled the extra one from the ones column, to make sure each carry was added correctly.

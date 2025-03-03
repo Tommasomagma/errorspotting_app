@@ -1,1 +1,0 @@
-Check the step where you replaced 2 with 4—make sure to correctly subtract 2 from both sides instead of combining numbers as an addition.

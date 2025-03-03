@@ -1,1 +1,0 @@
-Take a close look at how you calculate 2% of 200 without adding extra numbers.

@@ -1,1 +1,0 @@
-Remember to check that you divide by -4 after subtracting 18 to solve for y.

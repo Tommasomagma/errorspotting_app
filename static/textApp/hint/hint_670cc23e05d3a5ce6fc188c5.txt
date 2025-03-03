@@ -1,1 +1,0 @@
-Check which powers of 2 add up to 39 to see if your digits match correctly!

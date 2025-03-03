@@ -1,1 +1,0 @@
-Remember to multiply your result by 2 since you're finding 2/3 of 600.

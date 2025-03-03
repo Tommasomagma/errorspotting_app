@@ -1,1 +1,0 @@
-"Differensen mellan två tal är $2{,}5$. Det ena talet är $7{,}9$.\n\nVilket är det andra talet?"

@@ -1,1 +1,0 @@
-Remember to add all three smallest prime numbers instead of multiplying only the first two.

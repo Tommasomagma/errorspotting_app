@@ -1,1 +1,0 @@
-Check if you correctly added the same amount between each number rather than using subtraction.

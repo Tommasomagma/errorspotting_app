@@ -1,1 +1,0 @@
-"Beräkna rektangelns area.". Problem image: En rektangel visas med sidornas längd märkta. Kortare sidan är märkt med 3 dm och längre sidan är märkt med 15 dm.

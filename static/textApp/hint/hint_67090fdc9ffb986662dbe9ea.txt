@@ -1,1 +1,0 @@
-Check if you correctly combined the areas of the rectangles before subtracting them from the square's area.

@@ -1,1 +1,0 @@
-Double-check if you applied the division by 8 correctly to the whole fraction instead of simplifying only part of it.

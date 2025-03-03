@@ -1,1 +1,0 @@
-"Gör ett faktorträd för 21 följande och bryt ner i primtal. \n\nVilket är det största primtalet?"

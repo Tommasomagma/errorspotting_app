@@ -1,1 +1,0 @@
-Prova att multiplicera antalet bröd med mjölmängden för ett och se hur du bäst skriver resultatet!

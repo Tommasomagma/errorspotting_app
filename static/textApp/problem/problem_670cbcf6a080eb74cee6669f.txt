@@ -1,1 +1,0 @@
-"Beräkna triangelns area.". Problem image: Bilden visar en rätvinklig triangel där den ena kateten är 6 cm och den andra kateten är 11 cm. Triangeln är inritad i en rektangel för att visa dess rätvinkliga form.

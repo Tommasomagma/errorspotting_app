@@ -1,1 +1,0 @@
-Double-check if you’re using the correct unit for area, as it must match the dimensions given in meters.

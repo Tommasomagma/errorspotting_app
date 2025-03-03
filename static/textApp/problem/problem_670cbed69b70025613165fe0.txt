@@ -1,1 +1,0 @@
-"Använd siffrorna $6$, $7$, $8$ och $9$ och skriv det minsta udda tal som är möjligt."

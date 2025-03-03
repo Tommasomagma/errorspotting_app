@@ -1,1 +1,0 @@
-Double-check if you applied the correct operation from one step to the next, because simply adding 1,25 might not match the pattern in the problem.

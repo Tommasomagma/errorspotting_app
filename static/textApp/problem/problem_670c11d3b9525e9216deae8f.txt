@@ -1,1 +1,0 @@
-"Under en vecka föddes $42$ pojkar och $50$ flickor. Hur stor andel av barnen var flickor? Svara i procentform."

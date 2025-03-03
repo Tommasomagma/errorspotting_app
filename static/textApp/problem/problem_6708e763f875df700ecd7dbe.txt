@@ -1,1 +1,0 @@
-"Vilket tal är $x$?\n\n\n${{\\Large\\frac{3}{7}} + x = 2{\\Large\\frac{1}{7}}}$\n\n\nSvara i blandad form."

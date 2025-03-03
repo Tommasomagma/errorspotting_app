@@ -1,1 +1,0 @@
-"Lös ekvationen.\n\n$8y-2=10y-22$"

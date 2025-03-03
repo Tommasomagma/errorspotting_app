@@ -1,1 +1,0 @@
-Check your division step carefully to ensure you divide the total number of frames by the correct number of seconds.

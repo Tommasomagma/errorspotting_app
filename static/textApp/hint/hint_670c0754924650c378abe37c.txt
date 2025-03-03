@@ -1,1 +1,0 @@
-Try reviewing the step where you remove the square root and combine the numbers to make sure you're following the order of operations correctly.

@@ -1,1 +1,0 @@
-"Herman har $12$ mynt och ger bort $4$ mynt. Hur många mynt har Herman kvar?". Problem image: Mynt staplade på varandra.

@@ -1,1 +1,0 @@
-"Edgar ska bygga en kub av små kuber. Han har redan börjat: \nHur många fler små kuber behöver han för att bygga en hel kub (utan hål i)?". Problem image: En tredimensionell bild av små gråa kuber som är arrangerade för att börja formen av en större kub.

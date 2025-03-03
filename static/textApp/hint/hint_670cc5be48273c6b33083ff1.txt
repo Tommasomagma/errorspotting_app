@@ -1,1 +1,0 @@
-Check your calculation by noticing that the formula means you add 4 and then add three times the number, not multiply 4 by the number.

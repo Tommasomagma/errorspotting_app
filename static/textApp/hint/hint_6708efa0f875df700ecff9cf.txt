@@ -1,1 +1,0 @@
-Check that you use the division result correctly to express the size of each lot without mixing up the numbers.

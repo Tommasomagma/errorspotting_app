@@ -1,1 +1,0 @@
-Double-check if you already took half of the distance, since your subtraction only gave you the full distance remaining.

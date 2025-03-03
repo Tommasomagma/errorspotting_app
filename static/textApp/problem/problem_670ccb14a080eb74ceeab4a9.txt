@@ -1,1 +1,0 @@
-"Vilket tal ska stå istället för $x$ för att likheten ska gälla?\n\n${\\Large\\frac{8}{x}}={\\Large\\frac{40}{45}}$"

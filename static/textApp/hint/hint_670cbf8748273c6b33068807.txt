@@ -1,1 +1,0 @@
-Double-check your division, as dividing 550 by 2 should give you a different number than 210.

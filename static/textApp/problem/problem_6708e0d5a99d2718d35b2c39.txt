@@ -1,1 +1,0 @@
-"Beräkna och svara i enklaste form.\n\n\n${\\Large\\frac{8}{15}}{ \\LARGE /}4$"

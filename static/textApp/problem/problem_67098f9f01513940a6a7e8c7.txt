@@ -1,1 +1,0 @@
-nan. Problem image: The image shows a rectangular prism composed of smaller cubes. The prism is three cubes tall, four cubes long, and two cubes wide. Each small cube represents a volume of one cubic unit.

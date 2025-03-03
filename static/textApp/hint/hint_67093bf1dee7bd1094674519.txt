@@ -1,1 +1,0 @@
-Check how you isolate x: remember that if 1 – x equals a fraction, then x is what you need to subtract from 1, not the fraction itself.

@@ -1,1 +1,0 @@
-Double-check your rounding step to make sure you round to the nearest whole number.

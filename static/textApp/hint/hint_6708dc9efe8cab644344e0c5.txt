@@ -1,1 +1,0 @@
-Double-check the first sum to make sure you didn't accidentally add an extra number.

@@ -1,1 +1,0 @@
-"En linje som beskriver ett proportionellt förhållande går genom punkterna $(2,6)$ och $(6,18)$. Rita linjen i koordinatsystemet, och svara sedan med vad proportionalitetskonstanten är."

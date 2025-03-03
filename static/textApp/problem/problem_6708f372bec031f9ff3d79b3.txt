@@ -1,1 +1,0 @@
-"Du kastar en tärning som är graderad $1$-$10$. \n\nHur stor är sannolikheten att det blir $7$ eller högre?\n\nSvara med bråk i enklaste form."

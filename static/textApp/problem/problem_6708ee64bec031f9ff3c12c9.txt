@@ -1,1 +1,0 @@
-"Avrunda till närmaste heltal och beräkna sedan med överslagsräkning.\n\n${\\Large\\frac{48,4}{8,3}} \\approx$"

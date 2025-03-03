@@ -1,1 +1,0 @@
-"\n\nVad har figuren för area?". Problem image: The image displays a rectangle with a ruler along its top and another ruler along its bottom, both marked in centimeters. The dimensions of the rectangle are not specified in the description.

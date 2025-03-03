@@ -1,1 +1,0 @@
-"I en rektangel är den längsta sidan $5$ gånger så lång som den kortaste sidan. Omkretsen är $36$ cm. Hur lång är den längsta sidan?"

@@ -1,1 +1,0 @@
-Try adjusting the order of your turns and moves so that the turtle can safely bypass the dark squares.

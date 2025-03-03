@@ -1,1 +1,0 @@
-Recheck how you divided the total age and added 4, making sure you correctly assign the extra years to Tula instead of Jack.

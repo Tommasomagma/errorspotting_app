@@ -1,1 +1,0 @@
-Check that you divide 14 by 39 before multiplying by 100 to correctly convert the fraction into a percent.

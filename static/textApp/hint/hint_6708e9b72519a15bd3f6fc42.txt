@@ -1,1 +1,0 @@
-Try dividing the total seconds by the number of meters to find the time for just one meter.

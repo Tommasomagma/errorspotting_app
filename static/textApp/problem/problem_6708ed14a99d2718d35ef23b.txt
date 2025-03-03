@@ -1,1 +1,0 @@
-"Vilket tal är $x$?\n\n$72 = (x + 5) \\cdot 8 - 8$"

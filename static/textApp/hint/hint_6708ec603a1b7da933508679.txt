@@ -1,1 +1,0 @@
-Double-check your work to ensure you correctly calculated each square's area and added them up without missing any parts.

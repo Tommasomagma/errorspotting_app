@@ -1,1 +1,0 @@
-Try multiplying the number of coins by each coin’s value to see what total you can build up in your piggy bank!

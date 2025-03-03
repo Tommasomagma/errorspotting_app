@@ -1,1 +1,0 @@
-"Vilket tal är $y$ om $x=2$?\n\n$x=16-2\\cdot y$"

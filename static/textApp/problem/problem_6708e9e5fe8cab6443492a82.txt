@@ -1,1 +1,0 @@
-"Behnam har räknat ut att han springer $100$ m med $80$ steg. Hur lång sträcka har Behnam sprungit, om stegräknaren visar att han sprungit $2\\ 650$ steg? Avrunda till tiondels kilometer.\n\n($1$ km = $1\\ 000$ m)"

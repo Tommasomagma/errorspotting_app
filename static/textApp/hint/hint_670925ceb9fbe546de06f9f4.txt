@@ -1,1 +1,0 @@
-Check if you correctly subtracted inside the parentheses before multiplying, as your intermediate steps seem off.

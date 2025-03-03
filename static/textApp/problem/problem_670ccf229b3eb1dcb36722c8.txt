@@ -1,1 +1,0 @@
-"Beräkna med räknare och avrunda svaret till en decimal.\n\n${\\Large\\frac{83}{7}} \\approx$"

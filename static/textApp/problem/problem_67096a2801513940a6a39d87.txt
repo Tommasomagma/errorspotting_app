@@ -1,1 +1,0 @@
-"Convert this improper fraction to a mixed number.\n\n$\\quad\\Large\\frac{11}{6}$"

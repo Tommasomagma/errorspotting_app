@@ -1,1 +1,0 @@
-Remember to check that when you convert the drawn measurements to the island's area, you need to square the scale factor.

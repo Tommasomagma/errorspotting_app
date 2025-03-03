@@ -1,1 +1,0 @@
-Double-check that the unit for area should be squared rather than just the length.

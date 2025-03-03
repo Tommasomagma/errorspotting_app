@@ -1,1 +1,0 @@
-Double-check which two heights are in the middle and how you added them together.

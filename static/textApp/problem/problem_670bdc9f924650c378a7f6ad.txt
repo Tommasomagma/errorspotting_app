@@ -1,1 +1,0 @@
-"En sträcka är $3{,}5$ cm lång. Hur mycket fattas för att sträckan ska vara $5$ cm? Svara i millimeter."

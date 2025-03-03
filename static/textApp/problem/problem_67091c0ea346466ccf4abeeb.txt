@@ -1,1 +1,0 @@
-"En sjukskötare behöver ge en injektion till en patient med 0,8 milliliter medicin. Injektionssprutan är fylld med 1,2 milliliter. Vid vilket märke på injektionssprutan ska han sluta?". Problem image: En injektionsspruta med markeringar för varje tvåhundradels milliliter från 0.2 mL till 1.2 mL. Sprutan är fylld med blå vätska till 1.2 mL markeringen.

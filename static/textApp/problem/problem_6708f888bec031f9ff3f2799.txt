@@ -1,1 +1,0 @@
-"Förenkla så långt som möjligt.\n\n${\\Large\\frac{4x \\ + \\ 6x}{12x\\ -\\ 14x\\ +\\ x}}=$"

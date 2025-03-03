@@ -1,1 +1,0 @@
-Double-check that each decimal place is aligned correctly so you add the right digits together.

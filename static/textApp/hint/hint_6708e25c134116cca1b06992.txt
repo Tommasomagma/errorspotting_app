@@ -1,1 +1,0 @@
-Check if you added the terms correctly when removing the parentheses.

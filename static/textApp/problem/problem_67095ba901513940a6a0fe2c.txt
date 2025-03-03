@@ -1,1 +1,0 @@
-"Beräkna och välj rätt alternativ i grundpotensform.\n\n$4\\cdot10^{-3}\\cdot2\\cdot10=$"

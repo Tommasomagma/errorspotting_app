@@ -1,1 +1,0 @@
-"I en påse finns 5 pistagenötter, 3 jordnötter och två godisar.\n\nHur stor andel av påsens innehåll är nötter? Svara i procentform.". Problem image: Bilden visar olika ätbara objekt: pistagenötter, jordnötter och godisar. Pistagenötter och jordnötter representerar nötter, medan godisarna är separata.

@@ -1,1 +1,0 @@
-Remember to show just the value of x, not 9 raised to that value.

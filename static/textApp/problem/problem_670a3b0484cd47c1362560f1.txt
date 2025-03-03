@@ -1,1 +1,0 @@
-"Medlemsavgiften i en förening är 150 kr per år. Ett år hade föreningen 70 medlemmar. Året därpå ökade antalet medlemmar med 15. Samtidigt höjdes medlemsavgiften till 200 kr. \n\nHur mycket mer fick föreningen in på medlemsavgiften det andra året?"

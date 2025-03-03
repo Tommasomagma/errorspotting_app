@@ -1,1 +1,0 @@
-"Aila lägger 8 linjaler på rad. Varje linjal är $0{,}3$ m. Hur lång blir hela raden av linjaler?". Problem image: En bild av en linjal. Linjalen representerar 0,3 meter i längd som ska användas för att visualisera en serie av linjaler placerade på rad.

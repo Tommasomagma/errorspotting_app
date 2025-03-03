@@ -1,1 +1,0 @@
-Double-check how dividing 20 by a number changes the inequality, and see if you mixed up the case for numbers less than or greater than 1.

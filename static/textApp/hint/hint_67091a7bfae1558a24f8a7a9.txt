@@ -1,1 +1,0 @@
-Try rethinking the step where you replaced the blank by undoing the multiplication by one-fifth.

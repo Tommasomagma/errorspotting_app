@@ -1,1 +1,0 @@
-Try drawing your factor tree again to check that every branch ends with a prime number.

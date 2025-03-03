@@ -1,1 +1,0 @@
-"Beräkna arean.". Problem image: Bilden visar två sammansatta trianglar som tillsammans bildar en rektangel. Den ena triangeln är färglagd i rosa och den andra i blått. Bredden på rektangeln är 8 cm och höjden är 2 cm.

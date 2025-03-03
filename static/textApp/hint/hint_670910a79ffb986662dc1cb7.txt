@@ -1,1 +1,0 @@
-Check that you used square kilometers for your final units, not centimeters.

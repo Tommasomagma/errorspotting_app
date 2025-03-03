@@ -1,1 +1,0 @@
-Double-check your subtraction step to see if the smaller gap between the two numbers was calculated correctly.

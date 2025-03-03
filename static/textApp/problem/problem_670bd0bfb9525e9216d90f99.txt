@@ -1,1 +1,0 @@
-"Bilden visar en figur i ett rutnät. Varje ruta har sidlängden 2 cm. Vad är omkretsen av figuren?". Problem image: A shape is drawn on a grid, occupying multiple squares. Each square side on the grid is 2 inches. The shape resembles a series of connected rectangles without any indication of dimensions or specific perimeter lines.

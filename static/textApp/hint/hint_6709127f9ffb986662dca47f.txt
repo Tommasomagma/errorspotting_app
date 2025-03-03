@@ -1,1 +1,0 @@
-Take another look at your division step, since dividing 1400 by 200 should give a much smaller number.

@@ -1,1 +1,0 @@
-"Vinkeln $u$ är 39° och $w$ är 72°. Hur stor är vinkeln $v$?". Problem image: Två linjer skär varandra ovanför en horisontell linje, vilket skapar tre vinklar märkta med u, v och w. Vinkeln u är till vänster och vinkeln w är till höger. En cirkelbåge ansluter vinklarna u och w.

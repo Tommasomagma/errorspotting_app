@@ -1,1 +1,0 @@
-"Förkorta bråket så att nämnaren blir så liten som möjligt.\n\n${\\Large\\frac{64}{16}}=$"

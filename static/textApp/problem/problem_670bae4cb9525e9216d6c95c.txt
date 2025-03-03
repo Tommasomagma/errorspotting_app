@@ -1,1 +1,0 @@
-"Lös ekvationen.\n\n$116 = x + 102$"

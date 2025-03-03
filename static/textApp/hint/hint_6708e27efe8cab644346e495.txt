@@ -1,1 +1,0 @@
-Double-check if you should have multiplied by the scale factor instead of dividing.

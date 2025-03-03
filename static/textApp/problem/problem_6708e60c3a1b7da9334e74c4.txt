@@ -1,1 +1,0 @@
-"Beräkna och skriv svaret i decimalform. \n\n${\\Large \\frac{1}{100}} +$ en tiondel $= $"

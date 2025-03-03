@@ -1,1 +1,0 @@
-"**Evaluate this numerical expression:**\n\n$\\large 7 \\times (7-4)$"

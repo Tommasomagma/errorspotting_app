@@ -1,1 +1,0 @@
-It looks like you solved for 2x instead of x—try checking that step again.

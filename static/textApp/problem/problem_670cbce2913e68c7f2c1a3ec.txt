@@ -1,1 +1,0 @@
-"**Cykeltur**\n\nDet tar $6$ minuter för Laila att cykla $2$ km. \n\n Hur långt hinner Laila cykla på $15$ minuter?"

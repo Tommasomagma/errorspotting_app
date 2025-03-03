@@ -1,1 +1,0 @@
-nan. Problem image: The image shows two rectangles filled with squares. The rectangle on the left has 3 rows of pink squares, and the top of the rectangle is labeled with the number 4. The rectangle on the right has 3 rows of orange squares, and the top of the rectangle is labeled with the number 7.

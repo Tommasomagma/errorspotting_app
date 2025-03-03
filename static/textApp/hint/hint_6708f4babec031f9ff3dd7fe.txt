@@ -1,1 +1,0 @@
-Remember to compare the square of each whole number to 42 to see between which they fall.

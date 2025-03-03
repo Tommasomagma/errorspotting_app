@@ -1,1 +1,0 @@
-Remember to check the sign of the mine's height when adding the 8 meters change.

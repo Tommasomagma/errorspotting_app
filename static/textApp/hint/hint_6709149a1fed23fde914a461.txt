@@ -1,1 +1,0 @@
-Kolla om du borde dividera istället för att subtrahera för att räkna ut en del av helheten.

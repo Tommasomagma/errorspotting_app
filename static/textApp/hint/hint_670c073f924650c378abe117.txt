@@ -1,1 +1,0 @@
-Try multiplying the number of tickets by the cost per ticket to see if it makes sense.

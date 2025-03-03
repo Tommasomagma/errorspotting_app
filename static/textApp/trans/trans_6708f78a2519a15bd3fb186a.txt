@@ -1,3 +1,0 @@
-$\overline{0}-45$
-$\overline{0}-(45-110)=65$
-$\overline{0}-\frac{65}{45}M$

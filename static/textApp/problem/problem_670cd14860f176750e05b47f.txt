@@ -1,1 +1,0 @@
-"Elin ska hyra en bil för $1\\ 000$ kr per dag. Hon bestämmer sig för att hyra lyxversionen av bilen, som kostar 200 kr extra per dag. Vad kostar det att hyra bilen i 5 dagar?". Problem image: En tecknad bild av en bil.

@@ -1,1 +1,0 @@
-Tänk på vilket tal du kan använda för att vända effekten av att halvera ett tal.

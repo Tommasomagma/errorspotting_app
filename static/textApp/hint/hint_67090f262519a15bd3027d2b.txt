@@ -1,1 +1,0 @@
-Double-check how you borrow in the ones column when subtracting, as it might be causing your answer to be off.

@@ -1,1 +1,0 @@
-Double-check your multiplication step for the cost per kilometer, especially how you computed 1.5 times 300.

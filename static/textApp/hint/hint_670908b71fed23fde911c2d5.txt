@@ -1,1 +1,0 @@
-Check if you have arranged the digits correctly so the big number is made with the right digit as the multiplier and the remaining digits in the exponent.

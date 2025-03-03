@@ -1,1 +1,0 @@
-"Hur stor andel av en hel cirkel utgör figuren? Svara i bråkform.". Problem image: En kvarts cirkel med radien 4 cm.

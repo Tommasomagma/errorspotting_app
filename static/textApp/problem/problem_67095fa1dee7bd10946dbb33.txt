@@ -1,1 +1,0 @@
-"Convert the numbers to expanded form. The expanded form of $2.5$ is $2+0.5$."

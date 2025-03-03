@@ -1,1 +1,0 @@
-"I en simfinal deltar $8$ simmare. Bara $3$ av dem får medalj.\n\nHur många procent av simmarna i finalen får medalj?"

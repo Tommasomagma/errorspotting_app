@@ -1,1 +1,0 @@
-Try undoing the subtraction so that you can see what number x really is.

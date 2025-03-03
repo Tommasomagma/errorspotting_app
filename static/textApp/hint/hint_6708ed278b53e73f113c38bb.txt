@@ -1,1 +1,0 @@
-Remember to ensure each binary digit lines up correctly with its corresponding power of two so you don't accidentally add an extra value.

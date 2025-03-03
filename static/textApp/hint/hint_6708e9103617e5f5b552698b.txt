@@ -1,1 +1,0 @@
-Titta på hur y-värdet ökar när x ökar för att hitta vilken konstant som multipliceras.

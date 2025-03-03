@@ -1,1 +1,0 @@
-Check if you correctly divided by 0.6 to solve for x instead of multiplying 0.6 by 3.

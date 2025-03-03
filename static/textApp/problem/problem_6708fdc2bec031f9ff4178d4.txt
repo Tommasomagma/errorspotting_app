@@ -1,1 +1,0 @@
-"Ingvar lagar pannkakor och har tillsatt ${ \\Large \\frac{2}{3} }$ liter mjölk. Ingvar tillsätter ${ \\Large \\frac{1}{6} }$ liter mjölk. Hur stor andel av en liter mjölk är det i smeten?"

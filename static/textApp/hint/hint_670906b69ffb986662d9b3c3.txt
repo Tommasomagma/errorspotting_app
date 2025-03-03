@@ -1,1 +1,0 @@
-Is it possible that you substituted a different value for x instead of 3?

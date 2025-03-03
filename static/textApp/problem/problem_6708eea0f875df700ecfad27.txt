@@ -1,1 +1,0 @@
-"Avrunda $294$ till närmaste hundratal och $5{,}1$ till närmaste heltal, utför sedan överslagsräkningen. \n\n\n$294\\cdot5{,}1 \\approx$"

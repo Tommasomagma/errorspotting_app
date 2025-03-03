@@ -1,1 +1,0 @@
-"Vad ska stå i rutan för att likheten ska gälla?\n\n${\\Large\\frac{1}{4}}={\\Large\\frac{\\boxed{\\phantom{a}}}{8}}$"

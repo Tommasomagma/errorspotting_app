@@ -1,1 +1,0 @@
-"Vilket tal fattas? \n\n15 hundradelar - 6 hundradelar $=\\underline{\\hspace{0.5cm}}$ hundradelar"

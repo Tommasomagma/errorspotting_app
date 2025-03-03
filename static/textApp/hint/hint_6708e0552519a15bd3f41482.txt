@@ -1,1 +1,0 @@
-Double-check whether your operation should account for each cut adding just one extra piece instead of adding two numbers.

@@ -1,1 +1,0 @@
-"De $5$ senast sålda villorna i bostadsområdet kostade $1{,}8$ miljoner, $2{,}3$ miljoner, $1{,}7$ miljoner, $3{,}1$ miljoner och $2{,}7$ miljoner. \n\nBeräkna medelpriset, i miljoner."

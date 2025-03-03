@@ -1,1 +1,0 @@
-"Använd siffrorna $6$, $7$, $8$ och $9$ och skriv alla jämna fyrsiffriga tal (samma siffra får inte användas fler gånger i samma tal). \n\nHur många jämna tal kan skrivas?"

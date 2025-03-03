@@ -1,1 +1,0 @@
-Have another look at how the grid’s rows and columns work together, instead of combining them by addition.

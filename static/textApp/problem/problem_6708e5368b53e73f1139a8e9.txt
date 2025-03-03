@@ -1,1 +1,0 @@
-"Beräkna.\n\n$6 \\cdot 2=$". Problem image: Bilden visar tre rader med orange cirklar. Varje rad innehåller två cirklar inuti streckade rektanglar, som representerar gruppering av objekt.

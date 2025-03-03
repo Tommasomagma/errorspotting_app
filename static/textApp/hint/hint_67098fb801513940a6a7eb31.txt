@@ -1,1 +1,0 @@
-Double-check that you're multiplying the three dimensions together correctly and using cubic inches for volume.

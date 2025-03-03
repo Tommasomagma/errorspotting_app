@@ -1,1 +1,0 @@
-"En dunk som rymmer $25$ liter är fylld till $9/10$ med fotogen. Dunken väger $855$ g när den är tom och $80$ cl fotogen väger $640$ g. \n\nHur mycket väger dunken med sitt innehåll? Svara i tiondels kilogram."

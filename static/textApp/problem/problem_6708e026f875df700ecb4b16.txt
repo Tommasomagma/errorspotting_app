@@ -1,1 +1,0 @@
-"Avrunda talen till heltal och beräkna. \n\n$31{,}5 \\cdot 23{,}6 \\approx$"

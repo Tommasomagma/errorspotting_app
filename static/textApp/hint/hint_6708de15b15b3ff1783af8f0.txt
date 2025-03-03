@@ -1,1 +1,0 @@
-Check how you rewrote 4 and 8 as powers of 2 and ensure you add the exponents correctly instead of simply summing the numbers.

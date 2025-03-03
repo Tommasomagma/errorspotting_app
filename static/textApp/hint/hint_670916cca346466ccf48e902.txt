@@ -1,1 +1,0 @@
-Check if the number after the tenth is less than five to decide whether you keep the tenth digit as is or change it.

@@ -1,1 +1,0 @@
-Remember to divide each total price by 5 before adding them together.

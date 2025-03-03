@@ -1,1 +1,0 @@
-"Tabellen visar regnmängden för 5 veckor.\n\nVad är medelvärdet för perioden? Avrunda till en decimal."

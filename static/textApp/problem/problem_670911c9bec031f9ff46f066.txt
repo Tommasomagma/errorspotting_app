@@ -1,1 +1,0 @@
-"I en fotbollsserie finns det $12$ lag. Varje lag ska möta alla andra lag två gånger.\n\nHur många matcher spelar varje lag?"

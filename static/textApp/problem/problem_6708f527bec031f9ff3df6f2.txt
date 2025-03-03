@@ -1,1 +1,0 @@
-"En kub har kantlängden $5$ cm. Beräkna volymen."

@@ -1,1 +1,0 @@
-"I en låda med frukt finns 172 frukter. Det finns bananer, plommon, äpplen och apelsiner. Det finns lika många frukter av varje sort.\n\nHur många frukter av varje sort finns det i lådan? *Visa hur du löser uppgiften.*"

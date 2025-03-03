@@ -1,1 +1,0 @@
-"Vilket tal i beräkningarna nedan är andelen?\n\n$35$ % av $200$ kr $=70$ kr"

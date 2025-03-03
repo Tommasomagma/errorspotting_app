@@ -1,1 +1,0 @@
-Take a look at the order in which you subtract numbers to isolate x.

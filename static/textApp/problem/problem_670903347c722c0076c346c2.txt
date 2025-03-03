@@ -1,1 +1,0 @@
-"I Alis klass går det 30 elever. 50 % av eleverna spelar fotboll. \n\nOm 40 % av eleverna som spelar fotboll är tjejer, hur många tjejer i klassen spelar fotboll?". Problem image: En fotbollströja.

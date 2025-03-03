@@ -1,1 +1,0 @@
-"Sumaya har en burk med 200 kulor. I burken finns $3\\ \\%$ röda kulor, $4\\ \\%$ blå kulor och $6\\ \\%$ gröna kulor. \n\nHur många av kulorna är röda?"

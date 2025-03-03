@@ -1,1 +1,0 @@
-"Svara med ett bråk i enklaste form. \n\n${\\Large \\frac{5}{8}} \\cdot 12=$"

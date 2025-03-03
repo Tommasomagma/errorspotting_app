@@ -1,1 +1,0 @@
-["$2 \\cdot 2 \\cdot 3 \\cdot 2 \\cdot 2$"]

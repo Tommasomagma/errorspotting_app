@@ -1,1 +1,0 @@
-Think about how multiplying 150 by the length (x) gives you the total cost.

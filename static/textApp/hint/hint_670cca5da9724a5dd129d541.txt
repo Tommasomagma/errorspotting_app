@@ -1,1 +1,0 @@
-Remember to count the number of gaps between the bushes and then divide the total distance by that number.

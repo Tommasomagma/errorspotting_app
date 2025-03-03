@@ -1,1 +1,0 @@
-"Beräkna.\n\n$121+130=$". Problem image: En tabell indelad i tre kolumner och två rader för att addera talen 121 och 130. Varje siffra är placerad i en separat cell.

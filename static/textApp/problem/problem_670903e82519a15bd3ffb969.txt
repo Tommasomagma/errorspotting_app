@@ -1,1 +1,0 @@
-"Carl har $19$ kronor. Han köper en present för $2$ kr. \n\nHur många kronor har Carl kvar nu?". Problem image: A child putting coins into a piggy bank.

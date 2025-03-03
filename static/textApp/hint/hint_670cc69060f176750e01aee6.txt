@@ -1,1 +1,0 @@
-Remember that when a number has .5, you usually round up to the next whole number.

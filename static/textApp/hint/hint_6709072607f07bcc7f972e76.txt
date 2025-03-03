@@ -1,1 +1,0 @@
-Take another look at how you distributed x to every term inside the parentheses, especially the term with y.

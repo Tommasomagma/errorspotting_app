@@ -1,1 +1,0 @@
-Double-check that you subtracted both the sweater and pants prices from Antonio's money rather than just one item.

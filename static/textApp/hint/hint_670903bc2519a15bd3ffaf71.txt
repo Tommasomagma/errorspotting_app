@@ -1,1 +1,0 @@
-Check how you handled the exponent subtraction when dividing the powers of 10.

@@ -1,1 +1,0 @@
-Keep an eye on whether you need to divide the area by 2, since the question asks for the whole shape, not just one of the two triangles.

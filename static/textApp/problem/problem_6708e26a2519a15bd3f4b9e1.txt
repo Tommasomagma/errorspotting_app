@@ -1,1 +1,0 @@
-"En triangel har en bas på 25 centimeter och en höjd som är 3 centimeter mindre än hälften av dess bas. Vad är triangelns area?"

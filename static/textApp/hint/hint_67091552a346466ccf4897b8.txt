@@ -1,1 +1,0 @@
-Check if you've correctly converted the distance from meters into kilometers by dividing by 1,000.

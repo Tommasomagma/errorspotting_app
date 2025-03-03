@@ -1,1 +1,0 @@
-Remember to complete the parentheses first and then multiply the result by 5!

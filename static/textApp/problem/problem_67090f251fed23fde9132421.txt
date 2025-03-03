@@ -1,1 +1,0 @@
-"I en kanna blandar Amanda $1/5$ liter koncentrerad saft med $2/3$ liter vatten.\n\nHur mycket färdigblandad saft blir det i kannan? Svara i liter."

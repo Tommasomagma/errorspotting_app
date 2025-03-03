@@ -1,1 +1,0 @@
-Remember to subtract both 6 and x when removing the parentheses.

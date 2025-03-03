@@ -1,1 +1,0 @@
-"Vilket tal är minst?\n\n$\\Large\\frac{2}{3}$, $\\Large\\frac{3}{2}$, $\\Large\\frac{3}{8}$ eller $\\Large\\frac{2}{9}$"

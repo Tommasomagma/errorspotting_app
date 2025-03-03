@@ -1,1 +1,0 @@
-Double-check that you subtracted the number of girls in classes 4 and 5 correctly from the total girls.

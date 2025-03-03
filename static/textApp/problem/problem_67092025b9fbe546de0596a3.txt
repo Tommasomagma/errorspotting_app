@@ -1,1 +1,0 @@
-nan. Problem image: A table with two rows and four columns. The top row is labeled 'Classes' with cells containing the numbers 1, 2, 3, and 4. The bottom row is labeled 'Students' with cells containing the numbers 10, 20, 30, and a question mark. Multiplication signs with pink arrows point from 1 to 2, then to 3 and to 4, indicating progression in class count.

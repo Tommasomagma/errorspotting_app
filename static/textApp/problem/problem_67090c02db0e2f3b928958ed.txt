@@ -1,1 +1,0 @@
-"Vilket tal ska stå i stället för $x$ för att likheten ska gälla?\n\n${\\Large\\frac{10^{16}}{10^{x}}} =10^{4}$"

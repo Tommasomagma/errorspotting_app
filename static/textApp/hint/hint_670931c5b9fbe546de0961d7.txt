@@ -1,1 +1,0 @@
-It looks like there might be an error in how the units were converted—try rechecking the conversion from feet (and mixed numbers) to inches.

@@ -1,1 +1,0 @@
-Double-check your multiplication and ensure you're using the right operation to compute the triangle's area.

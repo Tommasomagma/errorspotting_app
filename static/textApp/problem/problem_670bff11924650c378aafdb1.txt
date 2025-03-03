@@ -1,1 +1,0 @@
-"Skriv talen i decimalform och beräkna.\n\n$1{,}5 + {\\Large \\frac{4}{5}} =$"

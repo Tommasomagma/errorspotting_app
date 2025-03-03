@@ -1,1 +1,0 @@
-"**Klubben**\n\nEn skolklubb har $25$ medlemmar. De går i klass $2$ eller $3$.\n\n$14$ går i klass $3$.\n\n$4$ är pojkar i klass $2$.\n\n$15$ är flickor.\n\nHur många flickor går i klass $2$?"

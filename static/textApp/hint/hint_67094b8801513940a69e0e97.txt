@@ -1,1 +1,0 @@
-Remember that 1 gram is 1000 milligrams, so try dividing 1500 by 1000 to change mg to g.

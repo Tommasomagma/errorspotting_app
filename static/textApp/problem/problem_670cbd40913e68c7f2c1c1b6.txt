@@ -1,1 +1,0 @@
-"En koala kan sova 18 timmar per dygn. Hur stor andel av dygnet är det?\n\n*Visa hur du löser uppgiften.*". Problem image: En koala som klamrar sig fast vid en gren.

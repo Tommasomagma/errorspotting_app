@@ -1,1 +1,0 @@
-Double-check the number of squares you counted on each side to ensure every step matches the grid in the problem.

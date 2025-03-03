@@ -1,1 +1,0 @@
-Double-check how the doubling of the radius is used in the formula—remember you square the radius.

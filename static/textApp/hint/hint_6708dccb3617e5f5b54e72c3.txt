@@ -1,1 +1,0 @@
-Try counting the colored squares, compare them to the total, and then write that part as a decimal number.

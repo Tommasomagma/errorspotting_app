@@ -1,1 +1,0 @@
-"Lena tänker på en talföljd.\n\n- Det femte talet är 15. \n\n- Varje tal i följden är alltid är två större än det föregående talet. \n\nVilket är det första talet i följden?  \n\n\n$\\underline{\\hspace{0.5cm}}$  $\\: \\Box$  $\\: \\Box$  $\\: \\Box$  $15$"

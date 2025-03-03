@@ -1,1 +1,0 @@
-Double-check the multiplication step and make sure the decimal moves correctly when multiplying by 100.

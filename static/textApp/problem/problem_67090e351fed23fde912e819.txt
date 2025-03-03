@@ -1,1 +1,0 @@
-"Låt tiondelssiffran och tusendelssiffran byta plats i talet $0{,}218$. Vilket tal får du då?"

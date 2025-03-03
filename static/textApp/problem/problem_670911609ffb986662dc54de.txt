@@ -1,1 +1,0 @@
-"Avrunda till närmaste heltal och beräkna sedan med överslagsräkning. \n\n${\\Large\\frac {14,2}{6,9}} \\approx$"

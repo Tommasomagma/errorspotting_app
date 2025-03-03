@@ -1,1 +1,0 @@
-Remember to check if you have rounded your final result to a whole number of kilometers.

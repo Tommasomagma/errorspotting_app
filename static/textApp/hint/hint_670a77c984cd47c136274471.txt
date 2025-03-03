@@ -1,1 +1,0 @@
-Check if you used the right value for n when the term is given instead of calculating its position in the sequence.

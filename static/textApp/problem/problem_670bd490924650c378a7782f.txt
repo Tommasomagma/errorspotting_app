@@ -1,1 +1,0 @@
-"5 personer delar lika på en tårta. \n\nHur stor del får de var? Svara i decimalform.". Problem image: En tårta med tre ljus som inte ger information om hur man delar den.

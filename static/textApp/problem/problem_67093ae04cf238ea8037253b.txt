@@ -1,1 +1,0 @@
-nan. Problem image: A coordinate grid representing a proportional relationship with the horizontal axis labeled as 'Time (minutes)' marked from 0 to 70 and the vertical axis labeled as 'Distance (mi.)' marked from 0 to 10. A straight line starts at the origin (0,0) and rises to the right.

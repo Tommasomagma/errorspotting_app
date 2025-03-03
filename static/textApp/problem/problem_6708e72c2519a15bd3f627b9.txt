@@ -1,1 +1,0 @@
-"I en låda finns $100$ golfbollar. De väger $0{,}045$ kg styck. Hur mycket\nväger bollarna sammanlagt?"

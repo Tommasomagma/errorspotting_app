@@ -1,1 +1,0 @@
-Try using the radius (half the diameter) in your area formula instead of the full diameter.

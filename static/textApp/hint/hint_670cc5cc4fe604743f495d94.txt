@@ -1,1 +1,0 @@
-Double-check how you handle the division in the equation to make sure you’re isolating x correctly.

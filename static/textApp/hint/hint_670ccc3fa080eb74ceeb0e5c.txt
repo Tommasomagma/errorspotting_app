@@ -1,1 +1,0 @@
-Double-check how many triangles you get when you split a hexagon to find the sum of its angles.

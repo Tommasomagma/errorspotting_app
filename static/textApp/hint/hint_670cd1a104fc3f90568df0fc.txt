@@ -1,1 +1,0 @@
-Look over your calculation in the numerator to ensure you multiply before adding.

@@ -1,1 +1,0 @@
-"Beräkna. \n\n$0{,}109 + 0{,}022 = $". Problem image: Bilden visar en additionstabell med två decimaltal. Decimaltalen är uppdelade i kolumner där varje siffra har sin egen cell. Tabellen är organiserad för att visa addition vertikalt med ett decimaltal per rad och en tom rad för svaret markerad med en blå linje under.

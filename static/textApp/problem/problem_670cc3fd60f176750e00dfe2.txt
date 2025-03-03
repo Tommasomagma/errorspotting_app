@@ -1,1 +1,0 @@
-"Antalet elever på en skola ökade ett år till $165$ elever. Året innan gick det $152$ elever på skolan.\n\nRäkna ut ökningen i procent. Avrunda till hela procent."

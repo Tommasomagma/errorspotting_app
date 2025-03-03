@@ -1,1 +1,0 @@
-Remember to count the gaps correctly: there is one less gap than the number of flagpoles.

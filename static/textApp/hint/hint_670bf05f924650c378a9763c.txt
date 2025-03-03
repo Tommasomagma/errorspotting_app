@@ -1,1 +1,0 @@
-Try dividing the bucket’s net weight by the weight of one liter instead of multiplying.

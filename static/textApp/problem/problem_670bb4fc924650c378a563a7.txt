@@ -1,1 +1,0 @@
-"Beräkna. Förkorta om det går. \n\n${\\Large \\frac{3}{5}} \\cdot {\\Large \\frac{2}{3}} = $"

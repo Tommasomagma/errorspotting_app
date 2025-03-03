@@ -1,1 +1,0 @@
-Re-examine the step after multiplying to make sure you subtract 7 instead of doing another operation.

@@ -1,1 +1,0 @@
-Tänk på att ett jämnt tal slutar med en jämn siffra, och prova att lista alla möjliga alternativ för den sista siffran!

@@ -1,1 +1,0 @@
-Remember that dividing by 10 means shifting the number one place to the right, so check if your digits are in the right spots.

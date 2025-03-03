@@ -1,1 +1,0 @@
-"Vilket värde har siffran $6$ i talet?\n\n$763$"

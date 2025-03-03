@@ -1,1 +1,0 @@
-Check if you raised x to the seventh power instead of multiplying x by 7.

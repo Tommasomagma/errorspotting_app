@@ -1,1 +1,0 @@
-"Sofia försöker först 89 gånger, sen 98 gånger till innan hon lyckas med ett nytt trick på studsmattan.\n\nHur många gånger har Sofia försökt utan att lyckats totalt?". Problem image: En person som hoppar på en studsmatta.

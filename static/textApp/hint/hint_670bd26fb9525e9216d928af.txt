@@ -1,1 +1,0 @@
-Try dividing 307.8 by 1.08 instead of just adding 8% to it.

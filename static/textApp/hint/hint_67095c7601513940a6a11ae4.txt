@@ -1,1 +1,0 @@
-Double-check that you don't combine the numerator and denominator, keeping them separate as in 1/10 instead of turning them into 1.

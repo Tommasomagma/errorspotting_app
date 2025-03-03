@@ -1,1 +1,0 @@
-"På en miniräknare står 0,657.\n\nVilket tal ska du subtrahera med för att ”femman” ska ändras till en ”tvåa”?". Problem image: En miniräknare med displayen 0,657 är avbildad.

@@ -1,1 +1,0 @@
-Try rewriting the division as multiplication by the reciprocal, and watch out to keep the x in the right place.

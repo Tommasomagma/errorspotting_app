@@ -1,1 +1,0 @@
-"Multiplicera in i parentesen och förenkla uttrycket.\n\n$  2(5x+11)+6   =$"

@@ -1,1 +1,0 @@
-Take a closer look to ensure you've added the length of each car and the spaces between them correctly.

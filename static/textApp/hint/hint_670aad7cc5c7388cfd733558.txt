@@ -1,1 +1,0 @@
-Double-check how you distributed the multiplication by 2 across all terms, especially the fraction, to ensure the correct signs and coefficients.

@@ -1,1 +1,0 @@
-Check the step where you undo the cube since it looks like the cube wasn’t correctly removed.

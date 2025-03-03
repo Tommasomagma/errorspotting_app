@@ -1,1 +1,0 @@
-Fundera på hur du kan använda formeln för en cirkels omkrets med diametern och sedan avrunda till närmaste heltal.

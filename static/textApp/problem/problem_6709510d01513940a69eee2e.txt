@@ -1,1 +1,0 @@
-"Summan av två tal är 81. Det ena talet är dubbelt så stort som det andra. \n\nVilket är det minsta av talen?"

@@ -1,1 +1,0 @@
-"Lös ekvationen.\n\n$4(2x + 2) = 32$"

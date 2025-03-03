@@ -1,1 +1,0 @@
-Take another look at how you multiplied the side lengths, as the step marked "9.5=48" might not follow the problem correctly.

@@ -1,1 +1,0 @@
-Double-check your division of 5.916 by 3, as a small rounding error there can change your final result.

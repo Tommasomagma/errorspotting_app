@@ -1,1 +1,0 @@
-Remember to break every composite factor into primes, not just leave them as they are.

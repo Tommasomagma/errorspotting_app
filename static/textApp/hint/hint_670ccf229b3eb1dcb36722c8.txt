@@ -1,1 +1,0 @@
-Have you tried dividing the top number by the bottom one on your calculator and then rounding to one decimal place?

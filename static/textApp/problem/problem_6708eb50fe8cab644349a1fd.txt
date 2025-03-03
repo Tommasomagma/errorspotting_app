@@ -1,1 +1,0 @@
-"Lös uppgiften och visa dina beräkningar.\n\n${\\Large\\frac{8\\ 742}{6}}=$"

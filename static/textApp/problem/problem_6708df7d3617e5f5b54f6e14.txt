@@ -1,1 +1,0 @@
-"När en avstängd frysbox står utomhus i $-4\\ \\degree$C är temperaturen i frysboxen samma som temperaturen utomhus. När frysboxen slås på sjunker temperaturen med \n0,5 $\\degree$C var femte minut. \n\nVad är temperaturen i frysboxen 1,5 timmar efter att den sattes på?". Problem image: En frysbox.

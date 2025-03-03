@@ -1,1 +1,0 @@
-"Förenkla uttrycken.\n\n12x-(4-7x)"

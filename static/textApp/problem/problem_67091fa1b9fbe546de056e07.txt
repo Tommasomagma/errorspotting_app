@@ -1,1 +1,0 @@
-nan. Problem image: A horizontal number line is shown with major tick marks labeled 500,000 at the far left, 550,000 in the middle, and 600,000 at the far right. Above the number line, the number 560,102 is encircled and a pointer indicates its position between the 550,000 and 600,000 marks.

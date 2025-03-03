@@ -1,1 +1,0 @@
-"Vilket är värdet av uttrycket $15-x$ för $x=7$?"

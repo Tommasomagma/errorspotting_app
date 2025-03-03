@@ -1,1 +1,0 @@
-"Vilket tal är $x$?\n\n$8 \\cdot x = 64$\n\n$x= \\underline{\\hspace{1cm}}$"

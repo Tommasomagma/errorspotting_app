@@ -1,1 +1,0 @@
-Remember that bacteria double each time, so be sure to use exponential growth rather than simple multiplication.

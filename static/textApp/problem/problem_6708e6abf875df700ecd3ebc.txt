@@ -1,1 +1,0 @@
-"Vilket tal är $x$?\n\n${\\large \\frac{x}{3}} = 8$\n\n$x= \\underline{\\hspace{1cm}}$"

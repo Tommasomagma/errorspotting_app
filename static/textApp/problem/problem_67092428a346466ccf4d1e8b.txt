@@ -1,1 +1,0 @@
-"Johan och Ida har 10 chokladbollar. Johan äter 5 av chokladbollarna och Ida 3 av dem. \n\nHur stor andel av chokladbollarna finns sedan kvar?". Problem image: En cirkel indelad i tio lika stora delar som representerar chokladbollar.

@@ -1,1 +1,0 @@
-nan. Problem image: A bar model diagram showing two bars with the top bar labeled 'New price' and the bottom bar labeled 'Original price'. There is a bracket above connecting the two bars labeled '% markdown', and below the Original price bar, '100%' is indicated.

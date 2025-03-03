@@ -1,1 +1,0 @@
-"Marcus ska leverera tre paket äpplen. Det finns 13 stycken äpplen i varje paket.\n\nHur många äpplen levererar Marcus?". Problem image: Ett rött äpple.

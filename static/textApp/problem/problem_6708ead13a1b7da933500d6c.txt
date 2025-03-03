@@ -1,1 +1,0 @@
-"Du har talet $6\\ 832$.\n\nLåt entalssiffran byta plats med hundratalssiffran.\n\nBeräkna differensen av de båda talen."

@@ -1,1 +1,0 @@
-"Beräkna värdet av uttrycket ${\\Large\\frac{a}{b}}-c$ då $a=8 \\cdot 10^7$,  $b=2 \\cdot 10^4$,  $c=8 \\cdot 10^2$.\n\nRedovisa dina beräkningar."

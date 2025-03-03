@@ -1,1 +1,0 @@
-"Världens största vattenhjul finns i Syrien och byggdes på romartiden. Det har en diameter på $40$ meter. Hur stor omkrets har hjulet? Använd $\\pi \\approx 3{,}14$."

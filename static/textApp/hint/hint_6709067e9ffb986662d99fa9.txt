@@ -1,1 +1,0 @@
-Maybe check if you're dividing the rope by the right number of pieces made by two cuts.

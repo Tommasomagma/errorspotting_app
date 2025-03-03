@@ -1,1 +1,0 @@
-"Välj det största talet i paret.\n\n2,09 eller 2,1"

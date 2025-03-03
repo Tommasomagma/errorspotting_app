@@ -1,1 +1,0 @@
-Check your multiplication step between 1,000,000 and 0.00006 to see if you counted the zeros correctly.

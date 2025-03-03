@@ -1,1 +1,0 @@
-Try using the trapezoid area formula that adds both base lengths and then multiplies by the height, and see where that leads you!

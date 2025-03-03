@@ -1,1 +1,0 @@
-"En stor flaska läsk innehåller $1{,}5$ liter. \n\nHur mycket läsk finns i fem flaskor?"

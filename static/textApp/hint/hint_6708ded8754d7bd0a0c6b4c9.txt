@@ -1,1 +1,0 @@
-Try multiplying the drawing's length by the scale factor and then round to one digit after the decimal.

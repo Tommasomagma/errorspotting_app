@@ -1,1 +1,0 @@
-"Beräkna differensen av $17$ och $3$."

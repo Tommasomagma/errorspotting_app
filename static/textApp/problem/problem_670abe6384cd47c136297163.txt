@@ -1,1 +1,0 @@
-"Avrunda till tiotal och beräkna med överslagsräkning.\n\n$98+9+33\\approx $"

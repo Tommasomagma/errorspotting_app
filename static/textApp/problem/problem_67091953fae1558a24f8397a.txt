@@ -1,1 +1,0 @@
-"Vad ska stå i rutan för att likheten ska gälla?\n\n$40x=\\boxed{\\phantom{a}} \\cdot x$"

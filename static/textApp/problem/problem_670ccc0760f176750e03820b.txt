@@ -1,1 +1,0 @@
-"Lea får $500$ kr i studiebidrag. Varje år ökar studiebidraget med $7$ %.\n\nHur mycket får hon i studiebidrag efter ett år?"

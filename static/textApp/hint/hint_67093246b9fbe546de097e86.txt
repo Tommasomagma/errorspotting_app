@@ -1,1 +1,0 @@
-Double-check the count of the pink squares in the T-shape to ensure every square fits perfectly.

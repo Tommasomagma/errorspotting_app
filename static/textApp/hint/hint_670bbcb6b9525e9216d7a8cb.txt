@@ -1,1 +1,0 @@
-Multiplicera priset på ett linne med antalet för att hitta summan!

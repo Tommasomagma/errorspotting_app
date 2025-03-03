@@ -1,1 +1,0 @@
-"Beräkna. Svara i blandad form om det går.\n\n${\\Large\\frac{6}{7}}+{\\Large\\frac{4}{7}}=$"

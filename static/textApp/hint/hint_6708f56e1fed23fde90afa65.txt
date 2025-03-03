@@ -1,1 +1,0 @@
-Double-check that you substitute -2 into both x and (x–1) correctly and follow the left-to-right multiplication without missing any negative signs.

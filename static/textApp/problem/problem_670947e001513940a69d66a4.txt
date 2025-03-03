@@ -1,1 +1,0 @@
-"Vilket värde har siffran $5$ i talet? \n\n$1\\ 045$"

@@ -1,1 +1,0 @@
-"$\\begin{gathered}\n\\begin{aligned}\n&\\color{#505050}\\textsf{ Förenkla }\n(2xy)^{3}\n\\end{aligned}\n\\end{gathered}$"

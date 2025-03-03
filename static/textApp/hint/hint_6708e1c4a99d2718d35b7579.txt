@@ -1,1 +1,0 @@
-Double-check that you first convert muffins to eggs using the given ratio and then figure out how many cartons those eggs fill.

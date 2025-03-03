@@ -1,1 +1,0 @@
-Remember that making two cuts actually divides the rope into three pieces, so check if you need to divide by three instead of two.

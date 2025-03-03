@@ -1,1 +1,0 @@
-Try breaking down 345 into its prime pieces and then counting all the unique numbers you find that can divide it evenly.

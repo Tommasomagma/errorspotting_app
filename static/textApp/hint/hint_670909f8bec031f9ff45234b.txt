@@ -1,1 +1,0 @@
-Look carefully at the simplification step where you divided both the numerator and denominator—make sure you're using the correct common factor.

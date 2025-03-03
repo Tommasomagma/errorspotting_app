@@ -1,1 +1,0 @@
-"I byn fanns det fyra olika sorters djur:  \ngrisar, får, höns och kor.\n\n• Var fjärde djur var gris.  \n• Ett av åtta djur var får.  \n• Hälften av djuren var höns.  \n• Resten av djuren var kor, det var 50 kor.\n\nHur många höns fanns det i byn? *Visa hur du löser uppgiften.*"

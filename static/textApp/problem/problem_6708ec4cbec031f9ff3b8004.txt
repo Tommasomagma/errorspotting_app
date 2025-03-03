@@ -1,1 +1,0 @@
-"**Ishockey**\n\n$16$ elever spelar ishockey. De har varsin klubba, svart eller röd. \n\nHur många flickor har svart klubba om det är $6$ pojkar och $10$ elever har röd klubba och hälften så många flickor som pojkar har svart klubba?"

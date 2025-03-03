@@ -1,1 +1,0 @@
-"Förenkla uttrycket.\n\n$2\\cdot5x - 4x =$"

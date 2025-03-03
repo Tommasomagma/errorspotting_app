@@ -1,1 +1,0 @@
-"Avrunda till närmaste heltal och beräkna sedan med överslagsräkning.\n\n${\\Large\\frac{63,6}{7,9}} \\approx$"

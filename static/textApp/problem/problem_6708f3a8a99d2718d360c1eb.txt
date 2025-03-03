@@ -1,1 +1,0 @@
-"Hur stor är den okända vinkeln i figuren?". Problem image: En rosa triangel med en rät vinkel och två kända vinklar betecknade. En vinkel är 90 grader, en annan är 60 grader, och den tredje vinkeln är okänd och markerad med ett frågetecken.

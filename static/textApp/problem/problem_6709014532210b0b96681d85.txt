@@ -1,1 +1,0 @@
-"Vad saknas för att likheten ska gälla?\n\n$4x + 8x = \\ \\underline{\\hspace{1cm}} x$"

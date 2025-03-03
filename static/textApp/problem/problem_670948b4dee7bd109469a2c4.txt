@@ -1,1 +1,0 @@
-"Valentina hoppar $3{,}95$ m i längdhopp. Saga hoppar $0{,}5$ m kortare.\n\nHur långt hoppar hon? Svara i meter."

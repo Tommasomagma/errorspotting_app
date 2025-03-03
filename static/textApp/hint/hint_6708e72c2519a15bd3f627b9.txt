@@ -1,1 +1,0 @@
-Check if you multiplied the decimal correctly, especially the position of the decimal point.

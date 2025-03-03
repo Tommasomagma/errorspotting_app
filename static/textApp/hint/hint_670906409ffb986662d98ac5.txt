@@ -1,1 +1,0 @@
-Check the step where you used 8 = 6 kr and 4 = 3 kr to convert weight to pieces, as you might have mixed up the conversion there.

@@ -1,1 +1,0 @@
-Try placing all four digits so that the last digit is odd and the whole number is as small as you can make it.

@@ -1,1 +1,0 @@
-"Använd alla siffrorna $1$, $3$, $4$ och $6$ och beräkna differensen mellan det största jämna talet och det minsta udda talet du kan skriva."

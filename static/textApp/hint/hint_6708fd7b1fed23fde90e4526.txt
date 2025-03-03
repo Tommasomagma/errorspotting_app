@@ -1,1 +1,0 @@
-Check that you counted all zeros in the number before setting the exponent in the power of ten.

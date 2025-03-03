@@ -1,1 +1,0 @@
-Check if you accidentally used the note's face value instead of its weight when multiplying by 100.

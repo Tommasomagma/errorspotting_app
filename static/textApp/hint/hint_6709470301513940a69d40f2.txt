@@ -1,1 +1,0 @@
-Check carefully the order between 1/10 and 1/9, since a small mistake in comparing them might have led to the wrong sequence.

@@ -1,1 +1,0 @@
-Check if you compared the whole fractions properly rather than just matching the top and bottom numbers.

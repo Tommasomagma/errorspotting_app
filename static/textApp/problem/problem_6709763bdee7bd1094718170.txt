@@ -1,1 +1,0 @@
-"I en basketmatch gjorde alla 5 spelare i det ena laget mål och fick poäng. De olika spelarna fick följande poäng: 18, 2, 15, 13 och 2.\n\n✍️ Bestäm medianen för antalet poäng i laget."

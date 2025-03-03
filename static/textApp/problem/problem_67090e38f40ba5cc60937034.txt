@@ -1,1 +1,0 @@
-"Välj det svar som saknas för att olikheten ska stämma.\n\n${\\Large\\frac{20}{?}} > 20$"

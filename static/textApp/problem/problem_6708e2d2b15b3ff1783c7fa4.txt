@@ -1,1 +1,0 @@
-"Beräkna kvoten av $15\\ 000$ och $100$. Addera kvoten med produkten av $900$ och $9$."

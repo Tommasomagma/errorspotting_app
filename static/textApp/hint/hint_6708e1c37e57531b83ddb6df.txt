@@ -1,1 +1,0 @@
-Look closely at how you handled dividing by 0.5—remember, dividing by a number less than 1 actually increases the result, so check that step again.

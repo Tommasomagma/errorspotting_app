@@ -1,1 +1,0 @@
-Check if you correctly multiplied your fraction by 100 before rounding to a whole number.

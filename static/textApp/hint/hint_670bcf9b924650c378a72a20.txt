@@ -1,1 +1,0 @@
-Double-check if the numbers in your equation match those that should result in x = 12.

@@ -1,1 +1,0 @@
-Try re-checking the order of operations inside the fraction before dividing, to ensure numbers aren’t added outside the fraction.

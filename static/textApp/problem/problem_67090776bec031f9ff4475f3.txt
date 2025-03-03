@@ -1,1 +1,0 @@
-"Hur stor andel av figuren är inte färgad rosa?". Problem image: En serie av fyra trianglar arrangerade sida vid sida som skapar en zigzag-linje längst upp. Två av trianglarna är färgade i rosa medan de två yttersta trianglarna är ofärgade.

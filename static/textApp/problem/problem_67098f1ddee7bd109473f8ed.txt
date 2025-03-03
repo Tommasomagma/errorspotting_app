@@ -1,1 +1,0 @@
-nan. Problem image: A table with two columns. The first column is labeled 'Student' with entries Dylan, Javier, Leila, Sophie, and Charlotte. The second column is labeled 'Number of pages' with corresponding entries for each student, but the values are not specified in this text.

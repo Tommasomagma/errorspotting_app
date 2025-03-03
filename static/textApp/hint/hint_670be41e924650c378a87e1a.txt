@@ -1,1 +1,0 @@
-Remember to check why you subtracted 7 instead of simply rounding the number to the nearest whole number.

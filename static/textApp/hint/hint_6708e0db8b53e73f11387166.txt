@@ -1,1 +1,0 @@
-Double-check how you handled the +4 inside the parentheses when subtracting 4 from both sides.

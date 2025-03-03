@@ -1,1 +1,0 @@
-Revisit the subtraction step—ensure that the number you subtract really represents all of the white parts in the grid.

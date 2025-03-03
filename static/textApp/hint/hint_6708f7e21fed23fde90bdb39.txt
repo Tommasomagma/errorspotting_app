@@ -1,1 +1,0 @@
-Check your division of 900 by 30, as the number you subtracted from 32000 might be off.

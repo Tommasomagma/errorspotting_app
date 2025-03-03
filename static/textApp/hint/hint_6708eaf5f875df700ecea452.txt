@@ -1,1 +1,0 @@
-Remember to multiply both the numbers and the powers of ten correctly instead of just adding them.

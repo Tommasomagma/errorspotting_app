@@ -1,1 +1,0 @@
-"Beräkna.\n \n $570 - 322 =$". Problem image: En tabell med tre kolumner och två rader där den översta raden visar siffrorna 5, 7 och 0 och den nedre raden visar siffrorna 3, 2 och 2 under respektive siffra i den översta raden. En blå vågrät linje är dragen under den nedre raden.

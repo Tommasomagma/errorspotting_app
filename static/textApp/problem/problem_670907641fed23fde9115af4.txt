@@ -1,1 +1,0 @@
-"Ella har ett runt bord med diametern $80$ cm. Hon vill att en duk till bordet ska hänga ner $10$ cm runt om. Hur stor blir dukens area? Svara i kvadratmeter och avrunda till en decimal."

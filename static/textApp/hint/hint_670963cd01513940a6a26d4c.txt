@@ -1,1 +1,0 @@
-Check if you divided 40 evenly among the children instead of multiplying to get 40.

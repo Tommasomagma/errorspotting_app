@@ -1,1 +1,0 @@
-"Det ska byggas  en gångbana runt en kvadratisk trädgård med sidlängden $120$ meter som visas i bilden. Varje kvadratmeter kostar $1\\ 000$ kr att bygga.\n\nVad kostar projektet?". Problem image: En bild visar en kvadratisk trädgård i grönt med sidlängden 120 meter. Runt trädgården är en gångbana markerad i grått med en bredd på 10 meter.

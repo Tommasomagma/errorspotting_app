@@ -1,1 +1,0 @@
-"I bilden visas en karta över ett naturreservat som består av två delar. \n\nVad är den totala arean av reservatet?". Problem image: Bilden visar en karta över ett naturreservat uppdelat i två rektangulära delar. Den större delen är markerad med dimensionerna 11 km i bredd och 6 km i höjd. Den mindre delen är en kvadrat med sidan 4 km.

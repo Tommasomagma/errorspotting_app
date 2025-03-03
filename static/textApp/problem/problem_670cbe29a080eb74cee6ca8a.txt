@@ -1,1 +1,0 @@
-"Vilket svar är bäst?\n\n${15{,}4} - {9{,}3} \\approx $"

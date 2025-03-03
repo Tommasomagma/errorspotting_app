@@ -1,1 +1,0 @@
-Check if you’ve placed the decimal correctly when dividing.

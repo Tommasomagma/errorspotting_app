@@ -1,1 +1,0 @@
-"Tabellen visar antal frukter i en fruktskål.\n\nHur många är apelsiner?". Problem image: Tabellen har två kolumner. Den första kolumnen är rubricerad Frukt med posterna Banan, Apelsin och Päron. Den andra kolumnen är rubricerad Antal och visar en siffra bredvid varje fruktpost.

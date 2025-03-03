@@ -1,1 +1,0 @@
-It seems like you might have mixed up multiplying by the number of portions after finding the meat per portion, so please check that step again.

@@ -1,1 +1,0 @@
-Take another look at the small-number addition in your head, as a tiny counting mistake might have led to the wrong total.

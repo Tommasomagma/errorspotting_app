@@ -1,1 +1,0 @@
-Double-check if you need to multiply your answer by 1,000 to account for the numbers representing thousands.

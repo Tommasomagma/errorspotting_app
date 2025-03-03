@@ -1,1 +1,0 @@
-"En mobil kostar 4 000 kr. Priset sänks med 50 % och sedan ytterligare 20 %. \n\nVad kostade mobilen efter prissänkningen?". Problem image: En bild av en mobil.

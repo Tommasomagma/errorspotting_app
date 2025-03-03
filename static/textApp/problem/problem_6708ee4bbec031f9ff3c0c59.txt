@@ -1,1 +1,0 @@
-"Hur stor är förändringen? Välj rätt alternativ.\n\n$150$ kg minskar till $60$ kg"

@@ -1,1 +1,0 @@
-Check if you are finding the percentage number instead of calculating the final amount.

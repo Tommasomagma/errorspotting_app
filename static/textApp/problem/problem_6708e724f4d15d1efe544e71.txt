@@ -1,1 +1,0 @@
-"Vilken är den minsta gemensamma nämnaren till bråken?\n\n ${\\Large \\frac{2}{3}}$ och ${\\Large \\frac{1}{2}}$"

@@ -1,1 +1,0 @@
-Try re-checking your division, as dividing 14,000 by 7,000 should give a smaller number.

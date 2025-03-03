@@ -1,1 +1,0 @@
-Remember to use half the diameter as the radius before you square it and multiply by pi.

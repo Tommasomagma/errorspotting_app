@@ -1,1 +1,0 @@
-"En bilförsäljare har radat upp 10 bilar efter varandra med 1 meters mellanrum. Varje bil är 5 meter lång. \n\nHur lång är raden av bilar?". Problem image: Två tecknade bilar placerade horisontellt som representerar en sekvens av bilar i en bilförsäljares rad.

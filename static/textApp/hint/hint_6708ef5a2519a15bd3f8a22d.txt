@@ -1,1 +1,0 @@
-Check if you copied the measurement of the shorter base correctly, so that you use √12 instead of 12.

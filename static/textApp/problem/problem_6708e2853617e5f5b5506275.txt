@@ -1,1 +1,0 @@
-"Charlie gick hemifrån klockan $10.10$ och det tog 40 minuter att gå till skolan.\n\nVad var klockan när Charlie kom fram till skolan?". Problem image: En tecknad skolbyggnad.

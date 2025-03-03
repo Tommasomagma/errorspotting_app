@@ -1,1 +1,0 @@
-Check if you counted how many full 8-dm pieces fit into 27 dm and then subtracted them to find the leftover.

@@ -1,1 +1,0 @@
-Pröva att subtrahera det mindre talet från det större talet för att hitta vad som saknas.

@@ -1,1 +1,0 @@
-Check the number of 5‑minute intervals and how much the temperature drops in each step.

@@ -1,1 +1,0 @@
-Dubbelkolla att du subtraherar exponenterna istället för att multiplicera dem.

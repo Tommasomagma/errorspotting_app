@@ -1,1 +1,0 @@
-nan. Problem image: The table has two columns with headers Time (days) and Length (in.). Under Time (days), there are four rows with values: 2, 4, 7, 14. Under Length (in.), corresponding rows show values: 0.25, 0.5, 0.875, 1.75.

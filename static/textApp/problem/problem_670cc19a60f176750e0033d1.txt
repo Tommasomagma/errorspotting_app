@@ -1,1 +1,0 @@
-"Beräkna.\n\n$457+337=$". Problem image: Ett rutnät för addition med tre kolumner representerar siffrorna i talen 457 och 337 som ska adderas. Varje kolumn har två celler, en för varje siffra i de två talen, med ett plus-tecken till vänster om rutnätet och en tom cell under varje kolumn för summan.

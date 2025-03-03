@@ -1,1 +1,0 @@
-Check if each of your fractions is really less than one-half by comparing them with a common denominator.

@@ -1,1 +1,0 @@
-"Hur stor är vinkeln $AOC$?\n\n$AOC=$". Problem image: This is an image of angle $ ∠ AOC $ with points A, O, and C on a plane. Point O is at the vertex of the angle, and a portion of the angle is shaded in blue. There are two marked angles: one is 75 degrees between point O and point B, and the other is 58 degrees between point O and point A.

@@ -1,1 +1,0 @@
-Check that you subtracted the correct counts from the total and didn't mix up any numbers.

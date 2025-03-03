@@ -1,1 +1,0 @@
-Double-check if you are finding the difference in percentage points instead of dividing the change by the initial rate.

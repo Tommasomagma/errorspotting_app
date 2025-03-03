@@ -1,1 +1,0 @@
-Check if you divided 120 by 40 correctly rather than multiplying them.

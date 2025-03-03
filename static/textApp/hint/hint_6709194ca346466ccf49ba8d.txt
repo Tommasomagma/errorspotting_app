@@ -1,1 +1,0 @@
-Check how the gap between each number grows to guess what comes next!

@@ -1,1 +1,0 @@
-"Leo har två väskor. En resväska som väger 15,5 kg och en ryggsäck som väger 6,7 kg. Hur mycket tyngre är resväskan än ryggsäcken?\n\n*Visa hur du löser uppgiften.*". Problem image: En resväska och en ryggsäck.

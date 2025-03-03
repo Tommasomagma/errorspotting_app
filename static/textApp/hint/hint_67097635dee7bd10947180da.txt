@@ -1,1 +1,0 @@
-Double-check that you're using the correct block side length when calculating how many blocks go in one row.

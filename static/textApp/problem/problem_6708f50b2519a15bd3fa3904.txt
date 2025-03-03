@@ -1,1 +1,0 @@
-"Vilket bråk är minst, $\\Large \\frac{5}{10}$ eller $\\Large \\frac{4}{11}$?"

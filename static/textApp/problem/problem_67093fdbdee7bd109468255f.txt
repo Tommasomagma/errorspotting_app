@@ -1,1 +1,0 @@
-"Ett leksakståg är skalenligt med ett verkligt tåg. Leksakståget är 5 cm högt. Skalan är $1:90$.\n\nHur högt är det verkliga tåget i verkligheten i meter?". Problem image: Bilden visar en tecknad representation av ett leksakståg. Ingen skala eller dimensioner är angivna i bilden.

@@ -1,1 +1,0 @@
-"Styckpriset för en banan i kiosken är 10 kr. Allan köper 1 kg bananer i matbutiken för 30 kr. \n\nHur mycket pengar sparar Allan per banan, om varje banan väger 200 gram?". Problem image: En klase bananer.

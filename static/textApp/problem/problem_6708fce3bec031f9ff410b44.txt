@@ -1,1 +1,0 @@
-"Kevins termos väger 480 g. Hur mycket väger 3 likadana termosar tillsammans?\n\n*Visa hur du löser uppgiften.*". Problem image: Bilden visar två objekt med deras vikter angivna under dem. Det första objektet är en termos märkt med '480 g' och det andra är ett äpple märkt med '196 g'.

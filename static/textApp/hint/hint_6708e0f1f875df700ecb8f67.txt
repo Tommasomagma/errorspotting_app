@@ -1,1 +1,0 @@
-Check if you used the rectangle area formula (base × height) correctly without dividing by 2.

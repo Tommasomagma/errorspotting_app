@@ -1,1 +1,0 @@
-Try halving the full circle's area formula after using the given π value and the 20 cm base.

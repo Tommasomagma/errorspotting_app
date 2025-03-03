@@ -1,1 +1,0 @@
-It seems you computed extra steps that don't follow the numbers given in the problem, so try focusing on directly multiplying the two values mentioned.

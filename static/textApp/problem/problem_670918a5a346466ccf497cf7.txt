@@ -1,1 +1,0 @@
-"Bilden visar en förlängning av bråket $\\Large \\frac{3}{4}$. Vilket tal har bråket förlängts med?". Problem image: Två kvadratiska rutor delade i mindre kvadrater. Till vänster en ruta med tre fyllda kvadrater av fyra möjliga. Till höger en större kvadrat uppdelad i sexton mindre kvadrater, med tolv fyllda kvadrater och fyra ofyllda.

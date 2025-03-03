@@ -1,1 +1,0 @@
-Check if you correctly used the full radius (50 m) when squaring in your calculation.

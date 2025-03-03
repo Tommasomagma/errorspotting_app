@@ -1,1 +1,0 @@
-Double-check your multiplication step to make sure you're handling the decimals correctly.

@@ -1,1 +1,0 @@
-"Beräkna.\n\n$750+660+335=$". Problem image: En tabell för addition med tre termer. Varje term är placerad i en egen rad, med siffrorna ordnade i kolumner för hundratal, tiotal och ental. En blå linje markerar slutet av additionen.

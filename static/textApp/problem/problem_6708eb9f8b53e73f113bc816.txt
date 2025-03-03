@@ -1,1 +1,0 @@
-"Hur många procent av figuren är färgad?". Problem image: Ett rutnät bestående av kvadrater där en del av dem är färgade. Rutnätet är symmetriskt med flera rutor i varje rad och kolumn.

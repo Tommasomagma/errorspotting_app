@@ -1,1 +1,0 @@
-Double-check that you subtract the dog's weight from the total, not the other way around.

@@ -1,1 +1,0 @@
-Look closely at how you handled the ¼ in the equation when trying to isolate x.

@@ -1,1 +1,0 @@
-Check the step where you subtracted 8x—make sure you only moved the constant from one side to the other when isolating x.

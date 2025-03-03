@@ -1,1 +1,0 @@
-Take another look at your calculation—make sure you're simply adding the three lap counts without using any extra operations.

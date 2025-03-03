@@ -1,1 +1,0 @@
-"Vilket tal ska stå i stället för symbolen?\n\n\n$5 \\cdot \\boxed?=30$"

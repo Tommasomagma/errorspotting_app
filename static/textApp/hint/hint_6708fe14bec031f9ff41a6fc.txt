@@ -1,1 +1,0 @@
-Take a closer look at how you computed 10% of the starting amount.

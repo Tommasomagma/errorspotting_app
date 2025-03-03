@@ -1,1 +1,0 @@
-Double-check that all the terms from the original expression are included when simplifying.

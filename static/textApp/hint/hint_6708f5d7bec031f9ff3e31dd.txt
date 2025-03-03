@@ -1,1 +1,0 @@
-Check if you are using the right number to divide by, starting with the original price instead of the sale price.

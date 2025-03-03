@@ -1,1 +1,0 @@
-"**Klubben**\n\nEn klubb har $20$ medlemmar. De går i klass $4$ eller $5$.\n\n$10$ går i klass $4$.\n\n$4$ pojkar går i klass $5$.\n\n$12$ är flickor.\n\nHur många går i klass $5$?"

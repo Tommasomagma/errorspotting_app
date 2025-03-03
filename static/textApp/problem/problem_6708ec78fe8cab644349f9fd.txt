@@ -1,1 +1,0 @@
-"Vilket tal är $x$?\n\n${\\Large\\frac{10^x}{10^5}}=10^{-1}$"

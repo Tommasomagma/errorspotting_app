@@ -1,1 +1,0 @@
-Double-check that you divided by the full price value from the problem, not a shortened number.

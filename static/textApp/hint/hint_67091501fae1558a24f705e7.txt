@@ -1,1 +1,0 @@
-Prova att räkna ut hur många gånger du måste addera 3/11 så att summan blir minst ett helt hus.

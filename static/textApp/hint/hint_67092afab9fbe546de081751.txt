@@ -1,1 +1,0 @@
-Take a closer look at your subtraction step to ensure that 32 minus 27 is calculated correctly.

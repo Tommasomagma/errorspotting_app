@@ -1,1 +1,0 @@
-Prova att räkna upp med 1 från det föregående talet för att fylla i de tomma platserna.

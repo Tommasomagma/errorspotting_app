@@ -1,1 +1,0 @@
-Try redividing the area expression by 3 carefully, making sure each term is divided correctly.

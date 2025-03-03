@@ -1,1 +1,0 @@
-Check if your conversion from decimeters to meters and the multiplication with the number of banknotes is done correctly.

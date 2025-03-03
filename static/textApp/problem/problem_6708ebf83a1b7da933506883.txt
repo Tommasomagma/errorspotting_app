@@ -1,1 +1,0 @@
-"Vad är differensen mellan det tionde talet i talföljden och det nionde?\n\n${-2}, \\hspace{0.1cm} {-5}, \\hspace{0.1cm} {-8}, \\hspace{0.1cm} \\underline{\\hspace{0.5cm}}$"

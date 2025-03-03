@@ -1,1 +1,0 @@
-Double-check if you should divide 12 by 16 instead of multiplying 0.12 by 16.

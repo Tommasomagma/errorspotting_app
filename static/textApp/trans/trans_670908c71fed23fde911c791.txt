@@ -1,5 +1,0 @@
-$O = \pi \cdot d$
-
-$O = 3,14 \cdot 5$
-
-$\begin{array}{c}3,14 \\ \cdot 52 \\ \hline 15,70cm\end{array}$

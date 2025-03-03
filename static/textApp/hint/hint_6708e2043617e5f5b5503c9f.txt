@@ -1,1 +1,0 @@
-Try moving the decimal so that you correctly account for dividing by a million.

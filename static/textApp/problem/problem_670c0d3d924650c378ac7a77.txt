@@ -1,1 +1,0 @@
-"En valps höjd ökar linjärt under de första två månaderna. Redan efter två veckor har valpen en höjd på $15$ cm och efter ytterligare fyra veckor är valpen $25$ cm hög.\n\nHur hög var valpen vid födseln enligt denna modell?". Problem image: En tecknad valp med ett ben.

@@ -1,1 +1,0 @@
-"Beräkna och svara med bråk i enklaste form.\n\n${\\Large\\frac{2}{3}}+{\\Large\\frac{5}{6}}=$"

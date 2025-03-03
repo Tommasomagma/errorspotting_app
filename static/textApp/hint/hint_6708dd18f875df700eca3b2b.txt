@@ -1,1 +1,0 @@
-Take another look at the starting number to make sure every digit matches the problem description.

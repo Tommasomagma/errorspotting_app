@@ -1,1 +1,0 @@
-Check the first step to ensure you're applying multiplication where it's needed instead of adding.

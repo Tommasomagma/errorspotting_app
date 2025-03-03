@@ -1,1 +1,0 @@
-"Aziz klocka visar 8.00 nu. Vad kommer den att visa om 60 timmar?". Problem image: En digital klocka som visar tiden 08:00.

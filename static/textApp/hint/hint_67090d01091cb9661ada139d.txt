@@ -1,1 +1,0 @@
-Try rounding the numbers to the nearest whole before multiplying to see if it gets closer to the right value.

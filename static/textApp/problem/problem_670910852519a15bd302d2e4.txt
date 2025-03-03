@@ -1,1 +1,0 @@
-"Skriv först talen som tiopotenser. Beräkna sedan och svara med en tiopotens.\n\n$100\\cdot 1\\ 000\\ 000=$"

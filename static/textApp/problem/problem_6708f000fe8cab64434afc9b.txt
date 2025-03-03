@@ -1,1 +1,0 @@
-"Beräkna.\n\n$ 3 \\cdot 7=$". Problem image: Bilden visar tre grupper av orange cirkulära objekt med sju objekt i varje grupp, inom avgränsade streckade rektanglar.

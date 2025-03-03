@@ -1,1 +1,0 @@
-It looks like you might have missed multiplying by 2 when writing down the formula—can you check that step?

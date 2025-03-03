@@ -1,1 +1,0 @@
-"Beräkna arean av triangeln.". Problem image: A pink triangle is shown with a base labeled as 9 cm and a height represented by a dotted line labeled as 10 cm.

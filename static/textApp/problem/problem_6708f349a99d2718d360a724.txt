@@ -1,1 +1,0 @@
-"Vad är figurens omkrets om $a=4$?". Problem image: Bilden visar en rektangel med sidorna betecknade med 'a'. Varje hörn av rektangeln är klippt och en mindre kvadratisk del är avlägsnad. Klippen är markerade längs med sidorna på rektangeln.

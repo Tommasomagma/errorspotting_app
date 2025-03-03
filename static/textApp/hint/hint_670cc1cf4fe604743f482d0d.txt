@@ -1,1 +1,0 @@
-Make sure you divide the increase by the original number of students, not the current number.

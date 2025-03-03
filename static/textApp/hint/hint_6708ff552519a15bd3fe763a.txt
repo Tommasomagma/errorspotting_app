@@ -1,1 +1,0 @@
-Check if you've used the triangle area formula correctly, remembering to divide by 2 at the right step.

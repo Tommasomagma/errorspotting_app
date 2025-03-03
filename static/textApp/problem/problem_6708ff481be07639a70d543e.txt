@@ -1,1 +1,0 @@
-"I en låda finns $21$ pennor. Läraren lägger till $8$ pennor. \n\nHur många pennor finns det i lådan totalt?". Problem image: En låda med skolmaterial som pennor och linjaler.

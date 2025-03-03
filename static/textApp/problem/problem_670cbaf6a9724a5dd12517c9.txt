@@ -1,1 +1,0 @@
-"Vilket är det minsta talet som är delbart med 2, 5 och 7?"

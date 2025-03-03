@@ -1,1 +1,0 @@
-Take a closer look to ensure the number multiplying x and the number added are not switched.

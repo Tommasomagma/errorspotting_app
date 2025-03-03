@@ -1,1 +1,0 @@
-"Skriv produkten av 23,6 och 12 med två gällande siffror."

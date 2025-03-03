@@ -1,1 +1,0 @@
-"Reorganize into complete number."

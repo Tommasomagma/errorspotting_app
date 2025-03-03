@@ -1,1 +1,0 @@
-"Beräkna arean.". Problem image: Bilden visar en geometrisk figur som ser ut som ett hus. Figuren har en rektangel i mitten med höjden angiven till 3 cm och bredden till 4 cm. Två rätvinkliga trianglar är placerade på vardera sida av rektangeln; höjden på trianglarna är 3 cm och basen är 2 cm.

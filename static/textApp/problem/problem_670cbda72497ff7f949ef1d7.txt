@@ -1,1 +1,0 @@
-"Vilket tal ska du förlänga bråket $\\Large \\frac{3}{5}$ med för att få en täljare som är 9?"

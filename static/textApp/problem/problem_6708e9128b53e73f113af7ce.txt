@@ -1,1 +1,0 @@
-"Beräkna arean.". Problem image: Bilden visar en geometrisk figur som består av en rektangel och två kongruenta trianglar på de övre och nedre sidorna av rektangeln. Rektangeln är markerad med sidornas längder, 4 dm och 4 dm, och trianglarna med en sida märkt 3 dm.

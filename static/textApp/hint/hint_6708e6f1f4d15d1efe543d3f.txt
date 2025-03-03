@@ -1,1 +1,0 @@
-Check if you are counting each unique game between two teams instead of adding numbers in steps that don't match the matchup rule.

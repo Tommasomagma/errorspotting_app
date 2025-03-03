@@ -1,1 +1,0 @@
-Double-check your division: does 45 divided by 100 really give 4.5, or is the decimal point shifted?

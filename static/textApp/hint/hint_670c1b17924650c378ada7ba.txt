@@ -1,1 +1,0 @@
-Examine how you removed the parentheses and check if you divided the whole sum by the whole difference.

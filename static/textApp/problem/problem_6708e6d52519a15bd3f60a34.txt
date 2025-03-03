@@ -1,1 +1,0 @@
-"Du har $2$ liter saft.\n\nHur många deciliter saft har du?"

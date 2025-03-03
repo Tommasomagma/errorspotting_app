@@ -1,1 +1,0 @@
-"Beräkna.\n\n$154+23=$". Problem image: En additionstabell med två rader och tre kolumner. Övre raden visar siffrorna ett, fem och fyra. Nedre raden visar plus-tecknet och siffrorna två och tre.

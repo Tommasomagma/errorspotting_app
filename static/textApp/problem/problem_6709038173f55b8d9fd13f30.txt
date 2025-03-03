@@ -1,1 +1,0 @@
-"En $3$-litersburk med färg kostade $342$ kr i en färghandel. Samma sorts färg fanns också i $1$-litersburkar. En sådan kostade $149$ kr. \n\nHur mycket billigare var färgen per liter i $3$-litersburken?"

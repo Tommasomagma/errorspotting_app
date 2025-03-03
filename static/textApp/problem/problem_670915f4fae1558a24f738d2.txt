@@ -1,1 +1,0 @@
-"Skriv det tal som saknas.\n\n$x=15$\n\n$y=?$\n\n$2x-4y=18$"

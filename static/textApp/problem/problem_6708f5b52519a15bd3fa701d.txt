@@ -1,1 +1,0 @@
-"Skriv ett förenklat uttryck för längden av den svarta pilen.". Problem image: Bilden visar en horisontell pil uppdelad i olika segment med olika färger. Varje segment har en etikett med en algebraisk term eller ett nummer. Segmenten i ordning från vänster till höger har etiketterna 2x, 2x, 6, och 3x.

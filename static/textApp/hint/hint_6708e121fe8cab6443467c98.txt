@@ -1,1 +1,0 @@
-Tänk på att klockan börjar om efter 12, så prova att lägga till 18 timmar på 11 och se vilket nummer du hamnar på.

@@ -1,1 +1,0 @@
-Double-check the subtraction order you used, as it seems the smaller number should be subtracted from the larger one to get the correct count.

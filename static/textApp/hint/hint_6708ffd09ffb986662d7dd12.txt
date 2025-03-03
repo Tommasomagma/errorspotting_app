@@ -1,1 +1,0 @@
-Try re-reading the problem to check if you need to subtract the cost from 500 instead of dividing it by the price.

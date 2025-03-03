@@ -1,1 +1,0 @@
-"Liam har sparat $7$ kr.\n\nHan sparar $3$ kr till. \n\nHur många kronor har Liam sparat totalt?". Problem image: A child putting coins in a piggy bank.

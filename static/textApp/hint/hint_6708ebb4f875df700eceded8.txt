@@ -1,1 +1,0 @@
-Try comparing the number of die faces to your roll count to see if multiplying by 2 fits with finding a repeat.

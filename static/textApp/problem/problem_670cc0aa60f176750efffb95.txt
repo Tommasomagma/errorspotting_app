@@ -1,1 +1,0 @@
-"På ett tåg finns det $45$ passagerare. Vid nästa station stiger $12$ nya passagerare på. \n\nHur många passagerare finns det på tåget totalt?". Problem image: En person som står på en tågplattform bredvid ett tåg.

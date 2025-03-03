@@ -1,1 +1,0 @@
-"Adam har $825$ kr i sin plånbok. Han köper ett mobilskal för en femtedel av sina pengar. För en fjärdedel av de pengar som är kvar äter han lunch på en restaurang. \n\nHur mycket pengar har Adam sedan kvar i plånboken?"

@@ -1,1 +1,0 @@
-"Johan har köpt hälften av en ost som ursprungligen väger $1$ kg. Han lagar en paj som kräver $\\Large\\frac{1}{8}$ av den ost han köpt.\n\n Hur stor andel, i kilogram, har Johan kvar av den ursprungliga osten efter pajen? Svara i bråkform.". Problem image: En bild av en bit ost.

@@ -1,1 +1,0 @@
-Try dividing the area of B by the area of A instead of subtracting them.

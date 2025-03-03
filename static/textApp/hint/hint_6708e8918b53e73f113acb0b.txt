@@ -1,1 +1,0 @@
-Check if you correctly multiplied 192 by 2 and then divided by 3 instead of making a sign or placement error with the numbers.

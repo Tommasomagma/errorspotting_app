@@ -1,1 +1,0 @@
-Try rounding both numbers to easier ones before multiplying.

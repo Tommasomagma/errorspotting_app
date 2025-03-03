@@ -1,1 +1,0 @@
-Try multiplying the price of one candlestick by 9 and then dividing by 500 to see how many bills are needed!

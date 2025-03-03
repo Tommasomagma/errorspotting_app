@@ -1,1 +1,0 @@
-Check that you set up the equation using one number being twice as big as the other instead of assuming both numbers are the same.

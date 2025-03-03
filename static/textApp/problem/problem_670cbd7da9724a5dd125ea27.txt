@@ -1,1 +1,0 @@
-"I en burk ligger $5$ gula, $10$ röda och $35$ vita kulor. Hur stor andel av kulorna är vita?"

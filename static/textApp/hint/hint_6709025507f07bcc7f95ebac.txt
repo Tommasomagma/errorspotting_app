@@ -1,1 +1,0 @@
-Remember to check that the constant sign remains positive when you remove the parentheses and subtract the term.

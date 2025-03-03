@@ -1,1 +1,0 @@
-"Vilket tal ligger mitt emellan $0{,}2$ och $0{,}35$?"

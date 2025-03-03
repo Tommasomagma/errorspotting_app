@@ -1,1 +1,0 @@
-"Avrunda till två decimaler. \n\n$0{,}0756 \\approx$"

@@ -1,1 +1,0 @@
-Check that you're converting the scale from centimeters to meters correctly without adding extra zeros.

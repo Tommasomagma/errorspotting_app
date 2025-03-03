@@ -1,1 +1,0 @@
-Tänk på att använda förhållandet mellan den verkliga bron och modellen för att hitta rätt längd på spannet.

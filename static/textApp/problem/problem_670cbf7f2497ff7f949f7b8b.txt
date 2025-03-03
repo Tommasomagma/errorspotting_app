@@ -1,1 +1,0 @@
-"Förenkla uttrycket. \n\n$ 3x\\cdot4-2+5\\cdot x-2\\cdot x$"

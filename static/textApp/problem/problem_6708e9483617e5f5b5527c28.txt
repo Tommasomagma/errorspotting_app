@@ -1,1 +1,0 @@
-"Prinsessan Zelda åker i sin vagn. När vagnens hjul rullat ett helt varv har vagnen rört sig framåt 2 meter. \n\nHur många varv måste varje hjul snurra om Zelda ska åka 300 m?". Problem image: En tecknad bild av en vagn.

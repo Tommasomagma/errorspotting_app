@@ -1,1 +1,0 @@
-"Hur många grader ska ringen vridas runt mittpunkten P för att mönstret ska sammanfalla med det ursprungliga mönstret?\n\nAnge *minsta möjliga* gradtal.". Problem image: Bilden visar en ring av cirkelformade objekt i olika färger runt en central punkt märkt med 'P'. Varje objekt representerar en position på ringen.

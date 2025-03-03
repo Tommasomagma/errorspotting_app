@@ -1,1 +1,0 @@
-Double-check that every branch of your factor tree is fully broken down into prime numbers.

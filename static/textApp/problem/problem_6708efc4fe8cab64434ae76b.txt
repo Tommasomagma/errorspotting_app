@@ -1,1 +1,0 @@
-"Vilket är nästa tal?\n\n34, 21, 13, 8, 5, ?"

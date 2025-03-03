@@ -1,1 +1,0 @@
-Check if you moved the x term correctly by subtracting 3,5 from both sides instead of adding.

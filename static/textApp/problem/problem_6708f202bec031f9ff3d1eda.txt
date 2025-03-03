@@ -1,1 +1,0 @@
-"Hur lång är hypotenusan? Avrunda till en decimal.". Problem image: En rätvinklig triangel där de två korta sidorna är märkta som 3 cm och 5 cm.

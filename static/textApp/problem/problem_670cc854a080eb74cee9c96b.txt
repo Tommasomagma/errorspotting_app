@@ -1,1 +1,0 @@
-"Avrunda talen till heltal och beräkna. \n\n$762{,}4-389{,}1-299{,}5 \\approx$"

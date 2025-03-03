@@ -1,1 +1,0 @@
-"I en påse finns $3$ röda och $5$ gula kulor. Du tar en kula ur påsen utan att titta, noterar färgen och lägger tillbaka kulan. Detta gör du tre gånger. Beräkna med hjälp av ett träddiagram.\n\n$P(3$ röda kulor$)=$"

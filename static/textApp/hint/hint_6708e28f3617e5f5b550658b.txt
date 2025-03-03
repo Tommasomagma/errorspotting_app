@@ -1,1 +1,0 @@
-Take another look at how you set up and calculate the numerator so that dividing by 8 gives a value between 2 and 3.

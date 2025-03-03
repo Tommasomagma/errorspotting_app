@@ -1,1 +1,0 @@
-"Polisen genomförde en fartkontroll. Det var $43$ bilister som körde för fort och $148$ som körde lagligt. \n\nHur stor andel av bilisterna körde för fort? Avrunda till hela procent."

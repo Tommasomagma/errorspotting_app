@@ -1,1 +1,0 @@
-Try dividing 300 by 2 to see how many full turns are needed.

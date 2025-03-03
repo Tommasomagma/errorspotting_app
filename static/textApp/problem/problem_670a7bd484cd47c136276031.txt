@@ -1,1 +1,0 @@
-"Teckna ett förenklat uttryck för skyltens area.". Problem image: Bilden visar en varningsskylt i form av en likbent triangel. Triangelns bas är betecknad med algebraiska uttrycket (4x + 2y) och höjden med uttrycket (5x + 3y).

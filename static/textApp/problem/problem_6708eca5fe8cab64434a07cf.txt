@@ -1,1 +1,0 @@
-"På Adems skola går det 100 elever. 23 av dem går i sjuan.\n\nHur stor andel av eleverna går i sjuan? Svara i procent."

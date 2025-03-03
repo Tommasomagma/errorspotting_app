@@ -1,1 +1,0 @@
-Double-check that the digits are added in the correct decimal place columns.

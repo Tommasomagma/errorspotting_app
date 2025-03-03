@@ -1,1 +1,0 @@
-"Bestäm medianen till bråken ${\\Large\\frac{3}{8}}$, ${\\Large\\frac{7}{9}}$ och ${\\Large\\frac{2}{4}}$."

@@ -1,1 +1,0 @@
-Check if you correctly calculated 50% of 200 before subtracting it from the total.

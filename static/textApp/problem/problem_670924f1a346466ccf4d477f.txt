@@ -1,1 +1,0 @@
-"Beräkna arean. Använd $\\pi \\approx 3{,}14$.". Problem image: En halvcirkel med radien 4 cm.

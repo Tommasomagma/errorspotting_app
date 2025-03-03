@@ -1,1 +1,0 @@
-"Skriv i enheten kvadratdecimeter.\n\n$89$ cm$^2$"

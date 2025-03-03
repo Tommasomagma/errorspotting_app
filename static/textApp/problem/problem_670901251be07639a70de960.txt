@@ -1,1 +1,0 @@
-"Bestäm vilket som är nästa tal i följande geometriska talföljder.\n\n-3,-9,-27,-81,..."

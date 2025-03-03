@@ -1,1 +1,0 @@
-Subtract the number of blue, yellow, and green legobitar from 500 to see how many are red.

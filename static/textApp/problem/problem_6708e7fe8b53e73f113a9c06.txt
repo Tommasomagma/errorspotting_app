@@ -1,1 +1,0 @@
-"En godispåse innehåller $18$ polkagrisar, $15$ karameller och $29$ klubbor. \n\nHur många godisbitar finns i påsen?"

@@ -1,1 +1,0 @@
-"Hur stor andel av rektangeln är färgad?". Problem image: En rektangel uppdelad i lika stora delar, där vissa delar är färgade.

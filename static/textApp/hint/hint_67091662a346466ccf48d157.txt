@@ -1,1 +1,0 @@
-Take a closer look at which number should be the fraction's top (green balls) and which should be on the bottom (total balls).

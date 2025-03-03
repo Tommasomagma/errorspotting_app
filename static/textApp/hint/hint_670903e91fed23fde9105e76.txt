@@ -1,1 +1,0 @@
-Remember to first find the radius by halving the diameter, then square it and multiply by 3.14.

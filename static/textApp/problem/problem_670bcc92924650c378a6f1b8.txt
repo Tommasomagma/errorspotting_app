@@ -1,1 +1,0 @@
-"Vilket tal saknas för att likheten ska stämma?\n\n$0{,}1 = 1{,}9 - \\underline{\\hspace{1cm}}$"

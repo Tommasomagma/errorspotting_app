@@ -1,1 +1,0 @@
-Double-check how you added the numbers in front of x so you don’t lose the variable at the end.

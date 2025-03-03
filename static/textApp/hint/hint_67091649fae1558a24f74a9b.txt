@@ -1,1 +1,0 @@
-Try arranging the digits so one number is as high as possible and the other as low as possible before you subtract them.

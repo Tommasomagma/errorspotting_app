@@ -1,1 +1,0 @@
-"Solpaneler placeras i form av ett rutnät. Det finns 12 paneler i varje rad och 12 paneler i varje kolumn. Hur många solpaneler sätts upp totalt?". Problem image: Bilden visar ett symboliskt rutnät av solpaneler kopplade till ett batteri, som illustrerar användningen av solenergi.

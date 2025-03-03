@@ -1,1 +1,0 @@
-Try counting how many equal steps there are from 0 to the mark where Q is placed compared to the whole line to 1.

@@ -1,1 +1,0 @@
-"Subtrahera talet med en tusendel. Vilket tal får du då?\n\n$0{,}830$"

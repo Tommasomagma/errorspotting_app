@@ -1,1 +1,0 @@
-Multiply 879 by 9 to get the total cost, then divide by 500 and add one more bill if there’s any remainder.

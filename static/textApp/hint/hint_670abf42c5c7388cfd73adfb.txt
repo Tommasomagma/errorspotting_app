@@ -1,1 +1,0 @@
-Try multiplying the number of jars by their volumes separately and then add the two amounts together.

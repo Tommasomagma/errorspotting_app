@@ -1,1 +1,0 @@
-"Bestäm $x$.". Problem image: Två räta linjer korsar varandra och bildar fyra vinklar betecknade med x, y, z och 36 grader. En cirkel indikerar att vinklarna x och y är vertikalt motsatta.

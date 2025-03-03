@@ -1,1 +1,0 @@
-Consider checking if you divided the total cost difference by 3 to find the savings per liter.

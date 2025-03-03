@@ -1,1 +1,0 @@
-"Räkna med överslagsräkning.\n\n$ {\\Large \\frac{1\\ 639}{42}} \\approx$"

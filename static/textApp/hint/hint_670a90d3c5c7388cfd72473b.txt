@@ -1,1 +1,0 @@
-Remember to check if subtracting numbers is the right operation when looking for a common denominator, instead of comparing multiples.

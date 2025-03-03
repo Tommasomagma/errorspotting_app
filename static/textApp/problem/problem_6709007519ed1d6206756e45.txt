@@ -1,1 +1,0 @@
-"En soffa kostar 2 000 kr. Priset höjs med 10 %, sedan sänks priset med 20 %.\n\nVad kostade soffan efter prissänkningen?"

@@ -1,1 +1,0 @@
-Double-check how you divided the numbers in the fraction before handling the powers of 10.

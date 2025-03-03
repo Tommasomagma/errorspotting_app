@@ -1,1 +1,0 @@
-"Skriv talet $30$ som ett binärt tal."

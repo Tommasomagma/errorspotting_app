@@ -1,1 +1,0 @@
-"Din lärare köper en kaffe för 7 kr och en bulle för 5 kr. \n\nVad kostar de tillsammans?". Problem image: En kopp kaffe och en bulle.

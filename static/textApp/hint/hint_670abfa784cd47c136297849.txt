@@ -1,1 +1,0 @@
-Remember to check how dividing by 100 shifts the decimal point correctly.

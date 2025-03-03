@@ -1,1 +1,0 @@
-nan. Problem image: A subtraction problem displayed in a column format with two rows of numbers. The top row contains the digits 2, 2, 4, 5, and the bottom row, directly underneath, has the digits 1, 2, 2, 8. There is a subtraction sign on the left, starting the operation, and a horizontal line below the numbers.

@@ -1,1 +1,0 @@
-Check if you correctly found the square's side length from its area before relating the square’s perimeter to the triangle’s side.

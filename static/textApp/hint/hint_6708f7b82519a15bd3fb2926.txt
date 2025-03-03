@@ -1,1 +1,0 @@
-Double-check that you counted only the colored part relative to the whole figure correctly.

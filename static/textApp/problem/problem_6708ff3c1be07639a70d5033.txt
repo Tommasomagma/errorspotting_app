@@ -1,1 +1,0 @@
-"En triangel har arean $14x$ med höjden 14 längdenheter.\n\nVilket värde har $x$ om triangeln har samma höjd som bredd?"

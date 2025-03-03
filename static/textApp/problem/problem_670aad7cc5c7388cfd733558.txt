@@ -1,1 +1,0 @@
-"Lös ekvationen. \n\n$4x - {\\Large\\frac{3x \\ - \\ 1}{2}} + 2 = 1$"

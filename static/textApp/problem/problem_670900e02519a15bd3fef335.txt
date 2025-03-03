@@ -1,1 +1,0 @@
-"Det ursprungliga värdet är $80$. Det nya värdet är 92.  \n\nHur stor är den procentuella ökningen?"

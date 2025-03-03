@@ -1,1 +1,0 @@
-"Tara gör $\\Large\\frac{5}{3}$ liter soppa. Hur många skålar räcker soppan till ifall en skål rymmer $\\Large\\frac{1}{6}$ liter?". Problem image: Bild av en skål med soppa.

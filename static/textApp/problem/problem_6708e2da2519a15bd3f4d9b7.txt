@@ -1,1 +1,0 @@
-"Beräkna.\n\n$352+31=$". Problem image: En tabell med två rader och fyra kolumner där den övre raden visar siffrorna tre, fem, två från vänster till höger och den undre raden visar ett plus-tecken, tre och ett under de första två kolumner och ett i den fjärde kolumnen. En blå linje markerar slutet av tabellen under siffrorna.

@@ -1,1 +1,0 @@
-"Rita ett faktorträd till talet och undersök vilka tal, förutom talet självt, som talet är delbara med.\n\n$345$\n\nHur många olika positiva heltal är 345 delbart med?"

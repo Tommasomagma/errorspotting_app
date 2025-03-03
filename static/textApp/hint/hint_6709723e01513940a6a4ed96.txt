@@ -1,1 +1,0 @@
-Check how much each number increases from one to the next and see if the pattern stays the same.

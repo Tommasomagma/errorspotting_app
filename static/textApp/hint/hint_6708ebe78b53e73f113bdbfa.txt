@@ -1,1 +1,0 @@
-Double-check the order of the digits to ensure that the last two numbers form a number divisible by 4.

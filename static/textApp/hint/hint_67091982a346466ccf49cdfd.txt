@@ -1,1 +1,0 @@
-Double-check how you get a square's side from its area instead of dividing by 4.

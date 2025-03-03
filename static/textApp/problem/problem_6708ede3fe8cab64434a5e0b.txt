@@ -1,1 +1,0 @@
-"Beräkna.\n \n $642 - 175=$". Problem image: En uppställning för subtraktion i tre kolumner. Överst i kolumnerna står siffrorna 6, 4 och 2. Under det står ett minustecken och under detta siffrorna 1, 7 och 5. Under hela uppställningen går en horisontell linje.

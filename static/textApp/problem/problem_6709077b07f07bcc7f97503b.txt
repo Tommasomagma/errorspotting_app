@@ -1,1 +1,0 @@
-"Beräkna. \n\n$-4 + 2=$". Problem image: En tal-linje som sträcker sig från -5 till 1 med lika markerade intervaller. Varje intervall är betecknat med hela tal från -5 till 1.

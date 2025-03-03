@@ -1,1 +1,0 @@
-"Leif ska skörda sitt trädgårdsland. I trädgårdslandet är det $80\\ \\%$ potatis och $20\\ \\%$ bondbönor. Leif har ibland glömt att vattna, så $10\\ \\%$ av trädgårdslandet är förstört.\n\nVad är sannolikheten att alla bondbönor har klarat sig?". Problem image: En spade och planta i jord.

@@ -1,1 +1,0 @@
-Double-check that you add the two bases first and then multiply by the height in the correct order for the trapezoid area formula.

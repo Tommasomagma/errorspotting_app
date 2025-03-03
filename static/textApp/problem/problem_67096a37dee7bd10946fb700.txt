@@ -1,1 +1,0 @@
-nan. Problem image: The image shows a graph with a Cartesian coordinate system. It has an x-axis labeled from 1 to 7 and a y-axis labeled from 1 to 7. A straight line passes through the grid, starting close to the origin and rising across the grid.

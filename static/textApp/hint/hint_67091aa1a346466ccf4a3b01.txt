@@ -1,1 +1,0 @@
-Double-check your multiplication step to ensure you’re doubling 88 instead of combining numbers with a decimal.

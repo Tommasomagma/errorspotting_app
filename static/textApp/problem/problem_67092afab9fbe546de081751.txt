@@ -1,1 +1,0 @@
-"Klaras hund väger $32$ kg. Noras hund väger $27$ kg.\n\nHur mycket mer väger Klaras hund?"
