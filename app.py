@@ -87,9 +87,16 @@ def home():
                     problem_content = f.read()
             else:
                 problem_content = "NONE"
+
+        # Read the text content (if the file exists)
+        if os.path.exists(trans_path):
+            with open(trans_path, 'r') as f:
+                trans_content = f.read()
+        else:
+            trans_content = "NONE"
             
-            if problem_content != 'NONE':
-                imgFound = True
+        if 'nan. Problem image' not in problem_content and trans_content != 'X':
+            imgFound = True
 
     correct_file = f'correct_{image_id}.txt'  # Replace the image extension with .txt
     correct_path = os.path.join(app.config['CORRECT_FOLDER'], correct_file)
