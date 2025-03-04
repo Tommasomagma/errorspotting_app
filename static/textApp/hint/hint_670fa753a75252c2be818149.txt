@@ -1,0 +1,1 @@
+Double-check the result of 2 × 3 since it seems that multiplication step might be off.

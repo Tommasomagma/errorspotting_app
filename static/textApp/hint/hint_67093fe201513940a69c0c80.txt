@@ -1,0 +1,1 @@
+Double-check your rate calculation to make sure you’re dividing the right numbers for dollars per hour.

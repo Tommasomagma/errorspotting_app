@@ -1,0 +1,1 @@
+Double-check that you multiply 2 by the given y-value before subtracting it from 16.

@@ -1,0 +1,1 @@
+Double-check how you rounded the numerator, since replacing 347 with 300 can change your result.

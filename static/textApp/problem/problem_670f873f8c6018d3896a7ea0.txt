@@ -1,0 +1,1 @@
+"Lös ekvationen. \n\n$16x-2(3x+2)=16$"

@@ -1,0 +1,1 @@
+Take another look at your cross-multiplication step to ensure you are really multiplying 48 by 1/12 rather than simplifying 4/48.

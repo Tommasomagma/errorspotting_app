@@ -1,0 +1,1 @@
+Try subtracting the sum of the two given angles from 180 instead of adding them.

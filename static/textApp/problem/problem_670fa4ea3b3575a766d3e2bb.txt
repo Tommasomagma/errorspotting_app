@@ -1,0 +1,1 @@
+"Skriv $\\Large\\frac{1}{4}$ i procentform.". Problem image: Bilden visar en horisontell linje indelad i fyra lika stora delar representerade av rektanglar. Över linjen finns två markeringar med texten 50 % vid den första markeringen och 100 % vid den andra markeringen. Det illustrerar procentandelarna av linjen som är ifylld.

@@ -1,0 +1,1 @@
+Double-check how you copied the denominator—it should stay as (x+1) throughout your solution.

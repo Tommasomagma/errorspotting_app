@@ -1,0 +1,1 @@
+"Lös ekvationen.\n\n$(x-5)^2=25$\n\nVilken är den minsta lösningen?"

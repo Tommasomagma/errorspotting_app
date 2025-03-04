@@ -1,0 +1,1 @@
+Check if you used the right values when calculating 24 divided by 3 and 3 multiplied by 6.

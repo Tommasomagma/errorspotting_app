@@ -1,0 +1,1 @@
+"Kalle ska resa till Hogwarts från Ankeborg. På vägen passerar han vägskylten i bild. \n\nHur långt har Kalle kvar tills han är halvvägs till Hogwarts?". Problem image: Två blå vägskyltar med vit text. Den övre vägskylten pekar åt vänster med texten '378 ANKEBORG'. Den nedre vägskylten pekar åt höger med texten 'HOGWARTS 572'.

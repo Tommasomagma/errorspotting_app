@@ -1,0 +1,1 @@
+Check if you're dividing the correct number by 6 after adding 2 to both sides.

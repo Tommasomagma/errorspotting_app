@@ -1,0 +1,1 @@
+"Edgar samlar på frimärken. I början av året hade han $x$ stycken frimärken. En fjärdedel av dessa frimärken gav han till sin lillasyster. \n\nUnder året samlade Edgar på sig 34 fler frimärken, och nu har han totalt 238 frimärken. \n\nHur många frimärken hade Edgar i början av året?"

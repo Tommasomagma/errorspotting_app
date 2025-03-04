@@ -1,0 +1,1 @@
+Remember to multiply each digit by its proper power of 2 instead of using numbers like 10 and 8.

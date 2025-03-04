@@ -1,0 +1,1 @@
+"Lös ekvationen. \n\n${\\Large\\frac{8x\\ -\\ 2}{x\\ +\\ 2}}+1=6$"

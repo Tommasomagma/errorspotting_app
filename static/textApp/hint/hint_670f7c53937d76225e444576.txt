@@ -1,0 +1,1 @@
+Maybe review how you substitute x=0 in the equation instead of adding extra steps.

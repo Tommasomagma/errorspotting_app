@@ -1,0 +1,1 @@
+Try checking how you isolated x—maybe you need to add 32 instead of subtracting it.

@@ -1,0 +1,1 @@
+Check if you have matched every term in the expression to form the difference of squares as shown in the problem.

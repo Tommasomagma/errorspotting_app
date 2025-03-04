@@ -1,0 +1,1 @@
+"En kub har volymen 1 000 cm$^3$. En annan kubs kant är dubbelt så lång. \n\nHur stor volym har den kuben?". Problem image: En illustration av en blå kub med texten '1 000 cm³' skriven på en av dess sidor.

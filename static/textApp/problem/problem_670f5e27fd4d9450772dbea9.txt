@@ -1,0 +1,1 @@
+"Hälften av hotellets gäster består av barn. ${\\Large\\frac{1}{3}}$ av de vuxna är män och det finns 36 kvinnor. Hur många gäster är det totalt?"

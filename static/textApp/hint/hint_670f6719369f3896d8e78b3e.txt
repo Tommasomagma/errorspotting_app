@@ -1,0 +1,1 @@
+Check the arithmetic steps for adding the fixed and hourly costs to see if they match the time periods described.

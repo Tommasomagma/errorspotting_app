@@ -1,0 +1,1 @@
+"Lös ekvationen.\n\n${\\Large\\frac{1}{4}}-{\\Large\\frac{2}{3x}}={\\Large\\frac{7}{3x}}$"

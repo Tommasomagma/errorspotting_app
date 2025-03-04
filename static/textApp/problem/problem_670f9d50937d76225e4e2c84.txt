@@ -1,0 +1,1 @@
+"Vad är cirkelns omkrets? Använd $\\pi \\approx 3{,}14$.". Problem image: Bilden visar en cirkel med en markerad radie. Radien är angiven som 4 cm.

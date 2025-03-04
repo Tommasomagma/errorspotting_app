@@ -1,0 +1,1 @@
+Check carefully how you substitute x=0 into the equation and simplify, as it seems the operations might not match the given problem.

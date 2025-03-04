@@ -1,0 +1,1 @@
+Check if you correctly converted centimeters to decimeters before comparing the heights.

@@ -1,0 +1,1 @@
+"Vad ska stå istället för x för att likheten ska gälla?\n\n$\\color{#505050}{\\large\\frac{x}{48}=\\frac{1}{12}}$"

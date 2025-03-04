@@ -1,0 +1,1 @@
+"Förkorta uttrycket så långt som möjligt.\n\n${\\Large \\frac{16x^2}{3y^2}} \\cdot {\\Large \\frac{12y}{2x}} = $"

@@ -1,0 +1,1 @@
+Double-check that your equation is an equality (1 - x = 0.05) and try subtracting 1 from both sides to isolate x.

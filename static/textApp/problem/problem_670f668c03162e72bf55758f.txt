@@ -1,0 +1,1 @@
+"Bryt ut största möjliga faktor.\n\n$5x^3y+10x^2y^2+5xy^2=$"

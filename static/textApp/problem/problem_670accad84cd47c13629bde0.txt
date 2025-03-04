@@ -1,0 +1,1 @@
+"Ett kopparrör kostar $150$ kr/m. Teckna funktionen som visar hur kostnaden $(y)$ beror av längden $(x)$."

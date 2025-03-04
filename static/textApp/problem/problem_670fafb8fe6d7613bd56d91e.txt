@@ -1,0 +1,1 @@
+"Apelsiner kostar 9 kr/kg. Arvid betalar med två tjugor och får 4 kr i växel. \n\nHur många kilo apelsiner köpte Arvid?". Problem image: En tecknad apelsin med ett skivat stycke bredvid.

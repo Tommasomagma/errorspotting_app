@@ -1,0 +1,1 @@
+Double-check that you didn’t miss adding the lengths of the rectangle's sides along with the half circle’s edge.

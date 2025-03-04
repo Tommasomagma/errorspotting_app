@@ -1,0 +1,1 @@
+Double-check how you combine the numbers and the variable in each step—look at your step that sets "6=24" to see if the original equation is maintained.

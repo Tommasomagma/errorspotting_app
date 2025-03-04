@@ -1,0 +1,1 @@
+"The equation $y=4.3 x$ can be used to determine the total cost, $y$, in dollars, of $x$ pounds of apples. What does the number 4.3 represent in the equation?\n\nA the number of apples in 1 pound\n\nB the number of apples in $x$ pounds\n\nC the cost of 1 pound of apples\n\nD the cost of $x$ pounds of apples"

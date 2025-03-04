@@ -1,0 +1,1 @@
+"Vinkeln $AOC$ är rät. Vad är $x$?". Problem image: The image shows a right angle triangle AOC with a right angle at O. There is a line OB inside the triangle creating an angle of 18 degrees at O between line OA and line OB. Another angle is marked as x degrees at O between line OB and line OC.

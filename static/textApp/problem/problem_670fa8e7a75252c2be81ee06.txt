@@ -1,0 +1,1 @@
+"Albin kör moped med hastigheten $45$ km/h. Han svänger sedan in på en väg med en ny hastighetsbegränsning. Han minskar därför sin fart med $33$ %. \n\nVad är den maximala hastigheten som du får köra på den nya vägen? Avrunda till hela kilometer per timme, och svara utan enhet."

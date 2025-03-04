@@ -1,0 +1,1 @@
+"Vilket uttryck har samma värde som $-5 + (2x-5)$?"

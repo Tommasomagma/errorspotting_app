@@ -1,0 +1,1 @@
+Double-check how you added the numbers with decimals and subtracted their sum from the total, to ensure your steps match the original expression.

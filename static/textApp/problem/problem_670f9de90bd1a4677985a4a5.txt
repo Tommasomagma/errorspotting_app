@@ -1,0 +1,1 @@
+"Lös ekvationen. Vilket alternativ anger lösningen i dess enklaste form?\n\n$5^x=7$"

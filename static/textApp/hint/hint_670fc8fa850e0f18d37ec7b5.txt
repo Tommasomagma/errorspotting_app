@@ -1,0 +1,1 @@
+Check if adding 100 was a valid move that kept the equation balanced.

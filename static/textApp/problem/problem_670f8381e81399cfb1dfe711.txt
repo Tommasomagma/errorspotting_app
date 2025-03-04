@@ -1,0 +1,1 @@
+"Lös ekvationen.\n\n$20=12+\\Large\\frac{x}{2}$"

@@ -1,0 +1,1 @@
+"Vilket tal är $x$? Svara i bråkform.\n\n$5$  av  $15=x$"

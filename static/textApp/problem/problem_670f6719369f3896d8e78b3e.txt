@@ -1,0 +1,1 @@
+"Grafen visar kostnaden för en hantverkare som arbetar $x$ timmar.\n\nHur mycket mer kostar det att få hjälp i $8$ timmar, än i $6$ timmar?"

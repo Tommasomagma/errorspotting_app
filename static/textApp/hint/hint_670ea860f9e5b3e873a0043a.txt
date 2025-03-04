@@ -1,0 +1,1 @@
+Make sure you include all six friends' heights in order before finding the middle values.

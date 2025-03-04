@@ -1,0 +1,1 @@
+Check if you need to add both numbers or simply subtract 3 from the total.

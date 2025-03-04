@@ -1,0 +1,1 @@
+"Bestäm med hjälp av värdetabellen en ekvation som beskriver sambandet mellan $x$ och $y$. Svara på formen $y=kx+m$.". Problem image: En värdetabell med två kolumner och sex rader inklusive rubrikraden. Första kolumnen är 'x' och den andra kolumnen är 'y'. Varje rad visar ett par av värden för 'x' och 'y'.

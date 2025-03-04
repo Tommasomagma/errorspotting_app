@@ -1,0 +1,1 @@
+"Vad saknas i ruta $A$? \n\n$(3a + \\boxed{A})(\\boxed{B} - \\boxed{C}) = 9a^2 - 4b^2$"

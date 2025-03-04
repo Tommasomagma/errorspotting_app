@@ -1,0 +1,1 @@
+Make sure your written steps exactly match the problem’s operations rather than adding extra numbers.

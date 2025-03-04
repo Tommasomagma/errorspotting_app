@@ -1,0 +1,1 @@
+Double-check the multiplication across all parts inside the parentheses, especially the constant term.

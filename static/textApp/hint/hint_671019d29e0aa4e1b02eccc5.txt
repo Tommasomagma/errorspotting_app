@@ -1,0 +1,1 @@
+Double-check the equation's exponent on x—it should be x squared, not just x.

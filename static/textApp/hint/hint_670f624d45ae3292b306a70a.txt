@@ -1,0 +1,1 @@
+Remember to multiply x and y instead of adding them before squaring the product.

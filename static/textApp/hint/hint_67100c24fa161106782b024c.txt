@@ -1,0 +1,1 @@
+Check that you correctly multiplied every term by (x+2) by keeping the parentheses in place throughout the step.

@@ -1,0 +1,1 @@
+"Avrunda till hundradelar och svara i hela procent.\n\n$0{,}167 \\approx$"

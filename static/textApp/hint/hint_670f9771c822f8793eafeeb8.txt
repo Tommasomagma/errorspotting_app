@@ -1,0 +1,1 @@
+Remember to check that each number has the right label, especially the currency versus the weight unit.

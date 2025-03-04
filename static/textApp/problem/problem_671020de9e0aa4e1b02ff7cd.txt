@@ -1,0 +1,1 @@
+"Lös ekvationen.\n\n$(3x-2)^2=9$\n\nVilken är den största lösningen?"

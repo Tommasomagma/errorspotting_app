@@ -1,0 +1,1 @@
+"Bilden består av en halvcirkel och en liksidig triangel.\n\nHur stor omkrets har figuren? Använd $\\pi \\approx 3{,}14$ och avrunda svaret till hela cm.". Problem image: Figuren visar en geometrisk form som består av en halvcirkel vilsen topp är sammanfogad med en liksidig triangel. Halvcirkelns diameter är markerad med 8 cm och triangelns sida är markerad med 7 cm.

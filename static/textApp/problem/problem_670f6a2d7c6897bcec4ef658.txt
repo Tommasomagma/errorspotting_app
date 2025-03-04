@@ -1,0 +1,1 @@
+"Vad ska stå i rutan för att likheten ska gälla?\n\n$6+4=\\boxed{\\phantom{a}}-8$"

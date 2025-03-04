@@ -1,0 +1,1 @@
+"Vilket tal ska stå istället för $x$ för att likheten ska gälla?\n\n${\\Large\\frac{21}{49}}={\\Large\\frac{3}{x}}$"

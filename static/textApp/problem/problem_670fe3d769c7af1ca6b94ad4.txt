@@ -1,0 +1,1 @@
+"Vilket tal är $x$?\n\n$1$ kr $-\\ 0{,}65$ kr $=x$ öre"

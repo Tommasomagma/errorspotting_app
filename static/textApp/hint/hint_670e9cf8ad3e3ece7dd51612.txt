@@ -1,0 +1,1 @@
+Take a closer look at the step where you add 0,7 to both sides to ensure you are handling the change correctly.

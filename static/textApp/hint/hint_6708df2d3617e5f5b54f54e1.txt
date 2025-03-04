@@ -1,0 +1,1 @@
+Maybe check if you used the right number of choices for each spot in line as the count should go down by one each time.

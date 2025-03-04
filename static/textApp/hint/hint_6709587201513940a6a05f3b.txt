@@ -1,0 +1,1 @@
+Remember to check the constant multiplier of x carefully to see if the rate ever changes in the equation.

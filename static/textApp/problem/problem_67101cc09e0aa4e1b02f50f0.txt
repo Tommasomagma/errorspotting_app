@@ -1,0 +1,1 @@
+"Lös ekvationen. Börja med att förenkla.\n\n$19x + 4 -15x + 3 = 45$"

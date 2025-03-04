@@ -1,0 +1,1 @@
+Check if you subtracted in the right order by subtracting the cost from the money given.

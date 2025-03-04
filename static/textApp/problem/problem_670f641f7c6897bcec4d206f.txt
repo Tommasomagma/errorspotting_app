@@ -1,0 +1,1 @@
+"Vad har cirkeln för area? Använd $\\pi\\approx3.14$ och avrunda svaret till tiondelar, utan enhet."

@@ -1,0 +1,1 @@
+"Cirkelsektorernas vinklar är utsatta.\n\nHur många grader är vinkeln i det gula området?". Problem image: En cirkel är uppdelad i fyra sektorer som är färgade olika: rosa, gul, blå och orange. Varje sektor har en vinkel utsatt med en variabel x: rosa sektorn har vinkeln 4x, den gula har 2x, och den blå har 80+x. Det finns också en liten cirkelsektor i mitten.

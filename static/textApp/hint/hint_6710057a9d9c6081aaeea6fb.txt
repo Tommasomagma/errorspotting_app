@@ -1,0 +1,1 @@
+Great work with 5⋅5, but check if a negative number might also give 25 when squared.

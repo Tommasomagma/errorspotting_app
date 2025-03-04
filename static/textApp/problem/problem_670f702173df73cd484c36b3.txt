@@ -1,0 +1,1 @@
+"Avrunda $204$ till närmaste hundratal och $3{,}92$ till närmaste heltal, utför sedan överslagsräkningen.\n\n$204\\cdot3{,}92 \\approx$"

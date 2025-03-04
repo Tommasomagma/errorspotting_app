@@ -1,0 +1,1 @@
+Double-check your step where you convert the fraction to a percentage, ensuring you multiply by 100 using the right numbers.

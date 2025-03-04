@@ -1,0 +1,1 @@
+Double-check how you handled the negative sign when multiplying both sides to correctly isolate x.

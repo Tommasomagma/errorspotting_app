@@ -1,0 +1,1 @@
+Remember to subtract the final price from the original price before dividing by the original one.

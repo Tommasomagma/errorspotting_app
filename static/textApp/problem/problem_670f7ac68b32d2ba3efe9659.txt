@@ -1,0 +1,1 @@
+"Hur många hela procent är\n\n ${\\Large\\frac{31}{59}} \\approx$"

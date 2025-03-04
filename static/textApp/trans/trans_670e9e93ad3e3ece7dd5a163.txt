@@ -1,0 +1,1 @@
+$\frac{16x^2}{3y^2} \cdot \frac{12y}{2x} = \frac{16x}{2} \cdot \frac{12y^1}{3y^2} = 8x \cdot 4y^{-1} - 8x \cdot 0.4y = 3.2xy$

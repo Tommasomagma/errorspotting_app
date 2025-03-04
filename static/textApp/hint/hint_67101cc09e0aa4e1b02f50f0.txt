@@ -1,0 +1,1 @@
+Take a closer look at your division step, as it seems like you multiplied instead of dividing both sides by 4.

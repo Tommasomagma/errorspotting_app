@@ -1,0 +1,1 @@
+Check that you used x in the fraction, not just 1, as the problem shows x divided by 10 equals 10.

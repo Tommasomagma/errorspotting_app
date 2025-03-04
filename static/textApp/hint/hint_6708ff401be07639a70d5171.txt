@@ -1,0 +1,1 @@
+Double-check if you correctly applied the triangle area formula by dividing by 2 after multiplying the height and base.

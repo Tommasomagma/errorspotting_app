@@ -1,0 +1,1 @@
+Remember to divide your multiplication result by 8 to solve for x.

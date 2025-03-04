@@ -1,0 +1,1 @@
+Check if you can break the drop's volume into the half-sphere and the cone parts, then use the standard volume formulas for each.

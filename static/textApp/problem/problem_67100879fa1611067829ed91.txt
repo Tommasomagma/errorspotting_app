@@ -1,0 +1,1 @@
+"Skriv talet i tiotalssystemet t.ex. $18$.\n\n$1110_2$"

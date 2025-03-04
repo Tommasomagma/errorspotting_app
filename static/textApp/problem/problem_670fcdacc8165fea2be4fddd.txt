@@ -1,0 +1,1 @@
+"Kvadraten har 4 · 4 rutor. Det står ett tal i varje ruta. Leta reda på den kvadrat med 2 ·  2 rutor där summan av talen i de fyra rutorna är störst. \n\nVilken är den summan?". Problem image: En större kvadrat uppdelad i 4x4 mindre kvadrater, där varje mindre kvadrat innehåller ett tal.

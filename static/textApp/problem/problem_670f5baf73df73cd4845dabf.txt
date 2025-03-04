@@ -1,0 +1,1 @@
+"Beräkna värdet av uttrycket då $x=3$.\n\n$4x-6$"

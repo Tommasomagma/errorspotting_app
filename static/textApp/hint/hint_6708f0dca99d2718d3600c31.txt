@@ -1,0 +1,1 @@
+Remember to check if you're using the right operation to count the number of bills instead of multiplying the cost.

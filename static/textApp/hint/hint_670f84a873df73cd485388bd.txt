@@ -1,0 +1,1 @@
+Check if you correctly divided the total cost by 500 instead of doing any extra calculations that changed the number of notes.

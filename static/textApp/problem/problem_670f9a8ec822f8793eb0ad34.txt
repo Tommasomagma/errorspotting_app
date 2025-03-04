@@ -1,0 +1,1 @@
+"Låt $x=30$ och $y=-6$ beräkna $7x-y$."

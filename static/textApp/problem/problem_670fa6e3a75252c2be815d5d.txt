@@ -1,0 +1,1 @@
+"Camilla bakade $9$ bröd igår. Hon bakar $4$ bröd idag. \n\nHur många bröd har hon bakat totalt?". Problem image: A person with bread next to a bread rack.

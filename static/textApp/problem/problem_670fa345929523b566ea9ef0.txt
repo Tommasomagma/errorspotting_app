@@ -1,0 +1,1 @@
+"Beräkna arean av figuren. \n\n*Visa hur du löser uppgiften.*". Problem image: En komplex figur bildad av två rektangulära sektioner. Den större rektangeln är markerad som 6 cm bred och 4 cm hög och den mindre rektangeln överlappar den större på högra sidan och är 2 cm på varje sida.

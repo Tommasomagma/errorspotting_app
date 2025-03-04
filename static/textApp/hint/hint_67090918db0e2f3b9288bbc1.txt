@@ -1,0 +1,1 @@
+Try reviewing how you isolated the 10^x term after replacing 10^3 with 1000.

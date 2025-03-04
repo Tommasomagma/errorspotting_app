@@ -1,0 +1,1 @@
+Take another look at the perimeter formula—you should add the sides before multiplying, not multiply the dimensions together.

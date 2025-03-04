@@ -1,0 +1,1 @@
+Try checking your multiplication and how you round up when you divide by 500 to see if that helps you reach the answer.

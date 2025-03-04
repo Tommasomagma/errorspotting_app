@@ -1,0 +1,1 @@
+"Lös ekvationen. Svara i bråkform.\n\n${\\Large\\frac{25}{5(6\\ -\\ 2x)}}=2$"

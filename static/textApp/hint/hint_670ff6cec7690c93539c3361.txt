@@ -1,0 +1,1 @@
+Check that when you remove the parentheses you subtract all the terms inside, including the 6.

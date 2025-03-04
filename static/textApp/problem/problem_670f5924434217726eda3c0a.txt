@@ -1,0 +1,1 @@
+"Vilket tal är $x$?\n\n${\\Large\\frac{15}{18}}={\\Large\\frac{5}{x}}$"

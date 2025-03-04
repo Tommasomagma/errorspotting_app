@@ -1,0 +1,1 @@
+Check if you should be multiplying or dividing the costs instead of subtracting, and make sure each operation matches what the problem asks you to do.

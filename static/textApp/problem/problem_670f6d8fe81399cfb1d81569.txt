@@ -1,0 +1,1 @@
+"Lös ekvationen. \n\n$5-{\\Large\\frac{7}{(x\\ +\\ 1)}}={\\Large\\frac{8}{(x\\ + \\ 1)}}$"

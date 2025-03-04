@@ -1,0 +1,1 @@
+Check how you divided the money and handled the remainder to ensure your steps match the numbers in the problem.

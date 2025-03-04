@@ -1,0 +1,1 @@
+"En bok har $10$ sidor. Max läser $3$ sidor.\n\nHur många sidor har Max kvar att läsa?". Problem image: A person sitting on a couch reading a book.

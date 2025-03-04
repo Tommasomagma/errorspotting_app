@@ -1,0 +1,1 @@
+"Bestäm värdet av uttrycket då $x=-7$.\n\n$10-3x$"

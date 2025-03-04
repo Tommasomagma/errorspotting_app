@@ -1,0 +1,1 @@
+Take another look at your equation step where you subtract 8 from x to see if you solved for x correctly.

@@ -1,0 +1,1 @@
+Look over how you calculate the arc length in a half circle and see if you mixed up using the diameter with the formula for the curved part.

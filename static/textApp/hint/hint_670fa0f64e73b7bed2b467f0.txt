@@ -1,0 +1,1 @@
+Double-check that you're subtracting x after calculating 10³, not using the exponent as part of a subtraction.

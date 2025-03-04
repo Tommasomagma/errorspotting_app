@@ -1,0 +1,1 @@
+"Vilket positivt värde på $x$ gör ekvationen sann?\n\n $x^2=25$"

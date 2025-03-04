@@ -1,0 +1,1 @@
+Take another look at the step where you divided both sides by 5; consider if applying logarithms might be a better way to isolate x.

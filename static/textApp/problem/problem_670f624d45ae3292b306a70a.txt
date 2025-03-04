@@ -1,0 +1,1 @@
+"Beräkna värdet av uttrycket $(xy)^2$ om $x=4$ och $y=2$."
