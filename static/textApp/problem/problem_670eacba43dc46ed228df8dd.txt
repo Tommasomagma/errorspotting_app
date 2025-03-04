@@ -1,0 +1,1 @@
+"En triangel har en bas som är 6 cm, och en höjd som är $h$ cm. \n\nVilket värde på $h$ gör att triangelns area är 21 cm$^2$?"

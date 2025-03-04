@@ -1,1 +1,0 @@
-Check that you didn't drop the decimal point when subtracting 0.7 from 38.9.

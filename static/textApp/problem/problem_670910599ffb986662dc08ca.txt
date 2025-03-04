@@ -1,0 +1,1 @@
+"Rita en triangel som har arean $12$ cm$^2$.\n\nVilka mått skulle triangeln kunna ha? Välj ett alternativ."

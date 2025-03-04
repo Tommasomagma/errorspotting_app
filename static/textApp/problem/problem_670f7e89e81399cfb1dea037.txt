@@ -1,0 +1,1 @@
+"Hur många kilogram banan har en kund köpt vars totalkostnad kan beräknas så här?\n\n$3\\cdot 25+120+2 \\cdot40$". Problem image: Tabellen visar olika frukters pris per kilogram. Det finns fyra rader med två kolumner. Första kolumnen listar frukternas namn: Äpple, Banan, Gröt, Melon. Andra kolumnen listar priset per kilogram i kronor: 30, 40, 120, 25.

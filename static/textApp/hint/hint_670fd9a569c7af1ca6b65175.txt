@@ -1,0 +1,1 @@
+Check if you compared the amount removed with the original money instead of just looking at how much is left.

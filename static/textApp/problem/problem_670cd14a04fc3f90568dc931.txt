@@ -1,1 +1,0 @@
-"Samira köper äpplen som kostar $x$ kr/kg. Hon köper 3 kg.\n\nSkriv ett uttryck för hur mycket hon får tillbaka när hon betalar med en 50-kronorssedel."

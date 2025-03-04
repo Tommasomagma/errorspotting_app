@@ -1,0 +1,1 @@
+Check the division step to ensure you’re correctly counting the painted sectors compared to the whole circle.

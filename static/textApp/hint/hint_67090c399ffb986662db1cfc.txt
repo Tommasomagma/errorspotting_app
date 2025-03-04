@@ -1,0 +1,1 @@
+It looks like you divided by 3 at one step—double-check if every operation matches how the semicircle and rectangle edges should be added for the full perimeter.

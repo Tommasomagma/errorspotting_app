@@ -1,1 +1,0 @@
-"Beräkna. Fyll ut med 0 tiondelar eller hundradelar för att få lika många decimaler. \n\n$66-33{,}14=$"

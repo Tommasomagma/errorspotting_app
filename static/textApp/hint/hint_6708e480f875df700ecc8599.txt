@@ -1,1 +1,1 @@
-Take another look at how you used 2×30 in your calculation to see if it matches the positions of the clock hands correctly.
+Try looking again at how the hour hand moves during half an hour, not just multiplying two basic angles.

@@ -1,0 +1,1 @@
+Take another look at the step where you multiplied both sides after subtracting, as the numbers don't seem to match the original equation.

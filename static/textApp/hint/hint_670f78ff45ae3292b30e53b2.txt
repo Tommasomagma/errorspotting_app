@@ -1,0 +1,1 @@
+Double-check your multiplication step to make sure you’re really multiplying 49 by 2 before subtracting from 100.

@@ -1,0 +1,1 @@
+"Beräkna. \n\nBörja med att förlänga bråket så att nämnaren blir ett.\n\n$\\Large\\frac{1}{4}$ $\\bigg/$ $ 2 = $"

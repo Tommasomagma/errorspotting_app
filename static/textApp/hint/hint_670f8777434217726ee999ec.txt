@@ -1,0 +1,1 @@
+Try checking if you divided by the right number—remember that the old price should be your base for finding the percentage difference.

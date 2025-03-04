@@ -1,0 +1,1 @@
+Double-check how you subtract the total bush cost from 1000 since it looks like you might have made a mistake with the subtraction.

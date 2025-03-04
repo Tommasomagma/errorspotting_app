@@ -1,0 +1,1 @@
+Double-check the result you got from dividing 500 by 10, as it seems you subtracted a different value than expected.

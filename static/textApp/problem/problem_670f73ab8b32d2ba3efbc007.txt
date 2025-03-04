@@ -1,0 +1,1 @@
+"En bulle kostar 7 kr. Karin har 50 kr.\n\nHur många bullar kan hon köpa?". Problem image: En bulle.

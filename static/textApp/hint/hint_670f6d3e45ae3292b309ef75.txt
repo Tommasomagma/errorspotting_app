@@ -1,0 +1,1 @@
+Try thinking about how many cuts you really need for one rope to get 5 equal pieces and then use that idea for all the ropes.

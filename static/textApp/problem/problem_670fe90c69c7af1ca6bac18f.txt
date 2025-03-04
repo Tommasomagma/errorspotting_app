@@ -1,0 +1,1 @@
+"Lös ekvationssystemet med ersättningsmetoden. \n\n$\\begin{gathered}\n\\begin{aligned}\n&\\begin{cases}\n  2y -2=4x \\\\\n   y=3x + 5\n\\end{cases}\n\\end{aligned}\n\\end{gathered}$\n\nVilket värde på $y$ löser systemet?"

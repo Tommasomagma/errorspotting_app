@@ -1,0 +1,1 @@
+"En spotifylista med slumpval innehåller $3$ rocklåtar, $5$ poplåtar och $7$ schlagerlåtar. Låtarna kan bara spelas en gång.\n\nHur stor är sannolikheten att de två första låtarna är schlagerlåtar?"

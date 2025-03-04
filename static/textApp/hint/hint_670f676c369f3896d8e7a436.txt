@@ -1,0 +1,1 @@
+Take another look at the division step to ensure the pictures are split evenly into all the piles.

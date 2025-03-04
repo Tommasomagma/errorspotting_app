@@ -1,0 +1,1 @@
+"En karta är ritad i skala $1 : 20\\ 000$. På kartan är det $4{,}5$ cm mellan två små sjöar.\nHur långt är det i verkligheten? Svara i meter."

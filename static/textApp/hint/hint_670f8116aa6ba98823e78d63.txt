@@ -1,0 +1,1 @@
+It seems you divided by 2 after multiplying 8 and 7, so double-check if that division is really needed.

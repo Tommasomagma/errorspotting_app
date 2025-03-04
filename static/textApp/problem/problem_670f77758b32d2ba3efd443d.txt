@@ -1,0 +1,1 @@
+"Summan av ett positivt och ett negativt heltal är $-2$.\n\nVilka två alternativ stämmer in på påståendet."

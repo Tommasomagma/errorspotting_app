@@ -1,0 +1,1 @@
+"Avrunda talet till tiondelar. \n\n$5{,}66 \\approx$"

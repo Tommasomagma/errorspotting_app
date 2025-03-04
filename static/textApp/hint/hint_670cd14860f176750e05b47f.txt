@@ -1,0 +1,1 @@
+Remember to add the extra cost per day to the basic rate before multiplying by the number of days.

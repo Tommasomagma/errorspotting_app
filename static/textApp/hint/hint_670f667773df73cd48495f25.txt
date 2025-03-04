@@ -1,0 +1,1 @@
+Double-check the number of players per team to ensure you’re using 16 and not switching the digits around.

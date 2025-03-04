@@ -1,0 +1,1 @@
+Remember to take the square root at the end to find the actual length of side c.

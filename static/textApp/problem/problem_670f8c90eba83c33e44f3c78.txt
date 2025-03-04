@@ -1,0 +1,1 @@
+"Använd rutnätet och beräkna arean av figuren. Räkna med att avståndet mellan två punkter vägrätt och lodrätt är $1$ cm."

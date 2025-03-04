@@ -1,0 +1,1 @@
+"Vilket tecken fattas?\n\n$-40  \\ \\underline{\\hspace{0.5cm}} \\  50=10$"

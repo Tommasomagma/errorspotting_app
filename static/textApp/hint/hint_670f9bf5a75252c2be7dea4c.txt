@@ -1,0 +1,1 @@
+Double-check that you first find the whole amount before calculating 10% instead of taking 10% of the 30% amount.

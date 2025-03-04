@@ -1,0 +1,1 @@
+Check your method for finding the circle's area—make sure you're using the formula with the radius instead of halving the square's area.

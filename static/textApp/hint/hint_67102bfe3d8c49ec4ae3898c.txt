@@ -1,0 +1,1 @@
+Check if you applied 40% correctly—try multiplying the number of football players by 0.4 instead of dividing by 40.

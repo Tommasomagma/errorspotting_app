@@ -1,0 +1,1 @@
+"Ett rätblock har volymen 120 dm$^{3}$. Längden $\\cdot$ bredden = 40 dm$^{2}$. Beräkna höjden."

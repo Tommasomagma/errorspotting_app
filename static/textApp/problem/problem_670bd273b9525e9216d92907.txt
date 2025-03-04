@@ -1,0 +1,1 @@
+"Vilket tal är $x$?\n\n$3^4\\cdot 3^x=3^2$"

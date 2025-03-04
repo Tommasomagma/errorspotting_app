@@ -1,0 +1,1 @@
+"Beräkna utan räknare. Svara i decimalform.\n\n${\\Large\\frac{1}{4}} + 1{,}4=$"

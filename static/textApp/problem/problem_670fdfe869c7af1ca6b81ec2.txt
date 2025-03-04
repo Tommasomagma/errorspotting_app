@@ -1,0 +1,1 @@
+"Beräkna hur många grader vinkel $x$ är."

@@ -1,0 +1,1 @@
+Take a close look at how you add the numbers together to make sure each term is combined correctly before dividing.

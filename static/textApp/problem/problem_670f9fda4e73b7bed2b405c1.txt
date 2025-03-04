@@ -1,0 +1,1 @@
+"I en skola använder $\\Large \\frac{5}{6}$ av eleverna dator varje dag. Av dem utnyttjar $\\Large \\frac{4}{5}$ sociala medier dagligen. Hur stor andel av eleverna är det?"

@@ -1,0 +1,1 @@
+Make sure you square the radius when finding the area of a circle, not just multiply the diameter by π.

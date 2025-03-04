@@ -1,0 +1,1 @@
+Take another look to see if each step properly reflects the half circle and rectangle parts of the figure in the perimeter calculation.

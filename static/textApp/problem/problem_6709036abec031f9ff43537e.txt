@@ -1,0 +1,1 @@
+"Beräkna och svara i enklaste form.\n\n${\\Large\\frac{7}{3}} \\bigg / 3=$"

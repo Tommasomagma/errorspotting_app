@@ -1,0 +1,1 @@
+Double-check the multiplication step when multiplying 0.000006 by 1,000,000 to ensure every zero is handled correctly.

@@ -1,0 +1,1 @@
+Check that every step matches the problem’s request, especially the final format, since writing it as a fraction here may not match what was asked.

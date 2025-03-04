@@ -1,0 +1,1 @@
+"Skriv talen i decimalform och beräkna. \n\n${\\Large \\frac{3}{4}} + 0{,}9 = $"

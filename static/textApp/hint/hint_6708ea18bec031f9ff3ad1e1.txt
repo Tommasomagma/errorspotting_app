@@ -1,0 +1,1 @@
+Pröva att multiplicera antalet ben på en nyckelpiga med tre för att hitta det totala antalet.

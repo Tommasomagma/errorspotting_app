@@ -1,0 +1,1 @@
+"**Växter**\n\nEn växt är $20$ cm hög och växer med $5$ cm per dag.\n\nEfter hur många dagar är växten dubbelt så hög?"

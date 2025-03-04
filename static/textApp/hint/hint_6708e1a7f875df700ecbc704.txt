@@ -1,0 +1,1 @@
+Try focusing on adding just the curved edge of the half-circle (using 3.14 for pi) to the rectangle's side that touches it.

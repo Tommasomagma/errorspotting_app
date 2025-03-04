@@ -1,0 +1,1 @@
+Prova att räkna ut hur många olika kombinationer du kan göra med primtalen i faktoriseringen av 280.

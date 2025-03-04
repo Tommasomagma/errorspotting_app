@@ -1,0 +1,1 @@
+"Faktorisera uttrycket så långt som möjligt.\n\n$4-4x+x^2=$"

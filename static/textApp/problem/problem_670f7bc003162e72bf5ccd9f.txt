@@ -1,0 +1,1 @@
+"Leo och Samira spelar på ett lyckohjul. I varje spel snurras hjulet.\n\nHur många nummer ska Samira spela på för att sannolikheten att hon vinner ska vara $75\\ \\%$?". Problem image: Ett lyckohjul med åtta lika stora färgade sektorer numrerade från 1 till 8.

@@ -1,0 +1,1 @@
+"Alice har samlat ihop 48 poäng på 4 timmars spelande. Hon har samlat ihop lika många poäng varje timme. \n\nHur många poäng samlade Alice ihop på en timme?". Problem image: En spelkontroll.

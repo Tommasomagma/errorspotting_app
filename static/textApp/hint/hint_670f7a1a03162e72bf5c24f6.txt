@@ -1,0 +1,1 @@
+Check your addition of decimals to ensure you're adding 0,5 correctly to 3,15.

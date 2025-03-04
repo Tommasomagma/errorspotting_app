@@ -1,0 +1,1 @@
+Check that you convert all measures to the same unit and use the correct ratio between heights and shadow lengths.

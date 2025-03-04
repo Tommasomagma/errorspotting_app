@@ -1,0 +1,1 @@
+"Vilken är summan av talen $10$ och $2$?"

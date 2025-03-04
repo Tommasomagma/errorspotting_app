@@ -1,0 +1,1 @@
+Double-check if you've added the probabilities for both red-then-yellow and yellow-then-red instead of only one outcome.

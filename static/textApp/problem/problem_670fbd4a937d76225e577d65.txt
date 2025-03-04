@@ -1,0 +1,1 @@
+"Skriv talet utan tiopotens. \n\n$9 \\cdot 10^4$"

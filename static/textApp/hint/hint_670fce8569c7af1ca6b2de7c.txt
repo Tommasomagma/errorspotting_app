@@ -1,0 +1,1 @@
+Take another look at your subtraction step to make sure you subtract 0.5 correctly from the sum.

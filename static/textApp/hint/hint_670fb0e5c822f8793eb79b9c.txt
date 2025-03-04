@@ -1,0 +1,1 @@
+Double-check how you calculate 10 squared, as that step seems to need a little extra care.

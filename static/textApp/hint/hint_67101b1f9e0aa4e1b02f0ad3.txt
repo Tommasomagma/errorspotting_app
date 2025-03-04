@@ -1,0 +1,1 @@
+Remember that Erik's distance is twice Isak's, so see how replacing his travel with two times x helps make the total add up.

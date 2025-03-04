@@ -1,0 +1,1 @@
+"Bilden visar en rektangel med sidorna utsatta i både dm och mm.\n\nVad är rektangelns area i cm$^2$?". Problem image: En rektangel. Längden är angiven som 4 dm på den ena sidan och bredden är 3 dm på den angränsande sidan. På de sidor som inte är bredvid dessa mätningar är längden 400 mm och bredden 300 mm.

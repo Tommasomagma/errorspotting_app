@@ -1,0 +1,1 @@
+"Triangeln är likbent. Bestäm värdet på $x$.". Problem image: An isosceles triangle with a base angle labeled as x degrees and the vertex angle labeled as 120 degrees.

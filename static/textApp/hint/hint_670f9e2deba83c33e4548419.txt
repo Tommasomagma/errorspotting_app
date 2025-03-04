@@ -1,0 +1,1 @@
+Check that you're following the simple operations from the problem instead of using extra steps like squaring the number.

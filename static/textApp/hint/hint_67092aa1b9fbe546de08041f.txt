@@ -1,1 +1,0 @@
-Recheck if you needed to multiply by 100 after calculating 20% of the original price.

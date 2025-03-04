@@ -1,0 +1,1 @@
+$\frac{\frac{2}{5}}{\frac{4}{1}} = \frac{2}{5} \cdot \frac{1}{4} = \frac{2}{20}$

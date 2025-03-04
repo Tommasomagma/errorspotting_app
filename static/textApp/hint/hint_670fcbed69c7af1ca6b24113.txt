@@ -1,0 +1,1 @@
+Double-check that you divided 16 by 2 and not multiplied, and make sure each step follows the original fraction.

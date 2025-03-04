@@ -1,0 +1,1 @@
+Titta noga på hur platsvärdet i decimalerna påverkar storleksordningen mellan talen.

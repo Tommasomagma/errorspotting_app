@@ -1,0 +1,1 @@
+"Vilket tal får du om entalssiffran och hundradelssiffran byter plats i talet $0{,}763$?"

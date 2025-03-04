@@ -1,0 +1,1 @@
+Remember to check if you're computing the area by multiplying the rectangle’s dimensions instead of adding the side lengths.

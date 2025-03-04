@@ -1,0 +1,1 @@
+"Bryt ut största möjliga faktor.\n\n$12x-4=$"

@@ -1,1 +1,0 @@
-"Avrunda talet till hela procent.\n\n$0{,}453 \\approx $"

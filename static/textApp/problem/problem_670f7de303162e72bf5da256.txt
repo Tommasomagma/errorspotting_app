@@ -1,0 +1,1 @@
+"Båten är $5{,}6$ m lång i verkligheten. I vilken skala är båten i bilden?". Problem image: En bild av en båt ovanpå en linjal. Linjalen är markerad i centimeter från 0 till 10. Linjalen används för att mäta båtens längd i bilden.

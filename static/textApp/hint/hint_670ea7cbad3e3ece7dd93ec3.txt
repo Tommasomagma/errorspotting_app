@@ -1,0 +1,1 @@
+Take a moment to check if you should have divided the total by the cost instead of multiplying them.

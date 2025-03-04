@@ -1,0 +1,1 @@
+Check if subtracting 4 boards correctly matches the way each fence section is counted.

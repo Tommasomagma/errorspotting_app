@@ -1,0 +1,1 @@
+"Maria köper fem solrosor. Hon lämnar fram $500$ kr och får $365$ kr tillbaka.\n\nHur mycket kostar varje solros?"

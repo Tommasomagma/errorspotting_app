@@ -1,0 +1,1 @@
+"Teckna ett uttryck för omkretsen av flaggan.". Problem image: Bilden visar en rektangulär flagga med måtten 3x längs den övre kanten och 2x - y längs den vänstra kanten.

@@ -1,0 +1,1 @@
+"Nahid har betalat totalt $3\\ 600$ kr för tennislektioner. Varje tennislektion kostar $400$ kr.\n\nHur många tennislektioner har Nahid köpt?"

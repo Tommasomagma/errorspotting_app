@@ -1,0 +1,1 @@
+Check if you multiplied the price by the correct number of items, since the problem only requires buying 9 ljusstakar.

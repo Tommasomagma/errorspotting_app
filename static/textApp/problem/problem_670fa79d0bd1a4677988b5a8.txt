@@ -1,0 +1,1 @@
+"På en karta i skala $1$ : $1\\ 000$ är avståndet mellan två hus $12{,}5$ cm.\n\nHur långt är det mellan husen i verkligheten? Svara i meter."

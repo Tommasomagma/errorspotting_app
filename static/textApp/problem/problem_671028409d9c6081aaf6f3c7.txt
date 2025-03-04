@@ -1,0 +1,1 @@
+"Beräkna och skriv svaret i decimalform. \n\nsju tiondelar $+ 1{\\Large \\frac{3}{5}}  = $"

@@ -1,0 +1,1 @@
+"Vilket värde har uttrycket? Ta hjälp av $8\\cdot5{,}74=45{,}92$. \n\n$8\\cdot57{,}4=$"

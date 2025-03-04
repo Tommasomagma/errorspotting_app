@@ -1,0 +1,1 @@
+Check if you subtracted the right parts of the grid by confirming which areas should be removed and which added.

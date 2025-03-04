@@ -1,0 +1,1 @@
+Take another look at the step where you isolate x, because it seems you reported the difference instead of x itself.

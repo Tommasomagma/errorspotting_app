@@ -1,0 +1,1 @@
+Try recalculating the extra cost per month by multiplying 2.50 by 94 and then add it to the original rent before multiplying by 12 for the yearly total.

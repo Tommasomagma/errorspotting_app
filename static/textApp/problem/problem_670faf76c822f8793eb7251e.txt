@@ -1,0 +1,1 @@
+"Ett föremål har volymen $10$ cm$^3$. Vilken volym får föremålet om det tillverkas i längdskalan\n\n$1:2$"

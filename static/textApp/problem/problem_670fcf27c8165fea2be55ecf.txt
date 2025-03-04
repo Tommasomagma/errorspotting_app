@@ -1,0 +1,1 @@
+"En rektangel har höjden $x$ cm, och basen $x+2$ cm. Rektangelns omkrets är 15,6 cm.\n\nHur lång är rektangelns bas?"

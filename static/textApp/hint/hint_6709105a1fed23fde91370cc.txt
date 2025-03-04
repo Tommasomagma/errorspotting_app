@@ -1,0 +1,1 @@
+Double-check that you set up the rectangle’s dimensions correctly from the description before calculating the area.

@@ -1,0 +1,1 @@
+"Vad är den positiva lösningen till $x^2=43$?"

@@ -1,1 +1,0 @@
-"Du ska såga en lång planka i stycken om ${\\Large\\frac{3}{4}}$ meter. Hur många delar får du ifall plankan är $6$ meter?"

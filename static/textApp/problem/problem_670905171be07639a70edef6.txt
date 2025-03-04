@@ -1,0 +1,1 @@
+"Skriv som kronor:\n12 kr och 90 öre"

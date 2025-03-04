@@ -1,0 +1,1 @@
+Count the boxes along each side and add the two pairs of equal sides together.

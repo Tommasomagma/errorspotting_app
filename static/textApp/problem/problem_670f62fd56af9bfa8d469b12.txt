@@ -1,0 +1,1 @@
+"Bilden visar en figur i ett rutnät. Varje ruta har sidlängden 2 cm. Vad är omkretsen av figuren?". Problem image: The image displays a grid with squares that each have a side length of 2 centimeters. A shape resembling the letter 'F' is highlighted within the grid.

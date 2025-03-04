@@ -1,0 +1,1 @@
+Double-check the number you multiplied by—it looks like you used 32 instead of the number of termos given.

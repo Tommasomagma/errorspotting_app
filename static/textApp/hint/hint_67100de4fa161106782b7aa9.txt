@@ -1,0 +1,1 @@
+Check if you fully reduced both the top and bottom by all their common factors.

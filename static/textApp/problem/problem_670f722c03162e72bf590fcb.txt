@@ -1,0 +1,1 @@
+"Beräkna arean av triangeln.". Problem image: The image shows a right-angled triangle colored in pink. The base of the triangle is labeled 5 meters, and the height, indicated by a dotted line, is labeled 4 meters. A small square is at the vertex where the base and height meet, indicating a right angle.

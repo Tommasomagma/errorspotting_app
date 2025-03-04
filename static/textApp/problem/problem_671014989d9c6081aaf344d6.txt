@@ -1,0 +1,1 @@
+"Beräkna och svara i grundpotensform. \n\n${\\Large\\frac{2{,}4 \\ \\cdot\\  10^{-2}}{3 \\ \\cdot \\ 10^2}}=$"

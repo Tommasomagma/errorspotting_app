@@ -1,0 +1,1 @@
+"Produkten av två bråk är ${\\Large\\frac{1}{6}}$. Det ena bråket är ${\\Large\\frac{3}{8}}$. Vilket är det andra bråket? Svara i\nenklaste form."

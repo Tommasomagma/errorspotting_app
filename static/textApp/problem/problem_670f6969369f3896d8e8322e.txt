@@ -1,0 +1,1 @@
+"En rektangel har en omkrets på 42 meter. Rektangelns längd är dubbelt så lång som bredden. \n\nVad är rektangelns längd i meter?"

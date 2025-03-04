@@ -1,0 +1,1 @@
+"Ett äpple kostar 5 kronor. \n\nHur mycket kostar 7 äpplen?". Problem image: Ett rött äpple.

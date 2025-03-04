@@ -1,0 +1,1 @@
+Take another look at which digit represents the thousands place in the number.

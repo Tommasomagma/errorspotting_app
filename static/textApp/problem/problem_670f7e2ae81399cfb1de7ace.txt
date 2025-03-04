@@ -1,0 +1,1 @@
+"Hur stor andel av figuren är färgad? Svara i decimalform.". Problem image: En vertikal stapel bestående av lika stora kvadrater placerade ovanpå varandra. Vissa kvadrater är färgade medan andra är ofärgade.

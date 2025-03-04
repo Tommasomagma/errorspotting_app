@@ -1,0 +1,1 @@
+"Robin ska såga en stock i åtta bitar. Han har sågat stocken en gång.  \n\nHur många gånger till behöver han såga?". Problem image: En såg som sågar i en stock. Det finns indikation på en sågning.

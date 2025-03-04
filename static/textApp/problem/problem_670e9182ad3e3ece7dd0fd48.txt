@@ -1,0 +1,1 @@
+"Beräkna den positiva lösningen för ekvationen.\n\n$2x^2=8$"

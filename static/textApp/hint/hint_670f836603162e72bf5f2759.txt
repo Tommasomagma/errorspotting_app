@@ -1,0 +1,1 @@
+Check the subtraction step again, because 600 minus 500 should give a different value before calculating the percentage increase.

@@ -1,0 +1,1 @@
+"Du har talen $36{,}55$ och $8{,}4$.\n\nBeräkna differensen av de två talen."

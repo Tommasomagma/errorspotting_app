@@ -1,0 +1,1 @@
+Take another look at how you used the number of holiday days—instead of multiplying and dividing, try subtracting the holiday days directly from 30.

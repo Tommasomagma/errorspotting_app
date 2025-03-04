@@ -1,0 +1,1 @@
+"På idrotten springer klassen 60 m och mäter tiden med tidtagarur. Tidtagaruren visar hundradels, tiondels och hela sekunder. \n\n- Rupert: 10,60 s\n - Johanna: 9,15 s\n- Olle: 10,40 s\n- Martin: 9,30 s\n- Petra: 9,60 s\n\nHur många sekunder snabbare sprang Petra än Rupert?"

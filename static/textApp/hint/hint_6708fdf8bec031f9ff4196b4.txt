@@ -1,0 +1,1 @@
+Check the step where you isolated the term with x – make sure you correctly handled the fraction involving x.

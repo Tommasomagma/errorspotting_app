@@ -1,0 +1,1 @@
+"Skriv det binära talet $10000$ som ett naturligt tal."

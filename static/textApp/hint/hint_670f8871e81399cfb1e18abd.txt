@@ -1,0 +1,1 @@
+Check if you used the right number of boards when setting up your multiplication.

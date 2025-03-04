@@ -1,0 +1,1 @@
+Check the division step again to make sure you use the exact value of 100 divided by 6 instead of rounding it to 18.

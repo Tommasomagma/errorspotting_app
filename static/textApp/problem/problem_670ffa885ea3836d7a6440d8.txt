@@ -1,0 +1,1 @@
+"Talen i en talföljd kan beräknas med uttrycket $4n - 2$ där $n = 1$, $n = 2$ och så vidare. Vilka är det tredje talet i talföljden?"

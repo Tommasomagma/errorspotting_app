@@ -1,0 +1,1 @@
+Double-check that you divide the product by 2 after multiplying the base and height.

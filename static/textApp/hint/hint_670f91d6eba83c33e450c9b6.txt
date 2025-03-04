@@ -1,0 +1,1 @@
+Check if you used the right conversion factor when computing the signal’s speed, especially at the multiplication step.

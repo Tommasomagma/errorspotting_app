@@ -1,0 +1,1 @@
+Tänk på att varje lag möter alla de andra två gånger, så räkna antalet unika motståndare för att hitta svaret!

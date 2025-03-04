@@ -1,0 +1,1 @@
+"Hur mycket mindre blir talet om entalssiffran och hundratalssiffran byter plats?\n\n$684$"

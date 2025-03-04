@@ -1,0 +1,1 @@
+"Skriv 64 som en potens med basen 2."

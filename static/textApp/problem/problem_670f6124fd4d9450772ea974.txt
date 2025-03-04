@@ -1,0 +1,1 @@
+"I Ankeborg finns en arena som kan ta in 100 klasser, med 25 elever i varje klass. \n\nHur många elever får plats i arenan?". Problem image: En bild av en arena symboliserar plats för klasser och elever.

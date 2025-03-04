@@ -1,0 +1,1 @@
+"Beräkna.\n\n$489+172=$". Problem image: En tabell uppdelad i tre kolumner och två rader för att visa addition. I den översta raden finns siffrorna 4, 8 och 9. I den nedersta raden står ett plustecken följt av siffrorna 1, 7 och 2. En blå horisontell linje är under den andra raden.

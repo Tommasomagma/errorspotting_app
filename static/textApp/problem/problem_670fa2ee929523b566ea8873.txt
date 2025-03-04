@@ -1,0 +1,1 @@
+"Erik har talet $0{,}791$. Vilket tal får Erik om han byter plats på tiondelssiffran och hundradelssiffran?"

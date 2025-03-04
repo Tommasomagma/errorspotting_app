@@ -1,0 +1,1 @@
+Recheck if the two numbers are really equal by considering how the fraction and decimal represent different values.

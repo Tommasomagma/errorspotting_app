@@ -1,0 +1,1 @@
+"**Problemlösning**\n\nI en buss åker det ett antal personer. Vid första hållplatsen kliver det av $2$ personer. Vid nästa hållplats går hälften av personerna av. Då finns det $15$ personer kvar i bussen. \n\nHur många var det i bussen från början?"

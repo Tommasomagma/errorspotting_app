@@ -1,0 +1,1 @@
+"Beräkna arean av det orangea området. Använd $\\pi \\approx 3{,}14$ och avrunda till hela kvadratcentimeter.". Problem image: An image showing two concentric circles, which create a ring. The outer circle has a diameter of 10 cm, and the inner circle has a diameter of 5 cm. The area being inquired about is the region between the two circles, shaded in orange.

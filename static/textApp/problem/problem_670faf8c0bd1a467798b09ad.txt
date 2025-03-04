@@ -1,0 +1,1 @@
+"Använd huvudräkning och skriv bara svaret.  \n\n${\\Large \\frac{35}{5}} =$"

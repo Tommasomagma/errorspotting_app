@@ -1,0 +1,1 @@
+"Beräkna. \n\n$0{,}09 + 0{,}02 = $". Problem image: En tabell indelad i en övre och en nedre del med en horisontell blå linje emellan. I varje del finns tre kolumner med siffror. Översta delen visar talen 0, 0, 9 och den nedre delen visar talen 0, 0, 2. Tecknet för addition '+' är placerat till vänster om den nedre delen av tabellen.

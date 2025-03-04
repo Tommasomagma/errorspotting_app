@@ -1,0 +1,1 @@
+"Bestäm minsta gemensamma nämnare.\n\n$\\Large\\frac{1}{12}$ och $\\Large\\frac{1}{4}$"

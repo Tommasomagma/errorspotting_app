@@ -1,0 +1,1 @@
+"Beräkna och svara exakt.\n\n${\\Large\\frac{\\sqrt{4}\\ \\cdot\\ \\sqrt{6}}{\\sqrt{3}}} =$"

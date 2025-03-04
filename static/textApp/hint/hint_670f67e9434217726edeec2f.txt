@@ -1,0 +1,1 @@
+It looks like you might have forgotten to multiply by the number of groups when counting all the teams.

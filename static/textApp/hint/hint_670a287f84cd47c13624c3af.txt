@@ -1,1 +1,0 @@
-Remember that doubling means multiplying by 2 every minute, so try writing it as repeated multiplications instead of adding the same number.

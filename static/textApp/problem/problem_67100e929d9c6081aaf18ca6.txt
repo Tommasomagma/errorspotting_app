@@ -1,0 +1,1 @@
+"Ett tal består av 3 olika siffror. Samtliga siffror är udda. Talet är mindre än 500. Talet är delbart med 5. Tiotalssiffran är minst. \n\nVilket är talet?"

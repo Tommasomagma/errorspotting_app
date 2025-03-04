@@ -1,0 +1,1 @@
+"En rektangel har en bas som är $5$ cm längre än sin höjd, och som totalt har en omkrets på $42$ cm. Bestäm arean av rektangeln."

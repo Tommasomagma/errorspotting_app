@@ -1,0 +1,1 @@
+"${\\Large \\frac{7}{8}} + {\\Large \\frac{1}{4}} + {\\Large \\frac{5}{6}}=$"

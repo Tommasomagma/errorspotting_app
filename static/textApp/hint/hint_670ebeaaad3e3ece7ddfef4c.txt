@@ -1,0 +1,1 @@
+Double-check that each step uses the numbers from the problem correctly—in particular, make sure the operations match the way the rope, tower, and distances relate.

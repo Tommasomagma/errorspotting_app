@@ -1,0 +1,1 @@
+"Vad ska stå istället för frågetecknet? Skriv i enklaste form.\n\n**Andelen:** ?\n\n**Det hela:** $300$ dagar\n\n**Delen:** $200$ dagar"

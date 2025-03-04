@@ -1,0 +1,1 @@
+"I Cern, vilket ligger i Schweiz, finns världens största partikelacclerator. Den är byggd i en cirkulär bana under marken. Den cirkulära banans diameter är 27 km. I banan skickar man partiklar för fysikaliska experiment.\n\nIfall en partikel åkt 339 km i tunneln, hur många varv har den åkt då? Ange endast ett tal i ditt svar, ingen enhet."

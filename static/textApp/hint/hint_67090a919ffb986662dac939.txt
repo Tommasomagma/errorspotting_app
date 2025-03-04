@@ -1,0 +1,1 @@
+Recall that the problem asks for a whole number answer, so check if you need to round your calculation.

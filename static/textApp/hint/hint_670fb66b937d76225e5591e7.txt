@@ -1,0 +1,1 @@
+Perhaps you divided by 2 where you should have used the full distance and time for the radio signal's round trip.

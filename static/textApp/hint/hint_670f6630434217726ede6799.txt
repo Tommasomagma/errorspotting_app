@@ -1,0 +1,1 @@
+Remember to check if you handled the special class correctly, using 6 sick students there instead of multiplying a 3 everywhere.

@@ -1,0 +1,1 @@
+"Daniel ska laga mat på en spis som bara har två plattor. Han ska laga fem olika rätter som tar olika lång tid att laga: 40 min, 15 min, 35 min, 10 min och en rätt som tar 45 min. Han måste göra färdigt en rätt på en platta innan han ställer nästa rätt på den plattan. \n\nVilken är den kortaste tid han kan klara det på? Svara med enheten min."

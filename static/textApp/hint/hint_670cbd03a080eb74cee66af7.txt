@@ -1,0 +1,1 @@
+Double-check how you calculated the total cookies given out, paying extra attention to including both the teacher and each student.

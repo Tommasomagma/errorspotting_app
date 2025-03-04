@@ -1,1 +1,0 @@
-"Vilka siffror kan du ersätta X med så att talen blir delbara med $3$?\n\n$40$X"

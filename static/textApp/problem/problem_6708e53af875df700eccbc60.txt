@@ -1,0 +1,1 @@
+"Hur många kulor finns i figur 10?". Problem image: Tre figurer bestående av blåa kulor arrangerade i mönster som ökar. Figur 1 har två kulor på botten och en ovanpå. Figur 2 har tre kulor på botten och två ovanpå. Figur 3 har fyra kulor på botten och tre ovanpå.

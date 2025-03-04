@@ -1,0 +1,1 @@
+"I klass 6A är det 24 elever. En tredjedel av eleverna cyklar till skolan.\n\nHur stor andel av eleverna cyklar inte till skolan?"

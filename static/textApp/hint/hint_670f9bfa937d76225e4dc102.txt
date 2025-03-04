@@ -1,0 +1,1 @@
+Double-check your last division, because dividing your sum by 6 seems off.

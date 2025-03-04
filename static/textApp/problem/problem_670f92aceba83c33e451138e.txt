@@ -1,0 +1,1 @@
+"Förenkla.\n\n${\\Large\\frac{3x}{5}}+{\\Large\\frac{x}{10}}$"

@@ -1,0 +1,1 @@
+Take another look at how each little box shares its sides or corners to make sure you aren’t placing numbers that follow one another next to each other.

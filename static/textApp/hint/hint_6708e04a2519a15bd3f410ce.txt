@@ -1,0 +1,1 @@
+Check if you really needed to subtract half of the area, as the diagonal divides but does not change the whole rectangle's area.

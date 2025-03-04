@@ -1,0 +1,1 @@
+"Subtrahera med uppställning.\n\n$8\\ 350-719=$"

@@ -1,0 +1,1 @@
+"Vilken summa är större än $1$? Avgör utan att räkna. Markera ditt svar."

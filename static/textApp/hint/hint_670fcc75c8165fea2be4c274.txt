@@ -1,0 +1,1 @@
+Make sure you square the entire (x + 5) and choose the negative square root when solving the equation.

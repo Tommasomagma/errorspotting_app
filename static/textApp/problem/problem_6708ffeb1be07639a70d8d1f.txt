@@ -1,0 +1,1 @@
+"Beräkna.\n\n $29 - 12=$". Problem image: En subtraktionsuppgift presenterad i kolumnform med två tal ovanför varandra separerade av ett horisontellt streck. Det första talet är 29 och det andra talet är 12. Subtraktionstecknet finns till vänster om de två talen.

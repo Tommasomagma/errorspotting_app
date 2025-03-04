@@ -1,0 +1,1 @@
+"Rätta den felaktiga omvandlingen och svara i bråkform.\n\n$3{\\Large\\frac{2}{5}}={\\Large\\frac{32}{5}}$"

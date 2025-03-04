@@ -1,0 +1,1 @@
+Take another look at how you multiplied 6 by 3,4, especially handling the decimal parts.

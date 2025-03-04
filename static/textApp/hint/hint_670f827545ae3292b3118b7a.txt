@@ -1,0 +1,1 @@
+Dubbelkolla att du utför subtraktionen från 1 rätt, istället för att omvandla det till ett annat uttryck.

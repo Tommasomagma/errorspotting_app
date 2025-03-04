@@ -1,0 +1,1 @@
+Double-check how you compared the pink part to the entire figure, because it looks like the ratio might have been calculated incorrectly.

@@ -1,0 +1,1 @@
+"Ett pris på $240$ kr minskar med $5$ %. Beräkna det nya värdet. Använd förändringsfaktor."

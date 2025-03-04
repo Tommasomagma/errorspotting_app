@@ -1,0 +1,1 @@
+Try checking if you subtracted the old price from the new price before dividing instead of dividing the two prices directly.

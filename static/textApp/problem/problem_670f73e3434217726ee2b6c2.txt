@@ -1,0 +1,1 @@
+"Beräkna arean av femhörningen.". Problem image: En femhörning indelad i tre delar med angivna areor: en triangel överst med arean 12 cm², en rektangel i mitten med arean 20 cm² och en triangel nederst med arean 8 cm².

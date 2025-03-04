@@ -1,0 +1,1 @@
+Double-check if you applied the scale correctly to convert the room’s side length into the drawing's measurement.

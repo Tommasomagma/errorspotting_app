@@ -1,0 +1,1 @@
+Remember to make sure you convert 20 inches into feet correctly so that all measurements match before calculating the number of tiles.

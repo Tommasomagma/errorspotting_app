@@ -1,0 +1,1 @@
+"Kusinerna Benjamin, Isak och Erik träffas hos mormor. Erik har åkt dubbelt så långt som Isak. Benjamin har åkt $54$ km längre än Erik. Sammanlagt har de åkt $494$ km.\n\nAvgör genom att lösa en ekvation hur långt Benjamin har åkt."

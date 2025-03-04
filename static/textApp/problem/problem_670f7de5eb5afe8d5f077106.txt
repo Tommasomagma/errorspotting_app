@@ -1,0 +1,1 @@
+"Du har talet $0{,}715$. Vilket tal får du om byter plats på tiondelssiffran och tusendelssiffran?"

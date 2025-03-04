@@ -1,0 +1,1 @@
+"Avrunda täljaren till tiotal och nämnaren till heltal. Beräkna sedan med överslagsräkning.\n\n${\\Large\\frac{268{,}9}{3{,}45}}\\approx$"

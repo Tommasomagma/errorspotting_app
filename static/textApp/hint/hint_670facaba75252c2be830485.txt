@@ -1,0 +1,1 @@
+Check if you combined the numbers exactly as shown in the table and used the right operations for each step.

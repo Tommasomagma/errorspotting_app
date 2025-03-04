@@ -1,0 +1,1 @@
+Check your binary place values to make sure they match the positions in the number.

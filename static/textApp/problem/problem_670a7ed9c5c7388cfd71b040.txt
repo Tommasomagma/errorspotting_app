@@ -1,0 +1,1 @@
+"Titta på talföljden.\n\n$4 \\hspace{0.3cm} 9 \\hspace{0.3cm} 14 \\hspace{0.3cm} 19 \\hspace{0.3cm} .....$\n\nVilken är variabeltermen?"

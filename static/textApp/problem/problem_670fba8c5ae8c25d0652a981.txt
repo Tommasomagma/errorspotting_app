@@ -1,0 +1,1 @@
+"Beräkna arean av det cirkelformade föremålet. Ett bord med radien $6$ dm. Avrunda till hela kvadratdecimeter."

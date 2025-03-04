@@ -1,0 +1,1 @@
+"Beräkna.\n\n$\\Large \\frac{42}{7}\\small =$"

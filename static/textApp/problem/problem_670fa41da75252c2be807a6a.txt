@@ -1,0 +1,1 @@
+"Vilket tal saknas?\n\n$457+ \\underline{\\hspace{0.5cm}}\\ =862$"

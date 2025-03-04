@@ -1,0 +1,1 @@
+"I en tidning har första sidan nummer $1$ och den sista nummer $24$. \n\nHur många siffror har man använt sammanlagt för att numrera sidorna?"

@@ -1,0 +1,1 @@
+Remember to multiply both parts of the equation by (x+2) so that every term is correctly handled.

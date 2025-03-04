@@ -1,0 +1,1 @@
+Double-check the extra symbol “^[0]” in your final answer to make sure it matches exactly what the problem asks for.

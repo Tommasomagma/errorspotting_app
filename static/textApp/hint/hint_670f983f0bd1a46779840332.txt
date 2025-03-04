@@ -1,0 +1,1 @@
+Remember to multiply the whole expression by (x+2), including the 1, so that every term follows the operation correctly.

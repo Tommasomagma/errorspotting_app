@@ -1,0 +1,1 @@
+Try multiplying 19 by simple numbers to see which one gets near 950 without going over.

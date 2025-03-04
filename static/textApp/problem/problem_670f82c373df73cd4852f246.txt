@@ -1,0 +1,1 @@
+"En sträcka är $0{,}12$ m. Hur lång är en tredjedel av sträckan? Svara i meter."

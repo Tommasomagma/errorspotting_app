@@ -1,0 +1,1 @@
+"Välj det största talet.\n\n$ {\\Large \\frac{5}{6}} \\hspace{0.3cm} {\\Large \\frac{5}{7}} \\hspace{0.3cm} {\\Large \\frac{5}{8}} \\hspace{0.3cm} {\\Large \\frac{5}{9}}$"

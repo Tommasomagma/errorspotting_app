@@ -1,0 +1,1 @@
+"Färglägg den andra cirkeln så att andelen som är färgad i bägge cirklarna är lika stor. \n\nHur många bitar färglade du?"

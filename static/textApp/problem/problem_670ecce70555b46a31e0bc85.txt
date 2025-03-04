@@ -1,0 +1,1 @@
+"Vilket tal är $x$?\n\n$10^x\\cdot 10^2=10^6$"

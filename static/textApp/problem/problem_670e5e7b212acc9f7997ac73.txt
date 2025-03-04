@@ -1,0 +1,1 @@
+"Vad är figurens omkrets om $a = 7$?". Problem image: Bilden visar en rektangel med sidan markerad som 'a' på alla fyra sidor. Rektangeln har små kvadrater vid varje hörn som inte är färgade. Sidorna är färglagda i rosa.

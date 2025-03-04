@@ -1,0 +1,1 @@
+"Två flaskor står bredvid varandra. Den ena flaskan rymmer $1/3$ liter och är fylld till två tredjedelar med saft. Den andra flaskan rymmer $1{,}5$ liter men är tom. Innehållet i den lilla flaskan hälls över i den stora. Hur stor andel av den stora flaskan blir då fylld?"

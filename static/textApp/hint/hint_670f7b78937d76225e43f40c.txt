@@ -1,0 +1,1 @@
+Look closely at the step where you removed the -1; make sure you only add 1 to both sides of the equation.

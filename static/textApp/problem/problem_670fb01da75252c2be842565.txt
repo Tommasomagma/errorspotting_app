@@ -1,0 +1,1 @@
+"Sortera talen i storleksordning börja med det minsta talet först.\n\n**A.** sexton hundradelar\n\n**B.** en tiondel och fem hundradelar\n\n**C.** etthundrasextiofem tusendelar\n\n**D.** en tiondel, sex hundradelar och en tusendel"

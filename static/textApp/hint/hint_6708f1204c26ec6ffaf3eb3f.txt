@@ -1,0 +1,1 @@
+Check that you use the proper divisibility rule for 3 on the given numbers, not just rearranging them.

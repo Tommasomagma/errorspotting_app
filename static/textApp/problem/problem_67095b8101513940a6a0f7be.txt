@@ -1,0 +1,1 @@
+"At a company, a copy machine prints 175 pages in 5 minutes. If the number of pages printed is proportional to the time, in minutes, what is the unit rate?\n\nShow your work.\n\nAnswer _ pages per minute"

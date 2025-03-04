@@ -1,0 +1,1 @@
+It looks like one of your multiplication steps might need a closer look to ensure all terms are correctly doubled.

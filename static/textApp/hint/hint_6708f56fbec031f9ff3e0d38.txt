@@ -1,0 +1,1 @@
+It looks like you might have missed squaring the second factor—check how you handled the exponent when rewriting the expression.

@@ -1,0 +1,1 @@
+Maybe try replacing the triangle's base and height with 12 and solve for x using simple algebra steps.

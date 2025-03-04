@@ -1,0 +1,1 @@
+"I en påse finns $3$ röda och $5$ gula kulor. Du tar en kula ur påsen utan att titta, noterar färgen och lägger tillbaka kulan. En ny kula tas upp på samma sätt. Beräkna med hjälp av ett träddiagram $P(1$ röd och $1$ gul kula$)$."

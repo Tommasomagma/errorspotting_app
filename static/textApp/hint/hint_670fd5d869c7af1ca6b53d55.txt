@@ -1,0 +1,1 @@
+Double-check that you didn't forget to subtract the whole 2x² from 6x² when combining the terms.

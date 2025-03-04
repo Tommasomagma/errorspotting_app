@@ -1,0 +1,1 @@
+Remember that the missing number is the one you multiply by 3, not the final result after subtracting 8.

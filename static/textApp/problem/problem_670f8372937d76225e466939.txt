@@ -1,0 +1,1 @@
+"I varje burk finns det $6$ godisbitar. Hur många godisbitar finns det i $7$ burkar?". Problem image: En bild av en burk som innehåller godisbitar. Antalet godisbitar är inte specificerat men representeras av färgglada cirklar.

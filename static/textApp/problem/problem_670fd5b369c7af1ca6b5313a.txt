@@ -1,0 +1,1 @@
+"Äpplena på de båda vågarna väger lika mycket. Skriv med siffror hur mycket äpplena väger.". Problem image: Bilden visar två olika vågar med äpplen på varje. Den första vågen har en analog visning och visaren pekar mot en siffra. Den andra vågen har en digital display utan synliga siffror.

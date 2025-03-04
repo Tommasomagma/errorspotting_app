@@ -1,0 +1,1 @@
+"Vilket tal saknas i talföljden?\n\n${\\Large\\frac{1}{2}},\\ 1{\\Large\\frac{1}{2}},\\ 2{\\Large\\frac{1}{2}},\\ 3{\\Large\\frac{1}{2}},\\ \\underline{\\hspace{1cm}}$"

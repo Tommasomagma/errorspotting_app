@@ -1,0 +1,1 @@
+Remember to multiply each fruit's cost by the number of fruits instead of just adding their costs once.

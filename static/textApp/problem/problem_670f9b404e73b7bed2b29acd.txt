@@ -1,0 +1,1 @@
+"Hur mycket är $8{,}00 - 4{,}73$? \n\n*Välj ditt svar.*"

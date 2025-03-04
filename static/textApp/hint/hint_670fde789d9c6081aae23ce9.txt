@@ -1,0 +1,1 @@
+Make sure you add the extra cost per square meter to the base rent before multiplying by 12.

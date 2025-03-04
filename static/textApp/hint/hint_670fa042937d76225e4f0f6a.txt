@@ -1,0 +1,1 @@
+Double-check how you represented the ball exchange in your equations to make sure each step matches the problem's details.

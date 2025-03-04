@@ -1,0 +1,1 @@
+"Vilket tal saknas?\n\n${\\Large\\frac{(-2) \\ \\cdot \\ (-9)}{-3}} =  \\ \\underline{\\hspace{1cm}} -6 $"

@@ -1,0 +1,1 @@
+Make sure you subtract the number of persons choosing hamburgers and hot dogs from the total number, not just subtract hot dogs from hamburgers.

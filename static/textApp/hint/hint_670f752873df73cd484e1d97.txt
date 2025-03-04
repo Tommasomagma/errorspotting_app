@@ -1,0 +1,1 @@
+Maybe check if you used all the numbers from the table since multiplying 30 by 5 might not cover the whole problem.

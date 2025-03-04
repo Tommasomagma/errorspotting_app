@@ -1,0 +1,1 @@
+"Beräkna produkten av $8\\ 000$ och $4$ och subtrahera med kvoten av $900$ och $30$."

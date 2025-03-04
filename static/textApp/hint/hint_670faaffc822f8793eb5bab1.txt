@@ -1,0 +1,1 @@
+Check your multiplication and decimal placement to ensure you're multiplying 0.42 by 7000 correctly.

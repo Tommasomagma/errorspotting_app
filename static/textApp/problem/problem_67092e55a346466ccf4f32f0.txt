@@ -1,0 +1,1 @@
+"I bild ser du triangeln $ABC$. Hur stor är vinkel $A$?". Problem image: En triangel med hörnen märkta som A, B och C. Vinkeln vid A representeras med uttrycket (2x + 20) grader, vinkeln vid B är märkt med x grader och vinkeln vid C med (4x - 10) grader. Triangeln är orienterad med hörnet B längst till vänster, A överst och C längst till höger.

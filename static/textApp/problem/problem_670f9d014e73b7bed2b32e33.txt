@@ -1,0 +1,1 @@
+"En pizza är delad i $6$ bitar. Markus åt upp en tredjedel av pizzan. \n\nHur många bitar åt Markus?"

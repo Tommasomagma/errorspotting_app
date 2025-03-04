@@ -1,0 +1,1 @@
+"Divide.\n\n$\\quad 950\\div 19=$"

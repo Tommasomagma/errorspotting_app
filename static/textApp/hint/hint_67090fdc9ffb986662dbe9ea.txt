@@ -1,0 +1,1 @@
+Double-check the calculation of the white rectangles' areas to ensure the numbers you subtracted match the problem description.

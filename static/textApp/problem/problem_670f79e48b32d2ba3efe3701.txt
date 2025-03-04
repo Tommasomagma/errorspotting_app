@@ -1,0 +1,1 @@
+"En parallellogram har höjden 4 dm och basen 7 dm. Beräkna parallellogrammens area."

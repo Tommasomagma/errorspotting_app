@@ -1,0 +1,1 @@
+Try adding up the small cubes' volumes to find the whole body's volume.

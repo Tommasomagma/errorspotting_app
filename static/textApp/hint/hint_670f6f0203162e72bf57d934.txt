@@ -1,0 +1,1 @@
+Check that your fraction was computed by dividing the saved amount by the total money to form the correct percentage.

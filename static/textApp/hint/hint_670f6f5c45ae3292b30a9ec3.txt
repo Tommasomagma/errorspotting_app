@@ -1,0 +1,1 @@
+Make sure to count the decimal places correctly when multiplying the numbers.

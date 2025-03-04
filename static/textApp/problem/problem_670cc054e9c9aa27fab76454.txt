@@ -1,1 +1,0 @@
-"Anja och Berit dyker i havet på samma plats. Anja simmar 3,5 m rakt ner mot botten. Berit simmar 20 % djupare och når botten.\n\nHur mycket djupare simmade Berit jämfört med Anja?". Problem image: Bilden visar en ikonisk representation av en dykare som simmar nedåt.

@@ -1,0 +1,1 @@
+"Simon undersöker röda blodkroppar med ett mikroskop som förstorar 500 gånger. Om en blodkropps diameter i verkligheten är $0,000\\ 009$ m, vad blir blodkroppens diameter i mikroskopet?". Problem image: Ett mikroskop.

@@ -1,0 +1,1 @@
+Check if you converted the hourly cost into a per-minute cost correctly before multiplying by x.

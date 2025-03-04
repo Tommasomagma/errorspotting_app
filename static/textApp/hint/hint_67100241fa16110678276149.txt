@@ -1,0 +1,1 @@
+Double-check that you correctly used 3x for the ten-kronor instead of subtracting a constant number from the total.

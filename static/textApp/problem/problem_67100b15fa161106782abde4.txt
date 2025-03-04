@@ -1,0 +1,1 @@
+"Beräkna med räknare och avrunda till två decimaler. \n\n$\\sqrt{170}\\approx$"

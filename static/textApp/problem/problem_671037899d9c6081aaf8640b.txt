@@ -1,0 +1,1 @@
+"I kiosken på stranden köper ​${\\Large\\frac{4}{5}}$​ av alla kunder glass. Av dem som köper glass köper ${\\Large\\frac{1}{3}}$ mjukglass.\n\nHur stor andel av alla kunder köper mjukglass?"

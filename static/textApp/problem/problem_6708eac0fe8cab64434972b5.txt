@@ -1,0 +1,1 @@
+"William har läst $50$ sidor i en bok som har $225$ sidor. \n\nHur många sidor har han kvar att läsa?"

@@ -1,1 +1,0 @@
-"$A, B, C$ och $D$ är naturliga tal. För talen gäller att:\n\n$A\\cdot B=22 \\hspace{0.5cm} B\\cdot C=26 \\hspace{0.5cm} C\\cdot D=39$\n\nBeräkna summan av de fyra talen."

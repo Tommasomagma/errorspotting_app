@@ -1,0 +1,1 @@
+"Lös följande uppgift. Visa hur du räknar. \n\n$ {\\Large \\frac{3}{8}}$ av $100$"

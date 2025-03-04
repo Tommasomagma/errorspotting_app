@@ -1,0 +1,1 @@
+Check if all the numbers used in the sum belong to the pets' weights.

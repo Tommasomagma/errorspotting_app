@@ -1,0 +1,1 @@
+Take a careful look at how you set up your subtraction—does subtracting the total score from the number of darts really count the darts that hit the board?

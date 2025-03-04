@@ -1,0 +1,1 @@
+Tänk på att hitta den punkt där triangeln når sitt högsta läge genom att använda både x- och y-koordinaten.

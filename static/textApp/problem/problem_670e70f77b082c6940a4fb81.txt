@@ -1,0 +1,1 @@
+"Anja är $x$ centimeter lång. Teckna ett uttryck för en person som är dubbelt så lång som Anja."

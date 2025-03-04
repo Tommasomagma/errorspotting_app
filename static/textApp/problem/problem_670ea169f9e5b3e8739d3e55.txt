@@ -1,0 +1,1 @@
+"Write this calculation as a numerical expression. Do not evaluate the expression.\n\n***subtract 6 from 9, then add 8***"

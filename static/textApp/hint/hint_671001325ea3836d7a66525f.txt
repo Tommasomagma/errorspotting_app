@@ -1,0 +1,1 @@
+Look carefully at how you add up all the correct side lengths when computing the perimeter.

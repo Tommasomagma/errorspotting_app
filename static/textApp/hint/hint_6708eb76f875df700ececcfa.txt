@@ -1,0 +1,1 @@
+Double-check how you broke 60 into factors—make sure each branch only uses divisions that produce prime numbers.

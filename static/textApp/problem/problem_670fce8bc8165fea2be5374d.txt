@@ -1,0 +1,1 @@
+"Lös ekvationen. Svara i decimalform med en decimal.\n\n$(x-16)^2=20$\n\nVilken är den största lösningen?"

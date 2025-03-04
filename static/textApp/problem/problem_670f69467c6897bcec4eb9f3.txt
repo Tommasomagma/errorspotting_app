@@ -1,0 +1,1 @@
+"Till vilken av ekvationerna är $x = 5$ en lösning?\n\n$\\quad$**A.**$\\;$ $9x + 7 = 38$\n\n$\\quad$**B.**$\\;$ $6x + 3 = 68$\n\n$\\quad$**C.**$\\;$ ${\\Large\\frac{20}{x}}+ 2 = 6$"

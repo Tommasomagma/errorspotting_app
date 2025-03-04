@@ -1,0 +1,1 @@
+"En kropp utgörs av fyra kuber som alla har volymen 1 kubikcentimeter. \n\nVad är kroppens volym?"

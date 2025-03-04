@@ -1,0 +1,1 @@
+Make sure that when you simplify 8/24, you divide both the numerator and denominator by the same number each time.

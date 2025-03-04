@@ -1,0 +1,1 @@
+Remember to check if you need to divide the total amount by 2 since the bucket is only half full.

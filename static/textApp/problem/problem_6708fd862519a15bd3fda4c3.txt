@@ -1,0 +1,1 @@
+"${\\Large\\frac{100}{\\sqrt{25}}}-{\\Large\\frac{\\sqrt{100}}{2}}=$"

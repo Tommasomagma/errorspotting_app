@@ -1,0 +1,1 @@
+Double-check that you are dividing by the original number of students, not the new total.

@@ -1,0 +1,1 @@
+Double-check if you're halving the full product of the base and height and not only one of the numbers.

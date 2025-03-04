@@ -1,0 +1,1 @@
+Double-check how you computed Bonnie's stamp count from Charlie's stamps to ensure the subtraction matches the problem description.

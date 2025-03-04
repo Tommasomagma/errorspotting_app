@@ -1,0 +1,1 @@
+"Beräkna.\n\n$71+5 =$". Problem image: Ett rutnät för addition med två siffror. Tiondelar och enstaka platser är uppdelade. Översta raden innehåller siffrorna sju och ett, under raden finns en blå vågrät linje och under linjen siffran fem.

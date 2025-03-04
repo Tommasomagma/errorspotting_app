@@ -1,0 +1,1 @@
+"Beräkna med uppställning. \n\n$4{,}7+3{,}4=$"

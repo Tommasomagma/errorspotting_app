@@ -1,0 +1,1 @@
+It looks like you added the squares correctly, now try taking the square root to get the diagonal.

@@ -1,0 +1,1 @@
+"Beräkna.\n\n$\\Large\\frac{3}{5}$ $/$ $3=$". Problem image: Två cirkeldiagram uppdelade i fem lika stora sektorer. I det första diagrammet är tre av sektorerna markerade. I det andra diagrammet ska antalet markerade sektorer bestämmas utifrån beräkningen.

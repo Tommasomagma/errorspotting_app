@@ -1,0 +1,1 @@
+Check how the comma in 1,009 affects the multiplication, especially the place values used in your calculation.

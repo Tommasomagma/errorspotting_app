@@ -1,0 +1,1 @@
+"Beräkna.\n\n$878+563=$". Problem image: En tabell som används för att visa addition av tre-siffriga tal. Översta raden visar talet 878 och under den raden står talet 563 med ett plustecken framför. Under detta finns en blå horisontell linje.

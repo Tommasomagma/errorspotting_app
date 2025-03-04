@@ -1,0 +1,1 @@
+"Polly äter upp en fjärdedel av plommonen i en fruktskål. Sedan äter Molly en tredjedel av de som finns kvar. Resten delar Sally och Nelly på. De får $3$ plommon var.\n\nHur många plommon fanns det i skålen från början?"

@@ -1,0 +1,1 @@
+Double-check how you removed the white rectangle's area from the whole—make sure you didn't miss adding the parts where x and y mix.

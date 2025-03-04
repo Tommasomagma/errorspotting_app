@@ -1,0 +1,1 @@
+"Sträckan AD är en bisektris till vinkel BAC. Bestäm vinkeln BDA.". Problem image: En triangel markerad med punkterna A, B och C. Sträckan AD är en bisektris till vinkel BAC där punkt D ligger på sidan BC. Vinkeln vid punkt B är 52 grader och vinkeln vid punkt C är 76 grader. Triangeln är rosa.

@@ -1,0 +1,1 @@
+Remember to check if you should multiply the number of items by their price instead of just adding the counts together.

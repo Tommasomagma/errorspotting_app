@@ -1,0 +1,1 @@
+"Två primtal adderas med varandra. Summan är 30. Hur många olika lösningar finns det?"

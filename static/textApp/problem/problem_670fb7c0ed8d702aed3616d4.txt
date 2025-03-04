@@ -1,0 +1,1 @@
+"En vind blåser $24$ meter på $3$ sekunder. Vad är dess hastighet i m/s? Svara utan enhet.". Problem image: Bilden visar en symbolisk representation av vind, vanligtvis bestående av linjer som föreställer vindens riktning och styrka.

@@ -1,0 +1,1 @@
+"Beräkna och svara i blandad form. Förkorta om det går. \n\n$ 5\\cdot {\\Large \\frac{3}{4}} = $"

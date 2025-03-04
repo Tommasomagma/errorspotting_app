@@ -1,0 +1,1 @@
+Prova att tänka på hur många bitar du behöver från varje pizza så att summan av bitarna kan delas jämnt mellan tio personer.

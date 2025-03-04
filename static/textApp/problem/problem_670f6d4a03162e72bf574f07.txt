@@ -1,0 +1,1 @@
+"Tanjas cykelväg till skolan tar $40$ minuter. Albas cykelväg till skolan är $30$ minuter kortare.\n\nHur lång tid tar Albas cykelväg till skolan?". Problem image: Två personer som cyklar.

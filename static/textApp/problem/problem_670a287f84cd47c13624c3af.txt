@@ -1,1 +1,0 @@
-"En bakterie fördubblas varje minut. Klockan 9:00 finns endast en bakterie. Hur många bakterier kommer att finnas när klockan slår 9:05? Svara i potensform.". Problem image: En stiliserad bild av en forskare framför några teströr och ett biologiskt hot-tecken.

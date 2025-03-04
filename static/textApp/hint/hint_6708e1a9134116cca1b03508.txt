@@ -1,0 +1,1 @@
+Check if you shifted the second product one place to the left before adding it to the first.

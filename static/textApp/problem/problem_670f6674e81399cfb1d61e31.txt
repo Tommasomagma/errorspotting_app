@@ -1,0 +1,1 @@
+"Pilen visar ett hopp. Vi startar vid punkt A på tallinjen. Hur många hopp behöver vi göra för att ta oss förbi talet $0$?"

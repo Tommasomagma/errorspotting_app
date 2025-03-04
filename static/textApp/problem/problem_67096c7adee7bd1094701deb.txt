@@ -1,0 +1,1 @@
+"I bilden ser du en rektangel inritad i ett rutnät. Varje ruta är kvadratisk och har en sidlängd som är 1 cm. \n\nVad är rektangelns omkrets?". Problem image: A rectangle composed of square boxes on a grid. Each side of the boxes measures 1 inch.

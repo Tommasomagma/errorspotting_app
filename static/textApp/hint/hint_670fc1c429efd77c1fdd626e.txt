@@ -1,0 +1,1 @@
+Remember to subtract the sum of both costs from Aladin's money, rather than subtracting one cost and then adding the other.

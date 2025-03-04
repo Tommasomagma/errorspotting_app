@@ -1,0 +1,1 @@
+Take a closer look at how you apply the 18% to the correct amount, making sure you work backward from the total bill rather than multiplying directly by 18.

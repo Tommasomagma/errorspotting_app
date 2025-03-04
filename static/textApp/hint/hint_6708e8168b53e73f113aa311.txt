@@ -1,1 +1,0 @@
-Check that you first subtract exactly one third of the candies and then correctly remove half of what is left.

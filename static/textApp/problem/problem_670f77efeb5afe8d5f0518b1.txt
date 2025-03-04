@@ -1,0 +1,1 @@
+"Hur stor andel av figuren är färgad?". Problem image: Ett rektangulärt rutnät indelat i sex lika stora kvadrater varav fem är färgade i blått och en är ofärgad.

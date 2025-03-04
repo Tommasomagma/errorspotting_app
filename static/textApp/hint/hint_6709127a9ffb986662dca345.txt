@@ -1,0 +1,1 @@
+Check if adding all numbers is what the problem asked for, or if you need only Albin's number.

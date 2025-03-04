@@ -1,0 +1,1 @@
+It looks like you might have divided by the map distance instead of multiplying it by the scale factor.

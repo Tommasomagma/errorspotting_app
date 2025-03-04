@@ -1,0 +1,1 @@
+Check the place values are lined up correctly when you subtract each digit.

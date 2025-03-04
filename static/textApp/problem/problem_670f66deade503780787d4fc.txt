@@ -1,0 +1,1 @@
+"I en kakburk får det plats $24$ småkakor. Hur många småkakor finns i kakburken om den är fylld till $\\Large \\frac{1}{3}$?"

@@ -1,0 +1,1 @@
+Make sure you are multiplying 7 by 8 instead of squaring 7.

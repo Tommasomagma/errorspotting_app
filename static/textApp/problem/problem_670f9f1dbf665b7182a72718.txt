@@ -1,0 +1,1 @@
+"Fia multiplicerar två bråk och får produkten ${\\Large\\frac{2}{5}}$. Det ena bråket var ${\\Large\\frac{8}{25}}$.\n\nVad var det andra bråket?"

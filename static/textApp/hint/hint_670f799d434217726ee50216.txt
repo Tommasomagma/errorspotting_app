@@ -1,0 +1,1 @@
+Take a closer look at how you handle multiplying both sides by x and dividing by 0.1 to isolate x.

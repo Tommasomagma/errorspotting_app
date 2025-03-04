@@ -1,0 +1,1 @@
+Think about how changing "per thousand" to "per hundred" means you divide the number by 10.

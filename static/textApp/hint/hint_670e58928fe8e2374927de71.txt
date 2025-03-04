@@ -1,0 +1,1 @@
+Try converting all the numbers to the same format to ensure you're comparing their correct sizes.

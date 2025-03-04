@@ -1,0 +1,1 @@
+"Alice köper ett par skor för 328 kr och en tröja för 79 kr. Hur mycket betalar hon totalt?". Problem image: Ett par skor.

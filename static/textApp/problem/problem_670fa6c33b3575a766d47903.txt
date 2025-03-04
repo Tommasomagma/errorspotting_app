@@ -1,0 +1,1 @@
+"Vad ska stå i stället för $x$?\n\n$20\\cdot x= 28$"

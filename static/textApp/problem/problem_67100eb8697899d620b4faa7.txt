@@ -1,0 +1,1 @@
+"Vilka tal kan $x$, $y$ och $z$ vara om alla talen är olika? Ge ett svar där minst ett av talen är i decimalform. \n\n${x \\cdot y \\cdot z}=105$"

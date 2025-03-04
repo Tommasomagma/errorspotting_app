@@ -1,0 +1,1 @@
+"En rektangel har basen 8 centimeter och höjden 7 centimeter. \n\nBeräkna rektangelns area."

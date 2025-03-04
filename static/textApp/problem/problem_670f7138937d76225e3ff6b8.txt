@@ -1,0 +1,1 @@
+"Omkretsen på en sexhörning med lika långa sidor är 42 cm.\n\nHur lång är en sida?"

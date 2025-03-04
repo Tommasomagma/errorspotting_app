@@ -1,0 +1,1 @@
+Check if the percentages should be combined by adding rather than multiplying when they refer to the same proportion of a whole.

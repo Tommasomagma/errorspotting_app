@@ -1,0 +1,1 @@
+"Förenkla uttrycket.\n\n${\\Large\\frac{\\sqrt{x^2}}{\\sqrt{x^3}}}$"

@@ -1,0 +1,1 @@
+Double-check how you turn 40% into 0.4 and use it in the equation instead of multiplying when you should be dividing.

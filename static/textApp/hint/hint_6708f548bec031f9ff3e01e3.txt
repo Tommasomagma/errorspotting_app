@@ -1,0 +1,1 @@
+Try breaking the figure into the square and the half circle, calculate each area separately, then add them together with careful rounding.

@@ -1,0 +1,1 @@
+Maybe check if you factored out the common factor from every term instead of dividing all parts by it.

@@ -1,0 +1,1 @@
+Remember to carefully include the ½ factor in the area formula, as the height is not found by just dividing the area by the base.

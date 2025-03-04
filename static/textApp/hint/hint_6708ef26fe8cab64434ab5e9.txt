@@ -1,0 +1,1 @@
+It looks like there might be an extra multiplication by 8—try checking whether every factor in your calculation comes directly from the problem statement.

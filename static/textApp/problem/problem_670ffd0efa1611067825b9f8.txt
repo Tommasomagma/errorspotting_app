@@ -1,0 +1,1 @@
+"Skriv vinst i så många av fälten på lyckohjulet så att chansen att vinna är $50\\ \\%$.\n\nHur många fält behöver fyllas i?"

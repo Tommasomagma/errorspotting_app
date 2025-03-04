@@ -1,0 +1,1 @@
+Review the placement of zeros in your multiplication to ensure each digit stays in its proper place.

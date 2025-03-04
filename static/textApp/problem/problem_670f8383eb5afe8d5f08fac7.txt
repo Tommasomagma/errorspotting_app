@@ -1,0 +1,1 @@
+"En sexsidig tärning kastas. Hur stor är sannolikheten att det blir en etta eller en tvåa?\n\nSvara med bråk i enklaste form."

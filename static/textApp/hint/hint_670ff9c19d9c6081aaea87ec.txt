@@ -1,0 +1,1 @@
+Double-check that you have replaced every instance of x with 3 before multiplying to find the area.

@@ -1,0 +1,1 @@
+When adding numbers like 10^3, remember that the exponent does not add but the numbers do.

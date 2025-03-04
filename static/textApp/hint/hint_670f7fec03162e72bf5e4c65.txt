@@ -1,0 +1,1 @@
+Remember to check how many full days fit into 60 hours and use the leftover hours to update the clock.

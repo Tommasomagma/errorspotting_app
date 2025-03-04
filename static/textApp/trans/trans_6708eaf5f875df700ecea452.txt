@@ -1,0 +1,4 @@
+$2\cdot10^8\cdot4\cdot10^3$
+$\qquad \stackrel{+}{8} \qquad 11$
+$\qquad \qquad =8$
+$=8\cdot10^{''}$

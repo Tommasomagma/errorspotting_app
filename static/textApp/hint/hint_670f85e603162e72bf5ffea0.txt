@@ -1,0 +1,1 @@
+Check the placement of your decimal point when dividing by 100 to make sure each step matches the problem description.

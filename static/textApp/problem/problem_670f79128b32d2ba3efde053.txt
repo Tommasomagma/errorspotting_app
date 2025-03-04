@@ -1,0 +1,1 @@
+"Hur mycket är ${\\Large\\frac{2}{5}}+{\\Large\\frac{2}{5}}$?"

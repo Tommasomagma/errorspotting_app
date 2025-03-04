@@ -1,0 +1,1 @@
+Make sure you include the rightmost digit’s value (the 2^0 place) when adding the powers of 2.

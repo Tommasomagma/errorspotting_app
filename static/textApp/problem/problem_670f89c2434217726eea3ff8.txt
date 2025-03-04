@@ -1,0 +1,1 @@
+"Hur många procent av figuren är rosa?". Problem image: Bilden visar en figur som består av två större kvadrater uppdelade var och en i en blå och en gul del, samt en mindre central kvadrat som är delad diagonalt i en rosa och en blå del. De större kvadraterna är sammanlänkade genom den centrala kvadraten.

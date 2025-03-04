@@ -1,1 +1,0 @@
-"Sambanden mellan temperaturer i grader Celsius och grader Farenheit kan beskrivas på två sätt:\n\n$C = {\\Large \\frac{F \\ - \\ 32}{1{,}8}}$\n\noch \n\n$F = 1{,}8C + 32$. \n\nHur många grader Celsius motsvarar $0 \\degree $F? Avrunda till en decimal."

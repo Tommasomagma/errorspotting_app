@@ -1,0 +1,1 @@
+"Beräkna.\n\n$2 \\cdot 6=$". Problem image: Två grupper av cirklar ordnade vertikalt inom streckade rektanglar, varje grupp innehåller tre cirklar i en kolumn.

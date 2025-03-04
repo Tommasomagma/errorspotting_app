@@ -1,0 +1,1 @@
+"I en kulpåse ligger 6 vita och 4 blå kulor. Du stoppar ner handen och tar upp en kula.\n\nVad är sannolikheten att du får upp en blå kula?". Problem image: Bilden visar två kulor, en vit och en blå, för att representera de olika färgerna på kulorna i påsen.

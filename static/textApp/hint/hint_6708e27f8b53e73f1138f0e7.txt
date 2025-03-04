@@ -1,0 +1,1 @@
+Check that you correctly interpreted the sequence and added the right amount to each number.

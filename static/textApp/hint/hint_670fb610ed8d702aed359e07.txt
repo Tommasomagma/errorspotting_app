@@ -1,0 +1,1 @@
+Check if you squared 0,5 and 1/2 correctly.

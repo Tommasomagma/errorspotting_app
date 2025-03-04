@@ -1,0 +1,1 @@
+"Beräkna.\n\n$2+25 =$". Problem image: En additionstabell med två rader och tre kolumner. Övre raden visar siffrorna 2 och 5. Nedre raden visar tecknet för addition och siffran 2. En horisontell linje separerar de två raderna.

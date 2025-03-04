@@ -1,0 +1,1 @@
+"Vilket är det minsta talet?\n\n\n${0{,}5} \\hspace{0.3cm}{0{,}05} \\hspace{0.3cm}{0{,}005} \\hspace{0.3cm}{0{,}55}$"

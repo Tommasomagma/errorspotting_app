@@ -1,0 +1,1 @@
+Check if you properly multiplied the per‐kg price by the nail's weight before finding the total for two nails.

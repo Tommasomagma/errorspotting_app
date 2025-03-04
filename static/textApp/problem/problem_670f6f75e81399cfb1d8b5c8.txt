@@ -1,0 +1,1 @@
+"Beräkna arean av den övre rektangeln.". Problem image: Bilden visar två rektanglar staplade vertikalt. Den övre rektangeln har längden 0,2 decimeter och bredden 0,1 decimeter. Den undre rektangeln är uppdelad i två kvadrater, varje kvadrat är 1 cm bred. Längden av båda de undre kvadraterna tillsammans är 2 cm.

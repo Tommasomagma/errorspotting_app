@@ -1,1 +1,0 @@
-Double-check that you're finding the percentage of savings rather than just the saved amount by doing a fraction of the total.

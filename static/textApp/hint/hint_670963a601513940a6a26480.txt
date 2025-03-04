@@ -1,0 +1,1 @@
+Check if you multiplied by 0.5 instead of dividing by 0.5 to find the time.

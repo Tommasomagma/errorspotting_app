@@ -1,0 +1,1 @@
+"Beräkna. \n\n$400 \\cdot 3=$". Problem image: En tallinje med markeringar vid 0, 400, 800 och 1 200. Tre bågar går från 0 till 400, från 400 till 800, och från 800 till 1 200.

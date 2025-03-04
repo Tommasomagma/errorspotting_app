@@ -1,0 +1,1 @@
+Double-check how each term grows by the same small number—each step adds a constant amount, not multiplying by a larger number.

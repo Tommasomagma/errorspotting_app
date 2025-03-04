@@ -1,0 +1,1 @@
+Remember to multiply both the top and the bottom by the same number instead of dividing.

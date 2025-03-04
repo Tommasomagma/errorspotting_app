@@ -1,0 +1,1 @@
+Check that you apply 3% to the whole amount rather than dividing the principal into parts before multiplying.

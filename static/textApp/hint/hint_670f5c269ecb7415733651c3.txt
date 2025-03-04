@@ -1,0 +1,1 @@
+Check if you divided the correct part by the total amount instead of subtracting first.

@@ -1,0 +1,1 @@
+"Skriv talet i bråkform.\n\n$2{\\Large\\frac{1}{4}}=$"

@@ -1,0 +1,1 @@
+Double-check your steps for triangle C—make sure the side lengths and their squares are used correctly in the Pythagorean check.

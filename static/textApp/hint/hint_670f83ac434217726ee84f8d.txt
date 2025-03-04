@@ -1,0 +1,1 @@
+Check that you use the 14 equal parts to find how much is read in 3 days, not by dividing 14 by 2.

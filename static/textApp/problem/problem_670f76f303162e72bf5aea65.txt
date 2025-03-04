@@ -1,0 +1,1 @@
+"Ett bageri bakar $20$ kakor. Alexandra köper $6$ av dem.\n\nHur många kakor har bageriet kvar nu?". Problem image: A baker standing beside a rack filled with bread.

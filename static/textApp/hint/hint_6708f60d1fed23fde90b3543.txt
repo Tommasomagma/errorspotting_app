@@ -1,0 +1,1 @@
+Double-check if your final step should round the amount to a whole number based on the currency used.

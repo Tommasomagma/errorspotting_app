@@ -1,0 +1,1 @@
+Take another look at how you added the same amount to each term, especially when going from -9 to your next number.

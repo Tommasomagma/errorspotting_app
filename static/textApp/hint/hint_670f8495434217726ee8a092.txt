@@ -1,0 +1,1 @@
+Remember to check that you group and compute the parts inside the parentheses before doing multiplication, so the terms match the original expression.

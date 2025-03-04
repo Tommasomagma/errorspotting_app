@@ -1,0 +1,1 @@
+"Elscooter AB erbjuder att man kan hyra en elscooter för $120$ kr per timme och en startavgift på $15$ kr. \n\nSkriv en formel för kostnaden $y$ kr att hyra en elscooter i $x$ minuter.". Problem image: En tecknad elscooter.

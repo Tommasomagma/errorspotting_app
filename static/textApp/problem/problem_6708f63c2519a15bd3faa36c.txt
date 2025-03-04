@@ -1,0 +1,1 @@
+"Talet $6\\cdot 10^4$ är skrivet i grundpotensform. Vilket tal ska du addera med för att exponenten $4$ ska ändras till $5$? Svara i grundpotensform."

@@ -1,0 +1,1 @@
+"På rean hittar Danny godispåsar som endast är fyllda $\\Large\\frac{3}{5}$ av den vanliga mängden. Danny köper 4 godispåsar på rean. \n\nHur stor andel av en vanlig påse köper Danny totalt? Svara i bråkform."

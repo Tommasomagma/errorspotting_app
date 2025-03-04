@@ -1,0 +1,1 @@
+"Beräkna.\n\n$\\Large\\frac{52}{4}\\small=$"

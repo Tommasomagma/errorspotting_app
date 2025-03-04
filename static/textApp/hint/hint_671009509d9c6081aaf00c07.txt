@@ -1,0 +1,1 @@
+Check if 320 represents 40% of the original price, instead of multiplying it by 1.6.

@@ -1,1 +1,0 @@
-Double-check that you're multiplying the proper number from the table by 5 rather than using unrelated numbers in your calculation.

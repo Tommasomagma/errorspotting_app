@@ -1,1 +1,1 @@
-Tänk på att varje meter har 100 centimeter, så multiplicera antalet meter med 100!
+Double-check your conversion factor from meters to centimeters to ensure you multiplied by the right amount.

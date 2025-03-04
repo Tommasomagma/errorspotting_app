@@ -1,0 +1,1 @@
+Double-check that you are not subtracting blue plastic gems twice since they are already included in the plastic count.

@@ -1,0 +1,1 @@
+Double-check that each operation in your calculation directly follows the interest formula without subtracting extra terms.

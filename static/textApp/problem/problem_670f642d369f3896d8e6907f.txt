@@ -1,0 +1,1 @@
+"Beräkna. \n\n$2 \\cdot 3=$". Problem image: Två grupperade rektanglar med var tre cirklar inuti varje.

@@ -1,0 +1,1 @@
+"Beräkna och välj rätt alternativ i grundpotensform.\n\n$7\\cdot10^{-4}\\cdot 6\\cdot10^{-6}=$"

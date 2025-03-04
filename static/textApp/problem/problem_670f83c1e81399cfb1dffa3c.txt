@@ -1,0 +1,1 @@
+"Beräkna. Kontrollera att ditt svar är rimligt.\n\n$42{,}9+8{,}65=$"

@@ -1,0 +1,1 @@
+Se över subtraktionens ordning: börja med det totala antalet kakor och ta bort det Alexandra köper.

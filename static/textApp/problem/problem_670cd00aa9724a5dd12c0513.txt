@@ -1,0 +1,1 @@
+"Ersätt frågetecknen med ett negativt tal så att likheterna stämmer. \n\n $(?) + (?) = -10 $"

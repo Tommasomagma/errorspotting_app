@@ -1,1 +1,1 @@
-Remember to check that both numbers are prime, since 1 is not considered a prime number.
+Remember to ensure that both numbers you add are prime numbers.

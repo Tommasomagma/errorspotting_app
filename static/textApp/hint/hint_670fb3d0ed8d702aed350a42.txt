@@ -1,0 +1,1 @@
+Try checking the factor you used to simplify the fraction, as it seems like you divided by 10 instead of the correct common factor.

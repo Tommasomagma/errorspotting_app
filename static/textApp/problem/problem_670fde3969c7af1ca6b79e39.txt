@@ -1,0 +1,1 @@
+"Ett tåg har tre vagnar. I vagn A sitter hälften så många som i vagn B. I vagn C sitter 15 personer färre än det dubbla antalet personer i vagn B. Det sitter 3 gånger så många passagerare i vagn C som i vagn A. \n\nHur många passagerare finns sammanlagt i de tre vagnarna?". Problem image: Ett rött tåg.

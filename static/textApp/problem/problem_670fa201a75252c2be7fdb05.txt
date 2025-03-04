@@ -1,0 +1,1 @@
+"Vilket svar är bäst?\n\n${68{,}2} + {19{,}9} + {43{,}5} \\approx $"

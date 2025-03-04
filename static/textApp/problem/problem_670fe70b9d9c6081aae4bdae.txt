@@ -1,0 +1,1 @@
+"Vilket tal fattas? \n\n$\\Large \\frac{2}{5}$ av $ \\ \\underline{\\hspace{0.5cm}} = 28$"

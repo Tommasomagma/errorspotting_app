@@ -1,0 +1,1 @@
+"Ställ upp och beräkna.\n\nEn skolklass ska gå på tivoli. Det är två lärare och 20 elever. Biljetterna kostar 150 kronor för vuxna och 85 kronor för barn. \n\nHur mycket kostar biljetterna sammanlagt? Svara i kronor."

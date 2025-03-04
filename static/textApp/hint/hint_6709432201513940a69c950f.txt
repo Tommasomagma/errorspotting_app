@@ -1,0 +1,1 @@
+Check the step where you isolate x, and make sure you subtract 11 from the equation instead of stopping at 8.

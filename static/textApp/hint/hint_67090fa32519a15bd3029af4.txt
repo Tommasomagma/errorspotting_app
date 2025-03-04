@@ -1,0 +1,1 @@
+Make sure to use the scale factor given (1:800) instead of 100 when multiplying to find the real length.

@@ -1,1 +1,0 @@
-Take another look at how you change both top and bottom when resizing the fraction to have 18 as the denominator.

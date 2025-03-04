@@ -1,0 +1,1 @@
+"Bilden visar 80 äpplen, varav 20 är gröna. \n\nHur stor andel är gröna? Svara i decimalform.". Problem image: Bild som visar flera rader av äpplen där en del är röda och en mindre del är gröna.

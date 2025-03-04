@@ -1,0 +1,1 @@
+Double-check how the decimals add up, especially ensuring the tenths place isn’t dropped in the sum.

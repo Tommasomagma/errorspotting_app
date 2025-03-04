@@ -1,0 +1,1 @@
+"Esma har $x$ kr i sin plånbok. Frida har hälften så mycket pengar som Esma. Sofia har $10$ kr mer än Frida. Skriv ett uttryck för hur mycket pengar Sofia har."

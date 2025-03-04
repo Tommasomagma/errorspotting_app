@@ -1,0 +1,1 @@
+"Hur stor andel av figuren är färgad? Svara i procent.". Problem image: Ett rektangulärt rutnät bestående av tre rader och fem kolumner. Vissa rutor är färgade.

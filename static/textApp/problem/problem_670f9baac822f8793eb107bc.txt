@@ -1,0 +1,1 @@
+"Beräkna.\n\n8 % av 200 elever"

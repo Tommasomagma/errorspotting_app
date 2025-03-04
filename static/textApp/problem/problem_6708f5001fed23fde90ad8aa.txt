@@ -1,1 +1,0 @@
-"I ett stall finns sju hästar. Varje dag får hästarna 2 kg morötter var. \n\nOm en påse innehåller 700 gram morötter, hur många påsar behöver stallet köpa in per vecka?". Problem image: En silhuett av en häst.

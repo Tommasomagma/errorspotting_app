@@ -1,0 +1,1 @@
+"Beräkna och välj svaret i grundpotensform.\n\n$3 \\cdot 10^2 \\cdot 3 \\cdot 10^4=$"

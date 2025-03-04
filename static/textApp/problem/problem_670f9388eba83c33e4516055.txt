@@ -1,0 +1,1 @@
+"Lös ekvationen. Svara i decimalform med två decimaler.\n\n$x^2-250=0$\n\nVilken är den minsta lösningen?"

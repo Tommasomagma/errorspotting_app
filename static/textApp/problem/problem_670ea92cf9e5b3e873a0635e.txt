@@ -1,0 +1,1 @@
+"Hamid köper 21 läskflaskor som kostar 7 kr styck. \n\nHur mycket kostar läsken totalt?". Problem image: En läskflaska.

@@ -1,0 +1,1 @@
+Double-check if you divided both numbers by the largest number they share, not just by a smaller one like 10.

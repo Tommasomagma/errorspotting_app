@@ -1,0 +1,1 @@
+Double-check how the decimal in 0.075 should be handled before multiplying by 800.

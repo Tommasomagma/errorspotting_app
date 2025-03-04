@@ -1,1 +1,0 @@
-nan. Problem image: A grid representing a multi-digit addition problem with two numbers. The first number consists of four digits, the second number has three digits and is lacking a digit in the tens place. The sum of the numbers is fully displayed in four digits.

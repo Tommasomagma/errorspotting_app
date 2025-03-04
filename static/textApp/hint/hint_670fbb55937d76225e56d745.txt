@@ -1,0 +1,1 @@
+Double-check how you distribute multiplication over products—it looks like you mixed up multiplying a product with adding individual terms.

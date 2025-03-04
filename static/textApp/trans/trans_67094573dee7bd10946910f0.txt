@@ -1,0 +1,1 @@
+$\frac{\frac{16}{4}}{5}, \frac{16}{4} \cdot 5 = \frac{16 \cdot 1}{4 \cdot 5} = \frac{16}{20}$

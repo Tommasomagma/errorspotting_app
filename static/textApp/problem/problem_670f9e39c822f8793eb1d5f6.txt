@@ -1,0 +1,1 @@
+"Skriv på ett kortare sätt.\n\n$7\\cdot 7 \\cdot 7\\cdot 7\\cdot 7=$"

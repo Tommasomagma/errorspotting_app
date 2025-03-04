@@ -1,0 +1,1 @@
+"Välj rätt tecken $<$, $>$ eller $=$. \n\n${\\Large\\frac{30}{10}} \\ \\ \\underline{\\hspace{0.5cm}} \\ \\ {\\Large\\frac{12}{4}}$"

@@ -1,0 +1,1 @@
+"Dennis har fler än $20$ men färre än $100$ chokladbitar. Om Dennis och $3$ vänner delar lika blir det $3$ chokladbitar över. Om de i stället är $5$ personer som delar lika blir det bara en bit kvar. Ge ett förslag på hur många chokladbitar Dennis har."

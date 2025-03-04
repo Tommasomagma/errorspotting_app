@@ -1,0 +1,1 @@
+Remember to add the original loan amount to your interest calculation.

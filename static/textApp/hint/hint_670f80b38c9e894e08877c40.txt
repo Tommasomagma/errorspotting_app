@@ -1,0 +1,1 @@
+Double-check if you really need to square 105 before dividing, or just divide 105 by 3 as the problem says.

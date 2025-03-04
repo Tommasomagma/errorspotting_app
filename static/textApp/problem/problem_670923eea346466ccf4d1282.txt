@@ -1,0 +1,1 @@
+"When evaluating a numerical expression that contains parentheses, we start by evaluating what's inside the parentheses.\n\n**Solve:**\n\n$\\large (\\underbrace{2+4})\\times 5$  \n$\\large\\  =6 \\quad\\ \\times5$  \n$\\large\\ =\\underline{\\ \\ \\ \\ \\ \\ }$"

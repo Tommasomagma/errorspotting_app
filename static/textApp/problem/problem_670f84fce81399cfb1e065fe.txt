@@ -1,0 +1,1 @@
+"Beräkna omkretsen av en tejprulle med diametern $55$ mm. Avrunda till hela millimeter."

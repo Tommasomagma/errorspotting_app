@@ -1,0 +1,1 @@
+Check if you matched the digits with their correct place values when reading the table.

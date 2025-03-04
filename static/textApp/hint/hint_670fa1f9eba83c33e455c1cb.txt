@@ -1,0 +1,1 @@
+Check if you applied the same operation correctly to every term in the original equation.

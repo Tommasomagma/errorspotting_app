@@ -1,0 +1,1 @@
+Dubbelkolla noggrant hur många kvadrater som är färgade jämfört med hela stapeln.

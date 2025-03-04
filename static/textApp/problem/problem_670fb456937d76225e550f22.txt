@@ -1,0 +1,1 @@
+"Bestäm värdet av följande uttryck om $x=0{,}7$.\n\n${\\Large\\frac{2x}{2}}-{\\Large\\frac{x}{2}} $"

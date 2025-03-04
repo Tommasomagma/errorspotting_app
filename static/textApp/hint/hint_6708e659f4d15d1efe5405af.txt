@@ -1,0 +1,1 @@
+Look at how each letter moves along the alphabet and try to find the pattern in their positions.

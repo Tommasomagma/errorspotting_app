@@ -1,1 +1,0 @@
-"I en stafett ska ett lag springa 2 km totalt. Om varje lagmedlem springer 0,4 km, hur många lagmedlemmar behövs då?". Problem image: Två stiliserade ikoner som representerar lagmedlemmar i en stafett. Varje ikon har en löpartröja och ett huvudband.

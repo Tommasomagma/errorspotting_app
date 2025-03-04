@@ -1,0 +1,1 @@
+"Hanna köpte ett gammalt skåp. Skåpet kostade $4\\ 800$ kr inklusive hemkörning. Men Hanna fick $15$ % i rabatt eftersom hon körde hemskåpet själv.\n\nVilken är förändringsfaktorn?"

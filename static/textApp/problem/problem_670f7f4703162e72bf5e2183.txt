@@ -1,0 +1,1 @@
+"Skriv på vanligt sätt, utan tiopotens.\n\n$10^{5}=$"

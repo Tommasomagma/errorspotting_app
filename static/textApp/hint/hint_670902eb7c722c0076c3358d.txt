@@ -1,0 +1,1 @@
+Take another look at the shapes to make sure you count all cards that show a four-corner shape.

@@ -1,0 +1,1 @@
+Make sure you convert 20% to 0.20 before multiplying by 30.

@@ -1,1 +1,0 @@
-Tänk på att varje match är ett unikt par av lag, så försök räkna antalet olika par du kan bilda.

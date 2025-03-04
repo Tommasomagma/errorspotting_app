@@ -1,0 +1,1 @@
+Double-check if you correctly removed the eaten candies in each step from the total amount.

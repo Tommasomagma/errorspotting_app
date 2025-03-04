@@ -1,0 +1,1 @@
+Double-check whether you used the fuel actually used (49.5 liters) rather than the difference (75–49.5) when finding the distance per liter.

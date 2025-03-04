@@ -1,0 +1,1 @@
+"Klockan är halv 9. Hur många grader är det mellan minutvisaren och timvisaren?". Problem image: En analog klocka som visar halv 9. Timvisaren pekar mot siffran 9 och minutvisaren pekar mot siffran 6.

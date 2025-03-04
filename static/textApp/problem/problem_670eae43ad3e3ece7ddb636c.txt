@@ -1,0 +1,1 @@
+"Bilden visar en förlängning av ett bråk. Vilket tal har bråket förlängts med?". Problem image: Två cirkeldiagram bredvid varandra. Det första diagrammet är uppdelat i fyra lika stora delar, varav en del är färglagd i rött. Det andra diagrammet består av att totalt åtta lika stora delar, varav två angränsande delar är färglagda i rött.

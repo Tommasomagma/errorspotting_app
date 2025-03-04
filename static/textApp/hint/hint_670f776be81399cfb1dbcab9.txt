@@ -1,0 +1,1 @@
+Take another look at how you multiply the digits in 32 by 3, ensuring each part is calculated correctly.

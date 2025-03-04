@@ -1,0 +1,1 @@
+"Gör ett faktorträd för 78 och bryt ner i primtal. \n\nVilket är det största primtalet?"

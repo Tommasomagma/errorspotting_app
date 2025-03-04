@@ -1,0 +1,1 @@
+"Beräkna och svara i enklaste form.\n\n$\\bigg(\\Large\\frac{1}{2}$ $+$ $\\Large\\frac{3}{5}\\bigg)\\bigg/ {\\Large\\frac{22}{5}}=$"

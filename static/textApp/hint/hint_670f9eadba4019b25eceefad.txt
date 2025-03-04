@@ -1,0 +1,1 @@
+Check that you represented 10³ correctly as 1000 before subtracting 10²×2.

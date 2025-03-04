@@ -1,0 +1,1 @@
+Double-check that you used both zeros in 100 and correctly shifted each digit's place when multiplying.

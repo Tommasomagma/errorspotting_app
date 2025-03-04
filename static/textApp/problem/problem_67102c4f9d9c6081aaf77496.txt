@@ -1,0 +1,1 @@
+"Förenkla uttrycket.\n\n$5(6x+2)-6(5x+3)=$"

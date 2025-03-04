@@ -1,0 +1,1 @@
+"Vilket tal fattas?". Problem image: Bilden visar tre rosa cirklar arrangerade i ett triangelmönster. Övre cirkeln innehåller talet 10, högra cirkeln innehåller talet 8 och vänstra cirkeln innehåller ett frågetecken. Svarta linjer kopplar ihop cirklarna.

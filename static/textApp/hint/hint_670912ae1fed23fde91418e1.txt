@@ -1,0 +1,1 @@
+Double-check your arithmetic when adding the daily distances before dividing by the total number of days.

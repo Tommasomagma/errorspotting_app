@@ -1,0 +1,1 @@
+"Tabellen visar hur många sidor fyra elever har läst på en vecka.\n\nHur många fler sidor har Javier läst än Sophie?"

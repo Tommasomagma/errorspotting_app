@@ -1,0 +1,1 @@
+"Arash har fått i uppgift att klippa familjens gräsmatta en sommar. Både tomten och huset har sett uppifrån former som är rektangulära. Tomten har sidorna $a$ och $b$, och huset har sidorna $c$ och $d$. \n\nHur stor area behöver Arash klippa totalt under sommaren om han klipper gräsmattan fem gånger?". Problem image: En gräsklippare.

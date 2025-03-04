@@ -1,0 +1,1 @@
+Start by finding out how many candies are left after Ola's share and then work out half of that number.

@@ -1,1 +1,0 @@
-Remember to divide the total kilometers by 10 to find how many whole mil there are.

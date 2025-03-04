@@ -1,0 +1,1 @@
+"Avrunda till tiotal och heltal och beräkna.\n\n${\\Large\\frac{92}{2{,}1}} \\approx$"

@@ -1,0 +1,1 @@
+Check if you used the board length given in the problem correctly.

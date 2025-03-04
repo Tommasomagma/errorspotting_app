@@ -1,0 +1,1 @@
+Check if your steps properly match the ball pattern, especially the operations used to combine the numbers in each layer.

@@ -1,0 +1,1 @@
+Double-check how you subtract 5 from x, and try adding 5 to both sides to isolate x.

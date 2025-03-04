@@ -1,0 +1,1 @@
+Take another look at your final step where you count the factors, as it seems you mixed a prime factor with the total count.

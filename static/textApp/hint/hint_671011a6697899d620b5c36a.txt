@@ -1,0 +1,1 @@
+Double-check that you multiplied both the top and bottom by the same number to completely cancel the decimal in the denominator.

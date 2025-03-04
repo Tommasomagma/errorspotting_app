@@ -1,0 +1,1 @@
+Make sure to divide the remaining total by 5 to get the price of one glass package.

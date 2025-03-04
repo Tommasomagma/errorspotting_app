@@ -1,0 +1,1 @@
+Remember to add both the two numbers from the problem before dividing to find the number in between.

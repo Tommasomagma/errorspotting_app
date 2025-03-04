@@ -1,0 +1,1 @@
+Recheck your division step, because dividing 50 by 6 should give you a result larger than 1.

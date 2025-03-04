@@ -1,0 +1,1 @@
+Check your order of operations when isolating x, as it appears you mixed up the steps.

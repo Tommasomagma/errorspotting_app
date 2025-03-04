@@ -1,0 +1,1 @@
+Double-check that you converted all heights to the same unit before subtracting.

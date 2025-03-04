@@ -1,0 +1,1 @@
+"I den rätvinkliga triangeln ABC är sidorna 6 cm, 8 cm och 10 cm. BD är vinkelrät mot AC.\n\nHur lång är distansen BD?". Problem image: En rätvinklig triangel ABC är illustrerad med en vinkelrät linje BD från hörnet B till hypotenusan AC. Punkterna A, B, C och D är markerade på triangeln.

@@ -1,0 +1,1 @@
+Double-check your operations: if x times 6 equals 48, try dividing 48 by 6 instead of multiplying.

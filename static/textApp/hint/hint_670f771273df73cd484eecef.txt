@@ -1,0 +1,1 @@
+Check if you might have missed dividing the full rectangle's area into two parts.

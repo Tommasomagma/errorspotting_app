@@ -1,0 +1,1 @@
+Check if you first subtracted the remaining amount from the total salary before dividing to find the tax percentage.

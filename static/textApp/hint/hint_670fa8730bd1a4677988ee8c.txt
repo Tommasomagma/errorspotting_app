@@ -1,0 +1,1 @@
+Double-check if you're counting just the extra dividing lines between 0 and 1 instead of one mark for each of the segments.

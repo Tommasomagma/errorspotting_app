@@ -1,0 +1,1 @@
+Take another look at how you computed each land type as part of 600, especially the parts where you calculated the fractions.

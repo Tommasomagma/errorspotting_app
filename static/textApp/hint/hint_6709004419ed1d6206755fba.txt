@@ -1,0 +1,1 @@
+Check if you added the blue, yellow, and green pieces correctly without dividing numbers that don't need to be divided.

@@ -1,0 +1,1 @@
+It seems you might have only used one x angle instead of considering both the equal x angles in your calculation—try reexamining the diagram to see how they work together.

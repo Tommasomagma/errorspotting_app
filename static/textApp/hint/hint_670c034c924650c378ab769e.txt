@@ -1,1 +1,0 @@
-Double-check if each division by 2, 3, and 5 was applied as the problem stated.

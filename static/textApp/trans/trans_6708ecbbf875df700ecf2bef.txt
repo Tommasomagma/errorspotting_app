@@ -1,8 +1,4 @@
-->:75km
-AC
-->?:?
-AD
-->:45km
-BD
-BC->:=20km
-D=25>X
+AC ->:70km AD->:?
+BD ->:45km
+D=25>x
+BC->:20km

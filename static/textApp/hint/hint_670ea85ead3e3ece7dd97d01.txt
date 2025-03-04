@@ -1,0 +1,1 @@
+Review the steps where you connected the time difference and growth rate, especially the unit conversion, to make sure each subtraction correctly reflects the model.

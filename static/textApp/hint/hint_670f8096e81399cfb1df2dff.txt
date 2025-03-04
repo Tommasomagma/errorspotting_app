@@ -1,0 +1,1 @@
+Double-check if you should subtract 31 instead of adding it when isolating x.

@@ -1,0 +1,1 @@
+Check your exponent calculations to make sure you're using the right numbers for 8² and 2³.

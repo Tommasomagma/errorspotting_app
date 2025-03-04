@@ -1,0 +1,1 @@
+Check if you multiplied each price by the number of items instead of just adding them.

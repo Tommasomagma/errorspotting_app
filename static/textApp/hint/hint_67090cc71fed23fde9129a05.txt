@@ -1,1 +1,0 @@
-Double-check the order of operations when adding 3 to the result of subtracting 14 from x.

@@ -1,0 +1,1 @@
+"Under idrottslektionen ställer sig elever i rader med lika många i varje rad. \n\nHur många elever blir det i raden om 48 elever ställer sig i 6 rader?". Problem image: En person som springer.

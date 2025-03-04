@@ -1,0 +1,1 @@
+"På havet används enheten \"sjömil\" för att mäta avstånd. En sjömil motsvarar $1\\ 852$ meter.\n\nHur stor är skillnaden på sju sjömil och en vanlig mil? Svara i meter.". Problem image: En båt på havet.

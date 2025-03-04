@@ -1,0 +1,1 @@
+Revisa atentamente tus pasos de división, ya que 27 dividido por 8 debe dar un número menor en la parte entera.

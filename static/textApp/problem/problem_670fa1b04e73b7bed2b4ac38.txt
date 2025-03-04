@@ -1,0 +1,1 @@
+"Sven står på en stege. Han står på det det tredje trappsteget från toppen. Om han tar fyra steg ner står han _exakt_ i mitten av stegen. Hur många trappsteg finns det totalt på stegen?"

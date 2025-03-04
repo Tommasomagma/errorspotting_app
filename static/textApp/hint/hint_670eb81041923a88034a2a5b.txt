@@ -1,0 +1,1 @@
+Remember to consider the chance of getting a schlager song both times, so check the probability of drawing a schlager again after the first one is drawn.

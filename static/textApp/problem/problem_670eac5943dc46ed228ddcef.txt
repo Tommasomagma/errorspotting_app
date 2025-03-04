@@ -1,0 +1,1 @@
+"I en blomsteraffär finns det ett bord med krukor som antingen innehåller vita eller röda blommor. ${\\Large\\frac{4}{7}}$ av krukorna innehåller vita blommor, och det finns 18 krukor med röda blommor. \n\nHur många krukor finns det på bordet totalt?". Problem image: En kruka med blommor.

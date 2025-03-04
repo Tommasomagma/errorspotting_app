@@ -1,0 +1,1 @@
+It looks like you subtracted the fractions instead of checking if they are the same, so try comparing their values directly.

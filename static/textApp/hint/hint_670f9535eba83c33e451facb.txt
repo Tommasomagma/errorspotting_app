@@ -1,0 +1,1 @@
+Double-check which number should be taken away from 300, as it looks like you subtracted the result instead of finding the missing number.

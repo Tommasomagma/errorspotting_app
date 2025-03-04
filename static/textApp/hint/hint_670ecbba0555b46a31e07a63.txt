@@ -1,0 +1,1 @@
+Check if you computed 8 squared correctly.

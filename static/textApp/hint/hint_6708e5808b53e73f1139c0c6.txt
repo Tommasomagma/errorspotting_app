@@ -1,1 +1,0 @@
-Check the number of 20-minute intervals in two hours carefully, as that step might have led to the mistake.

@@ -1,0 +1,1 @@
+"Ett runt cirkustält täcker en cirkulär yta med radien $50$ m. \n\nHur stor yta täcker tältet? Använd $\\pi\\approx3{,}14$.". Problem image: Bilden visar en illustration av ett runt cirkustält. Bilden är relevant för att visa formen på ytan som frågan beskriver, vilket är en cirkel.

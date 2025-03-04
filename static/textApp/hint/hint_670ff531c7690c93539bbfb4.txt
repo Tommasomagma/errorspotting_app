@@ -1,0 +1,1 @@
+Check if you really need to subtract after dividing, since the problem only requires equal division into 7 parts.

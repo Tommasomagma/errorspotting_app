@@ -1,0 +1,1 @@
+"Välj det största talet\n\n${\\Large \\frac{3}{7}}$ $\\quad$ ${\\Large \\frac{3}{8}}$"

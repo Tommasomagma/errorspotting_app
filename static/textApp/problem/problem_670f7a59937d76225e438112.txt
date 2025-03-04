@@ -1,0 +1,1 @@
+"Är $6$ cm$^2$ större, lika stort eller mindre än $0{,}0006$ m$^2$?". Problem image: Bilden visar två rektangulära områden. Den övre rektangeln har dimensionerna 0,03 m och 0,02 m. Den nedre rektangeln är uppdelad i sex mindre kvadrater och totaldimensionerna är 3 cm och 2 cm.

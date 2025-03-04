@@ -1,0 +1,1 @@
+"Samira snurrar på ett lyckohjul.  En lila del är lika stor som en rosa del. Leo säger att sannolikheten att hjulet stannar på rosa är $30\\ \\%$.\n\nHar Leo rätt? *Motivera ditt svar.*". Problem image: Ett lyckohjul indelat i sex lika stora sektorer med tre olika färger: rosa, lila och grön. Det finns två sektorer av varje färg.

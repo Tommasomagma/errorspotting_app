@@ -1,0 +1,1 @@
+"Vilket tecken ska stå i rutan? Välj mellan $=$ och $\\neq$.\n\n$318\\ \\boxed{?}\\ 618-300$"

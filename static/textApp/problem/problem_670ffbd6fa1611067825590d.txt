@@ -1,0 +1,1 @@
+"Förenkla och svara i potensform. Svara med basen $-7$.\n\n$(-7)^3\\cdot(-7)^{-5}=$"

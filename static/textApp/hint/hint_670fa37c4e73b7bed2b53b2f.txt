@@ -1,0 +1,1 @@
+Titta noga på vad som skiljer tal i det givna intervallet från varandra och försök att använda den informationen.

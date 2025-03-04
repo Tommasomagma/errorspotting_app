@@ -1,0 +1,1 @@
+It looks like you computed only the discount amount, so be sure to subtract that from the original price.

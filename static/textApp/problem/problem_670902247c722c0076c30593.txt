@@ -1,0 +1,1 @@
+"Ange koordinaterna för topphörnet av triangeln."

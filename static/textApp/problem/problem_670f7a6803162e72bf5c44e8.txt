@@ -1,0 +1,1 @@
+"En affär har $60$ leksaker. $20$ av leksakerna är dockor och $15$ är bilar. Resten är gosedjur. \n\nHur många gosedjur finns det i affären?". Problem image: En enkel illustration av en leksaksaffär. Affären visar dockor, bilar och gosedjur på utsidan.

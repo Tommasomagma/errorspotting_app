@@ -1,0 +1,1 @@
+Double-check if you need to subtract anything after multiplying 30 by 13 to count all the students.

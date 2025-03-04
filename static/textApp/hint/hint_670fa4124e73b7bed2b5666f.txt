@@ -1,0 +1,1 @@
+Try reviewing the multiplication step that accounts for all the hair strands and the days in a year to see if every number was included correctly.

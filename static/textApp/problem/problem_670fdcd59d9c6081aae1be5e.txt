@@ -1,0 +1,1 @@
+"Rätblockets volym är 100 cm³. Bredden är 4 cm och höjden är 5 cm. \n\nVad är rätblockets längd?". Problem image: En illustration av ett rätblock som visar bredden är 4 cm och höjden är 5 cm. Volymen av rätblocket anges vara 100 cm³. Längden är inte angiven och representeras med en frågetecken.

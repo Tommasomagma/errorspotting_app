@@ -1,0 +1,1 @@
+"Vilken är sista siffra i produkten om man räknar ut $5 \\cdot 35$?"

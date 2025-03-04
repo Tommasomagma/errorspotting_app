@@ -1,0 +1,1 @@
+"Det finns ett talesätt som heter \"två steg framåt och ett steg bakåt\". Antag att en person går två meter framåt, och en meter bakåt per dag. Hur många dagar skulle det ta innan personen passerar 100 meter?". Problem image: Fotspår

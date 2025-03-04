@@ -1,0 +1,1 @@
+Check if you copied the power correctly; it looks like you missed squaring x in your work.

@@ -1,0 +1,1 @@
+"Anna och Lisa vann 50 kr på en lott och delade vinsten efter hur mycket var och en betalade för lotten. Anna betalade $\\Large \\frac{4}{5}$ av lottens kostnad. \n\nHur mycket pengar fick Anna från vinsten?". Problem image: En lott.

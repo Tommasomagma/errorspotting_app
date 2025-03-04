@@ -1,1 +1,0 @@
-Check if you correctly turned 0,453 into a percentage before rounding at the right digit.

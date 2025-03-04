@@ -1,0 +1,1 @@
+Check if you correctly applied 2/5 to the remaining money after spending 1/3 instead of multiplying it directly by 1/3.

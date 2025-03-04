@@ -1,0 +1,1 @@
+"Låt $x=9$ och beräkna $8x-2$."

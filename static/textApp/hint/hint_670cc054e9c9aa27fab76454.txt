@@ -1,1 +1,0 @@
-Check if you converted 20% correctly before multiplying with 3.5.

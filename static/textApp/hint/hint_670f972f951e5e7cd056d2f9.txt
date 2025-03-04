@@ -1,0 +1,1 @@
+Double-check why you subtracted 2 after dividing, since the problem only asks for the share given to Sami.

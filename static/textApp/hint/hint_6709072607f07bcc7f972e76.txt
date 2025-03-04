@@ -1,0 +1,1 @@
+Check that when you spread out x over (6x - y), you multiply x by y too.

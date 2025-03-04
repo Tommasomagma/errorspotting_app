@@ -1,0 +1,1 @@
+"Beräkna.\n\n $34 - 27=$". Problem image: En subtraktionstabell med två kolumner och tre rader. Översta raden visar siffrorna 3 och 4. Mellan raderna finns ett minus (-) tecken. Nedersta raden visar siffrorna 2 och 7.

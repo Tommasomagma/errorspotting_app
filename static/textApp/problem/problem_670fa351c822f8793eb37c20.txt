@@ -1,0 +1,1 @@
+"När Alice springer $50$ m tar hon $45$ steg. Hur många steg tar Alice när hon springer $1$ km? Räkna med att alla steg hon tar är lika långa."

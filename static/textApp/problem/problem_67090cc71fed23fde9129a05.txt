@@ -1,1 +1,0 @@
-"Jacob är $x$ cm lång. Oscar är $14$ cm kortare än Jacob. Adel är $3$ cm längre än Oscar. Skriv ett uttryck för hur lång Adel är och förenkla det så långt som möjligt."

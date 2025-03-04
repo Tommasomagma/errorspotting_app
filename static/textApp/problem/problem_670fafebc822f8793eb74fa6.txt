@@ -1,0 +1,1 @@
+"I en bokhylla finns sammanlagt $42$ böcker. Av dessa är $30$ deckare.  Hur stor andel av böckerna är deckare? Avrunda till hela procent."

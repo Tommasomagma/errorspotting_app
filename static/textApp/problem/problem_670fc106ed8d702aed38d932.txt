@@ -1,0 +1,1 @@
+"Beräkna. \n\n$2 + {\\Large\\frac{6}{2}} = $"

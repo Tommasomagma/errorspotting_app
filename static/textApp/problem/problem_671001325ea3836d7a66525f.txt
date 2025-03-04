@@ -1,0 +1,1 @@
+"Rita tre olika rektanglar som alla har arean $24$ cm$^2$ och beräkna omkretsen. \n\nBeräkna sedan omkretsen av en rektangel med sidorna 4 cm och 6 cm."

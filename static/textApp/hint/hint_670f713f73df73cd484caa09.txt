@@ -1,0 +1,1 @@
+Perhaps recheck your unit conversion logic when dividing the total distance by the number of trips.

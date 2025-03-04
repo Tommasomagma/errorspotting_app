@@ -1,0 +1,1 @@
+Double-check how a percentage is calculated, as 1% means one part out of 100, not 1 whole.

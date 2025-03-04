@@ -1,0 +1,1 @@
+Double-check the addition in each column to see if a digit was accidentally miscalculated.

@@ -1,0 +1,1 @@
+Check if you have correctly counted each pair of teams only once before doubling the total matches.

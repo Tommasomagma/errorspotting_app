@@ -1,0 +1,1 @@
+Take another look at how you match a 50% chance to the number of winning fields, since dividing 100 by 2 might not reflect the proper relation in the problem.

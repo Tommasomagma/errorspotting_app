@@ -1,1 +1,0 @@
-"Låt hundradelssiffran byta plats med entalssiffran i talet $43{,}18$. Vilket tal får du då?"

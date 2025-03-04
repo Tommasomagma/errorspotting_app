@@ -1,0 +1,1 @@
+"Fyll ut med 0 tiondelar eller hundradelar för att få lika många decimaler.\n\n$15{,}2+21=$"

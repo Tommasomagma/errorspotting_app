@@ -1,0 +1,1 @@
+"Beräkna arean av triangeln.". Problem image: Bilden visar en rätvinklig triangel där de två sidorna som bildar den räta vinkeln är markerade med längden 3 dm vardera.

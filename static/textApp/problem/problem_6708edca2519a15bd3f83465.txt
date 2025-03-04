@@ -1,1 +1,0 @@
-"Lös ekvationen. \n\n$  3x + (x + 6) = 26 $"

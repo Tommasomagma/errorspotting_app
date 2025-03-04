@@ -1,0 +1,1 @@
+Kolla noga så att du adderar priset sju gånger och inte blandar ihop med att använda en punkt på sista talet.

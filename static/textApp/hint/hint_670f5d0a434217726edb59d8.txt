@@ -1,0 +1,1 @@
+Take another look at how you multiplied each digit by the correct weight before adding them together.

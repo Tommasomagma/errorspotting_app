@@ -1,0 +1,1 @@
+"Gör ett faktorträd för 60 och bryt ner i primtal. \n\nVilket är det största primtalet?"

@@ -1,0 +1,1 @@
+"Leo och Samira spelar på ett lyckohjul. I varje spel snurras hjulet.\n\nLeo spelar på nummer 1, nummer 4 och nummer 7 samtidigt. Hur stor är sannolikheten att han vinner?". Problem image: Ett lyckohjul står på ett stativ och är uppdelat i åtta lika stora sektorer, var och en märkt med ett nummer från 1 till 8.

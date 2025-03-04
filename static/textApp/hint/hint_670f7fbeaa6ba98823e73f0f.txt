@@ -1,0 +1,1 @@
+Check if you read the numbers correctly and made sure to use their full decimal parts when comparing them.

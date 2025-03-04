@@ -1,0 +1,1 @@
+Try thinking about how many cuts you need for each rope, not just one overall.

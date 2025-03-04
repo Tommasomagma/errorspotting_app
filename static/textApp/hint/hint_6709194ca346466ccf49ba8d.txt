@@ -1,0 +1,1 @@
+Check if you’re adding the next larger odd number to get each term, since your added gaps might be off.

@@ -1,1 +1,0 @@
-Take another look at your conversion of 2 kg per horse per day and how you used all 7 days of the week when computing the total carrot weight.

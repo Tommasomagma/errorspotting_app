@@ -1,0 +1,1 @@
+"Vad ska stå på strecket?\n\nen fjärdedel $+$ två fjärdedelar $=\\underline{\\hspace{0.5cm}}\\ $fjärdedelar"

@@ -1,1 +1,0 @@
-$\begin{array}{ccc} & \overset{1}{7} \overset{10}{6} \overset{10}{2} & \overset{4 \cdot 10}{+73} \\ - & 389 & - 299 \\ \hline & 473 & 174 \end{array}$

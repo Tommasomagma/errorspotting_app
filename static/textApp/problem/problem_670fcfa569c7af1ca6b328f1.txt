@@ -1,0 +1,1 @@
+"Anders handlar tomater. Han köper 8 stycken, betalar med en femtiolapp och får 10 kr i växel.\n\nVad kostar tomaterna styckvis?". Problem image: Två tomater, en hel och en skivad.

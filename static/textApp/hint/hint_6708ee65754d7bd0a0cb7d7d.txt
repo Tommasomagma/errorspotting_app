@@ -1,0 +1,1 @@
+Remember to add one more roll than the number of sides to guarantee a repeat.

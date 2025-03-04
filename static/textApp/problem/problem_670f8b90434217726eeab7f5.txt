@@ -1,0 +1,1 @@
+"Beräkna.\n\n$4{,}2 + 3{,}6 = $". Problem image: En tabell uppdelad i sex rutor för att visa addition. Översta raden innehåller siffrorna 4 och 2, separerade av ett kommatecken. Raden under visar ett plustecken och siffrorna 3 och 6, också separerade av ett kommatecken. En blå horisontell linje är dragen under de två raderna för att visa var summan ska skrivas.

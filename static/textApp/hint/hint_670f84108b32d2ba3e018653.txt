@@ -1,0 +1,1 @@
+Remember that converting an area from km² to m² means multiplying the number of kilometers by 1,000 twice, so check your zeros!

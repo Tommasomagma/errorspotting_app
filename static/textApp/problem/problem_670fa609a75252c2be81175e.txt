@@ -1,0 +1,1 @@
+"En butik har $80$ blommor. $10$ av blommorna är röda och $55$ är rosa. Resten är vita. Hur många vita blommor finns det i butiken?". Problem image: En blomsterbutik.

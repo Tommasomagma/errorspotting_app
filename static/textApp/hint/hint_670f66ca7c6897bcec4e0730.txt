@@ -1,0 +1,1 @@
+It looks like you might have calculated the amount drunk, not the fraction remaining, so double-check your setup to find the leftover part of the drink.

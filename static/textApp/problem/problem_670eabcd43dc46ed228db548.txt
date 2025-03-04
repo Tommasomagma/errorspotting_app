@@ -1,0 +1,1 @@
+"Elin ska duka till fest och har ett antal lika stora bord. Om hon placerar fem personer vid varje bord fattas det fyra platser. Om hon sätter sex personer vid varje bord blir det två platser över. \n\nHur många är gästerna?"

@@ -1,0 +1,1 @@
+"En byte kan totalt visa 256 olika siffror.\n\nVad är värdet av 11111111 i det decimala talsystemet?". Problem image: En illustration av fyra serverrack bredvid en större cylinderformad databas.

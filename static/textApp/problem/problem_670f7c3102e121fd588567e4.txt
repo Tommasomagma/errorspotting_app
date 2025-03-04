@@ -1,0 +1,1 @@
+"Tova mätte en träningsrunda till 2 351 meter.\n\nSkriv längden i kilometer och avrunda till en decimal.". Problem image: En person som springer.

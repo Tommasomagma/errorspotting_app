@@ -1,0 +1,1 @@
+"Mikaela har plockat ​${\\Large\\frac{8}{5}}$​ liter hallon. Hon förpackar hallonen i burkar med ​${\\Large\\frac{2}{5}}$​ liter i varje.\n\nHur många burkar behöver hon?"

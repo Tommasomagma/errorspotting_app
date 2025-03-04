@@ -1,0 +1,1 @@
+"Vilka tre av trianglarna är rätvinkliga?". Problem image: Bilden visar fyra trianglar märkta A, B, C och D. Varje triangel har längder skrivna på sina sidor. Triangel A har längderna 3, 4 och 5. Triangel B har längderna 5, 12 och 13. Triangel C har längderna 9, 10 och 3. Triangel D har längderna 17, 15 och 8.

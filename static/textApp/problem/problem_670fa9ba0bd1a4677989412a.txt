@@ -1,0 +1,1 @@
+"En sockerbit har måtten $1 × 1{,}5 × 2$ cm. Sockerbitarna säljs i paket som är $12 × 9 × 18$ cm. Beräkna volymen av paketet."

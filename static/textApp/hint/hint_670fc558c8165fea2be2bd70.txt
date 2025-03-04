@@ -1,0 +1,1 @@
+Check if you subtracted the correct number from both sides as shown in the original equation.

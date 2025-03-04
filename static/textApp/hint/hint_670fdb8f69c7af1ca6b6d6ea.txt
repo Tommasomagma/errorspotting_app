@@ -1,0 +1,1 @@
+Check if the way you added the angles matches the clock's actual hand positions at half past nine.

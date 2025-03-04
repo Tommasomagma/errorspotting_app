@@ -1,0 +1,1 @@
+Try multiplying the number of cars per day by the number of days in a week.

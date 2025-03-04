@@ -1,0 +1,1 @@
+Try breaking the problem into parts by first dividing 15,000 by 100 and then multiplying 900 by 9 before adding the results together.

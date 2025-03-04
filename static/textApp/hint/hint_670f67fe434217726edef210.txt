@@ -1,0 +1,1 @@
+It looks like you might have added all the numbers instead of subtracting the costs from the starting amount.

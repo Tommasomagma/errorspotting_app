@@ -1,0 +1,1 @@
+Double-check your rounding step to ensure you're rounding to one decimal place instead of to a whole number.

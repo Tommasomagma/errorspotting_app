@@ -1,0 +1,1 @@
+Try checking if you need to round your sum to a neat number since the problem asks for an approximate distance.

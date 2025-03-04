@@ -1,0 +1,1 @@
+Double-check how you set up the percentage calculation instead of raising numbers to a power.

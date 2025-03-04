@@ -1,0 +1,1 @@
+"Lös ekvationen. Svara med två decimaler.\n\n$267-4x^3=25$"

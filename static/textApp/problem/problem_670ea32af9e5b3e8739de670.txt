@@ -1,0 +1,1 @@
+"Skriv det bråk som saknas.\n\n$1-\\large\\frac{4}{5}= \\ \\underline{\\hspace{1cm}}$"

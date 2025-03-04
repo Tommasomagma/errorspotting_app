@@ -1,0 +1,1 @@
+Check if you’re using both growth factors when the problem only asks for last year’s growth.

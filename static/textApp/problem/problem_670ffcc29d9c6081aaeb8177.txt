@@ -1,0 +1,1 @@
+"Beräkna. Förkorta om det går. \n\n${\\Large \\frac{1}{2}} \\cdot {\\Large \\frac{1}{3}} = $"

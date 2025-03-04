@@ -1,0 +1,1 @@
+"Beräkna och svara i enklaste bråkform.\n\n${\\Large\\frac{14}{24}}-{\\Large\\frac{6}{24}}=$"

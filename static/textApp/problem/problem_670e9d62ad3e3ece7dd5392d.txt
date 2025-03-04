@@ -1,0 +1,1 @@
+"Skriv talen i decimalform och beräkna.\n\n$2{,}34 - {\\Large \\frac{1}{4}} =$"

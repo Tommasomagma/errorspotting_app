@@ -1,0 +1,1 @@
+Check if your use of the 0.75 factor in your proportional setup matches the similar triangles drawn from the problem description.

@@ -1,0 +1,1 @@
+"Morfar är $63$ år och mamma är $37$ år.\n\nHur mycket äldre är morfar än mamma?"

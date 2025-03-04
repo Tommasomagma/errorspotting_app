@@ -1,0 +1,1 @@
+"Vad är $x$?". Problem image: The image shows two intersecting lines forming angles. Line segment OD is a straight horizontal line with points D and A at its ends. Line segments OC and OB intersect OD at point O and form angles with it. The angle COD is labeled 'x degrees' and the angle AOB is labeled '110 degrees'. The angle BOA is also labeled 'x degrees'.

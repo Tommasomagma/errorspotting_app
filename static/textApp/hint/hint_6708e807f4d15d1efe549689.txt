@@ -1,0 +1,1 @@
+Take another look at the operation used here—does adding 1 best continue the pattern?

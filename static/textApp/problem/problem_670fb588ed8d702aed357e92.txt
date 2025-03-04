@@ -1,0 +1,1 @@
+"Beräkna radien om diametern är $2$ dm."

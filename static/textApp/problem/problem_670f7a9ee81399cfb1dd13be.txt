@@ -1,0 +1,1 @@
+"Beräkna och svara med en tiopotens.\n\n$10^2 \\cdot 10^3=$"

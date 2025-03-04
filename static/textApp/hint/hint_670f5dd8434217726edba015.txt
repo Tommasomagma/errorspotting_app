@@ -1,0 +1,1 @@
+Double-check how you handled the multiplication and distribution in each step, as it seems a wrong operation may have led you off track.

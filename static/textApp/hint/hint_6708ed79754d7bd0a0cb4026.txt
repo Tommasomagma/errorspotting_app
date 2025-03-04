@@ -1,1 +1,1 @@
-Check that you correctly handle each spending step, especially when subtracting the fractions of money spent.
+Double-check that you're dividing the correct remainder after buying the phone case by 4, not the original amount.

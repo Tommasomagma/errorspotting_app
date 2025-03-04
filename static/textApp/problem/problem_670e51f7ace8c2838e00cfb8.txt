@@ -1,0 +1,1 @@
+"Simon hade en flaska med $1{\\Large\\frac{1}{2}}$​ liter läsk. Han hällde upp ​${\\Large\\frac{1}{3}}$​ liter i ett glas och ​${\\Large\\frac{1}{4}}$​ liter i ett annat glas.\n\nHur mycket läsk hade Simon kvar i flaskan?"

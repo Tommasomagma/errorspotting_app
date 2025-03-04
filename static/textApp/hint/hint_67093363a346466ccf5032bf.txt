@@ -1,0 +1,1 @@
+Double-check your step where you divided by 2 to be sure you correctly used that the blue box has twice as many balls as the yellow box.

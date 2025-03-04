@@ -1,0 +1,1 @@
+"Välj de tal som är delbara med $3$. \n\n$9 \\hspace{0.5cm} 17 \\hspace{0.5cm} 22  \\hspace{0.5cm}84  \\hspace{0.5cm} 108  \\hspace{0.5cm} 336 \\hspace{0.5cm} 418$"

@@ -1,0 +1,1 @@
+Take another look at your multiplication—ensure you correctly compute the product of 27,000,000 and 0.9 and 0.8 without any mix-up in shifting the decimal or digits.

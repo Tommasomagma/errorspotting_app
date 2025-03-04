@@ -1,0 +1,1 @@
+"Hur mycket pengar visas i bilden?\n\n$20+30=$". Problem image: En svensk tjugo-kronorssedel till vänster och tre svenska tio-kronorsmynt till höger, separerade av ett plus-tecken.

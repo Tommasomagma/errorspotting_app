@@ -1,0 +1,1 @@
+Remember to check if you mixed up the base number with the exponent, as the exponent tells you how many times to multiply the base.

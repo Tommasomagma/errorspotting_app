@@ -1,0 +1,1 @@
+Double-check that your columns and partial sums align correctly in each step of your multiplication.

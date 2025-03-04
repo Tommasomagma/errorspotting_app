@@ -1,0 +1,1 @@
+"En husmodell är gjord i skalan $1:100$. Modell har volymen 700 cm$^3$. \n\nVad blir husets volym i verkligheten?"

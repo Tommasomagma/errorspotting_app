@@ -1,0 +1,1 @@
+It looks like you changed 2.4 to 24 incorrectly—check how multiplying by 10 affects decimals in your calculation.

@@ -1,0 +1,1 @@
+"Elvis såg $7$ fåglar. Sedan såg han $1$ till.\n\nHur många fåglar såg han totalt?". Problem image: A cartoon illustration of a person with binoculars. The person is surrounded by several birds in flight.

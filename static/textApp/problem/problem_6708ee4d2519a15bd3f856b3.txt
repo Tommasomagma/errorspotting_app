@@ -1,0 +1,1 @@
+"Beräkna. \n\n${\\Large\\frac{-x}{-2x}} = $"

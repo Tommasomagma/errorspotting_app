@@ -1,0 +1,1 @@
+"Frida gör en triangelmacka. De två triangulära ytorna på mackan har båda höjden 12 centimeter och basen 10 centimeter. \n\nHur stora är dessa ytor tillsammans?". Problem image: Bilden visar en triangulär smörgås där höjden är markerad som 12 centimeter och basen som 10 centimeter för en av de triangulära ytorna.

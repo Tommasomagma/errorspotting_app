@@ -1,0 +1,1 @@
+"Tilda och Emelie samlar poäng i ett spel. Tilda har $92$ poäng. Emelie har $55$ poäng färre än Tilda. Hur många poäng har Emelie?". Problem image: En digital poängräknare med tre stjärnor ovanför. Räknaren visar poäng men den exakta siffran är inte specificerad.

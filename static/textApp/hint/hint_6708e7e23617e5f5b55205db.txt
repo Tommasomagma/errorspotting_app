@@ -1,0 +1,1 @@
+It looks like you added 1 instead of following the pattern—check if the difference between numbers is consistent.

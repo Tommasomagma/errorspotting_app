@@ -1,0 +1,1 @@
+"Beräkna produkten av $12$ och $6$."

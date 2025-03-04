@@ -1,0 +1,1 @@
+"Vilket tal fattas?\n\n$1\\ 000\\ 000\\ 000-\\underline{\\hspace{0.5cm}}\\ =750\\ 000\\ 000 $"

@@ -1,0 +1,1 @@
+Check if you correctly replaced x with 3 to get the side length from the perimeter before finding the area.

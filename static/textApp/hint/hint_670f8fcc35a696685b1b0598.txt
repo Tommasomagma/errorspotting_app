@@ -1,0 +1,1 @@
+Try writing the repeated multiplication as a power instead of just calculating it step-by-step.

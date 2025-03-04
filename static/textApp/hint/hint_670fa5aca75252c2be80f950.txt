@@ -1,0 +1,1 @@
+Double-check if you've included both groups of teams when multiplying the players per team.

@@ -1,0 +1,1 @@
+Check if each added number correctly represents a row and make sure you only add the same count for each of the 6 rows.

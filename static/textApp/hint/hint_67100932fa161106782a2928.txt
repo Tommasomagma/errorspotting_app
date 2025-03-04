@@ -1,0 +1,1 @@
+Double-check the order of steps: first undo the halving, then add back the people who got off at the first stop.

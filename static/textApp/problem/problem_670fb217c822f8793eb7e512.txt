@@ -1,0 +1,1 @@
+"Lina åkte moped på en parkering i $10$ km/h. När hon kom ut på landsvägen  ökade hon hastigheten med $150$ %. \n\nVilken blev hastigheten då? Svara utan enhet."

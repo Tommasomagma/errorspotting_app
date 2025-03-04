@@ -1,0 +1,1 @@
+"Teckna ett förenklat uttryck för arean av det orangea området.". Problem image: Bilden visar en rektangel med ett orange område och vita kanter. Höjden på rektangeln är markerad med 'x + y' och bredden enbart med 'x'. Inuti den orangea rektangeln finns en mindre vit rektangel med sidan markerad 'x' placerad i mitten.

@@ -1,0 +1,1 @@
+"Addera talet med en hundradel. Vilket tal får du då?\n\n$0{,}491$"

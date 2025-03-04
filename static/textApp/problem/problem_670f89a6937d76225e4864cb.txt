@@ -1,0 +1,1 @@
+"Vi vet att $34⋅73=2482$.\n\nBeräkna.  \n\n${\\Large \\frac{2482}{34}}=$"

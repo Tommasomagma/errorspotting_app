@@ -1,0 +1,1 @@
+"Mario behöver 5 liter sportdryck. Han köper flaskor som innehåller $0{,}6$ liter. \n\nHur många flaskor måste han köpa?"

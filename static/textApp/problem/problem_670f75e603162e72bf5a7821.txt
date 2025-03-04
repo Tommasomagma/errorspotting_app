@@ -1,0 +1,1 @@
+"Hur många tal finns det mellan $5{,}8$ och $5{,}9$?\n\n$\\hspace{0.37cm}$**A.**$\\;$ $1$\n\n$\\hspace{0.37cm}$**B.**$\\;$ $10$\n\n$\\hspace{0.37cm}$**C.**$\\;$ Oändligt många\n\n$\\hspace{0.37cm}$**D.**$\\;$ Inga"

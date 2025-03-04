@@ -1,0 +1,1 @@
+"Vilket värde på $x$ ger samma omkrets för kvadraten och triangeln?". Problem image: Bilden visar två geometriska figurer bredvid varandra. Till vänster en likbent triangel med sidlängderna 2, 2 och basen 4 delat med x. Till höger en kvadrat med sidan 6 delat med x.

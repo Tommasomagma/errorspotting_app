@@ -1,0 +1,1 @@
+"På måndagen regnar det $3{,}6$ mm. På tisdagen regnar det $2{,}3$ mm. \n\nHur mycket regnade det sammanlagt på måndagen och tisdagen?". Problem image: Ett moln med fallande regndroppar.

@@ -1,0 +1,1 @@
+Double-check how you rewrote (8+2)^2 into 8+10×10 to make sure you handled the addition and squaring correctly.

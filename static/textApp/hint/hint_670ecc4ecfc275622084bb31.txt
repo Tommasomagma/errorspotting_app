@@ -1,0 +1,1 @@
+Review how you adjust the decimal point when converting 42·10^(-10) to standard form to ensure the exponent is handled correctly.

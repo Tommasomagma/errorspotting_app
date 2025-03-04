@@ -1,0 +1,1 @@
+Take a closer look to see if you divided by the side with 12 meters instead of by 2.

@@ -1,0 +1,4 @@
+a=21cm^2
+A = \frac{B \cdot h}{2}
+6cm - 21
+6.

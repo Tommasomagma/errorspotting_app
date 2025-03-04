@@ -1,0 +1,1 @@
+Try looking at how much y goes up when x increases and compare the two numbers.

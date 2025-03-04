@@ -1,0 +1,1 @@
+"Beräkna. \n\n$500 \\cdot 4=$". Problem image: En talaxel med markeringar vid 0, 500, 1 000, 1 500 och 2 000. Fyra pilar som visar repetitioner av avståndet mellan 0 och 500.

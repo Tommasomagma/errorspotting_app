@@ -1,0 +1,1 @@
+It looks like you might need to add the heights instead of subtracting them.

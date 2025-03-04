@@ -1,0 +1,1 @@
+Kolla så att du adderar längderna för alla sidor längs med konturen, inte delar eller inre uträkningar.

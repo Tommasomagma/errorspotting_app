@@ -1,1 +1,0 @@
-Take another look at the amount you are subtracting from, and make sure it matches the 50-kronor bill mentioned in the problem.

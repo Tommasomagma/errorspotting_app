@@ -1,0 +1,1 @@
+"Multiplicera in i parentesen och förenkla uttrycket.\n\n$  8x-2(5-3x)   =$"

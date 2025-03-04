@@ -1,0 +1,1 @@
+Check if you wrote the same numerator as in the problem, making sure the comma wasn't mistaken for extra zeros.

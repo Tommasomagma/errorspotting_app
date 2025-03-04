@@ -1,0 +1,1 @@
+Revisit the step where you set up 2 divided by x equals 0.1 and make sure the fraction matches the problem exactly.

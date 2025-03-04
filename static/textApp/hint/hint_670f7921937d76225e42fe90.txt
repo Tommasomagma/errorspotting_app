@@ -1,0 +1,1 @@
+Double-check how you placed the decimal when dividing 0.48 by 6 to ensure every part of the number is handled correctly.

@@ -1,0 +1,1 @@
+"Använd den algoritm som passar dig bäst och beräkna.\n\n${\\Large\\frac{1\\ 816}{8}} =$"

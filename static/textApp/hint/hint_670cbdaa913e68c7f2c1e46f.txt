@@ -1,0 +1,1 @@
+Kolla noga på om du använde decimalskillnad istället för att skriva ut hela tal.

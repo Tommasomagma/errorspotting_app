@@ -1,0 +1,1 @@
+"Beräkna. \n\n$ {\\Large \\frac{3}{5}} + {\\Large \\frac{6}{5}} = $". Problem image: En tallinje som sträcker sig från 0 till 2 med markeringar för varje femtedel. Två pilar visar additionen av två bråk, där den första pilen startar vid 0 och slutar vid 3/5 och den andra pilen startar vid 3/5 och slutar vid 9/5.

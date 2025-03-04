@@ -1,0 +1,1 @@
+It looks like the error might be in finding the total amount, so try redoing the multiplication of 879 by 9 carefully.

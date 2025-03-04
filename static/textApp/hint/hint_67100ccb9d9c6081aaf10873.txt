@@ -1,0 +1,1 @@
+Check if you correctly converted the passed days into the fraction of June before subtracting from the whole month.

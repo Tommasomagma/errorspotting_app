@@ -1,0 +1,1 @@
+Prøv å finne ut hvor mange ganger du ganger 2 med seg selv for å nå 64.

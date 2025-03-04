@@ -1,0 +1,1 @@
+"Varje ruta är kvadratisk och har sidan 1 cm.\n\nVad har rektangeln för area?". Problem image: En rektangel färglagd i blått ovanpå ett rutnät där varje ruta har sidan 1 cm. Rektangeln täcker ett bestämt antal hela rutor i rutnätet.

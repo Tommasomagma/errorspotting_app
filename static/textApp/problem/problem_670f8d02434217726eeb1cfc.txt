@@ -1,0 +1,1 @@
+"Avrunda till heltal och beräkna med överslagsräkning.\n\n$14{,}8-13{,}9 \\approx$"

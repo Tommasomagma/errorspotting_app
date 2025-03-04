@@ -1,0 +1,1 @@
+"Pernillas och Fredriks lägenhet är $94$ kvadratmeter stor. Hyran var $7\\ 175$ kr per månad. Hyran höjdes med $2{,}50$ kr per kvadratmeter. \n\nHur mycket får Pernilla och Fredrik betala i hyra per år efter höjningen?"

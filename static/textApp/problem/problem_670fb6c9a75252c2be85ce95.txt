@@ -1,0 +1,1 @@
+"Beräkna. Förkorta eller förläng först det ena bråket så att nämnarna blir lika.\nSvara i blandad form och förkorta om det går.\n\n${\\Large\\frac{3}{5}}-{\\Large\\frac{3}{15}}=$"

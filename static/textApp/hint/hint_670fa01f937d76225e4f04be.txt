@@ -1,0 +1,1 @@
+Check if you correctly counted only the full groups of 3 in 26, ignoring any leftovers.

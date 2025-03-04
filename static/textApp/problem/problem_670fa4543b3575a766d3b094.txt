@@ -1,0 +1,1 @@
+"Bilda det minsta udda tal du kan av siffrorna $1$‚ $3$, $6$ och $8$."

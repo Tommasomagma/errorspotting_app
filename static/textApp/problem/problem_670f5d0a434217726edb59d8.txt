@@ -1,0 +1,1 @@
+"Skriv det binära talet $1101$ i tiosystemet."

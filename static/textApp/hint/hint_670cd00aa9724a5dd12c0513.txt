@@ -1,0 +1,1 @@
+Remember to use the same negative number for both spots as described in the problem.

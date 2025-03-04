@@ -1,0 +1,1 @@
+Try revisiting how you subtract powers of 2 from 19 to ensure that each bit is placed in the correct position.

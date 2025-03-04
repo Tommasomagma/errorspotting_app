@@ -1,0 +1,1 @@
+Consider if you need to multiply by 8 instead of dividing 96 by 8 to isolate x.

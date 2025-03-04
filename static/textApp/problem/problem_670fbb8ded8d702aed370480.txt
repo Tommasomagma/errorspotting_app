@@ -1,0 +1,1 @@
+"Beräkna arean av det cirkelformade föremålet. En stekpanna med diametern $30$ cm. Avrunda till tiotals kvadratcentimeter."

@@ -1,0 +1,1 @@
+"Du fortsätter att göra cylindrar av samma lerklump med volymen $36$ cm$^3$.\n\nHur hög blir cylindern om basytan är $2$ cm$^2$?"

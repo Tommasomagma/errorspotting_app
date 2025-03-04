@@ -1,0 +1,1 @@
+"Vilket tal ska stå istället för x?\n\nx-263=480"

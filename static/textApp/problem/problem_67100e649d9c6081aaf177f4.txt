@@ -1,0 +1,1 @@
+"Beräkna och svara i grundpotensform.\n\n${\\Large\\frac{10^7}{4\\ \\cdot \\ 10^4}}=$"

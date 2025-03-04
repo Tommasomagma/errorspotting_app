@@ -1,0 +1,1 @@
+"Hur många lösningar har följande ekvation? Svara med en siffra. \n\n$x^{\\ n} = a$, \n\ndär $n$ är ett positivt jämnt heltal och $a < 0$."

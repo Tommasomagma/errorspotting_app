@@ -1,0 +1,1 @@
+"Vilket är det minsta talet?\n\n\n${1{,}57} \\hspace{0.3cm}{1{,}569} \\hspace{0.3cm}{1{,}5} \\hspace{0.3cm}{1{,}49}$"

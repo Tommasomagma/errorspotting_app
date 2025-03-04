@@ -1,0 +1,1 @@
+Try checking if you divided the difference between the new and old price by the old price instead of dividing the old price by the new price.

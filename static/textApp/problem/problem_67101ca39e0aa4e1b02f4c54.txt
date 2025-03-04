@@ -1,0 +1,1 @@
+"Beräkna pyramidens begränsningsyta.". Problem image: En bild av en fyrkantig pyramid med en basyta markerad i röd färg. Pyramiden är uppritad två gånger, en gång i profil och en gång uppifrån med måtten utritade. Basytan har en sida som är 4 cm och höjden på pyramiden är 7 cm.

@@ -1,0 +1,1 @@
+"Klara vill multiplicera tre olika tal i följande lista: -5, -3, -1, 2, 4 och 6.\nVilken är den minsta produkten hon kan få?"

@@ -1,0 +1,1 @@
+"Talen i en talföljd kan beräknas med uttrycket $4n - 7$. Vilka är de tre första talen i talföljden (alltså från och med $n=1$)?"

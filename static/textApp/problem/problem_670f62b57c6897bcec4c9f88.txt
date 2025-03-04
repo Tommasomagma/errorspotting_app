@@ -1,0 +1,1 @@
+"Avrunda termerna till heltal och beräkna med överslagsräkning.\n\n $9{,}3-3{,}4=$"

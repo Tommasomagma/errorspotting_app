@@ -1,0 +1,1 @@
+"Beräkna och svara i enklaste form.\n\n$\\Large\\frac{72}{3}$ $\\bigg/$ ${\\Large\\frac{12}{9}}=$"

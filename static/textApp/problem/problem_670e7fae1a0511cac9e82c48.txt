@@ -1,0 +1,1 @@
+"Bim har en stor påse med godis. Den väger $12$ hg. Han ger sin bror $\\Large \\frac{1}{6}$ av godiset och sedan ger han sin syster $\\Large \\frac{4}{5}$ av det som är kvar. \n\nHur mycket godis finns då kvar till honom?"

@@ -1,0 +1,1 @@
+"Vilket bråk är störst, ${\\Large\\frac{6}{4}}$ och ${\\Large\\frac{4}{6}}$?". Problem image: Bilden visar två talsträck. Den övre talsträcken markerar bråket 6/4 med en rosa punkt. Den nedre talsträcken markerar bråket 4/6 med en orange punkt.

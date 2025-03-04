@@ -1,0 +1,1 @@
+Double each of the rectangle’s sides before adding them together.

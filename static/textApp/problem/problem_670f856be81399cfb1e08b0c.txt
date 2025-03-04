@@ -1,0 +1,1 @@
+"Skriv talet i bråkform.". Problem image: Två cirkelbilder bredvid varandra. Båda cirkelbilderna är uppdelade i lika stora delar med svarta linjer. Den vänstra cirkeln är uppdelad i åtta delar där alla delar är färglagda. Den högra cirkeln är uppdelad i åtta delar där endast fyra av delarna är färglagda.

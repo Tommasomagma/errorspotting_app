@@ -1,0 +1,1 @@
+Check if you correctly calculated one third of 6 by multiplying 6 by 1/3.

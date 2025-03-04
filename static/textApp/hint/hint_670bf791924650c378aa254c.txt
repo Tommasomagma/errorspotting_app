@@ -1,1 +1,0 @@
-Check how you use the block's 30cm side to form the wall's length instead of dividing the block count by 3.

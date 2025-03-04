@@ -1,0 +1,1 @@
+"En medelstor pizza har en yta som är $300$ kvadratcentimeter. En pizza i familjestorlek är $30$ % större. Hur stor är ytan, i kvadratcentimeter, på en pizza i familjestorlek?". Problem image: En tecknad pizza i en öppen pizzakartong.

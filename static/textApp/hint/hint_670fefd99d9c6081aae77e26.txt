@@ -1,0 +1,1 @@
+Remember to only use the multiplication part that includes the banana's price instead of adding all the numbers together.

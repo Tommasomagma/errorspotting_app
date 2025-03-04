@@ -1,0 +1,1 @@
+"På en dag parkerar 72 bilar i garaget. \n\nHur många bilar parkerar i garaget på en vecka?". Problem image: En parkerad bil framför ett garage med en parkeringsskylt.

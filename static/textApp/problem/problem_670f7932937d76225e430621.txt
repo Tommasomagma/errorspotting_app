@@ -1,0 +1,1 @@
+"En lärare har $38$ röda pennor, $16$ blå pennor och $44$ svarta pennor. \n\nHur många pennor har läraren totalt?". Problem image: Tre pennor i olika färger.

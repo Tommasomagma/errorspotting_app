@@ -1,0 +1,1 @@
+Check if you correctly added the two 10^(–x) terms before finding the exponent value.

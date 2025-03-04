@@ -1,0 +1,1 @@
+"Beräkna.\n\n$330+256+164=$". Problem image: En bild av en additionstabell med tre termer som ska adderas. Varje term har tre siffror och de är ordnade vertikalt och rätvinkligt i en kolumn för hundratal, en för tiotal och en för ental. Det finns en horisontell linje under den lägsta termen för att visa var summan ska skrivas.

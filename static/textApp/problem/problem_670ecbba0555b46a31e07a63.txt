@@ -1,0 +1,1 @@
+"I en rätvinklig triangel är en kateten $8$ cm och hypotenusan $15$ cm. Hur lång är den andra kateten? Avrunda till tiondelar."

@@ -1,0 +1,1 @@
+"Gör klart förlängningen av bråket.\n\n${\\Large\\frac{2\\ \\cdot\\ 4}{3\\ \\cdot\\ 4}}=\\Large\\frac{8}{?}$"

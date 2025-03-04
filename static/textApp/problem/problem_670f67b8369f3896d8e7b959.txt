@@ -1,0 +1,1 @@
+"En familj vill skaffa två barn. Du kan anta att sannolikheten för att få en flicka och pojke är lika stora.\n\nHur stor är sannolikheten att familjen får minst en flicka?". Problem image: En symbolisk bild av en familj.

@@ -1,0 +1,1 @@
+"I en schackturnering skulle Magnus spela $15$ partier. En bit in i turneringen hade han vunnit hälften av de partier han spelat dittills, förlorat en tredjedel och spelat två partier som slutat oavgjort (det kallas remi i schack). \n\nOm Magnus vinner resten av sina partier, hur många har han då vunnit totalt?"

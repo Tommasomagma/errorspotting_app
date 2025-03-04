@@ -1,0 +1,1 @@
+"Beräkna. Svara i bråkform. \n\n${\\Large\\frac{45}{100}}-{0{,}37}=$"

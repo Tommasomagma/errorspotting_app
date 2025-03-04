@@ -1,0 +1,1 @@
+"Vilka två uttryck ger samma värde när $x = 4$?"

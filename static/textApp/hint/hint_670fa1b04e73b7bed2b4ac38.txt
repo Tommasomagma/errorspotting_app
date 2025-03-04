@@ -1,0 +1,1 @@
+Tänk på att använda informationen om att fyra steg ner leder till mitten, och försök räkna ut hur antalet steg relaterar till den positionen.

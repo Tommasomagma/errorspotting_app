@@ -1,0 +1,1 @@
+"Vad ska stå i rutan för att likheten ska gälla?\n\n$\\boxed{\\phantom{a}}-11=32+15$"

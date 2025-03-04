@@ -1,0 +1,1 @@
+"Beräkna med uppställning.\n\n$26{,}72+7+25{,}745+8{,}45=$"

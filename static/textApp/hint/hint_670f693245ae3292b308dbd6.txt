@@ -1,0 +1,1 @@
+Check that you actually subtract both digits in each column instead of keeping the top number unchanged.

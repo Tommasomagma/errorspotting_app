@@ -1,0 +1,1 @@
+Double-check how each digit's place value in binary contributes to the total, especially for digits that seem to carry little value.

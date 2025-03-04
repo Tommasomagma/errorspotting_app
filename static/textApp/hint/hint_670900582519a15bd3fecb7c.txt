@@ -1,0 +1,1 @@
+Try redoing your division of 1 by 4 step by step to see if you get a different decimal than 0,4.

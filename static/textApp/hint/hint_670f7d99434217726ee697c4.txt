@@ -1,0 +1,1 @@
+Check if you set up the fraction as part over whole, since it looks like you switched the numbers when dividing.

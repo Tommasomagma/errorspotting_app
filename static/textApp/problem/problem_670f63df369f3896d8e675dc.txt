@@ -1,0 +1,1 @@
+"I ett hyreshus fanns lägenheter i tre storlekar. En tredjedel av lägenheterna var ettor och ​${\\Large\\frac{4}{9}}$​ av lägenheterna var tvåor. Resten var treor.\n\nHur stor andel av lägenheterna var antingen ettor eller tvåor?"

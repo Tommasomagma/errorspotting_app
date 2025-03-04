@@ -1,0 +1,1 @@
+"Skriv i potensformen med basen $2$.\n\n${\\Large\\frac{1}{8}}=$"

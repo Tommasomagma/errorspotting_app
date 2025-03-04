@@ -1,0 +1,1 @@
+It seems you divided when you needed to find a common multiple, so try checking if each factor is correctly used in each step.

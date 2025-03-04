@@ -1,0 +1,1 @@
+"Vi har ungefär $100\\ 000$ hårstrån på våra huvuden. De växer ungefär $0{,}4$ mm per dygn.\n\nHur mycket växer hårstråna sammanlagt på ett år? Svara i kilometer och avrunda till heltal."

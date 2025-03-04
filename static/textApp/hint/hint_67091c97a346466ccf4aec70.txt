@@ -1,0 +1,1 @@
+Double-check that when you subtract fractions, you subtract the numerators and keep the denominator instead of treating the result as a whole number.

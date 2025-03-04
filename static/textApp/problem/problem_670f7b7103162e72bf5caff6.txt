@@ -1,0 +1,1 @@
+"En läsk kostar 7 kr. En klubba kostar 3 kr. \n\nHur mycket kostar de tillsammans?". Problem image: En läsk och en klubba.

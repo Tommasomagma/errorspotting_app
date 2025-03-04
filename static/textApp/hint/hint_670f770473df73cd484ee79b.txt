@@ -1,0 +1,1 @@
+Kontrollera att du multiplicerade täljaren och nämnaren med samma tal så att nämnaren verkligen blev ett heltal.

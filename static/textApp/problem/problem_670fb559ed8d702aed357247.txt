@@ -1,0 +1,1 @@
+"Beräkna andelen och avrunda till hela procent.\n\n$1\\ 250$  av $2\\ 050$ bilar"

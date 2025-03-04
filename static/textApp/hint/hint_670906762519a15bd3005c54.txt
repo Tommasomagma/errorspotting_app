@@ -1,0 +1,1 @@
+Remember to add fractions with the same denominator by keeping it unchanged and only summing the numerators.

@@ -1,0 +1,1 @@
+It looks like you multiplied 6 by 6 instead of 2 by 6, so check which number you should use for each group!

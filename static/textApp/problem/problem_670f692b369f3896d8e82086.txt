@@ -1,0 +1,1 @@
+"Beräkna och svara exakt.\n\n$\\sqrt{2} \\cdot \\sqrt{4}=$"

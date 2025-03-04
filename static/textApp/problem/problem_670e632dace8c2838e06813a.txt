@@ -1,0 +1,1 @@
+"Beräkna produkten av $4\\ 000$ och $4$. Subtrahera produkten med kvoten av $500$ och $10$."

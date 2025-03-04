@@ -1,0 +1,1 @@
+Double-check that you only moved numbers outside the square root, and didn’t mistakenly add extra numbers into the square root itself.

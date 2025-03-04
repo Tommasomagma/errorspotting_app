@@ -1,0 +1,1 @@
+Notice how you divided by 2 twice—check that you're using the triangle area formula correctly without extra division.

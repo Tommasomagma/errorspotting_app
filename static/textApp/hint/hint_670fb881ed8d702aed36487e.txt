@@ -1,0 +1,1 @@
+Double-check your use of the dot—it should show multiplication, not a decimal—to properly isolate x.

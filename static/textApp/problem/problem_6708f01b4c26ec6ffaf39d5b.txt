@@ -1,0 +1,1 @@
+"Luca är $1{,}42$ m lång. Hans syster är $1{,}6$ m. \n\nHur mycket kortare är Luca än sin syster?"

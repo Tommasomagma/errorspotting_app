@@ -1,0 +1,1 @@
+"Välj det räknesätt som ska stå på den tomma raden så att likheten stämmer.\n\n\n$-6 \\ \\underline{\\hspace{0.5cm}}(-3)=-3$"

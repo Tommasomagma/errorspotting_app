@@ -1,0 +1,1 @@
+Double-check how you handled the multiplication and decimal placement, as it seems the value you got doesn't match the numbers in the problem.

@@ -1,0 +1,1 @@
+Take a closer look at how you paired the numbers so that each opposite side multiplies to the same product.

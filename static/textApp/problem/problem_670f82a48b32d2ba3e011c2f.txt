@@ -1,0 +1,1 @@
+"Skriv i bråkform. \n\n$4{\\Large\\frac{1}{4}}=$"

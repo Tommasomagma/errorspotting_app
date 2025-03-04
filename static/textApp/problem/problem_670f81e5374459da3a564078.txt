@@ -1,0 +1,1 @@
+"Beräkna uttryckets värde. \n\n$10^2 \\cdot 3^2$"

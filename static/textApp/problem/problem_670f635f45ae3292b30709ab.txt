@@ -1,0 +1,1 @@
+"Beräkna på det sätt du tycker är bäst.\n\n *Visa dina beräkningar.*\n\n${\\Large\\frac{96,2}{4}}=$"
