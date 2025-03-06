@@ -1,0 +1,1 @@
+Take another look at how the numerator and denominator represent the decimal, since 1/10 gives a different value than 0,7.

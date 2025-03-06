@@ -1,0 +1,1 @@
+Look closely at how you matched the numbers from the problem to your steps, especially how each class’s information was used.

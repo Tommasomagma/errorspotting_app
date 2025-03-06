@@ -1,0 +1,1 @@
+Check again if every fraction you selected is actually less than 1/2.

@@ -1,0 +1,1 @@
+Check if you simplified your fraction completely by dividing both the numerator and the denominator by the same number.

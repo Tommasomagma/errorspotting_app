@@ -1,0 +1,1 @@
+"En godispåse kostar 4 kronor. \n\nHur mycket kostar 7 godispåsar tillsammans?". Problem image: En tecknad bild av en godispåse med olika färgade godisar inuti.

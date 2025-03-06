@@ -1,0 +1,1 @@
+"Beräkna.\n\n$ 4 \\cdot 7=$". Problem image: En rektangulär tabell med 30 celler numrerade från 1 till 30 i ordning. Tabellen är indelad i tio kolumner och tre rader.

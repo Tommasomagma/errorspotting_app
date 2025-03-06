@@ -1,0 +1,1 @@
+Try adding each of the five numbers one by one to make sure every part of the sequence is counted correctly.

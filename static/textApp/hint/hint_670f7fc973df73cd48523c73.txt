@@ -1,0 +1,1 @@
+Try converting each fraction to a decimal first, then check if the result is a small number less than one.

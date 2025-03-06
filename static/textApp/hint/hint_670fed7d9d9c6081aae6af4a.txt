@@ -1,0 +1,1 @@
+Check carefully the step where you multiply the per square meter increase by the apartment size and add it correctly to the monthly rent before annualizing it.

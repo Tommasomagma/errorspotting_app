@@ -1,0 +1,1 @@
+Check if the second discount was applied to the reduced price, not the original price.

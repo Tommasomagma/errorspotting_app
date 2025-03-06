@@ -1,0 +1,1 @@
+Check if you multiplied the total number of bills by 100 to get the full value.

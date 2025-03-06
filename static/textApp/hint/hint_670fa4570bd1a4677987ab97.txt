@@ -1,0 +1,1 @@
+Check if you've used the correct power of 2 for each digit in your binary number, especially for the leftmost bit.

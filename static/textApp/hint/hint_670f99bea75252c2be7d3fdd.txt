@@ -1,0 +1,1 @@
+Check if you subtracted the exact amounts correctly and didn’t mix up the numbers in the hundreds place.

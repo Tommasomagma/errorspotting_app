@@ -1,0 +1,1 @@
+Check that you are comparing numbers with the right inequality symbol instead of turning the problem into an equality.

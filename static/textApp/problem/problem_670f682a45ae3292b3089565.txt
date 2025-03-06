@@ -1,0 +1,1 @@
+"$10\\hspace{0.5cm} 4\\hspace{0.5cm} -2\\hspace{0.5cm} -8\\hspace{0.5cm} $ $\\underline{\\hspace{1cm}}$"

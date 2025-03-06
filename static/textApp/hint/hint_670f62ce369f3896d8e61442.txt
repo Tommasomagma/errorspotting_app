@@ -1,0 +1,1 @@
+Check the addition of the blue and yellow pieces to see if it matches the problem's given numbers before subtracting from 500.

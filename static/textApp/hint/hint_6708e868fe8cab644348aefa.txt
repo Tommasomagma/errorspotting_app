@@ -1,0 +1,1 @@
+Make sure you copied the original number correctly before subtracting the 100.

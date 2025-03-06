@@ -1,1 +1,0 @@
-Take another look at how consecutive numbers are placed to make sure all adjacent squares follow the rule.

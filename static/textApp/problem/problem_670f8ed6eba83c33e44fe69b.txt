@@ -1,0 +1,1 @@
+"En fabrik producerar $8\\ 000$ papper i timmen. Produktionen minskar med  $2\\ 000$ papper per timme. \n\nHur många papper producerar pappersfabriken på $20$ timmar nu?". Problem image: Staplar av papper i olika färger.

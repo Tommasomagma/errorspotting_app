@@ -1,0 +1,1 @@
+"En butik har 76 pennor i lager och i en ny leverans får de 18 pennor. \n\nHur många pennor har de i lager nu?"

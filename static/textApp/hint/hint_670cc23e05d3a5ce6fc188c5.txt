@@ -1,0 +1,1 @@
+Take another look at your division and remainder steps while converting 39 to binary.

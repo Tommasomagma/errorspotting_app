@@ -1,0 +1,1 @@
+Double-check if you counted the correct number of colored squares relative to the entire figure.

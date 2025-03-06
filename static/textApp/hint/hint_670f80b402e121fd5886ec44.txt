@@ -1,0 +1,1 @@
+Take another look at how many squares are colored compared to the total number of squares in the grid.

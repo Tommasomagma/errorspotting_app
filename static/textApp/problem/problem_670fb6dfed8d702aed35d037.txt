@@ -1,0 +1,1 @@
+"Skriv ett heltal istället för frågetecknet så att likheten stämmer.\n\n${\\Large\\frac{1}{3}}={\\Large\\frac{(-2)}{?}}$"

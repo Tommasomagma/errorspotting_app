@@ -1,0 +1,1 @@
+Check if you're counting the actual cuts needed on each rope instead of just subtracting one.

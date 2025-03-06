@@ -1,0 +1,1 @@
+"Gunnel har 20 kr och köper bröd för 12 kr. \n\nHur många kronor har Gunnel kvar?". Problem image: Ett tecknat bröd med ansikte.

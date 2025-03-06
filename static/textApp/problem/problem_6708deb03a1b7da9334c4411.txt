@@ -1,0 +1,1 @@
+"Hur lång är den okända kateten? Avrunda till heltal.". Problem image: En rätvinklig triangel. Den längsta sidan, hypotenusan, är 17 cm. En av kateterna är 15 cm och den andra är okänd.

@@ -1,0 +1,1 @@
+"Beräkna summan av de $100$ första heltalen."

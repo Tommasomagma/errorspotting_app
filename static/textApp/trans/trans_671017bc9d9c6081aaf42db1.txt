@@ -1,0 +1,6 @@
+Antalet g=x
+Antalet n = 73-x
+4(x)+2(73-x=182
+4x+146-2x=182
+6x=36
+x=6

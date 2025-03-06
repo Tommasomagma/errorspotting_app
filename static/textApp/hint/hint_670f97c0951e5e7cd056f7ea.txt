@@ -1,0 +1,1 @@
+It seems you subtracted the number 259 instead of subtracting the discount from 740, so please check that step.

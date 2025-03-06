@@ -1,0 +1,1 @@
+"Beräkna volymen.". Problem image: En röd cylinder med basytans area markerad som B = 20 dm^2 och höjden markerad som h = 7 dm.

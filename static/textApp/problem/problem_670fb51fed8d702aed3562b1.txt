@@ -1,0 +1,1 @@
+"Hadil hoppade $105$ cm i höjdhopp.\n\nTove hoppade $7$ cm lägre än Hadil. Hur högt hoppade Tove?"

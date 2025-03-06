@@ -1,0 +1,1 @@
+Check that you replaced the exponents with the digits raised as powers and then correctly added and subtracted them instead of multiplying the numbers directly.

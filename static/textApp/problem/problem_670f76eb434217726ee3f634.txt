@@ -1,0 +1,1 @@
+"Eva tar ett heltal och fördubblar det. Därefter fördubblar hon det igen, sen en gång till. \n\nVilket av följande tal kan vi vara säkra på inte är hennes slutresultat?"

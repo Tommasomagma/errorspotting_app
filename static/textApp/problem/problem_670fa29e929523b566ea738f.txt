@@ -1,0 +1,1 @@
+"Ett hockeylag spelade 38 matcher på en säsong. I snitt gjorde de 4 mål per match. \n\nHur många mål gjorde de på en säsong?". Problem image: En hockeyklubba och puck framför ett mål.

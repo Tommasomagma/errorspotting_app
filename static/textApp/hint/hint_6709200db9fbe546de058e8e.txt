@@ -1,0 +1,1 @@
+Check if the step-by-step addition correctly followed the robot's constant speed as shown in the table.

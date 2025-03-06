@@ -1,0 +1,1 @@
+Double-check how you multiply the price for 4 shirts and 2 shorts separately, instead of combining extra operations.

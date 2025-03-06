@@ -1,0 +1,1 @@
+"Beräkna uttryckets värde. \n\n$5^2 + 2^2  $"

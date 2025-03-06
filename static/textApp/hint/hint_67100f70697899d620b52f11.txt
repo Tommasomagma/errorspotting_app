@@ -1,0 +1,1 @@
+Check your rounding step carefully to ensure you round the computed value correctly to the nearest thousand.

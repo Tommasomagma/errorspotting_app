@@ -1,0 +1,1 @@
+Try rethinking whether adding the percentages directly makes sense when both groups are parts of the same class.

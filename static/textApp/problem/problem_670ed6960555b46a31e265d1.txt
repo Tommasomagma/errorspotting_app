@@ -1,0 +1,1 @@
+"Förkorta uttrycket så långt som möjligt.\n\n${\\Large \\frac{x\\ + \\  x\\ + \\ x\\ + \\ x}{x}}= $"

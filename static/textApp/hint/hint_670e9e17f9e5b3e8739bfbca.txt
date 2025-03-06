@@ -1,0 +1,1 @@
+Double-check your multiplication step to make sure you correctly isolated x when multiplying both sides by 2.

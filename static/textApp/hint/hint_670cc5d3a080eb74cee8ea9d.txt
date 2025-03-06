@@ -1,0 +1,1 @@
+Remember to add the side lengths, not multiply them, when finding a perimeter.

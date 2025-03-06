@@ -1,0 +1,1 @@
+"Ett par jeans kostar $790$ kr. \n\nBeräkna det nya priset om rabatten är $30$ %?"

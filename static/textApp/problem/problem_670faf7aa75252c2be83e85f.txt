@@ -1,0 +1,1 @@
+"Klassen skall mäta skillnad i omkrets mellan en isrink och en fotbollsplan. Fotbollsplanen har {{g}} km omkrets och den isrinken har {{e}} km i omkrets. Hur stor skillnad är det i omkrets? ✍️ Ställ upp din uträkning och svar i km."

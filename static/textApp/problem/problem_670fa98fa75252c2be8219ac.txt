@@ -1,0 +1,1 @@
+"I diagrammet visas en gepards hastighet när den jagar en antilop.\n\nEfter 5 sekunder börjar geparden bli trött och springa långsammare. Hur mycket långsammare springer geparden i km/h efter 8 sekunder än efter 5 sekunder?\nSvara utan enhet."

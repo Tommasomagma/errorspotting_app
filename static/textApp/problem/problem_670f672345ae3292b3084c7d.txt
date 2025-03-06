@@ -1,0 +1,1 @@
+"I ett akvarium finns 12 fiskar. De är röda eller blå och har gula prickar eller vita prickar. Fem fiskar är röda. Tre fiskar med gula prickar är blå. Två röda fiskar har vita prickar.\n\nHur många fiskar är blå?"

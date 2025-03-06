@@ -1,1 +1,0 @@
-"Beräkna värdet på $y$ när $x=0$.\n\n$y=3x-2$"

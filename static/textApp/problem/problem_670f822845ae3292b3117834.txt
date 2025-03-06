@@ -1,0 +1,1 @@
+"Densiteten hos koppar är $9{,}0$ g/cm$^3$. Hur mycket väger en koppartråd som är $5$ km lång och har diametern $5$ mm? Avrunda till tiotal kilogram."

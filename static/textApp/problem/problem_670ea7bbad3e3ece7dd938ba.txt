@@ -1,0 +1,1 @@
+"Anja ordnar ett lotteri för att tjäna pengar till en klassresa. Lotterna säljs för 20 kr per styck, och vinsten är 1 000 kr. Det är vinst på var 80:e lott, och vinsten tas ifrån lottförsäljningen.\n\nHur många lotter måste Anja sälja för att tjäna ihop 3 000 kr till klassresan?"

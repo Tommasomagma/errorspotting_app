@@ -1,0 +1,1 @@
+Double-check which digit is in the hundredths position, as it's the second digit after the decimal.

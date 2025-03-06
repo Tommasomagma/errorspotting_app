@@ -1,0 +1,1 @@
+It looks like you only added one of the two matching faces, so check that you count both for each pair.

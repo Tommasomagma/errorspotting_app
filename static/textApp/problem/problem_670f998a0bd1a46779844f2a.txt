@@ -1,0 +1,1 @@
+"Skriv med siffror (i bråkform).\n\nen tredjedel"

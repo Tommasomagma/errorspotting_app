@@ -1,0 +1,1 @@
+Remember that the diagonal only splits the shape into two equal triangles, but the full rectangle's area is still calculated by multiplying its length and width.

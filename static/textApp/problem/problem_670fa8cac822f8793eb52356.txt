@@ -1,0 +1,1 @@
+"Beräkna och svara i enklaste form.\n\n$\\Large\\frac{14}{27}$ $\\bigg/$ ${\\Large\\frac{7}{9}}=$"

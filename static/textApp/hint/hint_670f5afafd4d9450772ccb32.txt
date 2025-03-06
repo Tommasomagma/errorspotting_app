@@ -1,0 +1,1 @@
+Remember to recheck the triangle area formula to make sure you include the half factor when solving for the height.

@@ -1,0 +1,1 @@
+Check if you correctly multiplied the capital by the rate instead of subtracting 0.03.

@@ -1,0 +1,1 @@
+Kontrollera att du adderar antalet röda och blåa godisar innan du subtraherar från det totala antalet.

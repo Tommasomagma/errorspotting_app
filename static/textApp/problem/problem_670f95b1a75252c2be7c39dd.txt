@@ -1,0 +1,1 @@
+"Beräkna. \n\n${\\Large\\frac{4}{5}}-{\\Large\\frac{3}{5}}=$". Problem image: Två cirklar uppdelade i fem lika stora sektorer. Den första cirkeln har fyra sektorer ifyllda med färg och den andra cirkeln har tre sektorer ifyllda med färg. Mellan cirklarna finns ett minustecken.

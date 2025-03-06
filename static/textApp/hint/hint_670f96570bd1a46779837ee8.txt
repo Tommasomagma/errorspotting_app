@@ -1,0 +1,1 @@
+Check that you are adding the original numbers 1 and 6, not replacing them with other numbers.

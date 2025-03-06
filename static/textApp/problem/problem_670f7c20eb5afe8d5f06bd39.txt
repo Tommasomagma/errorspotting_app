@@ -1,0 +1,1 @@
+"Diagrammet visar priset för ost i relation till antal kilogram. \n\nVad kostar det att köpa 4 kg ost?"

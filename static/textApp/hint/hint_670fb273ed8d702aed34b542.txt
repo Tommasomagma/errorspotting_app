@@ -1,0 +1,1 @@
+Take another look at how you computed the price per kilogram from 3 kg costing 27 kr.

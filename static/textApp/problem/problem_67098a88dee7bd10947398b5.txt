@@ -1,0 +1,1 @@
+"Hur lång tid tar det att cykla $1{,}2$ mil med medelhastigheten $20$ km/h? Svara i minuter."

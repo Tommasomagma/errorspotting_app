@@ -1,0 +1,1 @@
+Revisit the step where you used √252 and the 4 together to ensure you’re only splitting the totals as the problem describes.

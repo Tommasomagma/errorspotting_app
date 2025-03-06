@@ -1,0 +1,1 @@
+Take a closer look at how you distributed 2x over (x + 5x) – it seems the multiplication with the variables wasn’t done correctly.

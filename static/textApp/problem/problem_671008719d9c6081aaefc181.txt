@@ -1,0 +1,1 @@
+"Skriv bråken med rätt tecken mellan talen.\n\n${\\Large \\frac{2}{3}} \\ \\underline{\\hspace{0.5 cm}} \\ {\\Large \\frac{4}{6}}$"

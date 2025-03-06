@@ -1,1 +1,0 @@
-Double-check if you need to weight the percentages by the group sizes before adding them.

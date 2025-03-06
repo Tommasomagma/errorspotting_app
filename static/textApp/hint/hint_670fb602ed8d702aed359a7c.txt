@@ -1,0 +1,1 @@
+Check if you are only finding the extra amount by multiplying the rent by the percentage, instead of the total new value.

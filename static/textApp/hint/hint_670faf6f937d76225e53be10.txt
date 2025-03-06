@@ -1,0 +1,1 @@
+Double-check that when you subtract fractions with a common denominator, only the numerators are subtracted while the denominator stays the same.

@@ -1,0 +1,1 @@
+"Beräkna parallellogrammens area.". Problem image: En bild på en parallellogram. Basen är markerad som 8 cm och höjden som 3,5 cm. Längden av den sluttande sidan, inte höjden, är markerad som 5,5 cm.

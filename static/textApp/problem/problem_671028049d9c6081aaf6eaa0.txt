@@ -1,0 +1,1 @@
+"Beräkna. Förkorta om det går. \n\n${\\Large \\frac{2}{3}} \\cdot {\\Large \\frac{5}{8}} = $"

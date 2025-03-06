@@ -1,0 +1,1 @@
+Review how you convert a decimal to a percentage—ensure that 0.94 truly represents 94% before subtracting from 100%.

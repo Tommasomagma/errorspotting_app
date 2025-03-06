@@ -1,0 +1,1 @@
+"Vilket tal är störst?\n\n${\\Large \\frac{2}{3}}$  eller ${\\Large \\frac{2}{5}}$"

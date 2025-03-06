@@ -1,0 +1,1 @@
+"På temadagen är eleverna delade i 30 olika grupper: \n\n16 grupper med 13 elever i varje grupp. \n14 grupper med 12 elever i varje grupp.\n\nHur många elever är med på temadagen? *Visa hur du löser uppgiften.*"

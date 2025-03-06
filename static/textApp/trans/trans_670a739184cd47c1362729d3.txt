@@ -1,0 +1,2 @@
+1 dm = 0.1 m
+hundralapp = 0.00005 m

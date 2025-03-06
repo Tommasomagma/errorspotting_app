@@ -1,0 +1,1 @@
+"Beräkna omkretsen av figuren. Svara med enhet!"

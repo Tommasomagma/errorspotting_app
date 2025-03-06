@@ -1,0 +1,1 @@
+"Lös ekvationssystemet.\n\n$\\begin{gathered}\n\\begin{aligned}\n&\\begin{cases}\n 2x+y=13 \\\\\n   x+2y=4\n\\end{cases}\n\\end{aligned}\n\\end{gathered}$\n\nBestäm $y$."

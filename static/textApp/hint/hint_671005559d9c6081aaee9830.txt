@@ -1,0 +1,1 @@
+Make sure each number in the sequence is exactly three times the previous one.

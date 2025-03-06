@@ -1,1 +1,0 @@
-Remember that the area of a circle is calculated using the square of the radius your steps should reflect that change, not just a simple multiplication.

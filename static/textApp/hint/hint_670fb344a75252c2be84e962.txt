@@ -1,0 +1,1 @@
+Check if you're using the square root to adjust the side lengths correctly when the area is halved.

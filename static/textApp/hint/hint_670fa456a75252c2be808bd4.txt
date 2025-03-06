@@ -1,0 +1,1 @@
+Double-check your notation to ensure you're writing "5 to the x" instead of "5 times x".

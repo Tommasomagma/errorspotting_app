@@ -1,0 +1,1 @@
+Remember to check if you have added the cost for both the t-shirts and the shorts in your calculation.

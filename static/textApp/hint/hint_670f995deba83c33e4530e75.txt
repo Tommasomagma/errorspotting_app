@@ -1,0 +1,1 @@
+It seems you divided by 2 instead of the number of children, so double-check the sharing part.

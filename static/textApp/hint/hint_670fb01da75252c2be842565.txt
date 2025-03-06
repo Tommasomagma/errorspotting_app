@@ -1,1 +1,0 @@
-Try converting each part into a common format to see which one is smallest first.

@@ -1,0 +1,1 @@
+Double-check if you're comparing each number's value correctly, especially where the digit before the comma is less than 2.

@@ -1,0 +1,1 @@
+"Beräkna. Svara i blandad form om det går. \n\n${\\Large \\frac{1}{2}} \\cdot 6 =$"

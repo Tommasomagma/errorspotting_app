@@ -1,0 +1,1 @@
+"I en skål ligger $6$ gröna och $4$ röda kulor. Du tar upp två kulor utan återläggning. Hur stor är sannolikheten att det är en kula av varje färg? Svara i hela procent."

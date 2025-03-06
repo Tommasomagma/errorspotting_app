@@ -1,0 +1,1 @@
+"Beräkna och svara i decimalform. \n\n$1{\\Large \\frac{1}{2}}-0{,}8 =$"

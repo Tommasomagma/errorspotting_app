@@ -1,0 +1,1 @@
+Check which number is the base for the percentage difference and try using the original price instead.

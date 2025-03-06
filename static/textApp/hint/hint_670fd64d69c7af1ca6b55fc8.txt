@@ -1,0 +1,1 @@
+Check if you used the right conversion factors when changing kilometers into centimeters before applying the map scale.

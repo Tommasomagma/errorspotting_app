@@ -1,0 +1,1 @@
+"Skriv talen i bråkform. \n\n${\\large\\frac{11}{12}} - {\\large\\frac{6}{12}}=$"

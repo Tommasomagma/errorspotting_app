@@ -1,0 +1,1 @@
+"Beräkna. \n\nBörja med att förlänga bråket med ${\\Large\\frac{3}{2}}$ så att nämnaren blir $1$.\n\n$\\Large\\frac{1}{2}$ $\\bigg/$ ${\\Large\\frac{2}{3}}=$"

@@ -1,0 +1,1 @@
+"Vilket tal beskrivs? \n\n- Hundratalssiffran är dubbelt så stor som tiotalssiffran.\n- Entalssiffran är $5$. \n- Tusentalssiffran är $1$ mindre än tiotalssiffran.\n- Summan av alla siffrorna är $16$."

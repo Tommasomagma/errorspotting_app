@@ -1,0 +1,1 @@
+Take a close look at the steps where you combined the numbers to make sure you're counting beans in each box just like it's shown, without adding extra numbers.

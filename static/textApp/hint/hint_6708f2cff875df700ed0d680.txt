@@ -1,0 +1,1 @@
+Maybe recheck whether subtracting 17 from 28 is the right method to count the number of pieces Kasper can use, and see if you've matched the problem's description step by step.

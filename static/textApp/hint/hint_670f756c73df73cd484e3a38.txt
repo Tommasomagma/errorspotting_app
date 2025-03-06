@@ -1,0 +1,1 @@
+Check if you need to multiply 4 by the number of days or directly by the weeks.

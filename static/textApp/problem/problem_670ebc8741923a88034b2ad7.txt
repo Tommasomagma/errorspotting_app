@@ -1,0 +1,1 @@
+"Använd alla siffrorna $1$, $3$, $4$ och $6$ och beräkna summan av det största talet och det minsta talet du kan skriva."

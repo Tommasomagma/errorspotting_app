@@ -1,0 +1,1 @@
+"En godiskiosk säljer 53 chokladbitar varje dag under ett helt år. Ett helt år har 365 dagar.\n\nHur många chokladbitar säljer kiosken varje år?". Problem image: En bit choklad.

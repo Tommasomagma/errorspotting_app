@@ -1,0 +1,1 @@
+Double-check your multiplication and addition steps when n equals 2 to see if everything was computed correctly.

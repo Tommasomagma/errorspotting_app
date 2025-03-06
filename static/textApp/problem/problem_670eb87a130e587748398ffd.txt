@@ -1,0 +1,1 @@
+"Viktor samlar på stenar. Han lägger sina med åtta stenar i varje rad. Hur många rader blir det om han har $72$ stenar?"

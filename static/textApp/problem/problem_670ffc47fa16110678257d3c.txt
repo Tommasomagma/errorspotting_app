@@ -1,1 +1,0 @@
-"A machine in a factory makes $2 \\frac{1}{4}$ pounds of nails in $1 \\frac{1}{2}$ hours. At what rate, in pounds per hour, does the machine make nails?\n\nA $\\frac{2}{3}$\n\nB $\\frac{3}{4}$\n\nC $\\quad 1 \\frac{1}{2}$\n\nD $3 \\frac{3}{4}$"

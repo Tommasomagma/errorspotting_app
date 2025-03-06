@@ -1,0 +1,1 @@
+"Annie simmar $1\\ 500$ m. Emma simmar $20$ % längre än Annie.\n\nVilken förändringsfaktor kan användas för att beräkna hur långt Emma simmar?"

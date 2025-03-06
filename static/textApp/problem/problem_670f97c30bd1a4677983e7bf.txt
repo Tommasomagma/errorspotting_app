@@ -1,0 +1,1 @@
+"På en skola med $428$ elever går $142$ elever i åk 9. Hur många procent av eleverna går i nian? Avrunda till heltal."

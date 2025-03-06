@@ -1,0 +1,1 @@
+Remember to stop doing extra calculations after ordering the numbers and only pick the middle one.

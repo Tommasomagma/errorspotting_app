@@ -1,0 +1,1 @@
+"Vilket är talet som visas i bilden? Svara i blandad form.". Problem image: Tre cirklar uppdelade i lika stora sektorer ritade intill varandra. Den första cirkeln är indelad i fyra lika stora delar, den andra cirkeln likaså. Den tredje cirkeln är en ofullständig kontur med en skuggad sektor som motsvarar en fjärdedel av cirkeln.

@@ -1,0 +1,1 @@
+Double-check the subtraction, especially how you borrowed digits, to ensure you subtracted 348 correctly from 500.

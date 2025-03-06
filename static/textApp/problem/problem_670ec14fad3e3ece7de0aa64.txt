@@ -1,1 +1,0 @@
-"Är funktionen som beskrivs med formeln $y = 4x + 300$ en proportionalitet? Förklara varför eller varför inte."

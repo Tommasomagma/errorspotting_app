@@ -1,0 +1,1 @@
+Double-check that when you scale lengths, the area’s unit stays square, not cubic.

@@ -1,0 +1,1 @@
+Check your division step; make sure you really divide 24 by 2 to get the correct result.

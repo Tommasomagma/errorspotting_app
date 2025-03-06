@@ -1,0 +1,4 @@
+9xy-(3x+y)(x+3y)
+9xy-(3x²+9xy+xy+3xy)+2x(x+y)
+9xy-3x²-9xy-xy-3xy+2x²+2xy
+-2xy-5x²

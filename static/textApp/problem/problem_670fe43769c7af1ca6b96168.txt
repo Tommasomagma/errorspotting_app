@@ -1,0 +1,1 @@
+"I en hage finns det $43$ hästar. $24$ av hästarna rymmer från hagen. Hur många hästar finns kvar i hagen?". Problem image: Två tecknade hästar står på ett fält.

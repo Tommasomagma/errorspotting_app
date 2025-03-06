@@ -1,0 +1,1 @@
+"Cirkeln tangerar kvadratens mittpunkt samt sida. Skriv ett uttryck för kvadratens area.". Problem image: En kvadrat med en inskriven cirkel som tangerar en av kvadratens sidor och dess mittpunkt. Radien för cirkeln är betecknad med 'r'.

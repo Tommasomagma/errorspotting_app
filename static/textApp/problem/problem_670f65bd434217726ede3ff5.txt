@@ -1,0 +1,1 @@
+"Elina har $10$ spelkulor. Hon vinner ett spel och har nu $17$ kulor totalt. \n\nHur många kulor vann Elina?". Problem image: En bild av en lotterimaskin med färgade kulor inuti. Maskinen är sfärisk och står på ett stativ. En arm sticker ut från maskinen.

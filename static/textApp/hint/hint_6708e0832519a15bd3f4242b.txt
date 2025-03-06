@@ -1,0 +1,1 @@
+Double-check that you subtract the glass cost from the total, using the correct numbers from the problem.

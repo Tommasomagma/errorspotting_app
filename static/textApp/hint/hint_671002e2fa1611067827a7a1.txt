@@ -1,1 +1,0 @@
-Double-check that you've included green's votes by subtracting the blue and red votes from the total.

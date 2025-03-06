@@ -1,0 +1,1 @@
+"Du har 4 kr. \n\nHur många kronor saknas för att köpa en glass som kostar 10 kr?". Problem image: En illustration av en glass.

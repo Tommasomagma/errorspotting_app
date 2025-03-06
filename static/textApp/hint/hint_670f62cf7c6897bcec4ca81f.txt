@@ -1,1 +1,0 @@
-Check if your subtraction quantity later needs to be multiplied to cover all three balls.

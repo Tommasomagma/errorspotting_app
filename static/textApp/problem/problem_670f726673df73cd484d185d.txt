@@ -1,0 +1,1 @@
+"Under en säsong var publiksiffran för innebandylaget i genomsnitt $331$ personer på de $13$ hemmamatcherna. På de $13$ bortamatcherna kom sammanlagt $3\\ 025$ personer. Beräkna den genomsnittliga publiksiffran för alla matcherna. Avrunda till närmaste heltal."

@@ -1,0 +1,1 @@
+Try dividing the lengths instead of subtracting to see how many times longer the other sled was.

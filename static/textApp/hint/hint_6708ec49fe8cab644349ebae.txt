@@ -1,0 +1,1 @@
+Check if subtracting 102 really matches the number change shown in the earlier steps.

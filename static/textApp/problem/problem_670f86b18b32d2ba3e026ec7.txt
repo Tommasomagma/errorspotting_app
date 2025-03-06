@@ -1,0 +1,1 @@
+"Du har primtalsfaktorerna $2$, $2$, $3$ och $5$. Hur många olika sammansatta tal kan du få om du kombinerar minst två av faktorerna?"

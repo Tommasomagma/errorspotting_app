@@ -1,0 +1,1 @@
+Check which price you should use as the base when calculating the percent increase.

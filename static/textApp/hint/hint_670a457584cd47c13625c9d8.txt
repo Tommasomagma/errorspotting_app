@@ -1,0 +1,1 @@
+Take another look to make sure you correctly combine the two probability cases—sometimes the final number can get mixed up if steps aren’t carefully added together.

@@ -1,0 +1,1 @@
+Check if you only calculated the red kulor without accidentally mixing in operations for the blue or green ones.

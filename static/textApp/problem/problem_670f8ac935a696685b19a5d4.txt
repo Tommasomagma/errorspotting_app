@@ -1,0 +1,1 @@
+"Lös uppgiften och skriv svar.\n\n$6{,}5 \\cdot 10 =$"

@@ -1,0 +1,1 @@
+"Beräkna.\n\n$ \\left((4-6,5)\\cdot2 \\right)\\left(4-{\\Large\\frac{27}{3}}\\right)=$"

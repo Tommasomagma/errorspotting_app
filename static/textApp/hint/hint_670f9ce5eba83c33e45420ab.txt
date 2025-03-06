@@ -1,0 +1,1 @@
+Remember to subtract the total cost from 200 instead of only adding the prices.

@@ -1,0 +1,1 @@
+"Beräkna arean.". Problem image: Bilden visar en rektangel med en triangel ovanpå. Rektangelns base är markerad som 4 cm, och triangelns höjd är markerad som 4 cm. Triangelns bas sammanfaller med rektangelns överkant.

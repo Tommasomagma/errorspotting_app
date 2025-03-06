@@ -1,0 +1,1 @@
+Take another look at how you set up the division with the decimal numbers, especially for the 0,24.

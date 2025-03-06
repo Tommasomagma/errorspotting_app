@@ -1,0 +1,1 @@
+"Beräkna parallellogrammens area.". Problem image: En ritning av en parallellogram med sidorna markerade. Basen är markerad som 5 cm och höjden som 3 cm. En ytterligare sida är markerad som 4 cm.

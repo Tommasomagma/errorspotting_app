@@ -1,0 +1,1 @@
+Check that you correctly converted the time to the fraction of the month by using the fact that each day is exactly 1/30 of June.

@@ -1,0 +1,1 @@
+"Förenkla. \n\n$9xy-(3x+y)(x+3y)+2x(x+y)$"

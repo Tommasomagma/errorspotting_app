@@ -1,0 +1,1 @@
+"Mehmet springer fyra kilometer på $32$ minuter. Han håller samma tempo hela tiden.\n\nHur långt tid tar det för Mehmet att springa $500$ m?"

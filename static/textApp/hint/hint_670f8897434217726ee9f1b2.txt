@@ -1,0 +1,1 @@
+Double-check whether you should multiply instead of divide since "3,5% av 82 000" means finding 3,5% of 82 000.

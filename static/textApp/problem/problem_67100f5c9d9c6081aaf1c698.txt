@@ -1,0 +1,1 @@
+"Triangeln är likbent. Hur stor är vinkel a?". Problem image: En bild av en likbent triangel med en markerad vinkel betecknad med 'a' vid triangelns topp. En av de lika stora vinklarna vid basen är markerad med 52 grader.

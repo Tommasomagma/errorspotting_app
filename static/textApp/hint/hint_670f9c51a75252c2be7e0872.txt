@@ -1,0 +1,1 @@
+Take a closer look at how you converted 1/2 to have denominator 4 and make sure you multiply both the numerator and denominator by the same number.

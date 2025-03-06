@@ -1,0 +1,1 @@
+"Beräkna arean av det cirkelformade föremålet. \n\nEn bricka med radien $3$ dm. Avrunda till hela kvadratdecimeter."

@@ -1,0 +1,1 @@
+"Gör lämplig avrundning och räkna ut med överslagsräkning:\n\n48,7-29+12,2"

@@ -1,0 +1,1 @@
+"I en påse finns $2$ svarta och $2$ vita kulor. Josefin drar $2$ kulor.\n\nHur stor är sannolikheten att hon drar två vita kulor med återläggning?"

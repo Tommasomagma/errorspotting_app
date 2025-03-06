@@ -1,0 +1,1 @@
+Take a closer look at how you multiplied each binary digit by the correct power of 2 before adding them up.

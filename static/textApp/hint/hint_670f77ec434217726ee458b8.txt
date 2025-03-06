@@ -1,0 +1,1 @@
+Check that you are using the number of patties Kalle ate rather than subtracting someone's amount.

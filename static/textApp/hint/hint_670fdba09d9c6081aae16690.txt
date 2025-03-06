@@ -1,0 +1,1 @@
+Take a closer look at how you applied the division by 2 and subtraction of 4, and check if each operation matches the order in the problem.

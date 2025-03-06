@@ -1,1 +1,0 @@
-Double-check if you are comparing the ratios of earnings to hours instead of just the differences between the hour values.

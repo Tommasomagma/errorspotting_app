@@ -1,0 +1,1 @@
+Check the subtraction of Rikard’s and Mihir’s shares from 8000 to ensure you correctly used their exact parts.

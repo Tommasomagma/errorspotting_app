@@ -1,0 +1,1 @@
+Try checking if you extended both the top and bottom with the same number instead of dividing 60 by 7.

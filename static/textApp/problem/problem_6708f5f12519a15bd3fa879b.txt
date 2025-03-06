@@ -1,0 +1,1 @@
+"Vad ska du dividera med för att det ska ge samma resultat som att multiplicera ett tal med $0{,}5$?"

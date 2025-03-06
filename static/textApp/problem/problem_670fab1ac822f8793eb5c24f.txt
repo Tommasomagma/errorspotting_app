@@ -1,0 +1,1 @@
+"Beräkna den rosa triangelns area.". Problem image: Bilden visar en rektangel och en rosa triangel inuti rektangeln. Triangeln är markerad med en punktlinje som delar rektangeln i två delar. Rektangelns längd är 6 cm och höjden är 3 cm.

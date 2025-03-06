@@ -1,0 +1,1 @@
+Remember to re-check how many equal pieces result from two cuts, since the number of pieces is one more than the number of cuts.

@@ -1,0 +1,1 @@
+"Avgör genom överslagsräkning vilket närmevärde som är bäst.\n\n$6{,}7 \\cdot 31{,}8$"

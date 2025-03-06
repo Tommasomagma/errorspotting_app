@@ -1,0 +1,1 @@
+Check if you correctly broke down the multiplication of 47 into 6×7 and 6×4.

@@ -1,0 +1,1 @@
+Räkna hur många luckor det finns mellan träden och multiplicera med avståndet.

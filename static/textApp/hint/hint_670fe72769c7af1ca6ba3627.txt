@@ -1,0 +1,1 @@
+Check that you kept 2,34 in its decimal form instead of converting it to a fraction over 100 before subtracting one quarter.

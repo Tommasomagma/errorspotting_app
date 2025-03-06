@@ -1,0 +1,1 @@
+"Hur stor andel av figuren är färgad? Svara i decimalform.". Problem image: En rektangulär rutnät med rutor. En del av rutorna är ifärgade i blått och resten är vita. Rutnätet är indelat i lika stora rutor utan att ange det totala antalet rutor.

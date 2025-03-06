@@ -1,0 +1,1 @@
+Remember to use half of the product of the base and height when finding a triangle's area.

@@ -1,0 +1,1 @@
+Double-check if you need to divide the total distance by each member's distance instead of multiplying.

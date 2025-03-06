@@ -1,0 +1,1 @@
+Check if you've correctly counted all the possible fruit combinations for the three positions.

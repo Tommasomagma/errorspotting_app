@@ -1,1 +1,0 @@
-Maybe take another look at how you matched the number of colored squares to the total squares in each figure.

@@ -1,0 +1,1 @@
+Check if you need to multiply the cost by three instead of dividing it, since you’re finding the total price.

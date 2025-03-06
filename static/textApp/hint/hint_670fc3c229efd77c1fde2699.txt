@@ -1,0 +1,1 @@
+Check if multiplying the whole sum by 6 was what you needed, or if you should instead multiply the smaller number by 5 before finding the difference.

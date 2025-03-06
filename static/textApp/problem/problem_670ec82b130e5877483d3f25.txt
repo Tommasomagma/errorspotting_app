@@ -1,0 +1,1 @@
+"Svara med ett bråk i enklaste form. \n\n${\\Large \\frac{7}{9}} \\cdot {\\Large \\frac{3}{5}}=$"

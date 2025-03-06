@@ -1,0 +1,1 @@
+Make sure you divide the part amount by the whole amount before multiplying to get the percentage.

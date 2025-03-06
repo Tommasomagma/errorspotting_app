@@ -1,0 +1,1 @@
+"Peter köpte två förpackningar A4-papper till sin skrivare. Det var $500$ blad i varje förpackning. Han betalade $120$ kr. \n\nHur mycket kostade varje blad?"

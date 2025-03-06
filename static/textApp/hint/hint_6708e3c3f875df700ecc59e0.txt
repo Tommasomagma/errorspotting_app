@@ -1,0 +1,1 @@
+Försök att räkna ut hur många godisar som blir kvar om du tar bort de röda och gröna från det totala antalet.

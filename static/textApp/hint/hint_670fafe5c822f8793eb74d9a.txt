@@ -1,0 +1,1 @@
+Check if you used the correct division by 2 when setting up the area formula instead of dividing by 7.

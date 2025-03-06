@@ -1,0 +1,1 @@
+"Beräkna och svara i enklaste bråkform.\n\n${\\Large\\frac{7}{8}}-{\\Large\\frac{3}{8}}=$"

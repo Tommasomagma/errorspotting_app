@@ -1,0 +1,1 @@
+Try using a factor tree to break 36 into its prime pieces.

@@ -1,0 +1,1 @@
+Make sure you divided the number of colored squares by the total number of squares.

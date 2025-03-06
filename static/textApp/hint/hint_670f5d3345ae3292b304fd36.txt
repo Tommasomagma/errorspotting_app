@@ -1,0 +1,1 @@
+It looks like you used division instead of subtraction—double-check how to isolate x by reversing the addition.

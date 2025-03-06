@@ -1,0 +1,1 @@
+"Musikskolan hade $745$ elever. Det var $230$ elever som spelade ett blåsinstrument. \n\nHur stor andel av eleverna spelade ett blåsinstrument? Svara i procentform, i hela procent."

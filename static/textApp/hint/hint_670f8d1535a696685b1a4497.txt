@@ -1,0 +1,1 @@
+Review how scaling both the numerator and the denominator by 10 should preserve the original value.

@@ -1,0 +1,1 @@
+"Ett tal multiplicerat med sitt motsatta tal ger produkten $-256$. Vilket är talet?"

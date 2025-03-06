@@ -1,0 +1,1 @@
+Remember, when finding half, you should divide by 2 instead of multiplying by 2.

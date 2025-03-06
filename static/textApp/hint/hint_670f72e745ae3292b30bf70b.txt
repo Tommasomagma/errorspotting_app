@@ -1,0 +1,1 @@
+Check if you subtracted in the right order from the total number of kulor.

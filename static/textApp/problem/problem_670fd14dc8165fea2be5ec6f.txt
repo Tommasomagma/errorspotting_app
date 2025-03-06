@@ -1,0 +1,1 @@
+"Beräkna. Förläng först bråket så att nämnaren blir $12$.\n\n${\\Large\\frac{1}{4}}+{\\Large\\frac{1}{3}}=$"

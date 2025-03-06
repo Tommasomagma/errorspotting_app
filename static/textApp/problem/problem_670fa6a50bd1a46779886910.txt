@@ -1,0 +1,1 @@
+"Lana köper en pizza-slice som kostar 7 kr. Hon betalar med en 10-krona. \n\nHur mycket får Lana tillbaka?". Problem image: En bit pizza.

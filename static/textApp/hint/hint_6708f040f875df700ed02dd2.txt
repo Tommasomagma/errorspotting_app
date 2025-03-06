@@ -1,0 +1,1 @@
+Check if you counted all the colored blocks correctly when comparing them to the total number of blocks.

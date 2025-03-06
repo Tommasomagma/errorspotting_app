@@ -1,0 +1,1 @@
+"Beräkna och välj svaret i grundpotensform.\n\n${\\Large\\frac{3\\ \\cdot\\ 10^8}{6\\ \\cdot\\ 10^3}}=$"

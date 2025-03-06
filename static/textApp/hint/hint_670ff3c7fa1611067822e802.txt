@@ -1,0 +1,1 @@
+Check if you multiplied both the numerator and denominator by the same number when extending the fraction.

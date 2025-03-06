@@ -1,0 +1,1 @@
+Double-check how you converted 2/3 to a decimal, making sure you divide 2 by 3 to get a number less than 1.

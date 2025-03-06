@@ -1,0 +1,1 @@
+Take another look at your borrowing and column alignment steps to ensure each digit is subtracted correctly.

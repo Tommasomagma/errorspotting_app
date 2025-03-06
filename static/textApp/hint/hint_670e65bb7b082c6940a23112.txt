@@ -1,0 +1,1 @@
+Check if you correctly applied 3/10 to 400 instead of mistakenly dividing 400 by 10 before multiplying.

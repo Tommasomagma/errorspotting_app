@@ -1,1 +1,0 @@
-"Under en dag betalar Bertil $597$ kr hos frisören, $174$ kr för fika och $432$ kr för en taxiresa. \n\nHar Bertil spenderat mer än $1\\ 000$ kr? Beräkna med överslagsräkning."

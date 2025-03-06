@@ -1,0 +1,1 @@
+"Beräkna. Förkorta svaret och skriv i blandad form om möjligt. \n\n${ \\Large \\frac{6}{13}} \\cdot { \\Large \\frac{7}{9}} \\cdot  { \\Large \\frac{26}{49}} = $"

@@ -1,0 +1,1 @@
+Remember to check that being exactly in the middle means the number of people before and after is the same, so see if you added an extra person by mistake.

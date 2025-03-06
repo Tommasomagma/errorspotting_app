@@ -1,0 +1,1 @@
+Double-check that you’re dividing the number of nuts (pistagenötter and jordnötter) by the total number of items, not just using the candy count in your division.

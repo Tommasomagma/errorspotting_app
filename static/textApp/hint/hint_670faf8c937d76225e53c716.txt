@@ -1,0 +1,1 @@
+Kolla igenom din multiplikation för att säkerställa att du räknade 8 godisar för varje av de 5 dagarna.

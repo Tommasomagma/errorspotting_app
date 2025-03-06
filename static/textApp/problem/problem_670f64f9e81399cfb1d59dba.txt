@@ -1,0 +1,1 @@
+"Leia är $3$ år äldre än Lukas. Om man multiplicerar Leias ålder med $3$ får man samma resultat som om man multiplicerar Lukas ålder med $4$.\n\nHur gammal är Lukas?"

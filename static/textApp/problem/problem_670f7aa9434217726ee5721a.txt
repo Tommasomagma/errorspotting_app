@@ -1,0 +1,1 @@
+"Beräkna $v$.". Problem image: Bilden visar två linjer som bildar en vinkel. Vinkelns beteckning är $v$ och storleken är angiven som 35 grader.

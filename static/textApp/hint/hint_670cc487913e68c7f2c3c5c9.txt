@@ -1,0 +1,1 @@
+Think about how many zeros are in one billion and use that to write 3 billion in power-of-ten form.

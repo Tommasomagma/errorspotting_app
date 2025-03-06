@@ -1,0 +1,1 @@
+It looks like you calculated the sum correctly—double-check that you're submitting the result of 1599 + 1, not just one of the numbers from the problem.

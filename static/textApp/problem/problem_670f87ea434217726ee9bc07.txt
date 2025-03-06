@@ -1,0 +1,1 @@
+"I Nydala är den $1{,}8$ °C. \n\nHur många grader är det i Torp, om det är $3{,}2$ °C kallare där?"

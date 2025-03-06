@@ -1,0 +1,1 @@
+"Ett bildäck har diametern $0{,}5$ m. Hur många varv har ett bildäck som använts $10$ km snurrat? Avrunda till hundratals varv."

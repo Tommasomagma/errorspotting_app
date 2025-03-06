@@ -1,0 +1,1 @@
+"I öknen är det mitt på dagen 32 °C. 14 timmar senare har temperaturen sjunkit med 44 °C. \n\nVilken temperatur är det nu?". Problem image: Bilden visar en termometer. Termometern avbildar inte specifika temperaturvärden.

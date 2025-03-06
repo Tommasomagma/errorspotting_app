@@ -1,0 +1,1 @@
+Make sure you're dividing the total sum by 5 to find the average instead of just reporting the sum.

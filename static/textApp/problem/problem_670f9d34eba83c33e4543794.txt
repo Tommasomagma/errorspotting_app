@@ -1,0 +1,1 @@
+"Beräkna och svara i potensform. \n\n${\\Large\\frac{10^{12}}{10^8}} =$"

@@ -1,0 +1,1 @@
+"Vilket tal är $x$? Svara i decimalform. \n\n${\\Large\\frac{3}{4}} = x + 0{,}06$"

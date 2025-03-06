@@ -1,0 +1,1 @@
+Make sure you're using the table's constant rate correctly to convert 11 feet into the matching time, not by multiplying steps that don't apply.

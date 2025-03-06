@@ -1,0 +1,1 @@
+"Blommor säljs i buketter med 8 blommor i varje. Adem ska köpa 60 blommor. \n\nHur många buketter behöver Adem köpa? Avrunda till ett heltal.". Problem image: En blomma.

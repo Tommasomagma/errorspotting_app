@@ -1,0 +1,1 @@
+Take another look at how the total age and the 3-year difference work together, since subtracting 3 from 25 might not match the given relation.

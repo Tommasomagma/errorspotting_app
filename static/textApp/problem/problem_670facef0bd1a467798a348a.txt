@@ -1,0 +1,1 @@
+"Vilken siffra är hundradelssiffra i talet $0{,}387$?"

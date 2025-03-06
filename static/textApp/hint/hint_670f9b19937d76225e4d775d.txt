@@ -1,0 +1,1 @@
+Try rewriting both numbers with the same denominator to compare them correctly.

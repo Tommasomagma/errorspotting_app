@@ -1,0 +1,1 @@
+Remember to divide the difference by the original value when calculating percent change.

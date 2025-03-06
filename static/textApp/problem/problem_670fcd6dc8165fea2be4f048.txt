@@ -1,0 +1,1 @@
+"\n\nHur stor är sannolikheten att vid ett kast med en tärning få minst tre prickar? Svara i bråkform."

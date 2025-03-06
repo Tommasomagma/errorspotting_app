@@ -1,0 +1,1 @@
+It looks like you may have mistakenly included the 4 cm from the white rectangle—try double-checking if that value should be part of the triangle's area calculation.

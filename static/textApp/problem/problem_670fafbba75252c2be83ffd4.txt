@@ -1,0 +1,1 @@
+"I en skål låg det $12$ karameller. Först åt Ola upp en tredjedel av karamellerna. Sedan åt Lisa upp hälften av de karameller som var kvar. \n\nHur många karameller låg det sedan i skålen?"

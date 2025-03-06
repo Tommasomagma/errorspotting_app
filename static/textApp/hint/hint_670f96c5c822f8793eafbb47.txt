@@ -1,0 +1,1 @@
+Make sure you split 30 into just its prime numbers and add only those primes.

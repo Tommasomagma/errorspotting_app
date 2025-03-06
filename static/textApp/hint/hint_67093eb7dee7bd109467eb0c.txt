@@ -1,1 +1,0 @@
-Check if you compared the constant ratio of dollars to hours rather than only the differences in the hour values.

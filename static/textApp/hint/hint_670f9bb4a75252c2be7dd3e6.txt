@@ -1,0 +1,1 @@
+Try subtracting the total length of the three known sides from the overall perimeter to find the missing side.

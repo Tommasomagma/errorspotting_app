@@ -1,0 +1,1 @@
+"Beräkna.\n\n$51+31=$". Problem image: En tabell indelad i rutor som visar en addition i kolumnform. Tiotals kolumnen innehåller siffrorna fem och tre. Entals kolumnen innehåller siffrorna ett och ett. En blå linje markerar slutet av additionen.

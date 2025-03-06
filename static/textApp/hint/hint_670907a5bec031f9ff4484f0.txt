@@ -1,1 +1,0 @@
-Check if you sorted your decimals from smallest to largest, starting with the smallest value.

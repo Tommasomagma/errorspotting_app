@@ -1,0 +1,1 @@
+"Avrunda till tiotal och beräkna med överslagsräkning.\n\n$38{,}1-19{,}8$"

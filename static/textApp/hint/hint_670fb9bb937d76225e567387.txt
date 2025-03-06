@@ -1,0 +1,1 @@
+Check if you added the purchase price to the profit before dividing by the number of pots.

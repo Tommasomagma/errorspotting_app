@@ -1,0 +1,1 @@
+"Beräkna parallellogrammens area.". Problem image: En illustration av en parallellogram i Rosa färg. Parallellogrammen har sidornas mått angivna: basen är 5,5 meter och höjden är 2 meter. Måttenheten meter är angiven med ett (m) bredvid höjden.

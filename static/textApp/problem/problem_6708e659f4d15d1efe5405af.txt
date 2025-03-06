@@ -1,1 +1,0 @@
-"Vilken är nästa bokstav i följden? \n\nÖ $\\hspace{0.5cm} $Å$ \\hspace{0.5cm} $Y$ \\hspace{0.5cm} $W$ \\hspace{0.5cm} ?$"

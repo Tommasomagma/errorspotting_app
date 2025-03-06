@@ -1,0 +1,1 @@
+"Skriv en täljare så att bråket blir större än 2 men mindre än 3.\n\n$ \\Large \\frac{?}{8}$"

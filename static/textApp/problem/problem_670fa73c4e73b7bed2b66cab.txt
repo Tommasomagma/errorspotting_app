@@ -1,0 +1,1 @@
+"I tabellen visas olika tågtider.\n\nHur många minuter tar det att åka med tåg 92 från Arlanda C till Gävle C?"

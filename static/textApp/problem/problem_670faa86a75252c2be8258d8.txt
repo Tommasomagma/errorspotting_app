@@ -1,1 +1,0 @@
-"Hur många tal är större än $2$ men mindre än $2{,}1$?"

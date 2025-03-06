@@ -1,1 +1,0 @@
-"Vilken av följande beräkningar ger det största svaret?\n\nA: $0{,}98\\cdot 45\\quad$ B: $\\Large\\frac{45}{0{,}98}\\quad$ C: $0{,}918\\cdot 45\\quad$ D: $\\Large\\frac{45}{0{,}918}$"

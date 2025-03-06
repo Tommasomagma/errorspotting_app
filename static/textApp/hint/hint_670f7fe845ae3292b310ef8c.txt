@@ -1,0 +1,1 @@
+Double-check the cancellation steps in both the numerator and denominator to ensure you’re removing only common factors correctly.

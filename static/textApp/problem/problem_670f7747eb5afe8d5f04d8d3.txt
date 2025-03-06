@@ -1,0 +1,1 @@
+"Till 4 katter går det åt 2 burkar kattmat varje dag. \n\nHur många burkar går det varje dag åt till 6 katter?"

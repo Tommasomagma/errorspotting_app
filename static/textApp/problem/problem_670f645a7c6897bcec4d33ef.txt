@@ -1,0 +1,1 @@
+"Beräkna.\n\n$3 \\cdot 2=$". Problem image: Three groups each containing two pink circles within an outline.

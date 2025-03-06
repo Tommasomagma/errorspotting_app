@@ -1,0 +1,1 @@
+Revisit the step where you take the square root with the 4-times factor to ensure you are matching the rectangle’s area expression correctly.

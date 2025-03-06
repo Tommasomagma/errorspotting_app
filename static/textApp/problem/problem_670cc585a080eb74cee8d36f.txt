@@ -1,0 +1,1 @@
+"Beräkna räntan.\n\nKapital: $350\\ 000$ kr\n\nRäntesats: $2$ %\n\nTid: $6$ mån"

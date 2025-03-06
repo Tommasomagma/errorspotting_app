@@ -1,0 +1,1 @@
+"Beräkna.\n\n$667+325=$". Problem image: En uppställning av addition i en tabell med tre kolumner, där de två översta raderna innehåller siffrorna för de två tal som ska adderas. En rad under för summan är tom.

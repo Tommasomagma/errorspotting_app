@@ -1,0 +1,1 @@
+"Du har ett tal.\n\nAddera talet med $10$.\n\nDividera summan med $4$.\n\nMultiplicera kvoten med $5$.\n\nSubtrahera produkten med $6$.\n\nDifferensen blir $14$.\n\nVilket tal startade du med?"

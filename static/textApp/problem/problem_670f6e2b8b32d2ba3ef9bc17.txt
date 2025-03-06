@@ -1,0 +1,1 @@
+"Hur många centimeter är sträckan $y$? Avrunda till en decimal.". Problem image: Bilden visar en triangulär figur där sidornas längder är markerade i centimeter. En sida är betecknad med \( y \), och de övriga kända sidornas längder är 2,2 cm, 3,4 cm, 4,6 cm, 7,6 cm och 2,1 cm.

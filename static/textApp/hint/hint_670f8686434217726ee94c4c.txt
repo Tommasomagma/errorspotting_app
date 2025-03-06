@@ -1,0 +1,1 @@
+Remember to check if every step follows the triangle area rule, including dividing the product of the base and height by 2.

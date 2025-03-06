@@ -1,0 +1,1 @@
+It looks like you divided instead of multiplying the hourly wage by the number of hours—try reviewing that step.

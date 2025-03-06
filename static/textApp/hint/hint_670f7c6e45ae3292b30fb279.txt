@@ -1,0 +1,1 @@
+Double-check whether adding 225 repeatedly matches the relation given in the problem since the use of each operation is key.

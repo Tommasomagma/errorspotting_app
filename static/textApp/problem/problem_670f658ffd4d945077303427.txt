@@ -1,0 +1,1 @@
+"I en påse finns det $6$ rosa och $3$ blåa kulor. Hur stor är sannolikheten att först ta upp en blå och därefter en rosa kula, om man kör utan återläggning?\n\nRita ett träddiagram och använd det för att svara på frågan."

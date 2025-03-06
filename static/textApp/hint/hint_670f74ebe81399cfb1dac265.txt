@@ -1,0 +1,1 @@
+Take a look at your operations—should you be adding 1 instead of subtracting 1 to find the number after 1?

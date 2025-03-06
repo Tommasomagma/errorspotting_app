@@ -1,1 +1,0 @@
-Double-check that you set up the equation with dollars as the output and hours as the input, making sure you don't swap them.

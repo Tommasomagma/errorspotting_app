@@ -1,0 +1,1 @@
+Check if you mixed up multiplying with dividing the cost per bag, as the problem needs you to calculate the price for two bags.

@@ -1,1 +1,0 @@
-Take a closer look at how you combined the subtraction and multiplication to correctly reflect Simon's count in the expression.

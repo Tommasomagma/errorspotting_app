@@ -1,0 +1,1 @@
+Check your percentage steps, especially the part where you split 720 kr into parts, to ensure you correctly consider that 720 kr represents 80% of the original price.

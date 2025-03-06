@@ -1,0 +1,1 @@
+It seems you multiplied when you needed to divide the total equally, so double-check that step.

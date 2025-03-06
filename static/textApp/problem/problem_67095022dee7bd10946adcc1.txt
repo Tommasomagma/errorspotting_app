@@ -1,0 +1,1 @@
+"Omkretsen av en figur anger hur långt det är runt den, om vi går längs figurens kanter. \n\nVad är omkretsen för den här figuren?". Problem image: The image shows a rectangle with labeled sides. The top and bottom sides are labeled 4 ft, and the left and right sides are labeled 3 ft.

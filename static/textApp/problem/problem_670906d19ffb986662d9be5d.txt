@@ -1,0 +1,1 @@
+"Beräkna.\n\n$\\Large \\frac{57}{3} \\small =$"

@@ -1,0 +1,1 @@
+"Förenkla och skriv i potensform med basen $2$.\n\n${\\Large\\frac{(2^4)^3}{2^3}}=$"

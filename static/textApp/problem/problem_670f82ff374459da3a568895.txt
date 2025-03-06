@@ -1,0 +1,1 @@
+"I en motorcykel klubb undersöker man vilken färg  alla har på sina motorcyklar. $30\\%$ har blåa motorcyklar. Totalt finns det $100$ motorcyklar i klubben. Hur många motorcyklar är blåa$?$"

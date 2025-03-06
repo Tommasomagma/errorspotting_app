@@ -1,0 +1,1 @@
+Take a closer look at how you split the multiplication steps, ensuring each part reflects the numbers in the original problem.

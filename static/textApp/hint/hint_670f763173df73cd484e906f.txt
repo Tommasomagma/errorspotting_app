@@ -1,0 +1,1 @@
+Fundera på vilket tal som kan dela både 210 och 300 utan att lämna någon rest.

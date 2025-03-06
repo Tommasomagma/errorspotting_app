@@ -1,1 +1,0 @@
-"A function is represented by this equation. \n\n$y=4(\\frac{x}{3}-1)$\n\nThe rate of change is..."

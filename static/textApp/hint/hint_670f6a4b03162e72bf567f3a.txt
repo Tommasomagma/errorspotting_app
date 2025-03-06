@@ -1,0 +1,1 @@
+Multiply the price of one bowl by the total number of bowls to see what you get.

@@ -1,0 +1,1 @@
+Remember to check that you're using factors less than 1 for a price reduction, not factors above 1.

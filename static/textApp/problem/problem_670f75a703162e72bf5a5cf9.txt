@@ -1,0 +1,1 @@
+"Bestäm vilket som är nästa tal i de aritmetiska talföljderna.\n\n18,11,4,-3,..."

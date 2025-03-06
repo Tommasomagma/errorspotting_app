@@ -1,0 +1,1 @@
+"A family buys 5 pizzas that cost the same amount each. In total the family pays $45.\n\nHow much does 9 pizzas cost?"

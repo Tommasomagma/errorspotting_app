@@ -1,0 +1,1 @@
+"En triangel har basen $25$ cm och arean $85$ cm$^2$. Beräkna triangelns höjd."

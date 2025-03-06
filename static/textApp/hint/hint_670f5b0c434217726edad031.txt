@@ -1,0 +1,1 @@
+Check if you considered that halving a power of 2 reduces the exponent by 1, not half the exponent.

@@ -1,0 +1,1 @@
+Titta noga på hur du räknar antalet delare utifrån primtalsuppdelningen, speciellt genom att addera 1 till varje exponent och multiplicera resultaten.

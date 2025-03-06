@@ -1,0 +1,1 @@
+"I en låda finns det 36 gem. Det finns tre gånger så många gem som pennor och fyra gånger så många sudd som pennor.\nHur många saker finns det sammanlagt i lådan?"

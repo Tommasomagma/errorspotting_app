@@ -1,0 +1,1 @@
+Check if you accidentally converted your percentage back into a small decimal instead of keeping it in percentage form with one decimal.

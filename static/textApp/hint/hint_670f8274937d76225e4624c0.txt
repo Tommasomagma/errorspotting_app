@@ -1,0 +1,1 @@
+Prova att dela både antalet röda bollar och det totala antalet med samma tal för att förenkla bråket.

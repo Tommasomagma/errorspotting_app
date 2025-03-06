@@ -1,0 +1,1 @@
+"Mia köper en miniräknare och en klubba. \\\nDå har hon 150 kr kvar. \\\nHur mycket pengar hade Mia från början?\\\nVisa hur du löser uppgiften och skriv svar.". Problem image: Bilden visar fem olika föremål med varje föremåls pris skrivet under det. Det finns en jacka, en miniräknare, en kamera, en hjälm och en landhockeyklubba. Varje pris är angivet i svenska kronor (kr).

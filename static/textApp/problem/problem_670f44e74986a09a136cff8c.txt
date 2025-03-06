@@ -1,0 +1,1 @@
+"Räkna ut talen. Använd gärna en uppställning och visa din uträkning.\n\n276·8"

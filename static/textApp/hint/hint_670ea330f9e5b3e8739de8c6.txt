@@ -1,0 +1,1 @@
+Dubbelkolla dina delningssteg, särskilt kontrollera att du inte har missat någon primtalsfaktor när du brutit ner 345 på alla steg.

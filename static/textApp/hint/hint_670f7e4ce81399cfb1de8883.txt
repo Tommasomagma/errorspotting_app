@@ -1,0 +1,1 @@
+Check your decimal placement while dividing 0,48 by 6 to see if the numbers line up correctly.

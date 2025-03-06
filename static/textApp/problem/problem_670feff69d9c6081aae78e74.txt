@@ -1,0 +1,1 @@
+"En vårdag var temperaturen vid lunch $4\\ \\degree$C. Till kvällen sjönk temperaturen med $8\\ \\degree$C. \n\nVad var temperaturen under kvällen?"

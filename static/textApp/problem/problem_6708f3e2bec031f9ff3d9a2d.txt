@@ -1,0 +1,1 @@
+"Europas längsta flod Volga är $3\\ 531$ km lång. Donau är $681$ km kortare. Kama, som är Europas sjätte längsta flod, är $1\\ 045$ km kortare än Donau. \n\nUngefär hur lång är Kama? Avrunda alla termer till hundratals km.". Problem image: En stiliserad illustration av en flod som flyter genom ett landskap.

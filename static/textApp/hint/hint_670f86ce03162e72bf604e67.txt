@@ -1,0 +1,1 @@
+Double-check if you correctly added the drink cost and the pant fee for each bottle before multiplying by 6.

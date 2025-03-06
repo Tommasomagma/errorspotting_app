@@ -1,0 +1,1 @@
+Testa att ordna siffrorna så att de minsta hamnar först och att en udda siffra kommer sist.

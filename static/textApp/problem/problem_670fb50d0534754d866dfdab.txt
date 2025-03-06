@@ -1,0 +1,1 @@
+"I ett tält på ett festivalområde äter $460$ personer. Man kan välja mellan hamburgare, varmkorv och pastasallad. Av de som äter i tältet så väljer $60\\ \\%$ hamburgare och $150$ personer väljer varmkorv. Hur många personer väljer pastasallad?". Problem image: Personer äter mat vid bord.

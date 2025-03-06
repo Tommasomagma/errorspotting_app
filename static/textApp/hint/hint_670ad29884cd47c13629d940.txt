@@ -1,0 +1,1 @@
+Calculate the missing side using the perimeter and then multiply it by the base to find the area.

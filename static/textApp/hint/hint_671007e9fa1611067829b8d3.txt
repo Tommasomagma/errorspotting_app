@@ -1,0 +1,1 @@
+Check if you multiplied the numerators and denominators correctly without adding an extra term.

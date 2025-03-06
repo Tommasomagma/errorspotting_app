@@ -1,0 +1,1 @@
+"Ett fotografi har arean $130$ cm$^2$. Allan vill förstora fotot så att alla sidor blir dubbelt så långa.\n\nHur stor blir arean av förstoringen?"

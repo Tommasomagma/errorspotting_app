@@ -1,0 +1,1 @@
+Check if you are using the right order of colors in your diagram, since the problem asks for a blue ball first and then a pink ball.

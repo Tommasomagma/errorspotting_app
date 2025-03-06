@@ -1,0 +1,1 @@
+Think about how the circle touches the square's center and side to find a connection between the square's side length and the circle's radius.

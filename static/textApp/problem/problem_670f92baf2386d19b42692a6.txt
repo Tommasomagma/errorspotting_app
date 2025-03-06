@@ -1,0 +1,1 @@
+"Beräkna. \n\n$0{,}10 + 0{,}20 = $". Problem image: Bilden visar en additionstabel med två tal som ska adderas. Varje tal är uppdelat i kolumner för hundradelar, tiondelar och ental.

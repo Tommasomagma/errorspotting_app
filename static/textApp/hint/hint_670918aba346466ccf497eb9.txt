@@ -1,0 +1,1 @@
+Take another look at how you get 2/5 of 650 instead of simply dividing by 650 by 10.

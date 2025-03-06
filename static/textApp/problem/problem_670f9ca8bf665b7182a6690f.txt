@@ -1,0 +1,1 @@
+"Samir står i matkön. Han står som nummer $5$ framifrån och som nummer $9$ bakifrån. \n\nHur många elever står i kön?"

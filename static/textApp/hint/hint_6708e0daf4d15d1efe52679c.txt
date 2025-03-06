@@ -1,0 +1,1 @@
+Remember to divide the perimeter by 4 instead of multiplying it by 4 to get the side length.

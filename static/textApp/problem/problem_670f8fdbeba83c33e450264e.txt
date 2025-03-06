@@ -1,0 +1,1 @@
+"Beräkna.\n\n$234+91=$". Problem image: En tabell uppdelad i tre kolumner och två rader med en blå horisontell linje under raderna. Första raden visar numren 2, 3 och 4 i separata kolumner. Andra raden, markerad med ett plus-tecken, visar numren 9 och 1 i de två högra kolumnerna. Den första kolumnen på andra raden är tom.

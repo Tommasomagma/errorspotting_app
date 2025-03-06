@@ -1,1 +1,0 @@
-Double-check how you counted the sectors—remember each one has an equal chance.

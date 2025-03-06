@@ -1,0 +1,1 @@
+Double-check how the number of unique sides on the die means that once you've seen each one, one extra throw must repeat a number.

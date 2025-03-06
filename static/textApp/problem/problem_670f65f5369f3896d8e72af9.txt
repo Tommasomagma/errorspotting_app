@@ -1,0 +1,1 @@
+"Tre lika tunga påsar med äpplen väger sammanlagt $6$ kg. Priset för äpplena är $18$ kr per kilogram. Emma köper två påsar.\n\nVad får hon tillbaka om hon betalar med en hundralapp?"

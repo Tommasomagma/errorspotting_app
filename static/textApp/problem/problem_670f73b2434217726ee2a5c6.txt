@@ -1,0 +1,1 @@
+"Hur många flaskor behövs det om man ska hälla $2$ liter vatten i flaskor som rymmer $\\Large \\frac{1}{2}$ liter?"

@@ -1,0 +1,1 @@
+"Björn köper en stor förpackning med ägg. Han använder ​${\\Large\\frac{1}{3}}$​ av äggen till att baka sockerkakor och kokar ${\\Large\\frac{2}{5}}$​ av äggen till frukost.\n\n\nHur stor andel av äggen har Björn kvar?"

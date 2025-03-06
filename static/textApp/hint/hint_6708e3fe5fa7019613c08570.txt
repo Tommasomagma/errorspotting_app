@@ -1,0 +1,1 @@
+Remember to divide by 2 when using the triangle area formula.

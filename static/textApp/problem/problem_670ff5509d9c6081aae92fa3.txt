@@ -1,0 +1,1 @@
+"Tim har 750 kr. Han köper ett spel för 335 kr, ett par solglasögon för 129 kr och en sallad för 72 kr. \n\nHur mycket pengar har han kvar?"

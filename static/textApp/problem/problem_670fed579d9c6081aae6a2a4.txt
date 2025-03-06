@@ -1,0 +1,1 @@
+"En fabrik har 160 stycken anställda som antingen är montörer eller mekaniker. Montörerna är 4 gånger fler än mekanikerna.\n\nHur många montörer jobbar på fabriken?". Problem image: Ett bild på en fabriksikon.

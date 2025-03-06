@@ -1,0 +1,1 @@
+Double-check how you distributed the 2 over (x+1) to ensure you didn’t miss adding the constant.

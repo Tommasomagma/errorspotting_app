@@ -1,0 +1,1 @@
+"Hur mycket är det hela?\n\n$200$ % motsvarar $250$ ml"

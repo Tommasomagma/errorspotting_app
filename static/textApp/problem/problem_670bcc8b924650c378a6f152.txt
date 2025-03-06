@@ -1,0 +1,1 @@
+"**Starter 1.5b**\n\n${\\Large\\frac{4^x\\  \\cdot\\  4^y}{4^z}}$\n\nErsätt exponenterna $x$, $y$ och $z$ med siffrorna $0$, $1$, $2$ och $3$ så kvoten blir så liten som möjligt. Svara med kvoten."

@@ -1,0 +1,1 @@
+"Skriv som en tiopotens. \n\nen miljon"

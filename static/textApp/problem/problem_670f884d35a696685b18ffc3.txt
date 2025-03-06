@@ -1,0 +1,1 @@
+"Rita två olika rektanglar som har omkretsen $16$ cm. Beräkna rektanglarnas area.\n\nVilka två sidlängder skulle rektanglarna kunna ha?"

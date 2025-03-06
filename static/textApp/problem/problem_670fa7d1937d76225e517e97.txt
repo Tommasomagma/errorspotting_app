@@ -1,0 +1,1 @@
+"Bestäm värdet på $y$.". Problem image: A triangle with angles labeled: one angle is 26 degrees, another is 17 degrees, and the third angle, labeled with 'y' degrees, is opposite the longest side.

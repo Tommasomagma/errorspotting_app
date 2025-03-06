@@ -1,0 +1,1 @@
+Check if you counted each game for both teams instead of just one team's matches.

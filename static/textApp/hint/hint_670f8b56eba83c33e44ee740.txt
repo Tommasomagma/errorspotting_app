@@ -1,0 +1,1 @@
+Check if you divided by the right number when calculating height using the triangle’s base.

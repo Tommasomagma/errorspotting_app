@@ -1,0 +1,1 @@
+"Beräkna och svara i enklaste form.\n\n${\\Large\\frac{2}{3}} \\cdot {\\Large\\frac{4}{5}}$"

@@ -1,0 +1,1 @@
+"I förskolegruppen är det $14$ flickor och $12$ pojkar. Hälften av barnen går på promenad.\n\nHur många flickor måste det minst vara som går med på promenaden?"

@@ -1,0 +1,1 @@
+"Skriv bråken med samma nämnare och beräkna.\n\n${\\Large\\frac{3}{10}}-{\\Large\\frac{1}{5}}=$"

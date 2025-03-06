@@ -1,0 +1,1 @@
+"Förenkla och skriv i potensform. \n\n$\\Large\\frac{7^{12} \\cdot 7^{6}}{7^{5}\\cdot7^{8}}$"

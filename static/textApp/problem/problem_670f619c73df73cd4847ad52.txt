@@ -1,0 +1,1 @@
+"Charlie har 30 kronor, och köper två paket mjölk som kostar 9 kronor styck.  \n\nHur många kronor har hon kvar?". Problem image: A carton of milk.

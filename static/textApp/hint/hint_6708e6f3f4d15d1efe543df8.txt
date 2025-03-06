@@ -1,0 +1,1 @@
+Remember to multiply your result by 100 to convert it from a decimal to a percentage.

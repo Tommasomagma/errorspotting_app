@@ -1,0 +1,1 @@
+"Vilket tal fattas? \n\n$ 20 +\\underline{\\hspace{0.5cm}}=80$"

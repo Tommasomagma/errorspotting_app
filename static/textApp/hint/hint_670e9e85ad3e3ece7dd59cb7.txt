@@ -1,0 +1,1 @@
+Try subtracting the cost of all the cookies from 50 instead of dividing 50 by 7.

@@ -1,0 +1,1 @@
+"Linda tänker på ett tal. Talet är fyrsiffrigt och udda. Entalssiffran är minst. Tusentalssiffran är dubbelt så stor som hundratalssiffran. Siffersumman är 20. \n\nVilket är talet?"

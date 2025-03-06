@@ -1,0 +1,1 @@
+Double-check that you correctly added two glasses of the same price instead of just adding 2.

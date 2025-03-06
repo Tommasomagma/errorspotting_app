@@ -1,0 +1,1 @@
+Remember to perform the addition inside the parentheses before dividing the whole number by 2.

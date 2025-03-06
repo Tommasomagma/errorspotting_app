@@ -1,0 +1,1 @@
+Take a closer look to see if you accidentally subtracted instead of multiplying the daily distance by the number of days in July.

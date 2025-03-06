@@ -1,0 +1,1 @@
+Double-check that you are adding only the 5 ages given and then dividing by 5.

@@ -1,0 +1,1 @@
+Take a closer look at how you set up the equations, especially the part where you add the ages, to ensure they match the problem's description.

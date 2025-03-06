@@ -1,1 +1,0 @@
-Try multiplying the adjusted price by 4 instead of only subtracting 1 once.

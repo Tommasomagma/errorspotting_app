@@ -1,0 +1,1 @@
+Double-check if each match is being counted twice when multiplying by the number of teams.

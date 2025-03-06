@@ -1,0 +1,1 @@
+"Beräkna arean.". Problem image: En rektangulär form med en bit utskjuten till höger. Det finns mått angivna på formens kanter: 7 meter på vänstra sidan, 5 meter på toppen, 4 meter plus 4 meter på högra sidan och 9 meter på botten. En utskjutning nederst på högra sidan visar ytterligare mått: 3 meter på högra sidan och 4 meter på botten av utskjutningen.

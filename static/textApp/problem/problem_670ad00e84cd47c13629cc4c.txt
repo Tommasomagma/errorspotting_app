@@ -1,0 +1,1 @@
+"Vilket tal fattas?\n\n${\\Large\\frac{?}{1\\ 000}} $ $= 87$"

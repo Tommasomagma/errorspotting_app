@@ -1,0 +1,1 @@
+"I en by hette mynten öre, tug och penningar.  Öre var värt mest och penningar var värt minst. Så här mycket var mynten värda:\n\n1 öre $=$ 3 tug\n\n1 tug $=$ 8 penningar\n\nHur många tug fick man för 12 öre?  *Visa hur du löser uppgiften.*"

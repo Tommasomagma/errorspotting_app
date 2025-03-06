@@ -1,0 +1,1 @@
+Perhaps check if the conversion step preserves the value of 1/2 correctly when you multiply both numerator and denominator.

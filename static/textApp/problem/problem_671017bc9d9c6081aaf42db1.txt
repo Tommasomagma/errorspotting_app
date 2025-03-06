@@ -1,0 +1,1 @@
+"I en ladugård finns det höns och grisar. Det finns $73$ djur i ladugården och tillsammans har de $182$ ben. \n\nHur många grisar finns det i ladugården?"

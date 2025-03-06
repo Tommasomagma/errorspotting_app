@@ -1,1 +1,0 @@
-"Ungefär hur mycket är $92 \\cdot 0{,}07$?\n\n**A.** Mycket mindre än $92$.\n\n**B.** Lite mindre än $92$.\n\n**C.** Mycket mer än $92$.\n\n**D.** Lite mer än $92$."

@@ -1,0 +1,1 @@
+"Skriv i kvadratcentimeter.\n\n6 dm$^2$"

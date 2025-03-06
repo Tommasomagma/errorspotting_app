@@ -1,0 +1,1 @@
+"Saja är på marknaden och köper en påse med $10$ mandariner som kostar $54$ rupier.\n\nSajas kompis köper en låda med $100$ mandariner som kostar $475$ rupier. Hur mycket billigare är en mandarin från lådan jämfört med en mandarin från påsen? Svara utan enhet."

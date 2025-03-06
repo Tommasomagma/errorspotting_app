@@ -1,0 +1,1 @@
+Remember to check that you subtract 0.5 correctly from 4 and then add the two weights together.

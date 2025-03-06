@@ -1,1 +1,0 @@
-"Carly purchased $9 \\frac{1}{2}$ pints of ice cream for a party. If each guest will be served exactly $\\frac{3}{5}$ pint of ice cream, what is the greatest number of guests that Carly can serve?\n\nA 5\n\nB 9\n\nC 15\n\nD 16"

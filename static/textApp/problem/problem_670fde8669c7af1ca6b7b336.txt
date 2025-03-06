@@ -1,0 +1,1 @@
+"Liam har $80$ kr. Han köper en tidning för ${\\Large\\frac{3}{4}}$\tav pengarna. \n\nHur stor andel av pengarna har Liam kvar?"

@@ -1,0 +1,1 @@
+It looks like you added 74 to itself instead of dividing it by 2, so check if you used the right operation for finding half.

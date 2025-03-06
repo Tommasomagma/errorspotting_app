@@ -1,0 +1,1 @@
+Check if you are dividing the hand-dug kilometers directly by the total canal length rather than using the number of locks.

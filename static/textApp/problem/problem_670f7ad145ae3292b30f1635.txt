@@ -1,0 +1,1 @@
+"Hur lång är poolens diagonal? Avrunda till hela meter.". Problem image: A rectangle representing a pool with a length of 50 meters and a width of 25 meters. A dashed line represents the diagonal of the rectangle.

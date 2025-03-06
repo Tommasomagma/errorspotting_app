@@ -1,0 +1,1 @@
+"Adela köper två pocketböcker.\n\nDen ena kostar $57$ kr och den andra $82$ kr.\n\nHon betalar med en tvåhundralapp. Hur mycket får hon tillbaka?"

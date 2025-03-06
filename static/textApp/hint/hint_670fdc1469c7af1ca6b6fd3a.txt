@@ -1,0 +1,1 @@
+Take another look at the step where you set x + 0.06 equal to 0.75—did you subtract 0.06 to solve for x?

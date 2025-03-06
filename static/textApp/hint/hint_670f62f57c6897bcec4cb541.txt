@@ -1,0 +1,1 @@
+Make sure you multiply the single pencil's length by the new number of pencils instead of using the total row length directly.

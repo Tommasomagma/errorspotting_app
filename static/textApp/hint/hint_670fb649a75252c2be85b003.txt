@@ -1,0 +1,1 @@
+Check if your subtraction kept the place value of each digit correct, especially the hundreds place.

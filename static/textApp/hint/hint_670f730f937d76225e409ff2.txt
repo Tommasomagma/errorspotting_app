@@ -1,0 +1,1 @@
+Take another look at how you applied the 0,5 factor to make sure your operation correctly follows the problem's instructions.

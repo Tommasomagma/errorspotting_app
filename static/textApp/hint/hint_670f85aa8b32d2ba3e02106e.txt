@@ -1,0 +1,1 @@
+Double-check how you're combining the groups—remember to use multiplication for the number of students in each group instead of just adding the group sizes.

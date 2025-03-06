@@ -1,0 +1,1 @@
+Remember to multiply the cost of each item by the number of items instead of just adding them.

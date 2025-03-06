@@ -1,0 +1,1 @@
+Check your work on placing the decimal point correctly by counting the decimal digits in both numbers.

@@ -1,0 +1,1 @@
+"En bräda är $4{,}2$ m lång. William sågar av en bit som är $1{,}75$ m.\n\nHur lång är den bit som är kvar?"

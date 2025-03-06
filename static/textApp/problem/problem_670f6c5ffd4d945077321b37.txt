@@ -1,0 +1,1 @@
+"Beräkna.\n\n$ 2 \\cdot 8=$". Problem image: Två grupper av cirklar inramade var för sig. Varje grupp representerar en faktor i multiplikationen.

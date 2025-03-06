@@ -1,0 +1,1 @@
+"Beräkna.\n\n$ 2\\cdot{\\Large\\frac{\\sqrt{36}}{\\sqrt{9}}}-\\sqrt{16}= $"

@@ -1,0 +1,1 @@
+"Beräkna värdet av uttrycket om $x = 8$ och $y = 4$.\n\n${\\Large\\frac{x}{y}}+1=$"

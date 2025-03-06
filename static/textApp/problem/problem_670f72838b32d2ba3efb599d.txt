@@ -1,0 +1,1 @@
+"Ett träd har $63$ äpplen. Alma plockar $39$ äpplen från trädet. Hur många äpplen finns det i trädet nu?"

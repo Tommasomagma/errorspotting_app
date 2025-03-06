@@ -1,0 +1,1 @@
+Look closely at how you handle the cent values when adding up the costs and subtracting from the hundred.

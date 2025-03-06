@@ -1,0 +1,1 @@
+"Beräkna och svara i bråkform. \n\n$ {\\Large \\frac{1}{7}} + {\\Large \\frac{6}{7}} =$"

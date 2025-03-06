@@ -1,0 +1,1 @@
+"Malin och Gustav är 23 år sammanlagt. Gustav är ett år äldre än Malin.\n\nHur gammal är Gustav?"

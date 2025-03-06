@@ -1,0 +1,1 @@
+Check if you subtracted the exact numbers given in the problem, especially for the blue pieces.

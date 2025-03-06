@@ -1,1 +1,0 @@
-"Jim köper 4 bollar för 99 kr styck. Hur kan han räkna ut hur mycket pengar han använder? Välj ett alternativ!\n\n$\\hspace{0.37cm}$**A.**$\\; $ $4 \\cdot 100$ och ta bort $1$\n\n$\\hspace{0.37cm}$**B.**$\\; $ $ 4 \\cdot 100$ och ta bort $2$\n\n$\\hspace{0.37cm}$**C.**$\\; $ $ 4 \\cdot 100$ och ta bort $4$\n\n$\\hspace{0.37cm}$**D.**$\\; $ $ 4 \\cdot 100$ och ta bort $8$"

@@ -1,0 +1,1 @@
+Check your division and multiplication steps—in dividing 30 by 40 the result should be less than 1 before you convert it to a percent.

@@ -1,0 +1,1 @@
+It looks like you might have multiplied 500 by 2 instead of dividing 500 by 2; try checking that step again.

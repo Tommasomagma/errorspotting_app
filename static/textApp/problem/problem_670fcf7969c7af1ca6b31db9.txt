@@ -1,0 +1,1 @@
+"Jenny ska sätta upp en taklist. Hennes rum är kvadratiskt och har arean $30$ m$^2$. Hur många meter list behöver hon köpa? Avrunda till hela meter."

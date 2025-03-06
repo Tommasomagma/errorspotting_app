@@ -1,0 +1,1 @@
+"En liksidig triangel och en regelbunden femhörning har lika stor omkrets. Vad är deras omkrets, om triangelns sidlängd är $6$ cm större än femhörningens?"

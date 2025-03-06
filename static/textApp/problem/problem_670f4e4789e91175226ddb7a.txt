@@ -1,0 +1,1 @@
+"En bil kostade $275\\ 000$ kr. Antag att värdet sjunker med $15$ % varje år.  Hur mycket är i så fall bilen värd efter $3$ år? Avrunda till tiotusental kronor."

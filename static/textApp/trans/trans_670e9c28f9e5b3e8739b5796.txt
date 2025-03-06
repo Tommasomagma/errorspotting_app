@@ -1,0 +1,4 @@
+Ali=5,63m
+Beata=5,70m
+Charlie=0,24
+5,46

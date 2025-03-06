@@ -1,0 +1,1 @@
+"Färglägg ${\\Large{\\frac{1}{4}}}$ av rutorna.\n\nHur många rutor behöver färgläggas?"

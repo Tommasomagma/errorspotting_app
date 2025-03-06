@@ -1,0 +1,1 @@
+"Skriv talen i grundpotensform.\n\nfemton tusendelar $=$"

@@ -1,0 +1,1 @@
+"Teckna ett uttryck för det $n$:e talet i talföljden.\n\n$6\\hspace{1cm} 10\\hspace{1cm}  14\\hspace{1cm}  18\\hspace{1cm}  22\\hspace{1cm}  ...$"

@@ -1,0 +1,1 @@
+"En kvadrat har arean 81 m$^2$. \n\nVad är omkretsen?"

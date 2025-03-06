@@ -1,0 +1,1 @@
+"En snögubbe har ett midjemått på 154 cm. Solen smälter snögubben. På två timmar ändras snögubbens midjemått med $-8$ cm. \n\nOm midjemåttet fortsätter minska i samma takt, vad är då snögubbens midjemått efter 7 timmar?". Problem image: En illustration av en snögubbe.

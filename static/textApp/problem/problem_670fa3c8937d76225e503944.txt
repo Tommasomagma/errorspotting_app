@@ -1,0 +1,1 @@
+"På en jordgubbsodling finns det 9 rader med plantor. På varje rad finns 40 plantor. \n\nHur många plantor finns det totalt?". Problem image: Två jordgubbar.

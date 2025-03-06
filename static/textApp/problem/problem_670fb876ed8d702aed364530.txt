@@ -1,0 +1,1 @@
+"Beräkna rektangelns area.". Problem image: Bilden visar en rektangel. Längden på rektangelns ena sida är markerad som 6 cm och bredden på en annan sida är markerad som 3 cm.

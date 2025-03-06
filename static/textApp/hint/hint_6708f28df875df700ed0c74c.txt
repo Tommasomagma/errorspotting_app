@@ -1,0 +1,1 @@
+Double-check that you're multiplying 6 and 7 correctly, as the steps lead to a much bigger number.

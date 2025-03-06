@@ -1,0 +1,1 @@
+It looks like you added and divided the numbers instead of arranging them to find the middle value.

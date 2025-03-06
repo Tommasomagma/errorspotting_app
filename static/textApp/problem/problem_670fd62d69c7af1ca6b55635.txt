@@ -1,0 +1,1 @@
+"Hur stor är vinkeln CAD?". Problem image: Bilden visar en triangel med hörnen A, B och C. En linje går från A till punkten D på linjen BC. En annan linje går från A till punkten E ovanför linjen AC. Vinkeln BAE är markerad som 37 grader och vinkeln DAE är markerad som 32 grader. Vinkeln mellan linjen AC och den horisontella linjen genom A är en rät vinkel.

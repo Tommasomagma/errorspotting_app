@@ -1,0 +1,1 @@
+Perhaps review if you should be multiplying instead of dividing to add together the prices of the three items.

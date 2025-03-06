@@ -1,0 +1,1 @@
+Check if you ordered all the numbers from smallest to largest as the problem asks.

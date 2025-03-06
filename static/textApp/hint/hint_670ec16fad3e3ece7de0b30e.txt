@@ -1,1 +1,0 @@
-Double-check whether an odd denominator really stops you from having a common factor with an even numerator.

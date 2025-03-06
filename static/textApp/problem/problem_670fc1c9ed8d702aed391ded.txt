@@ -1,1 +1,0 @@
-"Välj rätt tecken, $<$ eller $>$.\n\n$3{,}55 + 5\\ \\underline{\\hspace{0.5cm}}\\ 10$"

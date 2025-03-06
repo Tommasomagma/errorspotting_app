@@ -1,0 +1,1 @@
+Check the step where you subtracted 0.2 from Tim's amount—make sure you used that part exactly as described.

@@ -1,0 +1,1 @@
+"Beräkna räntesatsen.\n\nKapital: $200\\ 000$ kr\n\nRänta: $8\\ 000$ kr\n\nTid: $1$ år"

@@ -1,3 +1,0 @@
-y = dollars
-x = pounds of apples
-4.3 = pounds of apples

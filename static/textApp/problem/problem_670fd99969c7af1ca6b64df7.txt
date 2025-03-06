@@ -1,0 +1,1 @@
+"En sträcka är $3{,}5$ cm lång. Hur många millimeter är sträckan?"

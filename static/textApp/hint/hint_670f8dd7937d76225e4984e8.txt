@@ -1,1 +1,0 @@
-Have another look at where you placed the decimal point to make sure it shows 0.06, not 1.06.

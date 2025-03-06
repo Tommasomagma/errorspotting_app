@@ -1,0 +1,1 @@
+"Ljudets hastighet i luft, uttryckt i meter per sekund, kan beräknas med uttrycket $331+0{,}6t$, där $t=$ temperaturen i grader Celsius. \n\nHur stor är ljudets hastighet i m/s vid temperaturen $30\\ \\degree$C? Svara utan enhet."

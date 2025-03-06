@@ -1,0 +1,1 @@
+"Beräkna.\n\n${\\Large\\frac{2}{5}}$ av $650$"

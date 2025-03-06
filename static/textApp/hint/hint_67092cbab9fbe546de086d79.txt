@@ -1,1 +1,0 @@
-Double-check the way you computed the repeated multiplication between x and y, ensuring your steps match the constant ratio described in the table.

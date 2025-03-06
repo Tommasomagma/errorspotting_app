@@ -1,0 +1,1 @@
+"Skriv i bråkform (enklaste form). \n\n$5$ % $=$"

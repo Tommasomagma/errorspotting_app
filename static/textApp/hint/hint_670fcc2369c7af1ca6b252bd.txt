@@ -1,0 +1,1 @@
+Carefully revisit the expansion of (3x+y)(x+3y) to ensure that multiplying y by 3y gives the correct term.

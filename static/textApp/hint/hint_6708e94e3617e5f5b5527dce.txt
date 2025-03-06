@@ -1,0 +1,1 @@
+Check that you reduce the new price by 20% each year instead of using the same base for all decreases.

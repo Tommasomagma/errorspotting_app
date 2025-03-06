@@ -1,3 +1,0 @@
-y = Cost
-x = apples
-y = (4.3x)

@@ -1,0 +1,1 @@
+"Johanna ska läsa ut en bok på två veckor. Hon har delat upp boken i 14 lika stora delar och läser lika mycket varje dag.\n\nHur stor andel har hon läst efter 3 dagar? Svara i bråkform."

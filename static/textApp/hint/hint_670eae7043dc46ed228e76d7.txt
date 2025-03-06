@@ -1,0 +1,1 @@
+Take another look at your division to make sure you are dividing by the potato's weight, not by 34.

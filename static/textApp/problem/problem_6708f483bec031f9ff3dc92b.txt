@@ -1,0 +1,1 @@
+"Beräkna.\n\n$40+5\\cdot 4-{\\Large\\frac{6}{2}}=$"

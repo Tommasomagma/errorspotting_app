@@ -1,0 +1,1 @@
+"Skriv det bråk som saknas.\n\n$1- \\ \\underline{\\hspace{1cm}}=\\large\\frac{3}{4}$"

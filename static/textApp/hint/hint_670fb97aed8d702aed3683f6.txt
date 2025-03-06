@@ -1,0 +1,1 @@
+Check if you divided the numbers and subtracted the exponents separately, instead of combining them into one expression like "2 - 5."

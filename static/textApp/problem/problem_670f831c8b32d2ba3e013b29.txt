@@ -1,0 +1,1 @@
+"Skriv talet utan potens. \n\n$0{,}7^2=$"

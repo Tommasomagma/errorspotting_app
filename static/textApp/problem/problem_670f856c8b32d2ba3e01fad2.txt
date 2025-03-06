@@ -1,0 +1,1 @@
+"I ett lotteri är sannolikheten för vinst $10\\ \\%$. Det finns 450 lotter utan vinst (nitlotter).\n\nHur många lotter finns det sammanlagt i lotteriet? *Visa hur du löser uppgiften.*"

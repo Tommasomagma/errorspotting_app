@@ -1,0 +1,1 @@
+"Johan cyklar varje dag till skolan. Ett läsår räknade Johan ut att han sammanlagt hade cyklat 700 km till och från skolan. Hur långt har Johan till skolan? \n\nRäkna med att skolåret har 40 veckor och att varje vecka har fem skoldagar."

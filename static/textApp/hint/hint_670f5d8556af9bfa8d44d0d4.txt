@@ -1,0 +1,1 @@
+Check that your subtraction kept the decimal points aligned correctly.

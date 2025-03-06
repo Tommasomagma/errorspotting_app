@@ -1,0 +1,1 @@
+Check if you really need to subtract 100 since converting 52/100 should directly give you the decimal.

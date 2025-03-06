@@ -1,1 +1,0 @@
-"Vilken summa är störst? \n\n$\\hspace{0.37cm}$**A**. $ {\\Large \\frac{2}{6}} + {\\Large \\frac{2}{5}}$\n\n$\\hspace{0.37cm}$**B**. $ {\\Large \\frac{5}{13}} + {\\Large \\frac{4}{9}}$\n\n$\\hspace{0.37cm}$**C**. $ {\\Large \\frac{4}{7}} + {\\Large \\frac{2}{3}}$\n\n$\\hspace{0.37cm}$**D**. $ {\\Large \\frac{3}{7}} + {\\Large \\frac{5}{11}}$"

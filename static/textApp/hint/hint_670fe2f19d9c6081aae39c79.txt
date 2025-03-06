@@ -1,0 +1,1 @@
+Try re-examining how you subtracted the removed cans from the original total, ensuring that the fraction you calculated was correctly taken away.

@@ -1,0 +1,1 @@
+Double-check if you’re multiplying Anders' amount by 2 (and then adding it to his own) instead of dividing by 2.

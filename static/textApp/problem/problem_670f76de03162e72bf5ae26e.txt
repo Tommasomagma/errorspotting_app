@@ -1,0 +1,1 @@
+"Beräkna. Förläng bråket så att nämnaren blir ett heltal. \n\n${\\Large \\frac{9}{0{,}1  }}= $"

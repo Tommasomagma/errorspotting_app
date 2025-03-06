@@ -1,1 +1,0 @@
-"Välj rätt tecken $<$, $>$ eller $=$. \n\n${\\Large\\frac{24}{4}}\\ \\underline{\\hspace{0.5cm} }\\  {\\Large\\frac{25}{5}}$"

@@ -1,0 +1,1 @@
+Double-check how you subtract the original value from the new factor—try subtracting 1 instead of 2 from 100.

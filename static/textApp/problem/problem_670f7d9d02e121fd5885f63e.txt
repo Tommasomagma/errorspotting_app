@@ -1,0 +1,1 @@
+"Välj rätt tecken. \n\n$5 \\cdot 8   \\; \\underline{\\hspace{0.5cm}} \\;  4\\cdot 10 $"

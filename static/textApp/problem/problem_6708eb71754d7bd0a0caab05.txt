@@ -1,0 +1,1 @@
+"Anders har plockat $1{,}3$ hg svamp. Stella har plockat dubbelt så mycket som Anders. Hur mycket svamp har de plockat tillsammans?". Problem image: Svampar.

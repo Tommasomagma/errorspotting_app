@@ -1,0 +1,1 @@
+"En dansförening har nio lag. I varje lag finns det $20$ dansare. \n\nHur många dansare har föreningen totalt?". Problem image: En person som dansar.

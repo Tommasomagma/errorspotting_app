@@ -1,1 +1,0 @@
-"Av flickorna i en klass är $20\\ \\%$ vänsterhänta. Även av pojkarna är $20\\ \\%$ vänsterhänta.\n\n”Det betyder att $40\\ \\%$ av eleverna i vår klass är vänsterhänta.”, säger Isak. \n\nHar Isak rätt? Förklara hur du tänker."

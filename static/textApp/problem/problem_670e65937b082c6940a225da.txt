@@ -1,0 +1,1 @@
+"Skriv i decimalform.\n\ntvå hela och en halv."

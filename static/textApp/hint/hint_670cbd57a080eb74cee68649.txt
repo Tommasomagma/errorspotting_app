@@ -1,0 +1,1 @@
+Take a closer look at how you handle a fraction that becomes zero when subtracting—the whole number might stand on its own.

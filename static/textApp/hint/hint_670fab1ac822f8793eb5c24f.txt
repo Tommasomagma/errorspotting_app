@@ -1,0 +1,1 @@
+Remember to use the triangle area formula, which involves multiplying by one-half, instead of just adding the rectangle's dimensions.

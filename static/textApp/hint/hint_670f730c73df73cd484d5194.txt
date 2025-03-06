@@ -1,0 +1,1 @@
+Remember to add all the numbers from 1 to 100 instead of just writing the number 100.

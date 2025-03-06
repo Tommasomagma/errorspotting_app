@@ -1,1 +1,0 @@
-"Vilken enhet passar bäst?\n\nEtt badkar rymmer $200 \\  \\ \\underline{\\hspace{0.5cm}} $.". Problem image: Bilden visar ett badkar fyllt med vatten, vilket antyder en mätning av volym.

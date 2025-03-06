@@ -1,0 +1,1 @@
+"Skriv talet i bråkform.\n\n$0{,}03$"

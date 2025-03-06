@@ -1,0 +1,1 @@
+"I tabellen visas avståndet i kilometer mellan fyra orter.\n\nHur långt är det mellan Enköping och Åmål?"

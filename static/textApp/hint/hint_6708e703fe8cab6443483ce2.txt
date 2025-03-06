@@ -1,0 +1,1 @@
+Check if you used the circle’s touch points to find the square’s side length instead of subtracting the circle’s area.

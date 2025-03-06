@@ -1,0 +1,1 @@
+Check if you used the percentages and the 150 value correctly when breaking down the total number of people.

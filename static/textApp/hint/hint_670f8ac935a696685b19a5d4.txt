@@ -1,0 +1,1 @@
+Double-check how multiplying by 10 shifts the decimal point in 6,5, so you get the proper number.

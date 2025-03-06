@@ -1,0 +1,1 @@
+Make sure you subtracted 0,17 instead of 0,03 when isolating x.

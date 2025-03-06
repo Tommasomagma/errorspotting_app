@@ -1,0 +1,1 @@
+Check if you correctly converted "tre hela och en fjärdedel" into three whole parts plus a quarter instead of computing 13/100.

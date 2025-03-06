@@ -1,0 +1,1 @@
+Remember to subtract the red and blue candies from the total instead of adding them.

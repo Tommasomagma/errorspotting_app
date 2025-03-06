@@ -1,0 +1,1 @@
+Check if you are correctly dividing the number of days by the total parts instead of flipping the numbers.

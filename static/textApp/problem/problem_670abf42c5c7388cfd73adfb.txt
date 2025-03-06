@@ -1,0 +1,1 @@
+"Charlie har plockat jordgubbar. Han kan fylla $5$ burkar som har volymen $\\Large \\frac{3}{4}$ liter och\n$3$ burkar som har volymen $\\Large \\frac{4}{5}$ liter. \n\nHur många liter jordgubbar plockade han?"

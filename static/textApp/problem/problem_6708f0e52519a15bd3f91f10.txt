@@ -1,0 +1,1 @@
+"Beräkna figurens vinkelsumma.". Problem image: Figuren är en rektangel med fyra räta hörn, betecknade med 90 grader. Det finns små kvadratiska utskott vid varje hörn.

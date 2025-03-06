@@ -1,0 +1,1 @@
+Check if every number from your multiplication is written down fully.

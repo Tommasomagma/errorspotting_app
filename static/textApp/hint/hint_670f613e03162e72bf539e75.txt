@@ -1,0 +1,1 @@
+Make sure you multiply both the number of teams and the number of players in each team correctly without skipping any steps.

@@ -1,0 +1,1 @@
+Double-check which number represents the matches played; you might have mistakenly used 32 instead of the intended total.

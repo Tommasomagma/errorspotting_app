@@ -1,0 +1,1 @@
+"Vilka fyra tal nedan är rationella tal?\n\n${\\Large\\frac{7}{10}} \\hspace{1cm}         0{,}67   \\hspace{1cm}        {-9}    \\hspace{1cm}       11     \\hspace{1cm}      π$"

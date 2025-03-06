@@ -1,0 +1,1 @@
+"Skriv talet som fattas.\n\n$100- \\ \\underline{\\hspace{0.5cm}} = 10 $"

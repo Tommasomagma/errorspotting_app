@@ -1,0 +1,1 @@
+"Avrunda termerna till heltal och beräkna med överslagsräkning.\n\n$4{,}68+2{,}18=$"

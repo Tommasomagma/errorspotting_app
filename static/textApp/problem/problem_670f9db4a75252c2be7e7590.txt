@@ -1,0 +1,1 @@
+"Sara hoppar $3{,}15$ m i längdhopp. Elin hoppar $0{,}5$ m längre. \n\nHur långt hoppar Elin?"

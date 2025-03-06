@@ -1,0 +1,1 @@
+"Tolv kompisar köper tillsammans fyra apelsiner. De delar upp apelsinerna så att alla får lika mycket. Hur stor andel av en hel apelsin får varje person?". Problem image: En bild av en hel apelsin med ett blad.

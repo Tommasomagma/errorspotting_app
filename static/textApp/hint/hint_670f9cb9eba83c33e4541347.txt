@@ -1,0 +1,1 @@
+Kontrollera att du använder både kvoten och resten korrekt utan att införa decimaler som inte hör hemma i divisionen.

@@ -1,0 +1,1 @@
+"Beräkna. \n\n${\\Large \\frac{22}{2}} \\cdot 5 - (3 + 2) \\cdot 9 = $"

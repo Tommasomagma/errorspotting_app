@@ -1,0 +1,1 @@
+Double-check that each pair of identical faces is counted twice when computing the total area.

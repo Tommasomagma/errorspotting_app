@@ -1,0 +1,1 @@
+"Beräkna med överslagsräkning.\n\n$71{,}5+28{,}8+42{,}5 \\approx $"

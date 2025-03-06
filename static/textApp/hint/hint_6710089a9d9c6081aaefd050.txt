@@ -1,0 +1,1 @@
+Revisit the step where you canceled the x/2 terms and combined like terms to ensure it reflects the operations shown in the problem.

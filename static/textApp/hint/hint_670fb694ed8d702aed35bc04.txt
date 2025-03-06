@@ -1,0 +1,1 @@
+Double-check if you should be subtracting 15 from 100 or using 15% directly to find the discount in kronor.

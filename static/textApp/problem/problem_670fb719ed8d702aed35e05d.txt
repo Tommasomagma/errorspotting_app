@@ -1,0 +1,1 @@
+"Ett flygplan färdas $500$ km på $2$ timmar. Vilken medelhastighet har flygplanet i km/h? Svara utan enhet.". Problem image: Ett stiliserat flygplan.

@@ -1,0 +1,1 @@
+It looks like you added the number of pets instead of just their weights—try rechecking which numbers represent weights.

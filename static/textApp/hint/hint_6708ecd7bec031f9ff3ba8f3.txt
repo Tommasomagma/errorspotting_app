@@ -1,0 +1,1 @@
+Double-check if each step's numbers match the pattern from the problem before computing your final answer.

@@ -1,0 +1,1 @@
+Review where the numbers 30 and 16 came from since the problem uses 38 games and only requires multiplying by 4.

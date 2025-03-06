@@ -1,0 +1,1 @@
+Count the number of colored parts and simplify that fraction compared to all eight parts.

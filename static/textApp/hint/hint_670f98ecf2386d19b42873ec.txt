@@ -1,0 +1,1 @@
+Try finding a common bottom number for both fractions and add the top numbers to see if the sum is under one.

@@ -1,0 +1,1 @@
+Double-check whether you're using addition with 0.6 multiplied by the temperature, instead of dividing the temperature by 2.

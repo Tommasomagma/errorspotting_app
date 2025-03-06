@@ -1,0 +1,1 @@
+"Vilket tal fattas?\n\n\n\n$70 \\ \\underline{\\hspace{0.5cm}}\\ 7 \\cdot 10$"

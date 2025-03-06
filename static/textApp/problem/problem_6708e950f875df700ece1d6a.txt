@@ -1,0 +1,1 @@
+"Du har talet 29,382954\n\nAvrunda talet till tiondelar."

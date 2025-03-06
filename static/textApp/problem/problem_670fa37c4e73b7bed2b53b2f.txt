@@ -1,1 +1,0 @@
-"Jag tänker på ett tal mellan 1,1 och 1,2. Välj rätt svar och skriv det färdigt. \n\nSvara endast på en av raderna."

@@ -1,0 +1,1 @@
+Try subtracting the used eggs from the total eggs instead of the other way around.

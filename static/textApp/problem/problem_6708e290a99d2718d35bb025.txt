@@ -1,0 +1,1 @@
+"Kim har fått en bok som innehåller $405$ sidor.\n\nHan tänker läsa nio sidor varje dag. \n\nHur många dagar tar det då att läsa ut boken? Svara utan enhet."

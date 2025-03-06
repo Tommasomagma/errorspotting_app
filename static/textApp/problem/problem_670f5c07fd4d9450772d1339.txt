@@ -1,0 +1,1 @@
+"Beräkna omkretsen av ett bildäck med diametern $60$ cm. Avrunda till tiotal centimeter."

@@ -1,0 +1,1 @@
+"FInd the sum.\n\n$\\quad \\large \\frac{1}{3}+\\frac{2}{6}$"

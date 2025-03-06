@@ -1,0 +1,1 @@
+"Vilket tal saknas i talföljden?\n\n$5,\\ \\underline{\\hspace{1cm}},\\ 13,\\ 17$"

@@ -1,0 +1,1 @@
+Check if you might have mixed up dividing and multiplying by 100 when finding the percent of a number.

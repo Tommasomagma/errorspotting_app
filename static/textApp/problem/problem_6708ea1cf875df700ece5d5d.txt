@@ -1,0 +1,1 @@
+"Beräkna rätblockets begränsningsyta.". Problem image: En tredimensionell illustration av ett rätblock. Rätblocket har längden 5 cm, bredden 4 cm och höjden 2 cm.

@@ -1,0 +1,1 @@
+Try multiplying the number of pallets by the number of trays on each pallet.

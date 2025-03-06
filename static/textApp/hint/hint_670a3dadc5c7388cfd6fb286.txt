@@ -1,0 +1,1 @@
+Check if you multiplied the price by the number of items for each person before adding them together.

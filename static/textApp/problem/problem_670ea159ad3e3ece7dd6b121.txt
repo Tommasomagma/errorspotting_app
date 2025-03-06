@@ -1,0 +1,1 @@
+"Astrids påse med potatis väger från början 17 hg. Hon lägger till 5 hg potatis i påsen, men tar sedan bort 3 hg. \n\nHur mycket väger påsen med potatis nu?". Problem image: En bild av två potatisar.

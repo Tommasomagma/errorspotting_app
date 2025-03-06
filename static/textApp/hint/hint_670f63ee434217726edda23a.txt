@@ -1,0 +1,1 @@
+Start by finding the number of pieces left after Mark, then see what half of that number is.

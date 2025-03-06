@@ -1,0 +1,1 @@
+Check if you misread the variable x as a number instead of keeping it as x throughout your steps.

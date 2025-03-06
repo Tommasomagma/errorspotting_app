@@ -1,0 +1,1 @@
+Check that you are dividing the weight eaten by the mammoth's total weight, not the other way around.

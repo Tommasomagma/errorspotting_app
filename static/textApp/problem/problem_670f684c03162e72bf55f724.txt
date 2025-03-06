@@ -1,0 +1,1 @@
+"Rätblocket utgörs av kuber med volymen 1 cm$^3$.\n\nVad är rätblockets volym?". Problem image: Ett rätblock bestående av flera små kuber. Varje kub har en volym av 1 cm^3.

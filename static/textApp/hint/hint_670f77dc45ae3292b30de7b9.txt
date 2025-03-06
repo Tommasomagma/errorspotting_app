@@ -1,0 +1,1 @@
+Double-check the step where you calculate 50% of 50; try dividing 50 by 2 instead of using the other operations.

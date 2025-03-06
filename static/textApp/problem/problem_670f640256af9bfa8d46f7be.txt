@@ -1,0 +1,1 @@
+"Agnes och Zaida ska dela på en vinst. Agnes ska ha ${\\Large \\frac{5}{8}}$ och Zaida resten. \n\nHur mycket får Zaida om hela vinsten är $400$ kr?"

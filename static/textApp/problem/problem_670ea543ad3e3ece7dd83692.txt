@@ -1,0 +1,1 @@
+"Esther, Cornelia, Isak och Noa ska dela lika på ​${\\Large\\frac{3}{4}}$​ av en melon.\n\nHur stor andel av melonen får var och en?"

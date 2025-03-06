@@ -1,0 +1,1 @@
+Check your simplification step to ensure you're dividing by the same number for both numerator and denominator.

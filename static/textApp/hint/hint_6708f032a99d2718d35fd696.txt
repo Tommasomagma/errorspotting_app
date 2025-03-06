@@ -1,0 +1,1 @@
+Remember to check that when you switch from drawing measurements to real area, you square the scale factor.

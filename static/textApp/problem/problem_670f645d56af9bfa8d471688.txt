@@ -1,0 +1,1 @@
+"På en skola finns det 3 klasser med 22 elever i varje klass. \n\nHur många elever går det på skolan totalt?". Problem image: En flicka och en pojke som står bredvid varandra.

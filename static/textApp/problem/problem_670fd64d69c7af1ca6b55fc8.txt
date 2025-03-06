@@ -1,0 +1,1 @@
+"Avståndet mellan två byar är i verkligheten 16 km. \n\nHur långt är det på en karta i skala $1:250\\ 000$? Svara i centimeter."

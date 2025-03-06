@@ -1,0 +1,1 @@
+Take a closer look at how you added and multiplied the sides to find the rectangle's total boundary.

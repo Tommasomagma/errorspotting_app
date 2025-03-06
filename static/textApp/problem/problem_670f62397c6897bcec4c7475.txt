@@ -1,0 +1,1 @@
+"En flaska läsk kostar 8 kr + 1 kr pant.\n\nHur mycket får Alva betala för 6 flaskor?". Problem image: En flaska läsk.

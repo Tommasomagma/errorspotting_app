@@ -1,0 +1,1 @@
+Double-check that when subtracting fractions with the same denominator, you only subtract the top numbers and keep the bottom number the same.

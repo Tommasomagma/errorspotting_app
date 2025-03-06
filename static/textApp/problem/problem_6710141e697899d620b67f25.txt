@@ -1,0 +1,1 @@
+"Beräkna och svara i grundpotensform. \n\n$2\\cdot 10^6\\cdot 7\\cdot 10^2=$"

@@ -1,0 +1,1 @@
+Take a closer look at how you reduced 40/100 to make sure you divided both numbers by the same greatest factor.

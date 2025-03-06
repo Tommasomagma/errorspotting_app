@@ -1,0 +1,1 @@
+Remember to divide the number by 2 when finding its half, so check your division step carefully.

@@ -1,0 +1,7 @@
+$\begin{array}{c|c|c} \times & 90 & 4 \\ \hline 2 & 180 & 8 \\ \hline 0.5 & 45 & 2 \end{array}$
+$\begin{array}{c} 1 \\ 180 \\ +45 \\ \hline 225 \end{array}$
+
+$8+2 = 10$
+$225 + 10 = 235$
+$7410 * 1$
+$7410$

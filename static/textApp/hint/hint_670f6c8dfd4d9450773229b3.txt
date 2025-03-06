@@ -1,0 +1,1 @@
+Dubbelkolla att du räknar så att du får en positiv längd när du drar av längden på den avklippta delen!

@@ -1,0 +1,1 @@
+"Skriv andelen i bråkform och förläng till hundradelar. \n\n$8$ kr av $20$ kr $=$"

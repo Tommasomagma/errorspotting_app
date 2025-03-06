@@ -1,0 +1,1 @@
+Remember to check the method for finding the triangle area, as the calculation there should use half the product of its base and height.

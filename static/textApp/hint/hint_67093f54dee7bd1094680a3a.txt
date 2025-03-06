@@ -1,1 +1,0 @@
-It looks like your calculation shows one speed, so double-check that your final choice matches what you computed.

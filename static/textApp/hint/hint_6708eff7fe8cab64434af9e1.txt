@@ -1,0 +1,1 @@
+Se över om du ska subtrahera den bit du gått från den totala sträckan istället för att multiplicera 0,5 med 4.
