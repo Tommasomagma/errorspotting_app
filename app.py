@@ -2,6 +2,7 @@ from flask import Flask, render_template, request, redirect, url_for
 import os
 import random
 import psycopg2
+from helpers import GBLite2
 
 app = Flask(__name__)
 
@@ -99,7 +100,7 @@ def home():
                 trans_content = "NONE"
                 
             #if 'nan. Problem image' not in problem_content and trans_content != 'X' and ('x' in problem_content or 'ekvation' in problem_content):
-            if 'nan. Problem image' not in problem_content and trans_content != 'X':
+            if 'nan. Problem image' not in problem_content and GBLite2(trans_content) == True:
                 imgFound = True
 
     correct_file = f'correct_{image_id}.txt'  # Replace the image extension with .txt
