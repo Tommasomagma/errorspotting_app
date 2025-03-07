@@ -98,7 +98,7 @@ def home():
             else:
                 trans_content = "NONE"
                 
-            # if 'nan. Problem image' not in problem_content and trans_content != 'X' and ('x' in problem_content or 'ekvation' in problem_content):
+            #if 'nan. Problem image' not in problem_content and trans_content != 'X' and ('x' in problem_content or 'ekvation' in problem_content):
             if 'nan. Problem image' not in problem_content and trans_content != 'X':
                 imgFound = True
 
