@@ -55,10 +55,13 @@ def home():
     with conn.cursor() as cur:
         cur.execute("SELECT imgId FROM main_db")
         existing_ids = [row[0] for row in cur.fetchall()]
-        cur.execute("SELECT imgId FROM main_db")
         for row in cur.fetchall():
             existing_ids.append(row[0])
     conn.close()
+
+    done_count = len(existing_ids)
+    # Count the number of folders in the IMAGE_FOLDER
+    all_count = len([f for f in os.listdir(app.config['IMAGE_FOLDER'])])
 
     # Get a list of all image files in the IMAGE_FOLDER
     image_files = [f for f in os.listdir(app.config['IMAGE_FOLDER'])]
@@ -143,6 +146,8 @@ def home():
     return render_template('index.html', 
                            image_path=url_for('static', filename=f'imagesApp/{image_id}/{selected_image}'), 
                            image_path_ref=url_for('static', filename=f'imagesApp/{image_id}/{ref_image}'), 
+                           done_count = done_count,
+                           all_count = all_count-325,
                            problem_content=problem_content,
                            correct_content=correct_content,
                            answer_content=answer_content,
